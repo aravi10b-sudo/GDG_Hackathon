@@ -1,0 +1,146 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,13,NAGALAND,0,NAGALAND,0,NAGALAND,0,NAGALAND
+1,13,NAGALAND,261,Mon,0,Mon,0,Mon
+2,13,NAGALAND,261,Mon,1744,Naginimora,0,Naginimora
+3,13,NAGALAND,261,Mon,1744,Naginimora,801450,Naginimora (TC)
+4,13,NAGALAND,261,Mon,1745,Tizit,0,Tizit
+5,13,NAGALAND,261,Mon,1746,Hunta,0,Hunta
+6,13,NAGALAND,261,Mon,1747,Shangnyu,0,Shangnyu
+7,13,NAGALAND,261,Mon,1748,Mon Sadar,0,Mon Sadar
+8,13,NAGALAND,261,Mon,1748,Mon Sadar,801451,Mon (TC)
+9,13,NAGALAND,261,Mon,1749,Wakching,0,Wakching
+10,13,NAGALAND,261,Mon,1750,Aboi,0,Aboi
+11,13,NAGALAND,261,Mon,1751,Longshen,0,Longshen
+12,13,NAGALAND,261,Mon,1752,Phomching,0,Phomching
+13,13,NAGALAND,261,Mon,1753,Chen,0,Chen
+14,13,NAGALAND,261,Mon,1754,Angjangyang,0,Angjangyang
+15,13,NAGALAND,261,Mon,1755,Mopong,0,Mopong
+16,13,NAGALAND,261,Mon,1756,Tobu,0,Tobu
+17,13,NAGALAND,261,Mon,1757,Monyakshu,0,Monyakshu
+18,13,NAGALAND,262,Mokokchung,0,Mokokchung,0,Mokokchung
+19,13,NAGALAND,262,Mokokchung,1758,Longchem,0,Longchem
+20,13,NAGALAND,262,Mokokchung,1759,Alongkima,0,Alongkima
+21,13,NAGALAND,262,Mokokchung,1760,Tuli,0,Tuli
+22,13,NAGALAND,262,Mokokchung,1760,Tuli,801452,Tuli (TC)
+23,13,NAGALAND,262,Mokokchung,1761,Changtongya,0,Changtongya
+24,13,NAGALAND,262,Mokokchung,1761,Changtongya,801453,Changtongya (TC)
+25,13,NAGALAND,262,Mokokchung,1762,Chuchuyimlang,0,Chuchuyimlang
+26,13,NAGALAND,262,Mokokchung,1763,Kubolong,0,Kubolong
+27,13,NAGALAND,262,Mokokchung,1764,Mangkolemba,0,Mangkolemba
+28,13,NAGALAND,262,Mokokchung,1765,Merangmen,0,Merangmen
+29,13,NAGALAND,262,Mokokchung,1766,Ongpangkong,0,Ongpangkong
+30,13,NAGALAND,262,Mokokchung,1766,Ongpangkong,801454,Mokokchung (MC)
+31,13,NAGALAND,263,Zunheboto,0,Zunheboto,0,Zunheboto
+32,13,NAGALAND,263,Zunheboto,1767,V.K.,0,V.K.
+33,13,NAGALAND,263,Zunheboto,1768,Akuluto,0,Akuluto
+34,13,NAGALAND,263,Zunheboto,1769,Suruhuto,0,Suruhuto
+35,13,NAGALAND,263,Zunheboto,1770,Asuto,0,Asuto
+36,13,NAGALAND,263,Zunheboto,1771,Aghunato,0,Aghunato
+37,13,NAGALAND,263,Zunheboto,1772,Zunheboto Sadar,0,Zunheboto Sadar
+38,13,NAGALAND,263,Zunheboto,1772,Zunheboto Sadar,801455,Zunheboto (TC)
+39,13,NAGALAND,263,Zunheboto,1773,Atoizu,0,Atoizu
+40,13,NAGALAND,263,Zunheboto,1774,Akuhaito,0,Akuhaito
+41,13,NAGALAND,263,Zunheboto,1775,Pughoboto,0,Pughoboto
+42,13,NAGALAND,263,Zunheboto,1776,Ghathashi,0,Ghathashi
+43,13,NAGALAND,263,Zunheboto,1777,Satakha,0,Satakha
+44,13,NAGALAND,263,Zunheboto,1778,Saptiqa,0,Saptiqa
+45,13,NAGALAND,263,Zunheboto,1779,Satoi,0,Satoi
+46,13,NAGALAND,264,Wokha,0,Wokha,0,Wokha
+47,13,NAGALAND,264,Wokha,1780,Changpang,0,Changpang
+48,13,NAGALAND,264,Wokha,1781,Aitepyong,0,Aitepyong
+49,13,NAGALAND,264,Wokha,1782,Bhandari,0,Bhandari
+50,13,NAGALAND,264,Wokha,1783,Baghty,0,Baghty
+51,13,NAGALAND,264,Wokha,1784,Sungro,0,Sungro
+52,13,NAGALAND,264,Wokha,1785,Sanis,0,Sanis
+53,13,NAGALAND,264,Wokha,1786,Lotsu,0,Lotsu
+54,13,NAGALAND,264,Wokha,1787,Ralan,0,Ralan
+55,13,NAGALAND,264,Wokha,1788,Wozhuro,0,Wozhuro
+56,13,NAGALAND,264,Wokha,1789,Wokha Sadar,0,Wokha Sadar
+57,13,NAGALAND,264,Wokha,1789,Wokha Sadar,801456,Wokha (TC)
+58,13,NAGALAND,264,Wokha,1790,Englan,0,Englan
+59,13,NAGALAND,264,Wokha,1791,Chukitong,0,Chukitong
+60,13,NAGALAND,265,Dimapur ,0,Dimapur ,0,Dimapur 
+61,13,NAGALAND,265,Dimapur ,1792,Niuland,0,Niuland
+62,13,NAGALAND,265,Dimapur ,1793,Aquqhnaqua,0,Aquqhnaqua
+63,13,NAGALAND,265,Dimapur ,1794,Kuhoboto,0,Kuhoboto
+64,13,NAGALAND,265,Dimapur ,1795,Nihokhu,0,Nihokhu
+65,13,NAGALAND,265,Dimapur ,1796,Dimapur Sadar,0,Dimapur Sadar
+66,13,NAGALAND,265,Dimapur ,1796,Dimapur Sadar,801457,Dimapur (MC)
+67,13,NAGALAND,265,Dimapur ,1797,Chumukedima,0,Chumukedima
+68,13,NAGALAND,265,Dimapur ,1797,Chumukedima,801458,Chumukedima (TC)
+69,13,NAGALAND,265,Dimapur ,1798,Dhansiripar,0,Dhansiripar
+70,13,NAGALAND,265,Dimapur ,1799,Medziphema,0,Medziphema
+71,13,NAGALAND,265,Dimapur ,1799,Medziphema,801459,Medziphema (TC)
+72,13,NAGALAND,266,Phek,0,Phek,0,Phek
+73,13,NAGALAND,266,Phek,1800,Sekruzu,0,Sekruzu
+74,13,NAGALAND,266,Phek,1801,Phek Sadar,0,Phek Sadar
+75,13,NAGALAND,266,Phek,1801,Phek Sadar,801460,Phek (TC)
+76,13,NAGALAND,266,Phek,1802,Khuza,0,Khuza
+77,13,NAGALAND,266,Phek,1803,Meluri,0,Meluri
+78,13,NAGALAND,266,Phek,1804,Phor,0,Phor
+79,13,NAGALAND,266,Phek,1805,Phokhungri,0,Phokhungri
+80,13,NAGALAND,266,Phek,1806,Chozuba,0,Chozuba
+81,13,NAGALAND,266,Phek,1807,Chetheba,0,Chetheba
+82,13,NAGALAND,266,Phek,1808,Sakraba,0,Sakraba
+83,13,NAGALAND,266,Phek,1809,Pfutsero,0,Pfutsero
+84,13,NAGALAND,266,Phek,1809,Pfutsero,801461,Pfutsero (TC)
+85,13,NAGALAND,266,Phek,1810,Zuketsa,0,Zuketsa
+86,13,NAGALAND,266,Phek,1811,Khezhakeno,0,Khezhakeno
+87,13,NAGALAND,266,Phek,1812,Chizami,0,Chizami
+88,13,NAGALAND,266,Phek,1813,Razieba,0,Razieba
+89,13,NAGALAND,267,Tuensang,0,Tuensang,0,Tuensang
+90,13,NAGALAND,267,Tuensang,1814,Noksen,0,Noksen
+91,13,NAGALAND,267,Tuensang,1815,Chare,0,Chare
+92,13,NAGALAND,267,Tuensang,1816,Longkhim,0,Longkhim
+93,13,NAGALAND,267,Tuensang,1817,Tuensang Sadar,0,Tuensang Sadar
+94,13,NAGALAND,267,Tuensang,1817,Tuensang Sadar,801462,Tuensang (TC)
+95,13,NAGALAND,267,Tuensang,1818,Ngoungchung,0,Ngoungchung
+96,13,NAGALAND,267,Tuensang,1819,Sangsangnyu,0,Sangsangnyu
+97,13,NAGALAND,267,Tuensang,1820,Sotokur,0,Sotokur
+98,13,NAGALAND,267,Tuensang,1821,Noklak,0,Noklak
+99,13,NAGALAND,267,Tuensang,1822,Chingmei,0,Chingmei
+100,13,NAGALAND,267,Tuensang,1823,Nokhu,0,Nokhu
+101,13,NAGALAND,267,Tuensang,1824,Panso,0,Panso
+102,13,NAGALAND,267,Tuensang,1825,Shamator,0,Shamator
+103,13,NAGALAND,267,Tuensang,1826,Tsurungto,0,Tsurungto
+104,13,NAGALAND,267,Tuensang,1827,Chessore,0,Chessore
+105,13,NAGALAND,267,Tuensang,1828,Mangko,0,Mangko
+106,13,NAGALAND,267,Tuensang,1829,Thonoknyu,0,Thonoknyu
+107,13,NAGALAND,268,Longleng,0,Longleng,0,Longleng
+108,13,NAGALAND,268,Longleng,1830,Tamlu,0,Tamlu
+109,13,NAGALAND,268,Longleng,1831,Namsang,0,Namsang
+110,13,NAGALAND,268,Longleng,1832,Yongnyah,0,Yongnyah
+111,13,NAGALAND,268,Longleng,1833,Longleng,0,Longleng
+112,13,NAGALAND,268,Longleng,1833,Longleng,801463,Longleng (TC)
+113,13,NAGALAND,268,Longleng,1834,Sakshi,0,Sakshi
+114,13,NAGALAND,269,Kiphire,0,Kiphire,0,Kiphire
+115,13,NAGALAND,269,Kiphire,1835,Seyochung,0,Seyochung
+116,13,NAGALAND,269,Kiphire,1836,Amahator,0,Amahator
+117,13,NAGALAND,269,Kiphire,1837,Kiphire Sadar,0,Kiphire Sadar
+118,13,NAGALAND,269,Kiphire,1837,Kiphire Sadar,801464,Kiphire (TC)
+119,13,NAGALAND,269,Kiphire,1838,Kiusam,0,Kiusam
+120,13,NAGALAND,269,Kiphire,1839,Sitimi,0,Sitimi
+121,13,NAGALAND,269,Kiphire,1840,Longmatra,0,Longmatra
+122,13,NAGALAND,269,Kiphire,1841,Pungro,0,Pungro
+123,13,NAGALAND,269,Kiphire,1842,Khongsa,0,Khongsa
+124,13,NAGALAND,270,Kohima,0,Kohima,0,Kohima
+125,13,NAGALAND,270,Kohima,1843,Tseminyu,0,Tseminyu
+126,13,NAGALAND,270,Kohima,1843,Tseminyu,801465,Tseminyu (TC)
+127,13,NAGALAND,270,Kohima,1844,Tsogin,0,Tsogin
+128,13,NAGALAND,270,Kohima,1845,Chiephobozou,0,Chiephobozou
+129,13,NAGALAND,270,Kohima,1846,Botsa,0,Botsa
+130,13,NAGALAND,270,Kohima,1847,Kezocha,0,Kezocha
+131,13,NAGALAND,270,Kohima,1848,Jakhama,0,Jakhama
+132,13,NAGALAND,270,Kohima,1849,Kohima Sadar,0,Kohima Sadar
+133,13,NAGALAND,270,Kohima,1849,Kohima Sadar,801466,Kohima (MC)
+134,13,NAGALAND,270,Kohima,1850,Sechu-Zubza,0,Sechu-Zubza
+135,13,NAGALAND,271,Peren,0,Peren,0,Peren
+136,13,NAGALAND,271,Peren,1851,Pedi (Ngwalwa),0,Pedi (Ngwalwa)
+137,13,NAGALAND,271,Peren,1852,Jalukie,0,Jalukie
+138,13,NAGALAND,271,Peren,1852,Jalukie,801467,Jalukie (TC)
+139,13,NAGALAND,271,Peren,1853,Athibung,0,Athibung
+140,13,NAGALAND,271,Peren,1854,Kebai Khelma,0,Kebai Khelma
+141,13,NAGALAND,271,Peren,1855,Nsong,0,Nsong
+142,13,NAGALAND,271,Peren,1856,Tening,0,Tening
+143,13,NAGALAND,271,Peren,1857,Peren,0,Peren
+144,13,NAGALAND,271,Peren,1857,Peren,801468,Peren (TC)

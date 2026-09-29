@@ -1,0 +1,614 @@
+id,name,name_ta,population,water_deficit_score,road_deficit_score,health_deficit_score,power_deficit_score,overall_deficit_index,citizen_tickets_count,planned_capex_crores,required_capex_crores,alignment_mismatch_pct,lat,lng,top_unaddressed_demand,top_unaddressed_demand_ta
+IN-638,Nicobars,Nicobars,126860,70,65,41,36,27,107,344,393,26,11.6234,92.7265,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-639,North  & Middle Andaman,North  & Middle Andaman,126860,84,25,22,50,60,215,40,229,34,11.6234,92.7265,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-640,South Andaman,South Andaman,126860,74,33,60,40,21,98,486,649,57,11.6234,92.7265,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-532,Adilabad,Adilabad,3677425,37,39,84,74,79,232,73,108,16,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-533,Nizamabad,Nizamabad,3677425,44,63,61,81,70,267,180,104,34,17.385,78.4867,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-534,Karimnagar,Karimnagar,3677425,66,35,60,32,76,107,81,556,61,17.385,78.4867,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-535,Medak,Medak,3677425,81,51,18,47,79,139,108,577,61,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-536,Hyderabad,Hyderabad,3677425,61,16,82,27,38,269,275,500,51,17.385,78.4867,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-537,Rangareddy,Rangareddy,3677425,23,36,66,60,48,205,233,587,47,17.385,78.4867,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-538,Mahbubnagar,Mahbubnagar,3677425,59,84,65,25,29,40,275,583,40,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-539,Nalgonda,Nalgonda,3677425,58,70,71,24,61,201,452,476,28,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-540,Warangal,Warangal,3677425,39,41,67,76,60,132,229,597,62,17.385,78.4867,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-541,Khammam,Khammam,3677425,84,64,16,50,42,252,63,246,40,17.385,78.4867,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-542,Srikakulam,Srikakulam,3677425,40,50,43,77,51,300,71,208,42,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-543,Vizianagaram,Vizianagaram,3677425,25,75,21,62,70,119,397,348,59,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-544,Visakhapatnam,Visakhapatnam,3677425,65,31,75,31,24,213,223,245,14,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-545,East Godavari,East Godavari,3677425,20,15,29,57,31,26,439,587,65,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-546,West Godavari,West Godavari,3677425,78,60,34,44,71,223,446,371,25,17.385,78.4867,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-547,Krishna,Krishna,3677425,70,26,15,36,35,215,272,96,59,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-548,Guntur,Guntur,3677425,45,79,37,82,63,261,156,232,21,17.385,78.4867,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-549,Prakasam,Prakasam,3677425,80,67,69,46,40,206,384,473,31,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-550,Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nellore,3677425,57,35,55,23,36,278,298,259,58,17.385,78.4867,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-551,Y.S.R.,Y.S.R.,3677425,27,59,47,64,79,56,261,187,65,17.385,78.4867,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-552,Kurnool,Kurnool,3677425,28,27,37,65,38,173,368,431,14,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-553,Anantapur,Anantapur,3677425,60,20,35,26,49,87,388,564,17,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-554,Chittoor,Chittoor,3677425,18,18,19,55,20,153,302,540,46,17.385,78.4867,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-245,Tawang,Tawang,86483,32,50,19,69,23,262,94,314,17,27.0844,93.6053,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-246,West Kameng,West Kameng,86483,32,58,70,69,72,232,291,346,31,27.0844,93.6053,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-247,East Kameng,East Kameng,86483,60,26,16,26,78,245,487,366,26,27.0844,93.6053,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-248,Papum Pare,Papum Pare,86483,47,35,30,84,47,289,369,354,61,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-249,Upper Subansiri,Upper Subansiri,86483,16,75,38,53,40,286,219,241,35,27.0844,93.6053,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-250,West Siang,West Siang,86483,73,71,36,39,29,217,113,465,16,27.0844,93.6053,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-251,East Siang,East Siang,86483,41,62,73,78,28,120,264,84,22,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-252,Upper Siang,Upper Siang,86483,51,46,48,17,32,145,199,553,40,27.0844,93.6053,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-253,Changlang,Changlang,86483,62,22,41,28,75,150,444,169,30,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-254,Tirap,Tirap,86483,84,29,15,50,33,199,174,413,29,27.0844,93.6053,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-255,Lower Subansiri,Lower Subansiri,86483,29,59,40,66,64,247,263,575,52,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-256,Kurung Kumey,Kurung Kumey,86483,78,77,24,44,20,289,100,608,8,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-257,Dibang Valley,Dibang Valley,86483,53,30,40,19,24,220,240,555,59,27.0844,93.6053,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-258,Lower Dibang Valley,Lower Dibang Valley,86483,65,76,27,31,79,23,107,455,28,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-259,Lohit,Lohit,86483,15,20,22,52,27,26,331,506,22,27.0844,93.6053,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-260,Anjaw,Anjaw,86483,83,23,44,49,22,195,252,121,59,27.0844,93.6053,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-203,Pashchim Champaran,Pashchim Champaran,2739459,18,47,71,55,39,276,233,240,16,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-204,Purba Champaran,Purba Champaran,2739459,74,80,43,40,35,167,438,305,27,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-205,Sheohar,Sheohar,2739459,23,52,21,60,48,191,466,498,64,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-206,Sitamarhi,Sitamarhi,2739459,23,46,48,60,46,34,376,172,30,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-207,Madhubani,Madhubani,2739459,72,35,25,38,33,283,54,139,41,25.5941,85.1376,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-208,Supaul,Supaul,2739459,65,15,64,31,42,53,227,83,12,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-209,Araria,Araria,2739459,81,79,44,47,79,290,332,582,28,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-210,Kishanganj,Kishanganj,2739459,45,37,65,82,21,204,249,586,61,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-211,Purnia,Purnia,2739459,56,45,33,22,78,167,283,280,13,25.5941,85.1376,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-212,Katihar,Katihar,2739459,33,38,40,70,78,215,60,670,5,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-213,Madhepura,Madhepura,2739459,61,26,54,27,64,142,162,700,6,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-214,Saharsa,Saharsa,2739459,81,73,82,47,60,282,363,667,12,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-215,Darbhanga,Darbhanga,2739459,77,44,35,43,67,109,452,386,54,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-216,Muzaffarpur,Muzaffarpur,2739459,51,46,49,17,79,269,163,215,64,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-217,Gopalganj,Gopalganj,2739459,36,47,17,73,61,49,270,451,23,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-218,Siwan,Siwan,2739459,38,57,70,75,55,253,284,230,48,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-219,Saran,Saran,2739459,80,51,66,46,31,151,268,338,45,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-220,Vaishali,Vaishali,2739459,69,68,57,35,42,65,92,209,28,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-221,Samastipur,Samastipur,2739459,51,85,65,17,52,49,105,190,38,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-222,Begusarai,Begusarai,2739459,72,43,59,38,72,63,235,639,31,25.5941,85.1376,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-223,Khagaria,Khagaria,2739459,64,27,35,30,58,139,453,451,57,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-224,Bhagalpur,Bhagalpur,2739459,52,79,60,18,23,48,206,480,25,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-225,Banka,Banka,2739459,51,54,49,17,31,60,426,451,65,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-226,Munger,Munger,2739459,82,51,16,48,73,280,449,470,13,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-227,Lakhisarai,Lakhisarai,2739459,55,37,20,21,65,249,89,566,6,25.5941,85.1376,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-228,Sheikhpura,Sheikhpura,2739459,18,24,53,55,36,167,123,643,8,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-229,Nalanda,Nalanda,2739459,46,35,80,83,38,62,321,168,23,25.5941,85.1376,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-230,Patna,Patna,2739459,56,23,16,22,73,300,150,252,13,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-231,Bhojpur,Bhojpur,2739459,56,41,43,22,38,220,125,381,13,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-232,Buxar,Buxar,2739459,29,45,30,66,72,276,149,613,30,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-233,Kaimur (Bhabua),Kaimur (Bhabua),2739459,19,47,24,56,55,108,478,536,33,25.5941,85.1376,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-234,Rohtas,Rohtas,2739459,49,50,84,15,51,33,120,101,60,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-235,Aurangabad,Aurangabad,2739459,53,24,20,19,22,73,177,527,6,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-236,Gaya,Gaya,2739459,50,76,70,16,80,205,448,143,47,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-237,Nawada,Nawada,2739459,80,26,34,46,31,50,446,458,36,25.5941,85.1376,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-238,Jamui,Jamui,2739459,48,72,70,85,61,200,307,512,59,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-239,Jehanabad,Jehanabad,2739459,35,83,74,72,69,77,41,351,44,25.5941,85.1376,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-240,Arwal,Arwal,2739459,82,49,76,48,28,94,251,576,49,25.5941,85.1376,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-55,Chandigarh,Chandigarh,1055450,80,77,66,46,20,161,460,353,37,30.7333,76.7794,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-400,Koriya,Koriya,1419178,20,49,18,57,73,207,196,463,9,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-401,Surguja,Surguja,1419178,35,24,29,72,56,154,156,352,43,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-402,Jashpur,Jashpur,1419178,71,34,80,37,79,101,299,419,25,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-403,Raigarh,Raigarh,1419178,74,35,78,40,59,212,354,698,23,21.2514,81.6296,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-404,Korba,Korba,1419178,38,23,25,75,60,53,332,555,13,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-405,Janjgir - Champa,Janjgir - Champa,1419178,20,21,20,57,39,198,280,203,21,21.2514,81.6296,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-406,Bilaspur,Bilaspur,1419178,45,49,65,82,33,211,287,451,30,21.2514,81.6296,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-407,Kabeerdham,Kabeerdham,1419178,35,28,32,72,72,85,230,191,10,21.2514,81.6296,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-408,Rajnandgaon,Rajnandgaon,1419178,32,44,69,69,43,166,363,256,60,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-409,Durg,Durg,1419178,26,77,37,63,57,56,70,196,58,21.2514,81.6296,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-410,Raipur,Raipur,1419178,67,56,21,33,78,149,325,261,58,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-411,Mahasamund,Mahasamund,1419178,22,60,63,59,36,71,321,327,22,21.2514,81.6296,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-412,Dhamtari,Dhamtari,1419178,17,48,59,54,50,267,237,272,45,21.2514,81.6296,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-413,Uttar Bastar Kanker,Uttar Bastar Kanker,1419178,24,26,73,61,59,296,378,414,34,21.2514,81.6296,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-414,Bastar,Bastar,1419178,56,51,44,22,34,142,380,127,52,21.2514,81.6296,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-415,Narayanpur,Narayanpur,1419178,43,50,83,80,47,267,343,120,56,21.2514,81.6296,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-416,Dakshin Bastar Dantewada,Dakshin Bastar Dantewada,1419178,65,23,66,31,64,232,326,532,34,21.2514,81.6296,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-417,Bijapur,Bijapur,1419178,79,61,36,45,47,134,331,226,17,21.2514,81.6296,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-496,Dadra & Nagar Haveli,Dadra & Nagar Haveli,343709,55,61,55,21,79,180,325,536,17,20.2766,73.0169,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-494,Diu,Diu,121624,49,72,30,15,70,69,361,675,55,20.3974,72.8328,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-495,Daman,Daman,121624,47,57,66,84,26,126,299,603,12,20.3974,72.8328,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-90,North West,North West,1865327,22,35,64,59,25,208,50,488,42,28.7041,77.1025,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-91,North,North,1865327,41,54,48,78,79,231,433,215,32,28.7041,77.1025,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-92,North East,North East,1865327,59,28,84,25,25,141,93,119,6,28.7041,77.1025,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-93,East,East,1865327,28,67,25,65,51,219,374,175,7,28.7041,77.1025,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-94,New Delhi,New Delhi,1865327,64,65,59,30,78,266,56,180,43,28.7041,77.1025,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-95,Central,Central,1865327,41,70,38,78,39,293,292,652,16,28.7041,77.1025,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-96,West,West,1865327,62,83,76,28,51,286,331,544,43,28.7041,77.1025,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-97,South West,South West,1865327,27,67,66,64,73,72,98,127,18,28.7041,77.1025,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-98,South,South,1865327,38,61,26,75,26,114,313,440,36,28.7041,77.1025,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-585,North Goa,North Goa,729273,69,60,54,35,21,273,300,247,45,15.4909,73.8278,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-586,South Goa,South Goa,729273,21,21,50,58,40,254,60,273,32,15.4909,73.8278,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-468,Kachchh,Kachchh,2324604,67,68,19,33,76,75,465,583,49,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-469,Banas Kantha,Banas Kantha,2324604,17,20,85,54,63,52,409,262,65,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-470,Patan,Patan,2324604,42,70,62,79,31,222,447,224,46,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-471,Mahesana,Mahesana,2324604,16,83,70,53,36,79,271,626,9,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-472,Sabar Kantha,Sabar Kantha,2324604,19,37,84,56,78,175,451,592,43,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-473,Gandhinagar,Gandhinagar,2324604,70,34,24,36,54,144,439,388,18,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-474,Ahmadabad,Ahmadabad,2324604,33,22,29,70,73,197,149,611,5,23.2156,72.6369,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-475,Surendranagar,Surendranagar,2324604,54,61,68,20,55,206,415,399,53,23.2156,72.6369,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-476,Rajkot,Rajkot,2324604,54,81,43,20,59,96,389,539,27,23.2156,72.6369,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-477,Jamnagar,Jamnagar,2324604,33,38,59,70,71,77,146,83,56,23.2156,72.6369,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-478,Porbandar,Porbandar,2324604,63,37,84,29,50,88,236,627,32,23.2156,72.6369,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-479,Junagadh,Junagadh,2324604,45,43,39,82,50,224,216,632,32,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-480,Amreli,Amreli,2324604,35,57,75,72,20,55,452,439,9,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-481,Bhavnagar,Bhavnagar,2324604,51,28,39,17,22,292,146,354,23,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-482,Anand,Anand,2324604,69,18,82,35,67,21,413,273,59,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-483,Kheda,Kheda,2324604,57,60,31,23,69,40,355,352,16,23.2156,72.6369,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-484,Panch Mahals,Panch Mahals,2324604,54,39,61,20,78,292,202,425,42,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-485,Dohad,Dohad,2324604,28,65,55,65,74,171,283,301,12,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-486,Vadodara,Vadodara,2324604,46,79,78,83,39,107,427,270,20,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-487,Narmada,Narmada,2324604,71,73,38,37,36,124,203,424,21,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-488,Bharuch,Bharuch,2324604,42,40,34,79,38,148,346,538,43,23.2156,72.6369,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-489,The Dangs,The Dangs,2324604,29,84,67,66,33,248,65,289,5,23.2156,72.6369,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-490,Navsari,Navsari,2324604,43,34,30,80,75,106,494,186,6,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-491,Valsad,Valsad,2324604,36,73,54,73,75,77,143,641,27,23.2156,72.6369,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-492,Surat,Surat,2324604,76,68,75,42,41,155,344,390,22,23.2156,72.6369,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-493,Tapi,Tapi,2324604,69,30,28,35,78,272,309,268,14,23.2156,72.6369,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-69,Panchkula,Panchkula,1207212,21,80,57,58,33,50,94,684,14,29.0588,76.0856,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-70,Ambala,Ambala,1207212,52,50,43,18,30,146,490,468,59,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-71,Yamunanagar,Yamunanagar,1207212,78,50,22,44,71,159,466,643,29,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-72,Kurukshetra,Kurukshetra,1207212,17,46,49,54,49,263,464,211,29,29.0588,76.0856,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-73,Kaithal,Kaithal,1207212,48,72,26,85,32,237,459,410,11,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-74,Karnal,Karnal,1207212,64,27,70,30,47,290,372,442,9,29.0588,76.0856,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-75,Panipat,Panipat,1207212,23,46,77,60,64,174,393,446,31,29.0588,76.0856,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-76,Sonipat,Sonipat,1207212,35,61,22,72,61,82,380,481,24,29.0588,76.0856,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-77,Jind,Jind,1207212,78,42,49,44,57,128,469,475,41,29.0588,76.0856,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-78,Fatehabad,Fatehabad,1207212,49,56,65,15,37,85,284,616,48,29.0588,76.0856,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-79,Sirsa,Sirsa,1207212,34,73,81,71,70,42,196,483,18,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-80,Hisar,Hisar,1207212,37,43,22,74,65,80,402,280,58,29.0588,76.0856,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-81,Bhiwani,Bhiwani,1207212,56,59,33,22,80,139,354,260,31,29.0588,76.0856,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-82,Rohtak,Rohtak,1207212,33,28,85,70,65,134,199,316,9,29.0588,76.0856,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-83,Jhajjar,Jhajjar,1207212,78,30,49,44,71,259,235,191,53,29.0588,76.0856,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-84,Mahendragarh,Mahendragarh,1207212,28,51,72,65,59,212,222,92,38,29.0588,76.0856,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-85,Rewari,Rewari,1207212,43,42,58,80,71,236,342,365,56,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-86,Gurgaon,Gurgaon,1207212,36,22,42,73,59,221,455,362,63,29.0588,76.0856,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-87,Mewat,Mewat,1207212,76,52,68,42,56,28,239,430,18,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-88,Faridabad,Faridabad,1207212,70,44,17,36,73,181,357,171,46,29.0588,76.0856,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-89,Palwal,Palwal,1207212,46,81,53,83,74,41,399,104,23,29.0588,76.0856,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-23,Chamba,Chamba,572050,28,25,25,65,75,138,241,430,34,31.1048,77.1734,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-24,Kangra,Kangra,572050,76,54,51,42,74,31,448,189,45,31.1048,77.1734,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-25,Lahul & Spiti,Lahul & Spiti,572050,25,38,66,62,53,250,418,592,31,31.1048,77.1734,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-26,Kullu,Kullu,572050,22,56,18,59,30,24,499,136,9,31.1048,77.1734,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-27,Mandi,Mandi,572050,25,46,65,62,62,239,495,84,5,31.1048,77.1734,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-28,Hamirpur,Hamirpur,572050,66,21,76,32,41,45,430,89,30,31.1048,77.1734,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-29,Una,Una,572050,17,67,58,54,42,188,113,444,45,31.1048,77.1734,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-30,Bilaspur,Bilaspur,572050,39,80,20,76,37,132,325,435,15,31.1048,77.1734,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-31,Solan,Solan,572050,41,19,84,78,46,162,92,255,22,31.1048,77.1734,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-32,Sirmaur,Sirmaur,572050,84,54,76,50,70,144,109,651,25,31.1048,77.1734,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-33,Shimla,Shimla,572050,59,52,63,25,37,285,498,113,57,31.1048,77.1734,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-34,Kinnaur,Kinnaur,572050,52,32,71,18,68,107,489,99,13,31.1048,77.1734,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-1,Kupwara,Kupwara,570059,58,29,41,24,53,251,320,107,40,34.0837,74.7973,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-2,Badgam,Badgam,570059,38,49,18,75,75,124,447,512,26,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-3,Leh(Ladakh),Leh(Ladakh),570059,57,74,56,23,74,163,211,113,60,34.0837,74.7973,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-4,Kargil,Kargil,570059,44,75,71,81,51,90,316,500,47,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-5,Punch,Punch,570059,46,47,52,83,52,175,277,436,20,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-6,Rajouri,Rajouri,570059,25,34,41,62,53,283,365,166,44,34.0837,74.7973,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-7,Kathua,Kathua,570059,32,48,54,69,24,115,96,90,12,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-8,Baramula,Baramula,570059,84,68,32,50,61,52,51,126,7,34.0837,74.7973,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-9,Bandipore,Bandipore,570059,54,69,70,20,46,278,416,212,13,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-10,Srinagar,Srinagar,570059,43,44,40,80,69,283,96,255,31,34.0837,74.7973,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-11,Ganderbal,Ganderbal,570059,30,76,36,67,32,34,369,661,10,34.0837,74.7973,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-12,Pulwama,Pulwama,570059,21,17,77,58,58,200,248,605,60,34.0837,74.7973,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-13,Shupiyan,Shupiyan,570059,51,83,82,17,20,256,326,613,54,34.0837,74.7973,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-14,Anantnag,Anantnag,570059,72,37,24,38,61,79,334,420,23,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-15,Kulgam,Kulgam,570059,79,77,29,45,45,299,245,420,28,34.0837,74.7973,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-16,Doda,Doda,570059,35,24,41,72,77,237,101,507,48,34.0837,74.7973,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-17,Ramban,Ramban,570059,24,68,17,61,47,70,242,323,45,34.0837,74.7973,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-18,Kishtwar,Kishtwar,570059,72,39,52,38,71,283,74,129,57,34.0837,74.7973,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-19,Udhampur,Udhampur,570059,58,70,25,24,51,84,185,580,46,34.0837,74.7973,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-20,Reasi,Reasi,570059,32,52,63,69,74,93,393,694,31,34.0837,74.7973,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-21,Jammu,Jammu,570059,67,50,18,33,70,53,130,195,63,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-22,Samba,Samba,570059,51,83,31,17,64,170,386,479,32,34.0837,74.7973,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-346,Garhwa,Garhwa,1374506,62,71,68,28,39,115,126,118,8,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-347,Chatra,Chatra,1374506,37,57,41,74,27,206,445,299,18,23.3441,85.3096,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-348,Kodarma,Kodarma,1374506,19,57,57,56,59,243,61,496,42,23.3441,85.3096,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-349,Giridih,Giridih,1374506,69,85,63,35,33,293,131,548,45,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-350,Deoghar,Deoghar,1374506,72,57,51,38,70,123,330,205,46,23.3441,85.3096,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-351,Godda,Godda,1374506,65,47,57,31,22,105,498,273,23,23.3441,85.3096,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-352,Sahibganj,Sahibganj,1374506,62,22,33,28,78,291,345,351,33,23.3441,85.3096,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-353,Pakur,Pakur,1374506,66,25,26,32,78,138,355,502,62,23.3441,85.3096,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-354,Dhanbad,Dhanbad,1374506,20,15,28,57,25,144,448,675,58,23.3441,85.3096,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-355,Bokaro,Bokaro,1374506,34,20,18,71,46,42,289,362,14,23.3441,85.3096,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-356,Lohardaga,Lohardaga,1374506,58,70,59,24,32,85,479,466,48,23.3441,85.3096,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-357,Purbi Singhbhum,Purbi Singhbhum,1374506,72,41,77,38,21,103,82,401,48,23.3441,85.3096,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-358,Palamu,Palamu,1374506,53,24,73,19,23,192,44,217,62,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-359,Latehar,Latehar,1374506,54,67,59,20,51,142,128,125,46,23.3441,85.3096,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-360,Hazaribagh,Hazaribagh,1374506,81,33,56,47,27,74,131,349,46,23.3441,85.3096,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-361,Ramgarh,Ramgarh,1374506,45,73,58,82,23,278,73,279,13,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-362,Dumka,Dumka,1374506,26,67,70,63,29,216,244,380,65,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-363,Jamtara,Jamtara,1374506,61,54,56,27,45,282,325,455,43,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-364,Ranchi,Ranchi,1374506,38,45,34,75,65,237,378,325,46,23.3441,85.3096,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-365,Khunti,Khunti,1374506,27,43,85,64,70,138,148,530,42,23.3441,85.3096,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-366,Gumla,Gumla,1374506,48,15,15,85,50,260,270,567,7,23.3441,85.3096,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-367,Simdega,Simdega,1374506,25,54,76,62,36,33,54,375,13,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-368,Pashchimi Singhbhum,Pashchimi Singhbhum,1374506,41,82,76,78,21,54,473,98,40,23.3441,85.3096,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-369,Saraikela-Kharsawan,Saraikela-Kharsawan,1374506,68,44,79,34,78,178,262,144,50,23.3441,85.3096,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-555,Belgaum,Belgaum,2036510,70,85,42,36,63,267,239,98,37,12.9716,77.5946,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-556,Bagalkot,Bagalkot,2036510,50,72,77,16,32,179,190,139,48,12.9716,77.5946,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-557,Bijapur,Bijapur,2036510,80,47,50,46,37,160,300,170,27,12.9716,77.5946,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-558,Bidar,Bidar,2036510,38,45,51,75,63,282,377,657,49,12.9716,77.5946,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-559,Raichur,Raichur,2036510,18,20,28,55,72,42,432,553,34,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-560,Koppal,Koppal,2036510,34,79,27,71,24,74,272,299,48,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-561,Gadag,Gadag,2036510,40,35,24,77,72,27,372,327,27,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-562,Dharwad,Dharwad,2036510,20,63,79,57,64,174,354,422,55,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-563,Uttara Kannada,Uttara Kannada,2036510,65,39,38,31,50,208,406,199,64,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-564,Haveri,Haveri,2036510,16,56,62,53,61,273,116,535,27,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-565,Bellary,Bellary,2036510,72,53,76,38,70,274,95,598,14,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-566,Chitradurga,Chitradurga,2036510,84,68,68,50,79,161,235,340,25,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-567,Davanagere,Davanagere,2036510,51,46,48,17,72,187,411,482,43,12.9716,77.5946,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-568,Shimoga,Shimoga,2036510,76,44,61,42,26,246,279,128,60,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-569,Udupi,Udupi,2036510,22,50,64,59,60,195,239,173,5,12.9716,77.5946,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-570,Chikmagalur,Chikmagalur,2036510,18,32,62,55,41,142,267,621,26,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-571,Tumkur,Tumkur,2036510,59,38,55,25,47,44,44,240,37,12.9716,77.5946,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-572,Bangalore,Bangalore,2036510,22,68,35,59,23,151,197,210,45,12.9716,77.5946,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-573,Mandya,Mandya,2036510,83,27,79,49,49,291,96,147,62,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-574,Hassan,Hassan,2036510,85,52,82,51,73,92,422,524,5,12.9716,77.5946,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-575,Dakshina Kannada,Dakshina Kannada,2036510,18,20,71,55,66,204,341,236,7,12.9716,77.5946,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-576,Kodagu,Kodagu,2036510,47,80,74,84,46,235,184,213,39,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-577,Mysore,Mysore,2036510,80,65,31,46,69,93,386,601,36,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-578,Chamarajanagar,Chamarajanagar,2036510,69,68,65,35,28,72,203,654,30,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-579,Gulbarga,Gulbarga,2036510,81,69,27,47,49,88,178,610,30,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-580,Yadgir,Yadgir,2036510,45,71,49,82,25,259,154,170,34,12.9716,77.5946,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-581,Kolar,Kolar,2036510,44,71,71,81,74,180,279,287,11,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-582,Chikkaballapura,Chikkaballapura,2036510,34,32,19,71,60,299,445,637,13,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-583,Bangalore Rural,Bangalore Rural,2036510,29,59,24,66,53,118,427,643,24,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-584,Ramanagara,Ramanagara,2036510,71,65,65,37,71,222,335,227,49,12.9716,77.5946,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-588,Kasaragod,Kasaragod,2386147,73,21,54,39,79,48,344,127,36,8.5241,76.9366,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-589,Kannur,Kannur,2386147,46,57,33,83,71,152,175,303,36,8.5241,76.9366,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-590,Wayanad,Wayanad,2386147,68,62,78,34,71,171,256,98,16,8.5241,76.9366,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-591,Kozhikode,Kozhikode,2386147,46,51,62,83,80,116,318,164,43,8.5241,76.9366,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-592,Malappuram,Malappuram,2386147,32,72,70,69,23,134,354,359,53,8.5241,76.9366,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-593,Palakkad,Palakkad,2386147,61,20,48,27,68,149,303,96,65,8.5241,76.9366,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-594,Thrissur,Thrissur,2386147,80,26,24,46,30,188,395,223,42,8.5241,76.9366,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-595,Ernakulam,Ernakulam,2386147,74,74,16,40,21,215,389,334,7,8.5241,76.9366,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-596,Idukki,Idukki,2386147,73,51,38,39,65,174,263,165,29,8.5241,76.9366,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-597,Kottayam,Kottayam,2386147,80,34,76,46,26,185,443,463,24,8.5241,76.9366,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-598,Alappuzha,Alappuzha,2386147,17,83,15,54,27,247,430,318,19,8.5241,76.9366,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-599,Pathanamthitta,Pathanamthitta,2386147,25,22,49,62,52,243,451,556,46,8.5241,76.9366,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-600,Kollam,Kollam,2386147,27,20,15,64,61,217,289,679,56,8.5241,76.9366,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-601,Thiruvananthapuram,Thiruvananthapuram,2386147,68,70,34,34,66,33,259,316,12,8.5241,76.9366,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-587,Lakshadweep,Lakshadweep,64473,59,56,46,25,80,197,354,664,7,10.5669,72.642,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-418,Sheopur,Sheopur,1452536,15,58,15,52,48,142,388,676,59,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-419,Morena,Morena,1452536,35,67,84,72,72,254,376,466,26,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-420,Bhind,Bhind,1452536,47,76,57,84,37,188,216,626,39,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-421,Gwalior,Gwalior,1452536,31,68,29,68,69,121,242,279,24,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-422,Datia,Datia,1452536,81,57,36,47,66,47,156,311,8,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-423,Shivpuri,Shivpuri,1452536,50,80,18,16,71,253,98,187,57,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-424,Tikamgarh,Tikamgarh,1452536,65,43,65,31,55,103,267,422,62,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-425,Chhatarpur,Chhatarpur,1452536,84,39,23,50,77,207,188,650,51,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-426,Panna,Panna,1452536,61,38,46,27,47,44,365,180,32,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-427,Sagar,Sagar,1452536,75,84,65,41,29,282,358,661,56,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-428,Damoh,Damoh,1452536,45,18,76,82,35,205,434,507,38,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-429,Satna,Satna,1452536,49,19,19,15,61,162,454,269,15,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-430,Rewa,Rewa,1452536,84,82,84,50,54,224,259,431,22,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-431,Umaria,Umaria,1452536,69,68,28,35,24,83,116,428,6,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-432,Neemuch,Neemuch,1452536,36,57,53,73,43,80,96,216,18,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-433,Mandsaur,Mandsaur,1452536,47,45,75,84,45,41,247,485,32,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-434,Ratlam,Ratlam,1452536,58,64,34,24,61,136,429,312,40,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-435,Ujjain,Ujjain,1452536,40,80,45,77,55,247,80,551,13,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-436,Shajapur,Shajapur,1452536,53,85,81,19,72,68,67,409,39,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-437,Dewas,Dewas,1452536,79,77,45,45,28,230,243,416,30,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-438,Dhar,Dhar,1452536,17,30,85,54,21,97,324,384,24,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-439,Indore,Indore,1452536,15,30,25,61,59,210,136,201,59,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-440,Khargone (West Nimar),Khargone (West Nimar),1452536,42,16,72,79,58,80,302,361,11,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-441,Barwani,Barwani,1452536,20,45,73,57,44,270,185,341,58,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-442,Rajgarh,Rajgarh,1452536,83,19,63,49,20,160,399,565,45,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-443,Vidisha,Vidisha,1452536,17,85,39,54,20,55,449,115,46,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-444,Bhopal,Bhopal,1452536,42,62,79,79,79,25,130,435,25,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-445,Sehore,Sehore,1452536,30,78,53,67,51,66,340,167,42,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-446,Raisen,Raisen,1452536,68,46,41,34,74,108,47,187,16,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-447,Betul,Betul,1452536,47,61,65,84,44,59,150,327,20,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-448,Harda,Harda,1452536,65,37,46,31,43,118,425,579,63,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-449,Hoshangabad,Hoshangabad,1452536,33,28,67,70,27,70,373,486,22,23.2599,77.4126,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-450,Katni,Katni,1452536,82,35,68,48,52,122,139,664,45,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-451,Jabalpur,Jabalpur,1452536,54,77,33,20,29,82,412,199,12,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-452,Narsimhapur,Narsimhapur,1452536,34,46,26,71,29,124,289,400,15,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-453,Dindori,Dindori,1452536,19,81,67,56,40,24,443,245,20,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-454,Mandla,Mandla,1452536,37,33,73,74,76,233,435,603,46,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-455,Chhindwara,Chhindwara,1452536,54,57,26,20,70,188,89,337,18,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-456,Seoni,Seoni,1452536,19,35,50,56,80,62,203,525,31,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-457,Balaghat,Balaghat,1452536,76,50,49,42,49,135,58,407,46,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-458,Guna,Guna,1452536,38,49,63,75,49,270,73,266,10,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-459,Ashoknagar,Ashoknagar,1452536,71,63,55,37,37,221,328,429,12,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-460,Shahdol,Shahdol,1452536,41,48,49,78,43,254,210,592,19,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-461,Anuppur,Anuppur,1452536,21,37,51,58,44,179,78,345,29,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-462,Sidhi,Sidhi,1452536,68,76,49,34,69,150,109,549,39,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-463,Singrauli,Singrauli,1452536,43,34,58,80,36,146,323,171,26,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-464,Jhabua,Jhabua,1452536,71,83,73,37,57,199,390,196,26,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-465,Alirajpur,Alirajpur,1452536,32,84,63,69,72,270,473,369,30,23.2599,77.4126,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-466,Khandwa (East Nimar),Khandwa (East Nimar),1452536,59,68,81,25,53,228,320,425,51,23.2599,77.4126,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-467,Burhanpur,Burhanpur,1452536,82,33,42,48,64,278,160,497,22,23.2599,77.4126,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-497,Nandurbar,Nandurbar,3210695,72,45,42,38,60,158,395,129,5,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-498,Dhule,Dhule,3210695,84,35,69,50,30,129,359,663,19,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-499,Jalgaon,Jalgaon,3210695,54,53,32,20,25,220,290,317,46,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-500,Buldana,Buldana,3210695,56,78,61,22,29,92,364,196,44,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-501,Akola,Akola,3210695,25,42,40,62,70,46,471,262,18,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-502,Washim,Washim,3210695,46,45,26,83,75,118,206,455,34,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-503,Amravati,Amravati,3210695,76,62,22,42,46,260,474,603,18,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-504,Wardha,Wardha,3210695,48,29,15,85,44,292,202,94,8,19.076,72.8777,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-505,Nagpur,Nagpur,3210695,63,41,36,29,25,251,477,431,41,19.076,72.8777,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-506,Bhandara,Bhandara,3210695,69,24,38,35,73,79,345,592,14,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-507,Gondiya,Gondiya,3210695,44,53,17,81,45,78,276,161,40,19.076,72.8777,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-508,Gadchiroli,Gadchiroli,3210695,54,20,80,20,47,135,117,460,48,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-509,Chandrapur,Chandrapur,3210695,32,84,28,69,20,217,126,347,12,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-510,Yavatmal,Yavatmal,3210695,67,56,57,33,70,262,374,124,38,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-511,Nanded,Nanded,3210695,73,69,54,39,66,119,273,367,52,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-512,Hingoli,Hingoli,3210695,36,16,35,73,67,37,436,568,50,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-513,Parbhani,Parbhani,3210695,62,51,17,28,64,178,60,248,39,19.076,72.8777,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-514,Jalna,Jalna,3210695,62,55,51,28,78,264,190,570,51,19.076,72.8777,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-515,Aurangabad,Aurangabad,3210695,73,41,54,39,21,85,473,273,64,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-516,Nashik,Nashik,3210695,58,31,44,24,62,206,237,531,34,19.076,72.8777,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-517,Thane,Thane,3210695,54,81,42,20,71,225,362,110,16,19.076,72.8777,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-518,Mumbai Suburban,Mumbai Suburban,3210695,39,49,23,76,67,222,358,352,34,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-519,Mumbai,Mumbai,3210695,41,34,32,78,45,80,393,644,56,19.076,72.8777,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-520,Raigarh,Raigarh,3210695,39,84,73,76,41,293,138,375,29,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-521,Pune,Pune,3210695,32,48,34,69,25,85,42,656,54,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-522,Ahmadnagar,Ahmadnagar,3210695,33,24,66,70,26,168,233,558,52,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-523,Bid,Bid,3210695,21,82,67,58,63,153,191,594,20,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-524,Latur,Latur,3210695,78,20,60,44,30,115,95,455,46,19.076,72.8777,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-525,Osmanabad,Osmanabad,3210695,75,64,63,41,24,132,263,92,16,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-526,Solapur,Solapur,3210695,38,67,18,75,72,27,397,197,27,19.076,72.8777,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-527,Satara,Satara,3210695,44,65,52,81,72,134,71,678,64,19.076,72.8777,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-528,Ratnagiri,Ratnagiri,3210695,29,69,30,66,80,88,339,512,15,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-529,Sindhudurg,Sindhudurg,3210695,39,19,83,76,79,97,190,355,44,19.076,72.8777,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-530,Kolhapur,Kolhapur,3210695,17,59,40,54,69,243,457,282,27,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-531,Sangli,Sangli,3210695,83,23,46,49,32,157,56,620,44,19.076,72.8777,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-272,Senapati,Senapati,317310,41,17,56,78,29,132,487,628,20,24.817,93.9368,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-273,Tamenglong,Tamenglong,317310,52,79,79,18,72,283,203,699,22,24.817,93.9368,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-274,Churachandpur,Churachandpur,317310,27,30,84,64,29,226,177,508,24,24.817,93.9368,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-275,Bishnupur,Bishnupur,317310,41,40,40,78,64,203,42,324,19,24.817,93.9368,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-276,Thoubal,Thoubal,317310,55,63,20,21,47,54,212,602,32,24.817,93.9368,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-277,Imphal West,Imphal West,317310,45,59,21,82,55,68,267,557,32,24.817,93.9368,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-278,Imphal East,Imphal East,317310,82,43,50,48,55,282,310,188,57,24.817,93.9368,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-279,Ukhrul,Ukhrul,317310,52,56,52,18,55,266,61,174,52,24.817,93.9368,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-280,Chandel,Chandel,317310,79,67,64,45,20,179,92,446,17,24.817,93.9368,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-293,West Garo Hills,West Garo Hills,423841,41,48,76,78,36,114,241,96,5,25.5788,91.8933,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-294,East Garo Hills,East Garo Hills,423841,39,43,21,76,55,251,110,181,28,25.5788,91.8933,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-295,South Garo Hills,South Garo Hills,423841,83,23,47,49,53,82,247,248,19,25.5788,91.8933,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-296,West Khasi Hills,West Khasi Hills,423841,23,38,77,60,45,78,383,472,65,25.5788,91.8933,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-297,Ribhoi,Ribhoi,423841,82,29,40,48,32,101,372,498,35,25.5788,91.8933,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-298,East Khasi Hills,East Khasi Hills,423841,39,27,83,76,64,41,109,524,6,25.5788,91.8933,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-299,Jaintia Hills,Jaintia Hills,423841,47,17,20,84,51,120,478,180,58,25.5788,91.8933,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-281,Mamit,Mamit,137151,43,50,64,80,79,108,96,627,24,23.7271,92.7176,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-282,Kolasib,Kolasib,137151,42,72,53,79,70,70,421,457,18,23.7271,92.7176,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-283,Aizawl,Aizawl,137151,58,56,16,24,48,27,146,425,11,23.7271,92.7176,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-284,Champhai,Champhai,137151,52,54,43,18,69,152,127,104,20,23.7271,92.7176,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-285,Serchhip,Serchhip,137151,35,44,21,72,35,287,114,495,43,23.7271,92.7176,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-286,Lunglei,Lunglei,137151,23,66,22,60,56,166,298,499,56,23.7271,92.7176,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-287,Lawngtlai,Lawngtlai,137151,46,65,36,83,79,194,97,116,12,23.7271,92.7176,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-288,Saiha,Saiha,137151,78,18,76,44,53,70,183,617,23,23.7271,92.7176,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-261,Mon,Mon,179864,30,17,19,67,44,228,47,557,58,25.6751,94.1086,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-262,Mokokchung,Mokokchung,179864,21,55,21,58,53,199,406,296,40,25.6751,94.1086,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-263,Zunheboto,Zunheboto,179864,36,77,53,73,44,128,233,581,65,25.6751,94.1086,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-264,Wokha,Wokha,179864,44,85,63,81,43,185,257,613,22,25.6751,94.1086,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-265,Dimapur,Dimapur,179864,74,43,58,40,73,126,380,156,5,25.6751,94.1086,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-266,Phek,Phek,179864,30,72,36,67,36,41,497,542,25,25.6751,94.1086,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-267,Tuensang,Tuensang,179864,37,69,83,74,27,50,417,538,34,25.6751,94.1086,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-268,Longleng,Longleng,179864,74,57,25,40,55,89,150,658,24,25.6751,94.1086,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-269,Kiphire,Kiphire,179864,65,33,38,31,73,176,142,616,22,25.6751,94.1086,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-270,Kohima,Kohima,179864,79,83,45,45,45,43,280,360,47,25.6751,94.1086,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-271,Peren,Peren,179864,46,35,33,83,20,110,241,138,65,25.6751,94.1086,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-370,Bargarh,Bargarh,1399141,27,67,21,64,71,52,185,224,9,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-371,Jharsuguda,Jharsuguda,1399141,73,69,37,39,29,149,355,286,7,20.2961,85.8245,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-372,Sambalpur,Sambalpur,1399141,47,43,37,84,73,169,436,398,42,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-373,Debagarh,Debagarh,1399141,16,36,54,53,23,286,48,349,61,20.2961,85.8245,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-374,Sundargarh,Sundargarh,1399141,36,71,80,73,71,42,202,480,25,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-375,Kendujhar,Kendujhar,1399141,74,27,42,40,45,99,161,350,7,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-376,Mayurbhanj,Mayurbhanj,1399141,83,53,71,49,33,236,85,167,41,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-377,Baleshwar,Baleshwar,1399141,35,57,76,72,60,58,424,367,33,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-378,Bhadrak,Bhadrak,1399141,50,52,17,16,65,84,114,479,49,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-379,Kendrapara,Kendrapara,1399141,26,85,81,63,72,284,265,384,7,20.2961,85.8245,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-380,Jagatsinghapur,Jagatsinghapur,1399141,45,57,31,82,56,253,386,458,14,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-381,Cuttack,Cuttack,1399141,85,62,35,51,68,83,414,627,57,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-382,Jajapur,Jajapur,1399141,81,73,18,47,52,105,155,124,21,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-383,Dhenkanal,Dhenkanal,1399141,66,33,70,32,29,162,91,303,60,20.2961,85.8245,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-384,Anugul,Anugul,1399141,69,58,65,35,73,122,91,230,45,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-385,Nayagarh,Nayagarh,1399141,59,62,84,25,21,148,453,165,49,20.2961,85.8245,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-386,Khordha,Khordha,1399141,63,47,81,29,72,247,161,621,40,20.2961,85.8245,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-387,Puri,Puri,1399141,15,42,33,52,26,201,244,540,20,20.2961,85.8245,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-388,Ganjam,Ganjam,1399141,33,76,58,70,68,132,145,271,49,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-389,Gajapati,Gajapati,1399141,49,72,21,15,58,81,155,378,20,20.2961,85.8245,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-390,Kandhamal,Kandhamal,1399141,24,62,20,61,43,129,442,158,42,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-391,Baudh,Baudh,1399141,32,58,16,69,48,151,215,302,60,20.2961,85.8245,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-392,Subarnapur,Subarnapur,1399141,77,24,46,43,30,283,131,135,34,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-393,Balangir,Balangir,1399141,62,69,44,28,30,72,86,530,63,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-394,Nuapada,Nuapada,1399141,35,24,38,72,79,32,123,237,13,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-395,Kalahandi,Kalahandi,1399141,64,49,61,30,38,272,258,696,62,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-396,Rayagada,Rayagada,1399141,20,47,70,57,48,61,480,661,27,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-397,Nabarangapur,Nabarangapur,1399141,42,36,51,79,20,105,116,220,22,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-398,Koraput,Koraput,1399141,41,38,30,78,69,232,371,326,60,20.2961,85.8245,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-399,Malkangiri,Malkangiri,1399141,64,23,16,30,60,245,244,517,34,20.2961,85.8245,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-634,Yanam,Yanam,311988,31,64,48,68,72,151,361,645,59,11.9416,79.8083,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-635,Puducherry,Puducherry,311988,62,53,68,28,49,133,165,512,46,11.9416,79.8083,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-636,Mahe,Mahe,311988,38,47,79,75,48,292,489,589,47,11.9416,79.8083,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-637,Karaikal,Karaikal,311988,28,57,80,65,73,52,267,566,33,11.9416,79.8083,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-35,Gurdaspur,Gurdaspur,1387167,54,83,78,20,35,201,467,329,55,30.7333,76.7794,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-36,Kapurthala,Kapurthala,1387167,57,78,63,23,75,259,219,296,63,30.7333,76.7794,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-37,Jalandhar,Jalandhar,1387167,49,60,85,15,48,75,160,230,27,30.7333,76.7794,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-38,Hoshiarpur,Hoshiarpur,1387167,21,41,24,58,29,289,406,662,11,30.7333,76.7794,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-39,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,1387167,72,55,23,38,52,220,130,462,41,30.7333,76.7794,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-40,Fatehgarh Sahib,Fatehgarh Sahib,1387167,29,84,83,66,51,166,68,111,50,30.7333,76.7794,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-41,Ludhiana,Ludhiana,1387167,83,15,46,49,73,261,409,125,38,30.7333,76.7794,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-42,Moga,Moga,1387167,52,85,50,18,76,102,387,127,49,30.7333,76.7794,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-43,Firozpur,Firozpur,1387167,32,32,70,69,41,129,310,590,49,30.7333,76.7794,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-44,Muktsar,Muktsar,1387167,58,31,25,24,41,166,376,691,30,30.7333,76.7794,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-45,Faridkot,Faridkot,1387167,16,83,62,53,73,222,193,130,5,30.7333,76.7794,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-46,Bathinda,Bathinda,1387167,47,27,46,84,57,69,198,124,13,30.7333,76.7794,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-47,Mansa,Mansa,1387167,36,47,45,73,31,202,456,464,12,30.7333,76.7794,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-48,Patiala,Patiala,1387167,47,19,37,84,20,116,431,692,9,30.7333,76.7794,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-49,Amritsar,Amritsar,1387167,66,70,26,32,47,94,452,264,37,30.7333,76.7794,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-50,Tarn Taran,Tarn Taran,1387167,53,85,75,19,73,114,466,143,9,30.7333,76.7794,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-51,Rupnagar,Rupnagar,1387167,71,65,27,37,29,167,203,493,65,30.7333,76.7794,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-52,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,1387167,70,85,42,36,48,179,493,415,18,30.7333,76.7794,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-53,Sangrur,Sangrur,1387167,80,55,34,46,33,266,148,419,63,30.7333,76.7794,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-54,Barnala,Barnala,1387167,38,37,17,75,20,296,200,362,12,30.7333,76.7794,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-99,Ganganagar,Ganganagar,2077225,55,59,48,21,40,70,241,667,43,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-100,Hanumangarh,Hanumangarh,2077225,26,38,71,63,58,212,48,154,60,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-101,Bikaner,Bikaner,2077225,29,47,85,66,46,178,427,106,46,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-102,Churu,Churu,2077225,73,19,62,39,71,53,227,183,13,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-103,Jhunjhunun,Jhunjhunun,2077225,69,32,56,35,32,255,156,154,6,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-104,Alwar,Alwar,2077225,60,28,33,26,77,263,472,134,28,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-105,Bharatpur,Bharatpur,2077225,64,39,44,30,56,123,220,665,31,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-106,Dhaulpur,Dhaulpur,2077225,19,69,42,56,65,227,417,455,61,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-107,Karauli,Karauli,2077225,72,61,67,38,63,88,54,276,57,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-108,Sawai Madhopur,Sawai Madhopur,2077225,41,52,48,78,52,187,256,553,12,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-109,Dausa,Dausa,2077225,61,85,54,27,79,112,358,322,8,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-110,Jaipur,Jaipur,2077225,28,69,43,65,36,265,215,290,38,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-111,Sikar,Sikar,2077225,17,22,24,54,29,138,491,431,48,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-112,Nagaur,Nagaur,2077225,48,39,77,85,76,196,279,574,29,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-113,Jodhpur,Jodhpur,2077225,25,60,49,62,66,42,250,469,16,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-114,Jaisalmer,Jaisalmer,2077225,56,33,26,22,68,179,347,474,13,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-115,Barmer,Barmer,2077225,53,77,28,19,49,114,120,674,37,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-116,Jalor,Jalor,2077225,80,18,42,46,38,29,226,114,38,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-117,Sirohi,Sirohi,2077225,46,29,60,83,34,157,313,456,7,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-118,Pali,Pali,2077225,24,38,35,61,57,51,461,140,63,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-119,Ajmer,Ajmer,2077225,24,26,19,61,46,130,43,306,58,26.9124,75.7873,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-120,Tonk,Tonk,2077225,72,79,52,38,59,187,404,660,22,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-121,Bundi,Bundi,2077225,83,53,18,49,29,227,452,369,39,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-122,Bhilwara,Bhilwara,2077225,84,52,75,50,73,108,150,333,57,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-123,Rajsamand,Rajsamand,2077225,23,64,48,60,67,145,451,318,54,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-124,Dungarpur,Dungarpur,2077225,76,21,76,42,42,179,94,179,11,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-125,Banswara,Banswara,2077225,65,15,83,31,41,290,272,368,5,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-126,Chittaurgarh,Chittaurgarh,2077225,65,33,54,31,22,216,288,542,38,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-127,Kota,Kota,2077225,48,84,27,85,78,126,409,629,25,26.9124,75.7873,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-128,Baran,Baran,2077225,54,47,53,20,63,237,438,684,53,26.9124,75.7873,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-129,Jhalawar,Jhalawar,2077225,41,84,66,78,48,141,386,470,27,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-130,Udaipur,Udaipur,2077225,73,37,65,39,68,300,442,426,13,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-131,Pratapgarh,Pratapgarh,2077225,72,45,52,38,79,293,100,281,13,26.9124,75.7873,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-241,North  District,North  District,152644,76,38,24,42,41,23,392,314,9,27.3389,88.6065,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-242,West District,West District,152644,72,18,34,38,65,217,484,456,26,27.3389,88.6065,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-243,South District,South District,152644,15,78,41,52,48,254,438,604,10,27.3389,88.6065,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-244,East District,East District,152644,85,44,38,51,25,20,477,672,9,27.3389,88.6065,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-602,Thiruvallur,திருவள்ளூர்,2254595,74,39,40,40,71,239,50,364,56,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-603,Chennai,சென்னை,2254595,78,81,32,44,54,86,430,691,21,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-604,Kancheepuram,காஞ்சிபுரம்,2254595,40,64,51,77,20,197,433,149,13,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-605,Vellore,வேலூர்,2254595,41,50,20,78,70,134,461,129,51,13.0827,80.2707,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-606,Tiruvannamalai,திருவண்ணாமலை,2254595,35,28,29,72,31,62,104,150,49,13.0827,80.2707,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-607,Viluppuram,விழுப்புரம்,2254595,42,22,42,79,28,63,175,195,8,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-608,Salem,சேலம்,2254595,72,43,50,38,57,195,381,213,6,13.0827,80.2707,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-609,Namakkal,நாமக்கல்,2254595,38,21,70,75,66,158,433,214,48,13.0827,80.2707,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-610,Erode,ஈரோடு,2254595,85,84,38,51,45,253,447,607,60,13.0827,80.2707,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-611,The Nilgiris,நீலகிரி,2254595,71,51,63,37,70,267,56,633,37,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-612,Dindigul,திண்டுக்கல்,2254595,50,70,17,16,54,216,157,317,62,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-613,Karur,கரூர்,2254595,39,21,47,76,47,282,167,86,36,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-614,Tiruchirappalli,திருச்சிராப்பள்ளி,2254595,42,58,61,79,30,196,210,493,9,13.0827,80.2707,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-615,Perambalur,பெரம்பலூர்,2254595,23,82,50,60,63,57,162,106,62,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-616,Ariyalur,அரியலூர்,2254595,51,34,39,17,67,55,74,363,27,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-617,Cuddalore,Cuddalore,2254595,47,57,58,84,80,263,224,303,27,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-618,Nagapattinam,நாகப்பட்டினம்,2254595,83,49,26,49,68,131,490,204,41,13.0827,80.2707,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-619,Thiruvarur,Thiruvarur,2254595,77,46,63,43,48,231,143,215,27,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-620,Thanjavur,தஞ்சாவூர்,2254595,61,18,29,27,79,93,414,292,13,13.0827,80.2707,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-621,Pudukkottai,புதுக்கோட்டை,2254595,54,71,51,20,29,115,378,353,43,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-622,Sivaganga,சிவகங்கை,2254595,64,77,51,30,73,135,367,204,30,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-623,Madurai,மதுரை,2254595,56,55,69,22,29,284,222,444,57,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-624,Theni,தேனி,2254595,37,33,30,74,26,111,69,644,21,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-625,Virudhunagar,விருதுநகர்,2254595,79,69,37,45,62,20,285,115,46,13.0827,80.2707,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-626,Ramanathapuram,இராமநாதபுரம்,2254595,30,21,62,67,46,228,53,440,43,13.0827,80.2707,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-627,Thoothukkudi,தூத்துக்குடி,2254595,38,55,52,75,52,102,68,372,61,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-628,Tirunelveli,திருநெல்வேலி,2254595,54,75,52,20,50,98,466,260,64,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-629,Kanniyakumari,கன்னியாகுமரி,2254595,58,29,71,24,54,276,154,383,59,13.0827,80.2707,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-630,Dharmapuri,தர்மபுரி,2254595,39,43,32,76,20,76,429,314,49,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-631,Krishnagiri,கிருஷ்ணகிரி,2254595,60,60,51,26,44,264,319,647,13,13.0827,80.2707,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-632,Coimbatore,கோயம்புத்தூர்,2254595,25,73,75,62,47,243,309,334,28,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-633,Tiruppur,திருப்பூர்,2254595,68,76,24,34,70,272,251,196,62,13.0827,80.2707,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-289,West Tripura,West Tripura,918479,80,30,66,46,50,79,215,262,25,23.8315,91.2868,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-290,South Tripura,South Tripura,918479,47,33,66,84,52,29,419,258,24,23.8315,91.2868,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-291,Dhalai,Dhalai,918479,60,26,42,26,40,152,412,611,15,23.8315,91.2868,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-292,North Tripura,North Tripura,918479,75,60,80,41,36,231,236,310,34,23.8315,91.2868,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-56,Uttarkashi,Uttarkashi,775869,77,66,72,43,39,281,45,565,29,30.3165,78.0322,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-57,Chamoli,Chamoli,775869,15,68,57,52,69,181,360,287,51,30.3165,78.0322,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-58,Rudraprayag,Rudraprayag,775869,72,37,31,38,44,93,328,207,61,30.3165,78.0322,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-59,Tehri Garhwal,Tehri Garhwal,775869,79,18,35,45,34,99,172,390,36,30.3165,78.0322,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-60,Dehradun,Dehradun,775869,55,49,29,21,35,208,274,347,15,30.3165,78.0322,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-61,Garhwal,Garhwal,775869,45,81,22,82,33,70,272,465,41,30.3165,78.0322,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-62,Pithoragarh,Pithoragarh,775869,44,42,26,81,72,226,109,261,51,30.3165,78.0322,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-63,Bageshwar,Bageshwar,775869,34,60,45,71,57,214,418,291,22,30.3165,78.0322,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-64,Almora,Almora,775869,84,76,51,50,62,219,467,447,34,30.3165,78.0322,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-65,Champawat,Champawat,775869,35,71,85,72,71,262,423,584,45,30.3165,78.0322,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-66,Nainital,Nainital,775869,37,51,57,74,27,106,114,276,51,30.3165,78.0322,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-67,Udham Singh Nagar,Udham Singh Nagar,775869,59,15,22,25,34,288,402,472,24,30.3165,78.0322,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-68,Haridwar,Haridwar,775869,83,19,62,49,53,141,481,639,65,30.3165,78.0322,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-132,Saharanpur,Saharanpur,2814258,45,67,73,82,23,294,298,109,33,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-133,Muzaffarnagar,Muzaffarnagar,2814258,16,64,17,53,36,66,269,512,53,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-134,Bijnor,Bijnor,2814258,85,66,17,51,46,70,351,235,30,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-135,Moradabad,Moradabad,2814258,38,59,63,75,31,154,391,171,17,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-136,Rampur,Rampur,2814258,76,48,33,42,33,150,207,562,30,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-137,Jyotiba Phule Nagar,Jyotiba Phule Nagar,2814258,25,22,65,62,60,241,74,561,37,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-138,Meerut,Meerut,2814258,72,59,24,38,56,134,297,580,14,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-139,Baghpat,Baghpat,2814258,29,57,67,66,41,186,324,365,37,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-140,Ghaziabad,Ghaziabad,2814258,73,63,83,39,76,121,81,387,36,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-141,Gautam Buddha Nagar,Gautam Buddha Nagar,2814258,30,45,78,67,54,136,295,152,43,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-142,Bulandshahr,Bulandshahr,2814258,72,75,79,38,40,136,209,198,28,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-143,Aligarh,Aligarh,2814258,39,68,84,76,80,200,252,125,27,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-144,Mahamaya Nagar,Mahamaya Nagar,2814258,54,75,60,20,65,96,393,275,38,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-145,Mathura,Mathura,2814258,25,46,40,62,52,56,255,650,12,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-146,Agra,Agra,2814258,74,23,23,40,24,128,94,166,51,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-147,Firozabad,Firozabad,2814258,80,73,50,46,76,177,420,461,65,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-148,Mainpuri,Mainpuri,2814258,39,39,40,76,75,77,274,123,39,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-149,Budaun,Budaun,2814258,33,54,65,70,39,46,332,161,36,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-150,Bareilly,Bareilly,2814258,36,69,78,73,55,25,78,402,44,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-151,Pilibhit,Pilibhit,2814258,67,70,30,33,73,43,314,262,37,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-152,Shahjahanpur,Shahjahanpur,2814258,70,75,60,36,52,219,449,698,49,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-153,Kheri,Kheri,2814258,81,69,73,47,73,58,75,481,29,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-154,Sitapur,Sitapur,2814258,70,18,17,36,47,100,59,599,45,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-155,Hardoi,Hardoi,2814258,78,18,51,44,35,252,399,521,31,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-156,Unnao,Unnao,2814258,59,68,47,25,76,99,50,343,57,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-157,Lucknow,Lucknow,2814258,69,26,38,35,73,95,432,394,54,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-158,Rae Bareli,Rae Bareli,2814258,32,80,43,69,69,108,127,664,59,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-159,Farrukhabad,Farrukhabad,2814258,28,35,72,65,71,34,496,286,20,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-160,Kannauj,Kannauj,2814258,85,38,53,51,61,243,327,302,31,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-161,Etawah,Etawah,2814258,45,45,65,82,59,191,323,102,46,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-162,Auraiya,Auraiya,2814258,47,78,48,84,21,105,128,534,28,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-163,Kanpur Dehat,Kanpur Dehat,2814258,77,54,44,43,30,287,111,626,51,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-164,Kanpur Nagar,Kanpur Nagar,2814258,40,80,16,77,27,291,223,406,43,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-165,Jalaun,Jalaun,2814258,38,25,19,75,33,128,72,548,34,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-166,Jhansi,Jhansi,2814258,22,52,46,59,24,244,165,548,64,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-167,Lalitpur,Lalitpur,2814258,71,61,38,37,39,78,384,246,53,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-168,Hamirpur,Hamirpur,2814258,64,29,44,30,54,210,173,556,13,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-169,Mahoba,Mahoba,2814258,25,20,15,62,69,89,304,467,59,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-170,Banda,Banda,2814258,21,53,41,58,61,163,461,575,7,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-171,Chitrakoot,Chitrakoot,2814258,76,66,50,42,49,62,423,95,30,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-172,Fatehpur,Fatehpur,2814258,16,64,18,53,49,300,432,381,25,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-173,Pratapgarh,Pratapgarh,2814258,25,60,58,62,36,86,67,392,42,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-174,Kaushambi,Kaushambi,2814258,47,43,48,84,75,163,195,531,35,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-175,Allahabad,Allahabad,2814258,40,64,53,77,39,288,367,680,49,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-176,Bara Banki,Bara Banki,2814258,71,55,64,37,62,227,75,385,10,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-177,Faizabad,Faizabad,2814258,50,38,26,16,61,52,81,280,56,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-178,Ambedkar Nagar,Ambedkar Nagar,2814258,29,35,57,66,25,154,366,141,30,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-179,Sultanpur,Sultanpur,2814258,31,31,40,68,62,131,107,215,51,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-180,Bahraich,Bahraich,2814258,40,72,52,77,34,82,240,97,57,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-181,Shrawasti,Shrawasti,2814258,82,65,75,48,25,277,292,631,37,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-182,Balrampur,Balrampur,2814258,47,43,67,84,80,157,299,522,6,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-183,Gonda,Gonda,2814258,18,65,55,55,21,41,376,171,23,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-184,Siddharthnagar,Siddharthnagar,2814258,48,80,69,85,78,123,126,143,5,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-185,Basti,Basti,2814258,85,15,71,51,43,272,218,418,34,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-186,Sant Kabir Nagar,Sant Kabir Nagar,2814258,81,83,53,47,73,223,493,238,18,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-187,Mahrajganj,Mahrajganj,2814258,76,21,42,42,50,161,128,467,57,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-188,Gorakhpur,Gorakhpur,2814258,53,83,74,19,59,215,459,215,50,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-189,Kushinagar,Kushinagar,2814258,66,35,35,32,54,74,146,438,5,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-190,Deoria,Deoria,2814258,47,80,39,84,49,246,478,321,13,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-191,Azamgarh,Azamgarh,2814258,71,85,71,37,70,166,385,437,25,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-192,Mau,Mau,2814258,30,21,63,67,50,110,492,122,37,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-193,Ballia,Ballia,2814258,64,63,43,30,78,228,414,419,63,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-194,Jaunpur,Jaunpur,2814258,31,76,75,68,21,165,91,325,56,26.8467,80.9462,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-195,Ghazipur,Ghazipur,2814258,25,28,23,62,44,262,339,520,61,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-196,Chandauli,Chandauli,2814258,17,42,57,54,57,59,399,585,17,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-197,Varanasi,Varanasi,2814258,83,21,81,49,21,35,298,555,11,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-198,Sant Ravidas Nagar (Bhadohi),Sant Ravidas Nagar (Bhadohi),2814258,85,44,64,51,38,219,194,372,22,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-199,Mirzapur,Mirzapur,2814258,51,54,84,17,63,129,308,572,60,26.8467,80.9462,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-200,Sonbhadra,Sonbhadra,2814258,49,23,19,15,60,40,371,572,45,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-201,Etah,Etah,2814258,18,55,26,55,48,152,470,386,31,26.8467,80.9462,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-202,Kanshiram Nagar,Kanshiram Nagar,2814258,19,79,77,56,61,67,51,694,56,26.8467,80.9462,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-327,Darjiling,Darjiling,4804006,76,68,77,42,70,300,259,90,62,22.5726,88.3639,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-328,Jalpaiguri,Jalpaiguri,4804006,85,72,45,51,70,267,270,376,38,22.5726,88.3639,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-329,Koch Bihar,Koch Bihar,4804006,70,73,79,36,43,32,316,611,26,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-330,Uttar Dinajpur,Uttar Dinajpur,4804006,43,46,66,80,45,182,204,694,16,22.5726,88.3639,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-331,Dakshin Dinajpur,Dakshin Dinajpur,4804006,61,85,56,27,34,57,116,426,61,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-332,Maldah,Maldah,4804006,46,37,36,83,78,227,125,262,5,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-333,Murshidabad,Murshidabad,4804006,53,63,19,19,35,270,327,656,31,22.5726,88.3639,Rural drinking water pipeline coverage,ஊரக குடிநீர்க் குழாய் வசதி பற்றாக்குறை
+IN-334,Birbhum,Birbhum,4804006,71,75,48,37,20,44,482,436,33,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-335,Barddhaman,Barddhaman,4804006,52,18,16,18,43,279,134,685,31,22.5726,88.3639,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-336,Nadia,Nadia,4804006,21,35,76,58,21,129,217,370,28,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-337,North Twenty Four Parganas,North Twenty Four Parganas,4804006,47,82,75,84,40,185,75,588,36,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-338,Hugli,Hugli,4804006,39,84,67,76,69,23,397,512,27,22.5726,88.3639,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-339,Bankura,Bankura,4804006,58,48,61,24,74,139,129,586,57,22.5726,88.3639,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-340,Puruliya,Puruliya,4804006,68,46,24,34,75,206,148,629,35,22.5726,88.3639,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-341,Haora,Haora,4804006,63,81,75,29,78,102,245,543,29,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-342,Kolkata,Kolkata,4804006,22,27,64,59,76,211,116,482,58,22.5726,88.3639,Rural and inter-district road connectivity,ஊரக மற்றும் மாவட்டங்களுக்கிடையேயான சாலை இணைப்பு பற்றாக்குறை
+IN-343,South Twenty Four Parganas,South Twenty Four Parganas,4804006,46,37,71,83,20,212,92,111,53,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை
+IN-344,Paschim Medinipur,Paschim Medinipur,4804006,54,75,51,20,64,38,229,343,23,22.5726,88.3639,Primary healthcare facility access,ஆரம்ப சுகாதார நிலைய அணுகல் பற்றாக்குறை
+IN-345,Purba Medinipur,Purba Medinipur,4804006,65,61,75,31,42,91,460,646,65,22.5726,88.3639,Power feeder and distribution reliability,மின் விநியோக நம்பகத்தன்மை பற்றாக்குறை

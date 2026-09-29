@@ -1,0 +1,261 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,3,PUNJAB,0,PUNJAB,0,PUNJAB,0,PUNJAB
+1,3,PUNJAB,35,Gurdaspur,0,Gurdaspur,0,Gurdaspur
+2,3,PUNJAB,35,Gurdaspur,200,Dhar Kalan,0,Dhar Kalan
+3,3,PUNJAB,35,Gurdaspur,201,Pathankot       ,0,Pathankot       
+4,3,PUNJAB,35,Gurdaspur,201,Pathankot       ,800143,Sujanpur (M Cl)
+5,3,PUNJAB,35,Gurdaspur,201,Pathankot       ,800144,Pathankot (M Cl + OG)
+6,3,PUNJAB,35,Gurdaspur,201,Pathankot       ,800144,Pathankot (M Cl)
+7,3,PUNJAB,35,Gurdaspur,202,Gurdaspur ,0,Gurdaspur 
+8,3,PUNJAB,35,Gurdaspur,202,Gurdaspur ,800145,Dina Nagar (M Cl)
+9,3,PUNJAB,35,Gurdaspur,202,Gurdaspur ,800146,Gurdaspur (M Cl + OG)
+10,3,PUNJAB,35,Gurdaspur,202,Gurdaspur ,800146,Gurdaspur (M Cl)
+11,3,PUNJAB,35,Gurdaspur,202,Gurdaspur ,800147,Dhariwal (M Cl)
+12,3,PUNJAB,35,Gurdaspur,203,Batala ,0,Batala 
+13,3,PUNJAB,35,Gurdaspur,203,Batala ,800148,Fatehgarh Churian (M Cl)
+14,3,PUNJAB,35,Gurdaspur,203,Batala ,800149,Batala (M Cl + OG)
+15,3,PUNJAB,35,Gurdaspur,203,Batala ,800149,Batala (M Cl)
+16,3,PUNJAB,35,Gurdaspur,203,Batala ,800150,Qadian (M Cl + OG)
+17,3,PUNJAB,35,Gurdaspur,203,Batala ,800150,Qadian (M Cl)
+18,3,PUNJAB,35,Gurdaspur,203,Batala ,800151,Sri Hargobindpur (M Cl)
+19,3,PUNJAB,35,Gurdaspur,204,Dera Baba Nanak  ,0,Dera Baba Nanak  
+20,3,PUNJAB,35,Gurdaspur,204,Dera Baba Nanak  ,800152,Dera Baba Nanak (M Cl)
+21,3,PUNJAB,36,Kapurthala ,0,Kapurthala ,0,Kapurthala 
+22,3,PUNJAB,36,Kapurthala ,205,Bhulath,0,Bhulath
+23,3,PUNJAB,36,Kapurthala ,205,Bhulath,800153,Bhulath (NP)
+24,3,PUNJAB,36,Kapurthala ,205,Bhulath,800154,Begowal (NP)
+25,3,PUNJAB,36,Kapurthala ,206,Kapurthala ,0,Kapurthala 
+26,3,PUNJAB,36,Kapurthala ,206,Kapurthala ,800155,Kapurthala (M Cl)
+27,3,PUNJAB,36,Kapurthala ,206,Kapurthala ,800156,Dhilwan (NP)
+28,3,PUNJAB,36,Kapurthala ,207,Sultanpur Lodhi ,0,Sultanpur Lodhi 
+29,3,PUNJAB,36,Kapurthala ,207,Sultanpur Lodhi ,800157,Sultanpur (M Cl)
+30,3,PUNJAB,36,Kapurthala ,208,Phagwara ,0,Phagwara 
+31,3,PUNJAB,36,Kapurthala ,208,Phagwara ,800158,Phagwara (M Cl)
+32,3,PUNJAB,37,Jalandhar,0,Jalandhar,0,Jalandhar
+33,3,PUNJAB,37,Jalandhar,209,Shahkot,0,Shahkot
+34,3,PUNJAB,37,Jalandhar,209,Shahkot,800159,Lohian Khass (NP)
+35,3,PUNJAB,37,Jalandhar,209,Shahkot,800160,Shahkot (NP)
+36,3,PUNJAB,37,Jalandhar,210,Nakodar,0,Nakodar
+37,3,PUNJAB,37,Jalandhar,210,Nakodar,800161,Nakodar (M Cl)
+38,3,PUNJAB,37,Jalandhar,211,Phillaur,0,Phillaur
+39,3,PUNJAB,37,Jalandhar,211,Phillaur,800162,Goraya (NP)
+40,3,PUNJAB,37,Jalandhar,211,Phillaur,800163,Phillaur (M Cl)
+41,3,PUNJAB,37,Jalandhar,211,Phillaur,800164,Nurmahal (M Cl)
+42,3,PUNJAB,37,Jalandhar,212,Jalandhar - I,0,Jalandhar - I
+43,3,PUNJAB,37,Jalandhar,212,Jalandhar - I,800165,Jalandhar Cantt. (CB)
+44,3,PUNJAB,37,Jalandhar,0,Jalandhar,800166,Jalandhar (M Corp. + OG)
+45,3,PUNJAB,37,Jalandhar,212,Jalandhar - I,800166,Jalandhar (M Corp. + OG) (Part)
+46,3,PUNJAB,37,Jalandhar,212,Jalandhar - I,800167,Alawalpur (M Cl)
+47,3,PUNJAB,37,Jalandhar,212,Jalandhar - I,800168,Adampur (M Cl)
+48,3,PUNJAB,37,Jalandhar,213,Jalandhar - II,0,Jalandhar - II
+49,3,PUNJAB,37,Jalandhar,213,Jalandhar - II,800166,Jalandhar (M Corp. + OG) (Part)
+50,3,PUNJAB,37,Jalandhar,213,Jalandhar - II,800169,Kartarpur (M Cl)
+51,3,PUNJAB,37,Jalandhar,213,Jalandhar - II,800170,Bhogpur (NP)
+52,3,PUNJAB,38,Hoshiarpur,0,Hoshiarpur,0,Hoshiarpur
+53,3,PUNJAB,38,Hoshiarpur,214,Dasua,0,Dasua
+54,3,PUNJAB,38,Hoshiarpur,214,Dasua,800171,Urmar Tanda (M Cl)
+55,3,PUNJAB,38,Hoshiarpur,214,Dasua,800172,Dasua (M Cl)
+56,3,PUNJAB,38,Hoshiarpur,214,Dasua,800173,Gardhiwala (M Cl)
+57,3,PUNJAB,38,Hoshiarpur,215,Mukerian ,0,Mukerian 
+58,3,PUNJAB,38,Hoshiarpur,215,Mukerian ,800174,Mukerian (M Cl)
+59,3,PUNJAB,38,Hoshiarpur,216,Hoshiarpur ,0,Hoshiarpur 
+60,3,PUNJAB,38,Hoshiarpur,216,Hoshiarpur ,800175,Hariana (M Cl)
+61,3,PUNJAB,38,Hoshiarpur,216,Hoshiarpur ,800176,Hoshiarpur (M Cl)
+62,3,PUNJAB,38,Hoshiarpur,216,Hoshiarpur ,800177,Sham Chaurasi (M Cl)
+63,3,PUNJAB,38,Hoshiarpur,217,Garhshankar,0,Garhshankar
+64,3,PUNJAB,38,Hoshiarpur,217,Garhshankar,800178,Mahilpur (NP)
+65,3,PUNJAB,38,Hoshiarpur,217,Garhshankar,800179,Garhshankar (M Cl)
+66,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,0,Shahid Bhagat Singh Nagar ,0,Shahid Bhagat Singh Nagar 
+67,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,218,Nawanshahr,0,Nawanshahr
+68,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,218,Nawanshahr,800180,Banga (M Cl)
+69,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,218,Nawanshahr,800181,Nawanshahr (M Cl)
+70,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,218,Nawanshahr,800182,Rahon (M Cl)
+71,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,219,Balachaur,0,Balachaur
+72,3,PUNJAB,39,Shahid Bhagat Singh Nagar ,219,Balachaur,800183,Balachaur (M Cl)
+73,3,PUNJAB,40,Fatehgarh Sahib,0,Fatehgarh Sahib,0,Fatehgarh Sahib
+74,3,PUNJAB,40,Fatehgarh Sahib,220,Bassi Pathana,0,Bassi Pathana
+75,3,PUNJAB,40,Fatehgarh Sahib,220,Bassi Pathana,800184,Bassi Pathana (M Cl)
+76,3,PUNJAB,40,Fatehgarh Sahib,221,Fatehgarh Sahib,0,Fatehgarh Sahib
+77,3,PUNJAB,40,Fatehgarh Sahib,221,Fatehgarh Sahib,800185,Sirhind Fatehgarh Sahib (M Cl)
+78,3,PUNJAB,40,Fatehgarh Sahib,222,Amloh,0,Amloh
+79,3,PUNJAB,40,Fatehgarh Sahib,222,Amloh,800186,Amloh (M Cl)
+80,3,PUNJAB,40,Fatehgarh Sahib,222,Amloh,800187,Gobindgarh (M Cl + OG)
+81,3,PUNJAB,40,Fatehgarh Sahib,222,Amloh,800187,Gobindgarh (M Cl)
+82,3,PUNJAB,40,Fatehgarh Sahib,223,Khamanon,0,Khamanon
+83,3,PUNJAB,40,Fatehgarh Sahib,223,Khamanon,800188,Khamanon (NP)
+84,3,PUNJAB,41,Ludhiana,0,Ludhiana,0,Ludhiana
+85,3,PUNJAB,41,Ludhiana,224,Samrala,0,Samrala
+86,3,PUNJAB,41,Ludhiana,224,Samrala,800189,Machhiwara (M Cl)
+87,3,PUNJAB,41,Ludhiana,224,Samrala,800190,Samrala (M Cl)
+88,3,PUNJAB,41,Ludhiana,225,Khanna,0,Khanna
+89,3,PUNJAB,41,Ludhiana,225,Khanna,800191,Khanna (M Cl)
+90,3,PUNJAB,41,Ludhiana,226,Payal,0,Payal
+91,3,PUNJAB,41,Ludhiana,226,Payal,800192,Payal (M Cl)
+92,3,PUNJAB,41,Ludhiana,226,Payal,800193,Maloud (NP)
+93,3,PUNJAB,41,Ludhiana,226,Payal,800194,Doraha (M Cl)
+94,3,PUNJAB,41,Ludhiana,227,Ludhiana (East),0,Ludhiana (East)
+95,3,PUNJAB,41,Ludhiana,227,Ludhiana (East),800195,Sahnewal  (NP)
+96,3,PUNJAB,41,Ludhiana,227,Ludhiana (East),800196,Ludhiana (M Corp.)
+97,3,PUNJAB,41,Ludhiana,228,Ludhiana (West),0,Ludhiana (West)
+98,3,PUNJAB,41,Ludhiana,228,Ludhiana (West),800197,Mullanpur Dakha (NP)
+99,3,PUNJAB,41,Ludhiana,229,Raikot,0,Raikot
+100,3,PUNJAB,41,Ludhiana,229,Raikot,800198,Raikot (M Cl)
+101,3,PUNJAB,41,Ludhiana,230,Jagraon,0,Jagraon
+102,3,PUNJAB,41,Ludhiana,230,Jagraon,800199,Jagraon (M Cl)
+103,3,PUNJAB,42,Moga,0,Moga,0,Moga
+104,3,PUNJAB,42,Moga,231,Nihal Singhwala,0,Nihal Singhwala
+105,3,PUNJAB,42,Moga,231,Nihal Singhwala,800200,Badhni Kalan (NP)
+106,3,PUNJAB,42,Moga,232,Bagha Purana,0,Bagha Purana
+107,3,PUNJAB,42,Moga,232,Bagha Purana,800201,Bagha Purana (M Cl)
+108,3,PUNJAB,42,Moga,233,Moga,0,Moga
+109,3,PUNJAB,42,Moga,233,Moga,800202,Moga (M Cl + OG)
+110,3,PUNJAB,42,Moga,233,Moga,800202,Moga (M Cl)
+111,3,PUNJAB,42,Moga,233,Moga,800203,Dharamkot (M Cl)
+112,3,PUNJAB,43,Firozpur,0,Firozpur,0,Firozpur
+113,3,PUNJAB,43,Firozpur,234,Zira,0,Zira
+114,3,PUNJAB,43,Firozpur,234,Zira,800204,Makhu (NP)
+115,3,PUNJAB,43,Firozpur,234,Zira,800205,Zira (M Cl + OG)
+116,3,PUNJAB,43,Firozpur,234,Zira,800205,Zira (M Cl)
+117,3,PUNJAB,43,Firozpur,234,Zira,800206,Mallanwala Khass (NP)
+118,3,PUNJAB,43,Firozpur,235,Firozpur,0,Firozpur
+119,3,PUNJAB,43,Firozpur,235,Firozpur,800207,Firozpur (M Cl)
+120,3,PUNJAB,43,Firozpur,235,Firozpur,800208,Firozpur Cantt (CB)
+121,3,PUNJAB,43,Firozpur,235,Firozpur,800209,Talwandi Bhai (M Cl)
+122,3,PUNJAB,43,Firozpur,235,Firozpur,800210,Mudki (NP)
+123,3,PUNJAB,43,Firozpur,236,Jalalabad ,0,Jalalabad 
+124,3,PUNJAB,43,Firozpur,236,Jalalabad ,800211,Guru Har Sahai  (M Cl)
+125,3,PUNJAB,43,Firozpur,236,Jalalabad ,800212,Jalalabad (M Cl + OG)
+126,3,PUNJAB,43,Firozpur,236,Jalalabad ,800212,Jalalabad (M Cl)
+127,3,PUNJAB,43,Firozpur,237,Fazilka,0,Fazilka
+128,3,PUNJAB,43,Firozpur,237,Fazilka,800213,Fazilka (M Cl)
+129,3,PUNJAB,43,Firozpur,238,Abohar ,0,Abohar 
+130,3,PUNJAB,43,Firozpur,238,Abohar ,800214,Abohar (M Cl)
+131,3,PUNJAB,44,Muktsar,0,Muktsar,0,Muktsar
+132,3,PUNJAB,44,Muktsar,239,Malout,0,Malout
+133,3,PUNJAB,44,Muktsar,239,Malout,800215,Malout (M Cl)
+134,3,PUNJAB,44,Muktsar,240,Gidderbaha,0,Gidderbaha
+135,3,PUNJAB,44,Muktsar,240,Gidderbaha,800216,Gidderbaha (M Cl)
+136,3,PUNJAB,44,Muktsar,241,Muktsar,0,Muktsar
+137,3,PUNJAB,44,Muktsar,241,Muktsar,800217,Muktsar (M Cl)
+138,3,PUNJAB,44,Muktsar,241,Muktsar,800218,Bariwala (NP)
+139,3,PUNJAB,45,Faridkot,0,Faridkot,0,Faridkot
+140,3,PUNJAB,45,Faridkot,242,Faridkot,0,Faridkot
+141,3,PUNJAB,45,Faridkot,242,Faridkot,800219,Faridkot (M Cl + OG)
+142,3,PUNJAB,45,Faridkot,242,Faridkot,800219,Faridkot (M Cl)
+143,3,PUNJAB,45,Faridkot,242,Faridkot,800220,Kot Kapura (M Cl)
+144,3,PUNJAB,45,Faridkot,243,Jaitu,0,Jaitu
+145,3,PUNJAB,45,Faridkot,243,Jaitu,800221,Jaitu (M Cl + OG)
+146,3,PUNJAB,45,Faridkot,243,Jaitu,800221,Jaitu (M Cl)
+147,3,PUNJAB,46,Bathinda,0,Bathinda,0,Bathinda
+148,3,PUNJAB,46,Bathinda,244,Rampura Phul,0,Rampura Phul
+149,3,PUNJAB,46,Bathinda,244,Rampura Phul,800222,Bhagta Bhai Ka (NP)
+150,3,PUNJAB,46,Bathinda,244,Rampura Phul,800223,Rampura Phul (M Cl + OG)
+151,3,PUNJAB,46,Bathinda,244,Rampura Phul,800223,Rampura Phul (M Cl)
+152,3,PUNJAB,46,Bathinda,245,Bathinda,0,Bathinda
+153,3,PUNJAB,46,Bathinda,245,Bathinda,800224,Bhucho Mandi (M Cl)
+154,3,PUNJAB,46,Bathinda,245,Bathinda,800225,Goniana (M Cl)
+155,3,PUNJAB,46,Bathinda,245,Bathinda,800226,Bathinda (M Corp.)
+156,3,PUNJAB,46,Bathinda,245,Bathinda,800227,Sangat (M Cl)
+157,3,PUNJAB,46,Bathinda,245,Bathinda,800228,Kot Fatta (M Cl)
+158,3,PUNJAB,46,Bathinda,246,Talwandi Sabo,0,Talwandi Sabo
+159,3,PUNJAB,46,Bathinda,246,Talwandi Sabo,800229,Raman (M Cl)
+160,3,PUNJAB,46,Bathinda,246,Talwandi Sabo,800230,Talwandi Sabo (NP)
+161,3,PUNJAB,46,Bathinda,246,Talwandi Sabo,800231,Maur (M Cl)
+162,3,PUNJAB,47,Mansa,0,Mansa,0,Mansa
+163,3,PUNJAB,47,Mansa,247,Sardulgarh,0,Sardulgarh
+164,3,PUNJAB,47,Mansa,247,Sardulgarh,800232,Sardulgarh (NP)
+165,3,PUNJAB,47,Mansa,248,Budhlada,0,Budhlada
+166,3,PUNJAB,47,Mansa,248,Budhlada,800233,Bareta (M Cl)
+167,3,PUNJAB,47,Mansa,248,Budhlada,800234,Budhlada (M Cl)
+168,3,PUNJAB,47,Mansa,249,Mansa,0,Mansa
+169,3,PUNJAB,47,Mansa,249,Mansa,800235,Bhikhi (NP)
+170,3,PUNJAB,47,Mansa,249,Mansa,800236,Mansa (M Cl)
+171,3,PUNJAB,48,Patiala,0,Patiala,0,Patiala
+172,3,PUNJAB,48,Patiala,250,Samana,0,Samana
+173,3,PUNJAB,48,Patiala,250,Samana,800237,Samana (M Cl)
+174,3,PUNJAB,48,Patiala,251,Patran,0,Patran
+175,3,PUNJAB,48,Patiala,251,Patran,800238,Patran (M Cl)
+176,3,PUNJAB,48,Patiala,251,Patran,800239,Ghagga (NP)
+177,3,PUNJAB,48,Patiala,252,Nabha,0,Nabha
+178,3,PUNJAB,48,Patiala,252,Nabha,800240,Nabha (M Cl)
+179,3,PUNJAB,48,Patiala,252,Nabha,800241,Bhadson (NP)
+180,3,PUNJAB,48,Patiala,253,Patiala,0,Patiala
+181,3,PUNJAB,48,Patiala,253,Patiala,800242,Patiala (M Corp. + OG)
+182,3,PUNJAB,48,Patiala,253,Patiala,800242,Patiala (M Corp.)
+183,3,PUNJAB,48,Patiala,253,Patiala,800243,Sanaur (M Cl)
+184,3,PUNJAB,48,Patiala,254,Rajpura,0,Rajpura
+185,3,PUNJAB,48,Patiala,254,Rajpura,800244,Ghanaur (NP)
+186,3,PUNJAB,48,Patiala,254,Rajpura,800245,Rajpura (M Cl)
+187,3,PUNJAB,49,Amritsar ,0,Amritsar ,0,Amritsar 
+188,3,PUNJAB,49,Amritsar ,255,Ajnala,0,Ajnala
+189,3,PUNJAB,49,Amritsar ,255,Ajnala,800246,Ramdas (M Cl)
+190,3,PUNJAB,49,Amritsar ,255,Ajnala,800247,Ajnala (NP)
+191,3,PUNJAB,49,Amritsar ,255,Ajnala,800248,Raja Sansi (NP)
+192,3,PUNJAB,49,Amritsar ,256,Amritsar -I  ,0,Amritsar -I  
+193,3,PUNJAB,49,Amritsar ,256,Amritsar -I  ,800249,Majitha (M Cl)
+194,3,PUNJAB,49,Amritsar ,256,Amritsar -I  ,800250,Amritsar Cantt. (CB)
+195,3,PUNJAB,49,Amritsar ,256,Amritsar -I  ,800251,Jandiala (M Cl)
+196,3,PUNJAB,49,Amritsar ,0,Amritsar ,800252,Amritsar (M Corp. + OG)
+197,3,PUNJAB,49,Amritsar ,256,Amritsar -I  ,800252,Amritsar (M Corp. + OG) (Part)
+198,3,PUNJAB,49,Amritsar ,257,Amritsar- II ,0,Amritsar- II 
+199,3,PUNJAB,49,Amritsar ,257,Amritsar- II ,800252,Amritsar (M Corp. + OG) (Part)
+200,3,PUNJAB,49,Amritsar ,258,Baba Bakala ,0,Baba Bakala 
+201,3,PUNJAB,49,Amritsar ,258,Baba Bakala ,800253,Rayya (NP)
+202,3,PUNJAB,50,Tarn Taran,0,Tarn Taran,0,Tarn Taran
+203,3,PUNJAB,50,Tarn Taran,259,Tarn Taran,0,Tarn Taran
+204,3,PUNJAB,50,Tarn Taran,259,Tarn Taran,800254,Tarn Taran (M Cl)
+205,3,PUNJAB,50,Tarn Taran,260,Patti ,0,Patti 
+206,3,PUNJAB,50,Tarn Taran,260,Patti ,800255,Patti (M Cl)
+207,3,PUNJAB,50,Tarn Taran,260,Patti ,800256,Khem Karan (NP)
+208,3,PUNJAB,50,Tarn Taran,261,Khadur Sahib,0,Khadur Sahib
+209,3,PUNJAB,51,Rupnagar,0,Rupnagar,0,Rupnagar
+210,3,PUNJAB,51,Rupnagar,262,Anandpur Sahib,0,Anandpur Sahib
+211,3,PUNJAB,51,Rupnagar,262,Anandpur Sahib,800257,Anandpur Sahib (M Cl)
+212,3,PUNJAB,51,Rupnagar,263,Nangal,0,Nangal
+213,3,PUNJAB,51,Rupnagar,263,Nangal,800258,Nangal (M Cl + OG)
+214,3,PUNJAB,51,Rupnagar,263,Nangal,800258,Nangal (M Cl)
+215,3,PUNJAB,51,Rupnagar,264,Rup Nagar,0,Rup Nagar
+216,3,PUNJAB,51,Rupnagar,264,Rup Nagar,800259,Rupnagar (M Cl)
+217,3,PUNJAB,51,Rupnagar,265,Chamkaur Sahib,0,Chamkaur Sahib
+218,3,PUNJAB,51,Rupnagar,265,Chamkaur Sahib,800260,Chamkaur Sahib (NP)
+219,3,PUNJAB,51,Rupnagar,265,Chamkaur Sahib,800261,Morinda (M Cl)
+220,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,0,Sahibzada Ajit Singh Nagar,0,Sahibzada Ajit Singh Nagar
+221,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,266,Kharar,0,Kharar
+222,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,266,Kharar,800262,Kurali (M Cl)
+223,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,266,Kharar,800263,Kharar (M Cl)
+224,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,266,Kharar,800264,Naya Gaon (NP)
+225,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,267,SAS Nagar (Mohali),0,SAS Nagar (Mohali)
+226,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,267,SAS Nagar (Mohali),800265,Banur (M Cl)
+227,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,267,SAS Nagar (Mohali),800266,S.A.S. Nagar (Mohali) (M Cl + OG)
+228,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,267,SAS Nagar (Mohali),800266,S.A.S. Nagar (Mohali) (M Cl)
+229,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,268,Dera Bassi,0,Dera Bassi
+230,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,268,Dera Bassi,800267,Zirakpur (M Cl)
+231,3,PUNJAB,52,Sahibzada Ajit Singh Nagar,268,Dera Bassi,800268,Dera Bassi (M Cl)
+232,3,PUNJAB,53,Sangrur,0,Sangrur,0,Sangrur
+233,3,PUNJAB,53,Sangrur,269,Malerkotla,0,Malerkotla
+234,3,PUNJAB,53,Sangrur,269,Malerkotla,800269,Ahmedgarh (M Cl)
+235,3,PUNJAB,53,Sangrur,269,Malerkotla,800270,Malerkotla (M Cl)
+236,3,PUNJAB,53,Sangrur,270,Dhuri,0,Dhuri
+237,3,PUNJAB,53,Sangrur,270,Dhuri,800271,Dhuri (M Cl)
+238,3,PUNJAB,53,Sangrur,271,Sangrur,0,Sangrur
+239,3,PUNJAB,53,Sangrur,271,Sangrur,800272,Bhawanigarh (M Cl)
+240,3,PUNJAB,53,Sangrur,271,Sangrur,800273,Sangrur (M Cl)
+241,3,PUNJAB,53,Sangrur,271,Sangrur,800274,Longowal (M Cl)
+242,3,PUNJAB,53,Sangrur,272,Sunam,0,Sunam
+243,3,PUNJAB,53,Sangrur,272,Sunam,800275,Cheema (NP)
+244,3,PUNJAB,53,Sangrur,272,Sunam,800276,Sunam Udham Singh Wala (M Cl + OG)
+245,3,PUNJAB,53,Sangrur,272,Sunam,800276,Sunam Udham Singh Wala (M Cl)
+246,3,PUNJAB,53,Sangrur,272,Sunam,800277,Dirba (NP)
+247,3,PUNJAB,53,Sangrur,273,Lehra,0,Lehra
+248,3,PUNJAB,53,Sangrur,273,Lehra,800278,Lehragaga (M Cl)
+249,3,PUNJAB,53,Sangrur,274,Moonak,0,Moonak
+250,3,PUNJAB,53,Sangrur,274,Moonak,800279,Moonak (NP)
+251,3,PUNJAB,53,Sangrur,274,Moonak,800280,Khanauri (NP)
+252,3,PUNJAB,54,Barnala,0,Barnala,0,Barnala
+253,3,PUNJAB,54,Barnala,275,Barnala,0,Barnala
+254,3,PUNJAB,54,Barnala,275,Barnala,800281,Barnala (M Cl)
+255,3,PUNJAB,54,Barnala,275,Barnala,800282,Handiaya (NP)
+256,3,PUNJAB,54,Barnala,275,Barnala,800283,Dhanaula (M Cl)
+257,3,PUNJAB,54,Barnala,276,Tapa,0,Tapa
+258,3,PUNJAB,54,Barnala,276,Tapa,800284,Tapa (M Cl)
+259,3,PUNJAB,54,Barnala,276,Tapa,800285,Bhadaur (M Cl)

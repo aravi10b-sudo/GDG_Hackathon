@@ -1,0 +1,84 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,14,MANIPUR,0,MANIPUR,0,MANIPUR,0,MANIPUR
+1,14,MANIPUR,272,Senapati,0,Senapati,0,Senapati
+2,14,MANIPUR,272,Senapati,1858,Mao-Maram,0,Mao-Maram
+3,14,MANIPUR,272,Senapati,1859,Paomata,0,Paomata
+4,14,MANIPUR,272,Senapati,1860,Purul ,0,Purul 
+5,14,MANIPUR,272,Senapati,1861,Sadar Hills West,0,Sadar Hills West
+6,14,MANIPUR,272,Senapati,1862,Saitu-Gamphazol ,0,Saitu-Gamphazol 
+7,14,MANIPUR,272,Senapati,1863,Sadar Hills East,0,Sadar Hills East
+8,14,MANIPUR,273,Tamenglong ,0,Tamenglong ,0,Tamenglong 
+9,14,MANIPUR,273,Tamenglong ,1864,Tamenglong West,0,Tamenglong West
+10,14,MANIPUR,273,Tamenglong ,1865,Tamenglong North ,0,Tamenglong North 
+11,14,MANIPUR,273,Tamenglong ,1866,Tamenglong ,0,Tamenglong 
+12,14,MANIPUR,273,Tamenglong ,1867,Nungba,0,Nungba
+13,14,MANIPUR,274,Churachandpur,0,Churachandpur,0,Churachandpur
+14,14,MANIPUR,274,Churachandpur,1868,Tipaimukh ,0,Tipaimukh 
+15,14,MANIPUR,274,Churachandpur,1869,Thanlon ,0,Thanlon 
+16,14,MANIPUR,274,Churachandpur,1870,Churachandpur North,0,Churachandpur North
+17,14,MANIPUR,274,Churachandpur,1871,Churachandpur,0,Churachandpur
+18,14,MANIPUR,274,Churachandpur,1872,Singngat,0,Singngat
+19,14,MANIPUR,275,Bishnupur,0,Bishnupur,0,Bishnupur
+20,14,MANIPUR,275,Bishnupur,1873,Nambol  ,0,Nambol  
+21,14,MANIPUR,275,Bishnupur,1873,Nambol  ,801469,Nambol (MCI) (Major part)
+22,14,MANIPUR,275,Bishnupur,1873,Nambol  ,801470,Oinam (NP)
+23,14,MANIPUR,275,Bishnupur,1874,Bishnupur,0,Bishnupur
+24,14,MANIPUR,275,Bishnupur,1874,Bishnupur,801471,Bishnupur (MCI)
+25,14,MANIPUR,275,Bishnupur,1874,Bishnupur,801472,Ningthoukhong (MCl)
+26,14,MANIPUR,275,Bishnupur,1875,Moirang,0,Moirang
+27,14,MANIPUR,275,Bishnupur,1875,Moirang,801473,Moirang (MCI)
+28,14,MANIPUR,275,Bishnupur,1875,Moirang,801474,Kwakta (NP)
+29,14,MANIPUR,275,Bishnupur,1875,Moirang,801475,Kumbi (NP)
+30,14,MANIPUR,276,Thoubal,0,Thoubal,0,Thoubal
+31,14,MANIPUR,276,Thoubal,1876,Lilong,0,Lilong
+32,14,MANIPUR,276,Thoubal,1876,Lilong,801476,Lilong (Thoubal) (NP) (Major part)
+33,14,MANIPUR,276,Thoubal,1876,Lilong,801488,Samurou (NP) (Minor part)
+34,14,MANIPUR,276,Thoubal,1877,Thoubal ,0,Thoubal 
+35,14,MANIPUR,276,Thoubal,1877,Thoubal ,801477,Heirok (NP)
+36,14,MANIPUR,276,Thoubal,1877,Thoubal ,801478,Wangjing (NP)
+37,14,MANIPUR,276,Thoubal,1877,Thoubal ,801479,Thoubal (MCI)
+38,14,MANIPUR,276,Thoubal,1877,Thoubal ,801480,Sikhong Sekmai (NP)
+39,14,MANIPUR,276,Thoubal,1877,Thoubal ,801481,Yairipok (NP)
+40,14,MANIPUR,276,Thoubal,1878,Kakching,0,Kakching
+41,14,MANIPUR,276,Thoubal,1878,Kakching,801482,Sugnu (NP)
+42,14,MANIPUR,276,Thoubal,1878,Kakching,801483,Kakching Khunou (NP)
+43,14,MANIPUR,276,Thoubal,1878,Kakching,801484,Kakching (M Cl)
+44,14,MANIPUR,277,Imphal West,0,Imphal West,0,Imphal West
+45,14,MANIPUR,277,Imphal West,1879,Lamshang,0,Lamshang
+46,14,MANIPUR,277,Imphal West,1879,Lamshang,801485,Lamsang (NP)
+47,14,MANIPUR,277,Imphal West,1879,Lamshang,801486,Sekmai Bazar (NP)
+48,14,MANIPUR,277,Imphal West,1880,Patsoi ,0,Patsoi 
+49,14,MANIPUR,277,Imphal West,1880,Patsoi ,801469,Nambol (MCI) (Minor part)
+50,14,MANIPUR,277,Imphal West,1881,Lamphelpat,0,Lamphelpat
+51,14,MANIPUR,277,Imphal West,1881,Lamphelpat,801487,Imphal (MCI + OG) (Major part)
+52,14,MANIPUR,277,Imphal West,1881,Lamphelpat,801487,Imphal (MCI) (Major part)
+53,14,MANIPUR,277,Imphal West,1882,Wangoi,0,Wangoi
+54,14,MANIPUR,277,Imphal West,1882,Wangoi,801488,Samurou NP (Major part)
+55,14,MANIPUR,277,Imphal West,1882,Wangoi,801489,Mayang Imphal (MCl)
+56,14,MANIPUR,277,Imphal West,1882,Wangoi,801490,Thongkhong Laxmi Bazar (NP)
+57,14,MANIPUR,277,Imphal West,1882,Wangoi,801491,Wangoi (NP)
+58,14,MANIPUR,277,Imphal West,1882,Wangoi,801492,Lilong (Imphal West) (NP + OG)
+59,14,MANIPUR,277,Imphal West,1882,Wangoi,801492,Lilong (Imphal West) (NP)
+60,14,MANIPUR,278,Imphal East,0,Imphal East,0,Imphal East
+61,14,MANIPUR,278,Imphal East,1883,Jiribam ,0,Jiribam 
+62,14,MANIPUR,278,Imphal East,1883,Jiribam ,801493,Jiribam (M Cl)
+63,14,MANIPUR,278,Imphal East,1884,Sawombung ,0,Sawombung 
+64,14,MANIPUR,278,Imphal East,1884,Sawombung ,801494,Lamlai (NP)
+65,14,MANIPUR,278,Imphal East,1885,Porompat,0,Porompat
+66,14,MANIPUR,278,Imphal East,1885,Porompat,801487,Imphal (MCI + OG) ( Minor part)
+67,14,MANIPUR,278,Imphal East,1885,Porompat,801487,Imphal (MCI) ( Minor part)
+68,14,MANIPUR,278,Imphal East,1886,Keirao Bitra,0,Keirao Bitra
+69,14,MANIPUR,278,Imphal East,1886,Keirao Bitra,801476,Lilong (Thoubal) (NP) ( Minor part)
+70,14,MANIPUR,278,Imphal East,1886,Keirao Bitra,801495,Andro (NP)
+71,14,MANIPUR,279,Ukhrul,0,Ukhrul,0,Ukhrul
+72,14,MANIPUR,279,Ukhrul,1887,Ukhrul North ,0,Ukhrul North 
+73,14,MANIPUR,279,Ukhrul,1888,Ukhurl Central,0,Ukhurl Central
+74,14,MANIPUR,279,Ukhrul,1889,Kamjong-Chassad,0,Kamjong-Chassad
+75,14,MANIPUR,279,Ukhrul,1890,Phungyar-Phaisat,0,Phungyar-Phaisat
+76,14,MANIPUR,279,Ukhrul,1891,Ukhrul South,0,Ukhrul South
+77,14,MANIPUR,280,Chandel,0,Chandel,0,Chandel
+78,14,MANIPUR,280,Chandel,1892,Machi,0,Machi
+79,14,MANIPUR,280,Chandel,1893,Tengnoupal ,0,Tengnoupal 
+80,14,MANIPUR,280,Chandel,1893,Tengnoupal ,801496,Moreh (ST)
+81,14,MANIPUR,280,Chandel,1894,Chandel ,0,Chandel 
+82,14,MANIPUR,280,Chandel,1895,Chakpikarong ,0,Chakpikarong 

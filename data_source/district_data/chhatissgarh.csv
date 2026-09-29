@@ -1,0 +1,363 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,22,CHHATTISGARH,0,CHHATTISGARH,0,CHHATTISGARH,0,CHHATTISGARH
+1,22,CHHATTISGARH,400,Koriya,0,Koriya,0,Koriya
+2,22,CHHATTISGARH,400,Koriya,3231,Bharatpur,0,Bharatpur
+3,22,CHHATTISGARH,400,Koriya,3232,Baikunthpur,0,Baikunthpur
+4,22,CHHATTISGARH,400,Koriya,3232,Baikunthpur,801910,Shivpur Charcha (M)
+5,22,CHHATTISGARH,400,Koriya,3232,Baikunthpur,801911,Baikunthpur (M)
+6,22,CHHATTISGARH,400,Koriya,0,Koriya,801916,Chirmiri (M Corp.)
+7,22,CHHATTISGARH,400,Koriya,3232,Baikunthpur,801916,Chirmiri (M Corp.) (Part)
+8,22,CHHATTISGARH,400,Koriya,3233,Sonhat,0,Sonhat
+9,22,CHHATTISGARH,400,Koriya,3234,Manendragarh,0,Manendragarh
+10,22,CHHATTISGARH,400,Koriya,3234,Manendragarh,801912,Manendragarh (M)
+11,22,CHHATTISGARH,400,Koriya,3234,Manendragarh,801913,Khongapani (NP)
+12,22,CHHATTISGARH,400,Koriya,3234,Manendragarh,801914,Jhagrakhand (NP)
+13,22,CHHATTISGARH,400,Koriya,3234,Manendragarh,801915,Nai-Ledri (NP)
+14,22,CHHATTISGARH,400,Koriya,3235,Khadganva,0,Khadganva
+15,22,CHHATTISGARH,400,Koriya,3235,Khadganva,801916,Chirmiri (M Corp.) (Part)
+16,22,CHHATTISGARH,401,Surguja,0,Surguja,0,Surguja
+17,22,CHHATTISGARH,401,Surguja,3236,Ramanujganj,0,Ramanujganj
+18,22,CHHATTISGARH,401,Surguja,3236,Ramanujganj,801917,Ramanujganj (NP)
+19,22,CHHATTISGARH,401,Surguja,3237,Balrampur,0,Balrampur
+20,22,CHHATTISGARH,401,Surguja,3237,Balrampur,801918,Balrampur (NP)
+21,22,CHHATTISGARH,401,Surguja,3238,Wadrafnagar,0,Wadrafnagar
+22,22,CHHATTISGARH,401,Surguja,3238,Wadrafnagar,801919,Wadrafnagar (NP)
+23,22,CHHATTISGARH,401,Surguja,3239,Pratappur,0,Pratappur
+24,22,CHHATTISGARH,401,Surguja,3239,Pratappur,801920,Pratappur (NP)
+25,22,CHHATTISGARH,401,Surguja,3239,Pratappur,801921,Jarhi (NP)
+26,22,CHHATTISGARH,401,Surguja,3240,Samri(kusmi),0,Samri(kusmi)
+27,22,CHHATTISGARH,401,Surguja,3240,Samri(kusmi),801922,Kusmi (NP)
+28,22,CHHATTISGARH,401,Surguja,3241,Shankargarh,0,Shankargarh
+29,22,CHHATTISGARH,401,Surguja,3242,Surajpur,0,Surajpur
+30,22,CHHATTISGARH,401,Surguja,3242,Surajpur,801923,Surajpur (M)
+31,22,CHHATTISGARH,401,Surguja,3242,Surajpur,801924,Bishrampur (NP)
+32,22,CHHATTISGARH,401,Surguja,3243,Oudgi,0,Oudgi
+33,22,CHHATTISGARH,401,Surguja,3244,Bhaiyathan,0,Bhaiyathan
+34,22,CHHATTISGARH,401,Surguja,3244,Bhaiyathan,801925,Bhatgaon (NP)
+35,22,CHHATTISGARH,401,Surguja,3245,Ramanujnagar,0,Ramanujnagar
+36,22,CHHATTISGARH,401,Surguja,3246,Premnagar,0,Premnagar
+37,22,CHHATTISGARH,401,Surguja,3246,Premnagar,801926,Premnagar (NP)
+38,22,CHHATTISGARH,401,Surguja,3247,Ambikapur,0,Ambikapur
+39,22,CHHATTISGARH,401,Surguja,3247,Ambikapur,801927,Ambikapur (M Corp. + OG)
+40,22,CHHATTISGARH,401,Surguja,3247,Ambikapur,801927,Ambikapur (M Corp.)
+41,22,CHHATTISGARH,401,Surguja,3248,Lakhanpur,0,Lakhanpur
+42,22,CHHATTISGARH,401,Surguja,3248,Lakhanpur,801928,Lakhanpur (NP)
+43,22,CHHATTISGARH,401,Surguja,3249,Udaypur,0,Udaypur
+44,22,CHHATTISGARH,401,Surguja,3250,Rajpur,0,Rajpur
+45,22,CHHATTISGARH,401,Surguja,3250,Rajpur,801929,Rajpur (NP)
+46,22,CHHATTISGARH,401,Surguja,3251,Lundra,0,Lundra
+47,22,CHHATTISGARH,401,Surguja,3252,Sitapur,0,Sitapur
+48,22,CHHATTISGARH,401,Surguja,3252,Sitapur,801930,Sitapur (NP)
+49,22,CHHATTISGARH,401,Surguja,3253,Batouli,0,Batouli
+50,22,CHHATTISGARH,401,Surguja,3254,Mainpat,0,Mainpat
+51,22,CHHATTISGARH,402,Jashpur ,0,Jashpur ,0,Jashpur 
+52,22,CHHATTISGARH,402,Jashpur ,3255,Bagicha,0,Bagicha
+53,22,CHHATTISGARH,402,Jashpur ,3255,Bagicha,801931,Bagicha (NP)
+54,22,CHHATTISGARH,402,Jashpur ,3256,Kansabel,0,Kansabel
+55,22,CHHATTISGARH,402,Jashpur ,3257,Jashpur,0,Jashpur
+56,22,CHHATTISGARH,402,Jashpur ,3257,Jashpur,801932,JashpurNagar (M + OG)
+57,22,CHHATTISGARH,402,Jashpur ,3257,Jashpur,801932,JashpurNagar (M)
+58,22,CHHATTISGARH,402,Jashpur ,3258,Manora,0,Manora
+59,22,CHHATTISGARH,402,Jashpur ,3259,Kunkuri,0,Kunkuri
+60,22,CHHATTISGARH,402,Jashpur ,3260,Duldula,0,Duldula
+61,22,CHHATTISGARH,402,Jashpur ,3261,Farsabahar,0,Farsabahar
+62,22,CHHATTISGARH,402,Jashpur ,3262,Pathalgaon,0,Pathalgaon
+63,22,CHHATTISGARH,402,Jashpur ,3262,Pathalgaon,801933,Pathalgaon (NP)
+64,22,CHHATTISGARH,402,Jashpur ,3262,Pathalgaon,801934,Kotba (NP)
+65,22,CHHATTISGARH,403,Raigarh,0,Raigarh,0,Raigarh
+66,22,CHHATTISGARH,403,Raigarh,3263,Udaipur (Dharamjaigarh),0,Udaipur (Dharamjaigarh)
+67,22,CHHATTISGARH,403,Raigarh,3263,Udaipur (Dharamjaigarh),801935,Dharamjaigarh (NP)
+68,22,CHHATTISGARH,403,Raigarh,3264,Lailunga,0,Lailunga
+69,22,CHHATTISGARH,403,Raigarh,3264,Lailunga,801936,Lailunga (NP)
+70,22,CHHATTISGARH,403,Raigarh,3265,Gharghoda,0,Gharghoda
+71,22,CHHATTISGARH,403,Raigarh,3265,Gharghoda,801937,Gharghoda (NP)
+72,22,CHHATTISGARH,403,Raigarh,3266,Tamnar,0,Tamnar
+73,22,CHHATTISGARH,403,Raigarh,3267,Raigarh,0,Raigarh
+74,22,CHHATTISGARH,403,Raigarh,3267,Raigarh,801938,Kirodimalnagar (NP)
+75,22,CHHATTISGARH,403,Raigarh,3267,Raigarh,801939,Raigarh (M Corp. + OG)
+76,22,CHHATTISGARH,403,Raigarh,3267,Raigarh,801939,Raigarh (M Corp.)
+77,22,CHHATTISGARH,403,Raigarh,3268,Pusour,0,Pusour
+78,22,CHHATTISGARH,403,Raigarh,3268,Pusour,801940,Pusaur (NP)
+79,22,CHHATTISGARH,403,Raigarh,3269,Kharsia,0,Kharsia
+80,22,CHHATTISGARH,403,Raigarh,3269,Kharsia,801941,Kharsia  (M)
+81,22,CHHATTISGARH,403,Raigarh,3270,Sarangarh,0,Sarangarh
+82,22,CHHATTISGARH,403,Raigarh,3270,Sarangarh,801942,Sarangarh (NP)
+83,22,CHHATTISGARH,403,Raigarh,3271,Baramkela,0,Baramkela
+84,22,CHHATTISGARH,403,Raigarh,3271,Baramkela,801943,Sariya (NP)
+85,22,CHHATTISGARH,403,Raigarh,3271,Baramkela,801944,Baramkela (NP)
+86,22,CHHATTISGARH,404,Korba ,0,Korba ,0,Korba 
+87,22,CHHATTISGARH,404,Korba ,3272,Katghora,0,Katghora
+88,22,CHHATTISGARH,404,Korba ,3272,Katghora,801945,Katghora (NP)
+89,22,CHHATTISGARH,404,Korba ,3272,Katghora,801946,Chhurikala (NP)
+90,22,CHHATTISGARH,404,Korba ,3272,Katghora,801947,Dipka (M)
+91,22,CHHATTISGARH,404,Korba ,0,Korba ,801949,Korba (M Corp. + OG)
+92,22,CHHATTISGARH,404,Korba ,3272,Katghora,801949,Korba (M Corp.) (Part)
+93,22,CHHATTISGARH,404,Korba ,3273,Poundi-Uproda,0,Poundi-Uproda
+94,22,CHHATTISGARH,404,Korba ,3274,Pali,0,Pali
+95,22,CHHATTISGARH,404,Korba ,3274,Pali,801948,Pali (NP)
+96,22,CHHATTISGARH,404,Korba ,3275,Korba,0,Korba
+97,22,CHHATTISGARH,404,Korba ,3275,Korba,801949,Korba (M Corp. + OG) (Part)
+98,22,CHHATTISGARH,404,Korba ,3275,Korba,801949,Korba (M Corp.) (Part)
+99,22,CHHATTISGARH,404,Korba ,3276,Kartala,0,Kartala
+100,22,CHHATTISGARH,405,Janjgir - Champa,0,Janjgir - Champa,0,Janjgir - Champa
+101,22,CHHATTISGARH,405,Janjgir - Champa,3277,Janjgir,0,Janjgir
+102,22,CHHATTISGARH,405,Janjgir - Champa,3277,Janjgir,801950,Naila-Janjgir (M)
+103,22,CHHATTISGARH,405,Janjgir - Champa,3278,Akaltara,0,Akaltara
+104,22,CHHATTISGARH,405,Janjgir - Champa,3278,Akaltara,801951,Akaltara (M)
+105,22,CHHATTISGARH,405,Janjgir - Champa,3279,Baloda,0,Baloda
+106,22,CHHATTISGARH,405,Janjgir - Champa,3279,Baloda,801952,Baloda (NP)
+107,22,CHHATTISGARH,405,Janjgir - Champa,3280,Nawagarh,0,Nawagarh
+108,22,CHHATTISGARH,405,Janjgir - Champa,3280,Nawagarh,801953,Nawagarh (NP)
+109,22,CHHATTISGARH,405,Janjgir - Champa,3280,Nawagarh,801954,Shivrinarayan (NP)
+110,22,CHHATTISGARH,405,Janjgir - Champa,3281,Champa,0,Champa
+111,22,CHHATTISGARH,405,Janjgir - Champa,3281,Champa,801955,Champa (M)
+112,22,CHHATTISGARH,405,Janjgir - Champa,3281,Champa,801956,Saragaon (NP)
+113,22,CHHATTISGARH,405,Janjgir - Champa,3282,Sakti,0,Sakti
+114,22,CHHATTISGARH,405,Janjgir - Champa,3282,Sakti,801957,Sakti (M)
+115,22,CHHATTISGARH,405,Janjgir - Champa,3282,Sakti,801958,Naya Baradwar (NP)
+116,22,CHHATTISGARH,405,Janjgir - Champa,3283,Pamgarh,0,Pamgarh
+117,22,CHHATTISGARH,405,Janjgir - Champa,3283,Pamgarh,801959,Rahaud (NP)
+118,22,CHHATTISGARH,405,Janjgir - Champa,3283,Pamgarh,801960,Kharod (NP)
+119,22,CHHATTISGARH,405,Janjgir - Champa,3284,Dabhra,0,Dabhra
+120,22,CHHATTISGARH,405,Janjgir - Champa,3284,Dabhra,801961,Dabhra (NP)
+121,22,CHHATTISGARH,405,Janjgir - Champa,3284,Dabhra,801962,Chandrapur (NP)
+122,22,CHHATTISGARH,405,Janjgir - Champa,3285,Malkharoda,0,Malkharoda
+123,22,CHHATTISGARH,405,Janjgir - Champa,3285,Malkharoda,801963,Adbhar (NP)
+124,22,CHHATTISGARH,405,Janjgir - Champa,3286,Jaijaipur,0,Jaijaipur
+125,22,CHHATTISGARH,405,Janjgir - Champa,3286,Jaijaipur,801964,Jaijepur (NP)
+126,22,CHHATTISGARH,406,Bilaspur,0,Bilaspur,0,Bilaspur
+127,22,CHHATTISGARH,406,Bilaspur,3287,Pendra Road Gorella,0,Pendra Road Gorella
+128,22,CHHATTISGARH,406,Bilaspur,3287,Pendra Road Gorella,801965,Gaurella (NP)
+129,22,CHHATTISGARH,406,Bilaspur,3288,Marwahi,0,Marwahi
+130,22,CHHATTISGARH,406,Bilaspur,3289,Pendra,0,Pendra
+131,22,CHHATTISGARH,406,Bilaspur,3289,Pendra,801966,Pendra (NP)
+132,22,CHHATTISGARH,406,Bilaspur,3290,Lormi,0,Lormi
+133,22,CHHATTISGARH,406,Bilaspur,3290,Lormi,801967,Lormi (NP)
+134,22,CHHATTISGARH,406,Bilaspur,3291,Kota,0,Kota
+135,22,CHHATTISGARH,406,Bilaspur,3291,Kota,801968,Kota (NP)
+136,22,CHHATTISGARH,406,Bilaspur,3291,Kota,801969,Ratanpur (NP)
+137,22,CHHATTISGARH,406,Bilaspur,3292,Mungeli,0,Mungeli
+138,22,CHHATTISGARH,406,Bilaspur,3292,Mungeli,801970,Mungeli (M + OG)
+139,22,CHHATTISGARH,406,Bilaspur,3292,Mungeli,801970,Mungeli (M)
+140,22,CHHATTISGARH,406,Bilaspur,3293,Pathariya,0,Pathariya
+141,22,CHHATTISGARH,406,Bilaspur,3293,Pathariya,801971,Pathariya (NP)
+142,22,CHHATTISGARH,406,Bilaspur,3293,Pathariya,801972,Sargaon (NP)
+143,22,CHHATTISGARH,406,Bilaspur,3294,Takhatpur,0,Takhatpur
+144,22,CHHATTISGARH,406,Bilaspur,3294,Takhatpur,801973,Takhatpur (NP)
+145,22,CHHATTISGARH,406,Bilaspur,3294,Takhatpur,801974,Sakari (NP)
+146,22,CHHATTISGARH,406,Bilaspur,0,Bilaspur,801975,Bilaspur (M Corp. + OG)
+147,22,CHHATTISGARH,406,Bilaspur,3294,Takhatpur,801975,Bilaspur (M Corp. + OG) (Part)
+148,22,CHHATTISGARH,406,Bilaspur,3295,Bilaspur,0,Bilaspur
+149,22,CHHATTISGARH,406,Bilaspur,3295,Bilaspur,801975,Bilaspur (M Corp. + OG) (Part)
+150,22,CHHATTISGARH,406,Bilaspur,3295,Bilaspur,801976,Tifra (NP)
+151,22,CHHATTISGARH,406,Bilaspur,3295,Bilaspur,801977,Sirgitti (NP)
+152,22,CHHATTISGARH,406,Bilaspur,3296,Masturi,0,Masturi
+153,22,CHHATTISGARH,406,Bilaspur,3296,Masturi,801978,Malhar (NP)
+154,22,CHHATTISGARH,406,Bilaspur,3297,Bilha,0,Bilha
+155,22,CHHATTISGARH,406,Bilaspur,3297,Bilha,801979,Bodri (NP)
+156,22,CHHATTISGARH,406,Bilaspur,3297,Bilha,801980,Bilha (NP)
+157,22,CHHATTISGARH,407,Kabeerdham,0,Kabeerdham,0,Kabeerdham
+158,22,CHHATTISGARH,407,Kabeerdham,3298,Kawardha,0,Kawardha
+159,22,CHHATTISGARH,407,Kabeerdham,3298,Kawardha,801981,Kawardha (M + OG)
+160,22,CHHATTISGARH,407,Kabeerdham,3298,Kawardha,801981,Kawardha (M)
+161,22,CHHATTISGARH,407,Kabeerdham,3298,Kawardha,801982,Pipariya (NP)
+162,22,CHHATTISGARH,407,Kabeerdham,3299,Bodla,0,Bodla
+163,22,CHHATTISGARH,407,Kabeerdham,3299,Bodla,801983,Bodla (NP)
+164,22,CHHATTISGARH,407,Kabeerdham,3300,Sahaspur Lohara,0,Sahaspur Lohara
+165,22,CHHATTISGARH,407,Kabeerdham,3300,Sahaspur Lohara,801984,Sahaspur-Lohara (NP)
+166,22,CHHATTISGARH,407,Kabeerdham,3301,Pandariya,0,Pandariya
+167,22,CHHATTISGARH,407,Kabeerdham,3301,Pandariya,801985,Pandariya (NP)
+168,22,CHHATTISGARH,407,Kabeerdham,3301,Pandariya,801986,Pandatarai (NP)
+169,22,CHHATTISGARH,408,Rajnandgaon,0,Rajnandgaon,0,Rajnandgaon
+170,22,CHHATTISGARH,408,Rajnandgaon,3302,Chhuikhadan,0,Chhuikhadan
+171,22,CHHATTISGARH,408,Rajnandgaon,3302,Chhuikhadan,801987,Gandai (NP)
+172,22,CHHATTISGARH,408,Rajnandgaon,3302,Chhuikhadan,801988,Chhuikhadan (NP)
+173,22,CHHATTISGARH,408,Rajnandgaon,3303,Khairagarh,0,Khairagarh
+174,22,CHHATTISGARH,408,Rajnandgaon,3303,Khairagarh,801989,Khairagarh (M)
+175,22,CHHATTISGARH,408,Rajnandgaon,3304,Dongargarh,0,Dongargarh
+176,22,CHHATTISGARH,408,Rajnandgaon,3304,Dongargarh,801990,Dongargarh (M)
+177,22,CHHATTISGARH,408,Rajnandgaon,3305,Rajnandgaon,0,Rajnandgaon
+178,22,CHHATTISGARH,408,Rajnandgaon,3305,Rajnandgaon,801991,Rajnandgaon (M Corp.)
+179,22,CHHATTISGARH,408,Rajnandgaon,3306,Chhuriya,0,Chhuriya
+180,22,CHHATTISGARH,408,Rajnandgaon,3306,Chhuriya,801992,Chhuriya (NP)
+181,22,CHHATTISGARH,408,Rajnandgaon,3307,Dongargaon,0,Dongargaon
+182,22,CHHATTISGARH,408,Rajnandgaon,3307,Dongargaon,801993,Dongargaon (NP)
+183,22,CHHATTISGARH,408,Rajnandgaon,3308,Mohla,0,Mohla
+184,22,CHHATTISGARH,408,Rajnandgaon,3309,Manpur,0,Manpur
+185,22,CHHATTISGARH,408,Rajnandgaon,3310,Ambagarh,0,Ambagarh
+186,22,CHHATTISGARH,408,Rajnandgaon,3310,Ambagarh,801994,Ambagarh Chowki (NP)
+187,22,CHHATTISGARH,409,Durg,0,Durg,0,Durg
+188,22,CHHATTISGARH,409,Durg,3311,Nawagarh,0,Nawagarh
+189,22,CHHATTISGARH,409,Durg,3311,Nawagarh,801995,Nawagarh (NP)
+190,22,CHHATTISGARH,409,Durg,3311,Nawagarh,801996,Maro (NP)
+191,22,CHHATTISGARH,409,Durg,3312,Bemetara,0,Bemetara
+192,22,CHHATTISGARH,409,Durg,3312,Bemetara,801997,Bemetara (M)
+193,22,CHHATTISGARH,409,Durg,3313,Saja,0,Saja
+194,22,CHHATTISGARH,409,Durg,3313,Saja,801998,Saja (NP)
+195,22,CHHATTISGARH,409,Durg,3313,Saja,801999,Devkar  (NP)
+196,22,CHHATTISGARH,409,Durg,3313,Saja,802000,Parpondi (NP)
+197,22,CHHATTISGARH,409,Durg,3314,Thanakhamria,0,Thanakhamria
+198,22,CHHATTISGARH,409,Durg,3314,Thanakhamria,802001,Than-Khamharia (NP)
+199,22,CHHATTISGARH,409,Durg,3315,Berla,0,Berla
+200,22,CHHATTISGARH,409,Durg,3315,Berla,802002,Berla (NP)
+201,22,CHHATTISGARH,409,Durg,3316,Dhamdha,0,Dhamdha
+202,22,CHHATTISGARH,409,Durg,3316,Dhamdha,802003,Dhamdha (NP)
+203,22,CHHATTISGARH,409,Durg,3316,Dhamdha,802004,Ahiwara (NP)
+204,22,CHHATTISGARH,409,Durg,0,Durg,802005,Kumhari (M)
+205,22,CHHATTISGARH,409,Durg,3316,Dhamdha,802005,Kumhari (M) (Part)
+206,22,CHHATTISGARH,409,Durg,0,Durg,802006,Jamul (M)
+207,22,CHHATTISGARH,409,Durg,3316,Dhamdha,802006,Jamul (M) (Part)
+208,22,CHHATTISGARH,409,Durg,0,Durg,802007,Bhilai Charoda (M)
+209,22,CHHATTISGARH,409,Durg,3316,Dhamdha,802007,Bhilai Charoda (M) (Part)
+210,22,CHHATTISGARH,409,Durg,3317,Durg,0,Durg
+211,22,CHHATTISGARH,409,Durg,3317,Durg,802006,Jamul (M) (Part)
+212,22,CHHATTISGARH,409,Durg,0,Durg,802008,Bhilai Nagar (M Corp. + OG)
+213,22,CHHATTISGARH,409,Durg,3317,Durg,802008,Bhilai Nagar (M Corp. + OG) (Part)
+214,22,CHHATTISGARH,409,Durg,3317,Durg,802009,Durg (M Corp.)
+215,22,CHHATTISGARH,409,Durg,3317,Durg,802010,Utai (NP)
+216,22,CHHATTISGARH,409,Durg,3317,Durg,802007,Bhilai Charoda (M) (Part)
+217,22,CHHATTISGARH,409,Durg,3318,Patan,0,Patan
+218,22,CHHATTISGARH,409,Durg,3318,Patan,802008,Bhilai Nagar (M Corp. + OG) (Part)
+219,22,CHHATTISGARH,409,Durg,3318,Patan,802005,Kumhari (M) (Part)
+220,22,CHHATTISGARH,409,Durg,3318,Patan,802007,Bhilai Charoda (M) (Part)
+221,22,CHHATTISGARH,409,Durg,3318,Patan,802011,Patan (NP)
+222,22,CHHATTISGARH,409,Durg,3319,Gunderdehi,0,Gunderdehi
+223,22,CHHATTISGARH,409,Durg,3319,Gunderdehi,802012,Arjunda (NP)
+224,22,CHHATTISGARH,409,Durg,3319,Gunderdehi,802013,Gunderdehi (NP)
+225,22,CHHATTISGARH,409,Durg,3320,Dondi Luhara,0,Dondi Luhara
+226,22,CHHATTISGARH,409,Durg,3320,Dondi Luhara,802014,Daundi Lohara (NP)
+227,22,CHHATTISGARH,409,Durg,3321, Balod,0, Balod
+228,22,CHHATTISGARH,409,Durg,3321, Balod,802015,Balod (M)
+229,22,CHHATTISGARH,409,Durg,3322,Dondi,0,Dondi
+230,22,CHHATTISGARH,409,Durg,3322,Dondi,802016,Dalli-Rajhara (M)
+231,22,CHHATTISGARH,409,Durg,3322,Dondi,802017,Chikhalakasa (NP)
+232,22,CHHATTISGARH,409,Durg,3322,Dondi,802018,Doundi (NP)
+233,22,CHHATTISGARH,409,Durg,3323,Gurur,0,Gurur
+234,22,CHHATTISGARH,409,Durg,3323,Gurur,802019,Gurur (NP)
+235,22,CHHATTISGARH,410,Raipur,0,Raipur,0,Raipur
+236,22,CHHATTISGARH,410,Raipur,3324,Simga,0,Simga
+237,22,CHHATTISGARH,410,Raipur,3324,Simga,802020,Simga (NP)
+238,22,CHHATTISGARH,410,Raipur,3325,Bhatapara,0,Bhatapara
+239,22,CHHATTISGARH,410,Raipur,3325,Bhatapara,802021,Bhatapara (M)
+240,22,CHHATTISGARH,410,Raipur,3326,Baloda Bazar,0,Baloda Bazar
+241,22,CHHATTISGARH,410,Raipur,3326,Baloda Bazar,802022,Baloda Bazar (M)
+242,22,CHHATTISGARH,410,Raipur,3326,Baloda Bazar,802023,Lawan (NP)
+243,22,CHHATTISGARH,410,Raipur,3327,Palari,0,Palari
+244,22,CHHATTISGARH,410,Raipur,3327,Palari,802024,Palari (NP)
+245,22,CHHATTISGARH,410,Raipur,3328,Kasdol,0,Kasdol
+246,22,CHHATTISGARH,410,Raipur,3328,Kasdol,802025,Tundra (NP)
+247,22,CHHATTISGARH,410,Raipur,3328,Kasdol,802026,Kasdol (NP)
+248,22,CHHATTISGARH,410,Raipur,3329,Bilaigarh,0,Bilaigarh
+249,22,CHHATTISGARH,410,Raipur,3329,Bilaigarh,802027,Bhatgaon (NP)
+250,22,CHHATTISGARH,410,Raipur,3329,Bilaigarh,802028,Bilaigarh (NP)
+251,22,CHHATTISGARH,410,Raipur,3330,Arang,0,Arang
+252,22,CHHATTISGARH,410,Raipur,3330,Arang,802029,Arang  (NP)
+253,22,CHHATTISGARH,410,Raipur,3331,Abhanpur,0,Abhanpur
+254,22,CHHATTISGARH,410,Raipur,3331,Abhanpur,802030,Abhanpur (NP)
+255,22,CHHATTISGARH,410,Raipur,3331,Abhanpur,802031,Gobra Nawapara (M)
+256,22,CHHATTISGARH,410,Raipur,3332,Raipur,0,Raipur
+257,22,CHHATTISGARH,410,Raipur,3332,Raipur,802032,Koora (NP)
+258,22,CHHATTISGARH,410,Raipur,3332,Raipur,802033,Birgaon (M)
+259,22,CHHATTISGARH,410,Raipur,3332,Raipur,802034,Raipur (M Corp. + OG)
+260,22,CHHATTISGARH,410,Raipur,3332,Raipur,802034,Raipur (M Corp.)
+261,22,CHHATTISGARH,410,Raipur,3332,Raipur,802035,Mana-Camp (NP)
+262,22,CHHATTISGARH,410,Raipur,3333,Rajim,0,Rajim
+263,22,CHHATTISGARH,410,Raipur,3333,Rajim,802036,Fingeshwar (NP)
+264,22,CHHATTISGARH,410,Raipur,3333,Rajim,802037,Rajim (NP)
+265,22,CHHATTISGARH,410,Raipur,3334,Tilda,0,Tilda
+266,22,CHHATTISGARH,410,Raipur,3334,Tilda,802038,Tilda Newra (M + OG)
+267,22,CHHATTISGARH,410,Raipur,3334,Tilda,802038,Tilda Newra (M)
+268,22,CHHATTISGARH,410,Raipur,3334,Tilda,802039,Kharora (NP)
+269,22,CHHATTISGARH,410,Raipur,3335,Bindranavagarh(Gariyaband),0,Bindranavagarh(Gariyaband)
+270,22,CHHATTISGARH,410,Raipur,3335,Bindranavagarh(Gariyaband),802040,Gariyaband (NP)
+271,22,CHHATTISGARH,410,Raipur,3336,Chhura,0,Chhura
+272,22,CHHATTISGARH,410,Raipur,3336,Chhura,802041,Chhura (NP)
+273,22,CHHATTISGARH,410,Raipur,3337,Mainpur,0,Mainpur
+274,22,CHHATTISGARH,410,Raipur,3338,Deobhog,0,Deobhog
+275,22,CHHATTISGARH,411,Mahasamund,0,Mahasamund,0,Mahasamund
+276,22,CHHATTISGARH,411,Mahasamund,3339,Basna,0,Basna
+277,22,CHHATTISGARH,411,Mahasamund,3339,Basna,802042,Basna  (NP)
+278,22,CHHATTISGARH,411,Mahasamund,3340,Saraipali,0,Saraipali
+279,22,CHHATTISGARH,411,Mahasamund,3340,Saraipali,802043,Saraipali (NP)
+280,22,CHHATTISGARH,411,Mahasamund,3341,Mahasamund,0,Mahasamund
+281,22,CHHATTISGARH,411,Mahasamund,3341,Mahasamund,802044,Tumgaon (NP)
+282,22,CHHATTISGARH,411,Mahasamund,3341,Mahasamund,802045,Mahasamund (M + OG)
+283,22,CHHATTISGARH,411,Mahasamund,3341,Mahasamund,802045,Mahasamund (M)
+284,22,CHHATTISGARH,411,Mahasamund,3342,Pithora,0,Pithora
+285,22,CHHATTISGARH,411,Mahasamund,3342,Pithora,802046,Pithora (NP)
+286,22,CHHATTISGARH,411,Mahasamund,3343,Bagbahra,0,Bagbahra
+287,22,CHHATTISGARH,411,Mahasamund,3343,Bagbahra,802047,Bagbahara (NP)
+288,22,CHHATTISGARH,412,Dhamtari ,0,Dhamtari ,0,Dhamtari 
+289,22,CHHATTISGARH,412,Dhamtari ,3344,Kurud,0,Kurud
+290,22,CHHATTISGARH,412,Dhamtari ,3344,Kurud,802048,Bhakhara (NP)
+291,22,CHHATTISGARH,412,Dhamtari ,3344,Kurud,802049,Kurud (NP)
+292,22,CHHATTISGARH,412,Dhamtari ,3345,Magarlod,0,Magarlod
+293,22,CHHATTISGARH,412,Dhamtari ,3345,Magarlod,802050,Magarlod (NP)
+294,22,CHHATTISGARH,412,Dhamtari ,3346,Dhamtari,0,Dhamtari
+295,22,CHHATTISGARH,412,Dhamtari ,3346,Dhamtari,802051,Aamadi (NP)
+296,22,CHHATTISGARH,412,Dhamtari ,3346,Dhamtari,802052,Dhamtari (M + OG)
+297,22,CHHATTISGARH,412,Dhamtari ,3346,Dhamtari,802052,Dhamtari (M)
+298,22,CHHATTISGARH,412,Dhamtari ,3347,Nagri,0,Nagri
+299,22,CHHATTISGARH,412,Dhamtari ,3347,Nagri,802053,Nagari (NP)
+300,22,CHHATTISGARH,413,Uttar Bastar Kanker,0,Uttar Bastar Kanker,0,Uttar Bastar Kanker
+301,22,CHHATTISGARH,413,Uttar Bastar Kanker,3348,Charama,0,Charama
+302,22,CHHATTISGARH,413,Uttar Bastar Kanker,3348,Charama,802054,Charama (NP)
+303,22,CHHATTISGARH,413,Uttar Bastar Kanker,3349,Bhanupratappur,0,Bhanupratappur
+304,22,CHHATTISGARH,413,Uttar Bastar Kanker,3349,Bhanupratappur,802055,Bhanupratappur (NP)
+305,22,CHHATTISGARH,413,Uttar Bastar Kanker,3350,Durgkondal,0,Durgkondal
+306,22,CHHATTISGARH,413,Uttar Bastar Kanker,3351,Kanker,0,Kanker
+307,22,CHHATTISGARH,413,Uttar Bastar Kanker,3351,Kanker,802056,Kanker (M + OG)
+308,22,CHHATTISGARH,413,Uttar Bastar Kanker,3351,Kanker,802056,Kanker (M)
+309,22,CHHATTISGARH,413,Uttar Bastar Kanker,3352,Narharpur,0,Narharpur
+310,22,CHHATTISGARH,413,Uttar Bastar Kanker,3352,Narharpur,802057,Narharpur (NP)
+311,22,CHHATTISGARH,413,Uttar Bastar Kanker,3353,Antagarh,0,Antagarh
+312,22,CHHATTISGARH,413,Uttar Bastar Kanker,3353,Antagarh,802058,Antagarh (NP)
+313,22,CHHATTISGARH,413,Uttar Bastar Kanker,3354,Pakhanjur,0,Pakhanjur
+314,22,CHHATTISGARH,413,Uttar Bastar Kanker,3354,Pakhanjur,802059,Pakhanjur (NP)
+315,22,CHHATTISGARH,414,Bastar,0,Bastar,0,Bastar
+316,22,CHHATTISGARH,414,Bastar,3355,Keskal,0,Keskal
+317,22,CHHATTISGARH,414,Bastar,3355,Keskal,802060,Keskal (NP)
+318,22,CHHATTISGARH,414,Bastar,3356,Bade Rajpur,0,Bade Rajpur
+319,22,CHHATTISGARH,414,Bastar,3356,Bade Rajpur,802061,Visrampuree (NP)
+320,22,CHHATTISGARH,414,Bastar,3357,Kondagaon,0,Kondagaon
+321,22,CHHATTISGARH,414,Bastar,3357,Kondagaon,802062,Kondagaon (M)
+322,22,CHHATTISGARH,414,Bastar,3358,Makdi,0,Makdi
+323,22,CHHATTISGARH,414,Bastar,3359,Farasgaon,0,Farasgaon
+324,22,CHHATTISGARH,414,Bastar,3359,Farasgaon,802063,Farasgaon (NP)
+325,22,CHHATTISGARH,414,Bastar,3360,Jagdalpur,0,Jagdalpur
+326,22,CHHATTISGARH,414,Bastar,3360,Jagdalpur,802064,Jagdalpur (M Corp.)
+327,22,CHHATTISGARH,414,Bastar,3361,Lohandiguda,0,Lohandiguda
+328,22,CHHATTISGARH,414,Bastar,3362,Bastanar,0,Bastanar
+329,22,CHHATTISGARH,414,Bastar,3363,Bastar,0,Bastar
+330,22,CHHATTISGARH,414,Bastar,3363,Bastar,802065,Bastar (NP)
+331,22,CHHATTISGARH,414,Bastar,3364,Bakavand,0,Bakavand
+332,22,CHHATTISGARH,414,Bastar,3365,Tokapal,0,Tokapal
+333,22,CHHATTISGARH,414,Bastar,3366,Darbha,0,Darbha
+334,22,CHHATTISGARH,415,Narayanpur,0,Narayanpur,0,Narayanpur
+335,22,CHHATTISGARH,415,Narayanpur,3367,Narayanpur,0,Narayanpur
+336,22,CHHATTISGARH,415,Narayanpur,3367,Narayanpur,802066,Narayanpur (NP)
+337,22,CHHATTISGARH,415,Narayanpur,3368,Orchha,0,Orchha
+338,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,0,Dakshin Bastar Dantewada,0,Dakshin Bastar Dantewada
+339,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3369,Dantewada,0,Dantewada
+340,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3369,Dantewada,802067,Dantewada (NP)
+341,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3369,Dantewada,802068,Bade Bacheli (M)
+342,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3370,Gidam,0,Gidam
+343,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3370,Gidam,802069,Barsur (NP)
+344,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3370,Gidam,802070,Geedam (NP)
+345,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3371,Katekalyan,0,Katekalyan
+346,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3372,Kuakonda,0,Kuakonda
+347,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3372,Kuakonda,802071,Kirandul (M)
+348,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3373,Konta,0,Konta
+349,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3373,Konta,802072,Dornapal (NP)
+350,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3373,Konta,802073,Konta (NP)
+351,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3374,Chhindgarh,0,Chhindgarh
+352,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3375,Sukma,0,Sukma
+353,22,CHHATTISGARH,416,Dakshin Bastar Dantewada,3375,Sukma,802074,Sukma (NP)
+354,22,CHHATTISGARH,417,Bijapur,0,Bijapur,0,Bijapur
+355,22,CHHATTISGARH,417,Bijapur,3376,Bhopalpattnam,0,Bhopalpattnam
+356,22,CHHATTISGARH,417,Bijapur,3376,Bhopalpattnam,802075,Bhopalpattanam (NP)
+357,22,CHHATTISGARH,417,Bijapur,3377,Usur,0,Usur
+358,22,CHHATTISGARH,417,Bijapur,3378,Bijapur,0,Bijapur
+359,22,CHHATTISGARH,417,Bijapur,3378,Bijapur,802076,Bijapur (NP)
+360,22,CHHATTISGARH,417,Bijapur,3379,Bhairamgarh,0,Bhairamgarh
+361,22,CHHATTISGARH,417,Bijapur,3379,Bhairamgarh,802077,Bhairamgarh (NP)

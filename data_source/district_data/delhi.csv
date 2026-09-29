@@ -1,0 +1,73 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,7,NCT OF DELHI,0,NCT OF DELHI,0,NCT OF DELHI,0,NCT OF DELHI
+1,7,NCT OF DELHI,90,North West,0,North West,0,North West
+2,7,NCT OF DELHI,90,North West,430,Narela,0,Narela
+4,7,NCT OF DELHI,90,North West,430,Narela,800441,DMC (U) (Part)
+5,7,NCT OF DELHI,90,North West,431,Saraswati Vihar,0,Saraswati Vihar
+6,7,NCT OF DELHI,90,North West,431,Saraswati Vihar,800441,DMC (U) (Part)
+7,7,NCT OF DELHI,90,North West,432,Model Town,0,Model Town
+8,7,NCT OF DELHI,90,North West,432,Model Town,800441,DMC (U) (Part)
+9,7,NCT OF DELHI,91,North,0,North,0,North
+10,7,NCT OF DELHI,91,North,433,Civil Lines,0,Civil Lines
+11,7,NCT OF DELHI,91,North,433,Civil Lines,800441,DMC (U) (Part)
+12,7,NCT OF DELHI,91,North,434,Sadar Bazar,0,Sadar Bazar
+13,7,NCT OF DELHI,91,North,434,Sadar Bazar,800441,DMC (U) (Part)
+14,7,NCT OF DELHI,91,North,435,Kotwali,0,Kotwali
+15,7,NCT OF DELHI,91,North,435,Kotwali,800441,DMC (U) (Part)
+16,7,NCT OF DELHI,92,North East,0,North East,0,North East
+17,7,NCT OF DELHI,92,North East,436,Seelam Pur,0,Seelam Pur
+18,7,NCT OF DELHI,92,North East,436,Seelam Pur,800441,DMC (U) (Part)
+19,7,NCT OF DELHI,92,North East,437,Shahdara,0,Shahdara
+20,7,NCT OF DELHI,92,North East,437,Shahdara,800441,DMC (U) (Part)
+21,7,NCT OF DELHI,92,North East,438,Seema Puri,0,Seema Puri
+22,7,NCT OF DELHI,92,North East,438,Seema Puri,800441,DMC (U) (Part)
+23,7,NCT OF DELHI,93,East,0,East,0,East
+24,7,NCT OF DELHI,93,East,439,Gandhi Nagar,0,Gandhi Nagar
+25,7,NCT OF DELHI,93,East,439,Gandhi Nagar,800441,DMC (U) (Part)
+26,7,NCT OF DELHI,93,East,440,Vivek Vihar,0,Vivek Vihar
+27,7,NCT OF DELHI,93,East,440,Vivek Vihar,800441,DMC (U) (Part)
+28,7,NCT OF DELHI,93,East,441,Preet Vihar,0,Preet Vihar
+29,7,NCT OF DELHI,93,East,441,Preet Vihar,800441,DMC (U) (Part)
+30,7,NCT OF DELHI,94,New Delhi,0,New Delhi,0,New Delhi
+31,7,NCT OF DELHI,94,New Delhi,442,Connaught Place,0,Connaught Place
+32,7,NCT OF DELHI,94,New Delhi,442,Connaught Place,800441,DMC (U) (Part)
+34,7,NCT OF DELHI,94,New Delhi,442,Connaught Place,800442,NDMC (Part)
+35,7,NCT OF DELHI,94,New Delhi,443,Chanakya Puri,0,Chanakya Puri
+36,7,NCT OF DELHI,94,New Delhi,443,Chanakya Puri,800442,NDMC (Part)
+37,7,NCT OF DELHI,94,New Delhi,444,Parliament Street,0,Parliament Street
+38,7,NCT OF DELHI,94,New Delhi,444,Parliament Street,800442,NDMC (Part)
+39,7,NCT OF DELHI,95,Central,0,Central,0,Central
+40,7,NCT OF DELHI,95,Central,445,Darya Ganj,0,Darya Ganj
+41,7,NCT OF DELHI,95,Central,445,Darya Ganj,800441,DMC (U) (Part)
+42,7,NCT OF DELHI,95,Central,446,Pahar Ganj,0,Pahar Ganj
+43,7,NCT OF DELHI,95,Central,446,Pahar Ganj,800441,DMC (U) (Part)
+44,7,NCT OF DELHI,95,Central,446,Pahar Ganj,800442,NDMC (Part)
+45,7,NCT OF DELHI,95,Central,447,Karol Bagh,0,Karol Bagh
+46,7,NCT OF DELHI,95,Central,447,Karol Bagh,800441,DMC (U) (Part)
+47,7,NCT OF DELHI,96,West,0,West,0,West
+48,7,NCT OF DELHI,96,West,448,Patel Nagar,0,Patel Nagar
+49,7,NCT OF DELHI,96,West,448,Patel Nagar,800441,DMC (U) (Part)
+50,7,NCT OF DELHI,96,West,449,Rajouri Garden,0,Rajouri Garden
+51,7,NCT OF DELHI,96,West,449,Rajouri Garden,800441,DMC (U) (Part)
+52,7,NCT OF DELHI,96,West,450,Punjabi Bagh,0,Punjabi Bagh
+53,7,NCT OF DELHI,96,West,450,Punjabi Bagh,800441,DMC (U) (Part)
+54,7,NCT OF DELHI,97,South West,0,South West,0,South West
+55,7,NCT OF DELHI,97,South West,451,Najafgarh,0,Najafgarh
+56,7,NCT OF DELHI,97,South West,451,Najafgarh,800441,DMC (U) (Part)
+57,7,NCT OF DELHI,97,South West,452,Delhi Cantonment,0,Delhi Cantonment
+58,7,NCT OF DELHI,97,South West,452,Delhi Cantonment,800441,DMC (U) (Part)
+59,7,NCT OF DELHI,97,South West,0,South West,800443,Delhi Cantonment (CB)
+60,7,NCT OF DELHI,97,South West,452,Delhi Cantonment,800443,Delhi Cantonment (CB) (Part)
+61,7,NCT OF DELHI,97,South West,453,Vasant Vihar,0,Vasant Vihar
+62,7,NCT OF DELHI,97,South West,453,Vasant Vihar,800441,DMC (U) (Part)
+63,7,NCT OF DELHI,97,South West,453,Vasant Vihar,800443,Delhi Cantonment (CB) (Part)
+64,7,NCT OF DELHI,97,South West,453,Vasant Vihar,800442,NDMC (Part)
+65,7,NCT OF DELHI,98,South,0,South,0,South
+66,7,NCT OF DELHI,98,South,454,Hauz Khas,0,Hauz Khas
+67,7,NCT OF DELHI,98,South,454,Hauz Khas,800441,DMC (U) (Part)
+68,7,NCT OF DELHI,98,South,454,Hauz Khas,800442,NDMC (Part)
+69,7,NCT OF DELHI,98,South,455,Defence Colony,0,Defence Colony
+70,7,NCT OF DELHI,98,South,455,Defence Colony,800441,DMC (U) (Part)
+71,7,NCT OF DELHI,98,South,455,Defence Colony,800442,NDMC (Part)
+72,7,NCT OF DELHI,98,South,456,Kalkaji,0,Kalkaji
+73,7,NCT OF DELHI,98,South,456,Kalkaji,800441,DMC (U) (Part)

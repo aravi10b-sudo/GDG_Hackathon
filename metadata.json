@@ -1,0 +1,6 @@
+{
+  "name": "JanVikas Setu: National Citizen Infrastructure & Demand Intelligence",
+  "description": "A multilingual Digital Public Good aggregating citizen infrastructure demands via voice and messaging, combined with demographic and infrastructure indices for policymaker spatial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

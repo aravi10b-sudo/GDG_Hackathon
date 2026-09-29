@@ -1,0 +1,986 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,33,TAMIL NADU,0,TAMIL NADU,0,TAMIL NADU,0,TAMIL NADU
+1,33,TAMIL NADU,602,Thiruvallur,0,Thiruvallur,0,Thiruvallur
+2,33,TAMIL NADU,602,Thiruvallur,5693,Gummidipoondi,0,Gummidipoondi
+3,33,TAMIL NADU,602,Thiruvallur,5693,Gummidipoondi,803314,Gummidipoondi (TP)
+4,33,TAMIL NADU,602,Thiruvallur,5694,Ponneri,0,Ponneri
+5,33,TAMIL NADU,602,Thiruvallur,5694,Ponneri,803315,Ponneri (TP)
+6,33,TAMIL NADU,602,Thiruvallur,5694,Ponneri,803316,Arani (TP)
+7,33,TAMIL NADU,602,Thiruvallur,5694,Ponneri,803317,Minjur (TP)
+8,33,TAMIL NADU,602,Thiruvallur,5695,Uthukkottai,0,Uthukkottai
+9,33,TAMIL NADU,602,Thiruvallur,5695,Uthukkottai,803318,Uthukkottai (TP)
+10,33,TAMIL NADU,602,Thiruvallur,5696,Tiruttani,0,Tiruttani
+11,33,TAMIL NADU,602,Thiruvallur,5696,Tiruttani,803319,Tiruttani (M)
+12,33,TAMIL NADU,602,Thiruvallur,5697,Pallipattu,0,Pallipattu
+13,33,TAMIL NADU,602,Thiruvallur,5697,Pallipattu,803320,Pallipattu (TP)
+14,33,TAMIL NADU,602,Thiruvallur,5697,Pallipattu,803321,Pothatturpettai (TP)
+15,33,TAMIL NADU,602,Thiruvallur,5698,Thiruvallur,0,Thiruvallur
+16,33,TAMIL NADU,602,Thiruvallur,5698,Thiruvallur,803322,Thiruvallur (M)
+17,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,0,Poonamallee
+18,33,TAMIL NADU,602,Thiruvallur,0,Thiruvallur,803325,Tiruverkadu (M + OG)
+19,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803323,Avadi (M)
+20,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803324,Thirunindravur (TP)
+21,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803325,Tiruverkadu (M + OG) (Part)
+22,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803325,Tiruverkadu (M)
+23,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803326,Thirumazhisai (TP)
+24,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803327,Poonamallee (M + OG)
+25,33,TAMIL NADU,602,Thiruvallur,5699,Poonamallee,803327,Poonamallee (M)
+26,33,TAMIL NADU,602,Thiruvallur,5700,Ambattur,0,Ambattur
+27,33,TAMIL NADU,602,Thiruvallur,5700,Ambattur,803325,Tiruverkadu (M + OG) (Part)
+28,33,TAMIL NADU,602,Thiruvallur,5700,Ambattur,803328,Ambattur (M)
+29,33,TAMIL NADU,602,Thiruvallur,5700,Ambattur,803329,Maduravoyal (M)
+30,33,TAMIL NADU,602,Thiruvallur,5700,Ambattur,803330,Valasaravakkam (M)
+31,33,TAMIL NADU,602,Thiruvallur,5700,Ambattur,803331,Porur (TP)
+32,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,0,Mathavaram
+33,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803332,Kattivakkam (M)
+34,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803333,Tiruvottiyur (M)
+35,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803334,Manali (M)
+36,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803335,Naravarikuppam (TP)
+37,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803336,Puzhal (TP)
+38,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803337,Madavaram (M)
+39,33,TAMIL NADU,602,Thiruvallur,5701,Mathavaram,803338,Chinnasekkadu (TP)
+40,33,TAMIL NADU,603,Chennai,0,Chennai,0,Chennai
+41,33,TAMIL NADU,603,Chennai,99999,Area not under any Sub-district,803339,Chennai (M Corp.)
+42,33,TAMIL NADU,604,Kancheepuram,0,Kancheepuram,0,Kancheepuram
+43,33,TAMIL NADU,604,Kancheepuram,5702,Sriperumbudur,0,Sriperumbudur
+44,33,TAMIL NADU,604,Kancheepuram,0,Kancheepuram,803352,Meenambakkam (TP + OG)
+45,33,TAMIL NADU,604,Kancheepuram,5702,Sriperumbudur,803340,Mangadu (TP)
+46,33,TAMIL NADU,604,Kancheepuram,5702,Sriperumbudur,803341,Kundrathur (TP + OG)
+47,33,TAMIL NADU,604,Kancheepuram,5702,Sriperumbudur,803341,Kundrathur (TP)
+48,33,TAMIL NADU,604,Kancheepuram,5702,Sriperumbudur,803342,Sriperumbudur (TP)
+49,33,TAMIL NADU,604,Kancheepuram,5702,Sriperumbudur,803352,Meenambakkam (TP + OG) (Part)
+50,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,0,Tambaram
+51,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803343,Chitlapakkam (TP)
+52,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803344,Perungalathur (TP)
+53,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803345,Tambaram (M)
+54,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803346,Sembakkam (TP)
+55,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803347,Peerkankaranai (TP + OG)
+56,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803347,Peerkankaranai (TP)
+57,33,TAMIL NADU,604,Kancheepuram,5703,Tambaram,803348,Madambakkam (TP)
+58,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,0,Alandur 
+59,33,TAMIL NADU,604,Kancheepuram,0,Kancheepuram,803356,Pallavaram (M + OG)
+60,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803349,Nandambakkam (TP)
+61,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803350,St.Thomas Mount-cum-Pallavaram (CB)
+62,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803351,Alandur (M)
+63,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803352,Meenambakkam (TP + OG) (Part)
+64,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803352,Meenambakkam (TP)
+65,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803353,Anakaputhur (M)
+66,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803354,Pammal (M)
+67,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803355,Thiruneermalai (TP)
+68,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803356,Pallavaram (M + OG) (Part)
+69,33,TAMIL NADU,604,Kancheepuram,5704,Alandur ,803356,Pallavaram (M)
+70,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,0,Sholinganallur 
+71,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,803356,Pallavaram (M + OG) (Part)
+72,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,803357,Puzhithivakkam (Ullagaram) (M)
+73,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,803358,Perungudi (TP)
+74,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,803359,Pallikaranai (TP)
+75,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,803360,Sholinganallur (TP + OG)
+76,33,TAMIL NADU,604,Kancheepuram,5705,Sholinganallur ,803360,Sholinganallur (TP)
+77,33,TAMIL NADU,604,Kancheepuram,5706,Chengalpattu,0,Chengalpattu
+78,33,TAMIL NADU,604,Kancheepuram,5706,Chengalpattu,803361,Nandivaram - Guduvancheri (TP)
+79,33,TAMIL NADU,604,Kancheepuram,5706,Chengalpattu,803362,Maraimalainagar (M)
+80,33,TAMIL NADU,604,Kancheepuram,5706,Chengalpattu,803363,Thiruporur (TP)
+81,33,TAMIL NADU,604,Kancheepuram,5706,Chengalpattu,803364,Chengalpattu (M)
+82,33,TAMIL NADU,604,Kancheepuram,5707,Kancheepuram,0,Kancheepuram
+83,33,TAMIL NADU,604,Kancheepuram,5707,Kancheepuram,803365,Kancheepuram (M)
+84,33,TAMIL NADU,604,Kancheepuram,5707,Kancheepuram,803366,Sevilimedu (TP)
+85,33,TAMIL NADU,604,Kancheepuram,5707,Kancheepuram,803367,Walajabad (TP)
+86,33,TAMIL NADU,604,Kancheepuram,5708,Uthiramerur,0,Uthiramerur
+87,33,TAMIL NADU,604,Kancheepuram,5708,Uthiramerur,803368,Uthiramerur (TP)
+88,33,TAMIL NADU,604,Kancheepuram,5709,Tirukalukundram,0,Tirukalukundram
+89,33,TAMIL NADU,604,Kancheepuram,5709,Tirukalukundram,803369,Mamallapuram (TP)
+90,33,TAMIL NADU,604,Kancheepuram,5709,Tirukalukundram,803370,Tirukalukundram (TP)
+91,33,TAMIL NADU,604,Kancheepuram,5710,Maduranthakam,0,Maduranthakam
+92,33,TAMIL NADU,604,Kancheepuram,5710,Maduranthakam,803371,Karunguzhi (TP)
+93,33,TAMIL NADU,604,Kancheepuram,5710,Maduranthakam,803372,Maduranthakam (M)
+94,33,TAMIL NADU,604,Kancheepuram,5710,Maduranthakam,803373,Acharapakkam (TP)
+95,33,TAMIL NADU,604,Kancheepuram,5711,Cheyyur,0,Cheyyur
+96,33,TAMIL NADU,604,Kancheepuram,5711,Cheyyur,803374,Edakalinadu (TP)
+97,33,TAMIL NADU,605,Vellore,0,Vellore,0,Vellore
+98,33,TAMIL NADU,605,Vellore,5712,Gudiyatham,0,Gudiyatham
+99,33,TAMIL NADU,605,Vellore,5712,Gudiyatham,803375,Gudiyatham (M)
+100,33,TAMIL NADU,605,Vellore,5712,Gudiyatham,803376,Pernampattu (M)
+101,33,TAMIL NADU,605,Vellore,5713,Katpadi,0,Katpadi
+102,33,TAMIL NADU,605,Vellore,5713,Katpadi,803377,Thiruvalam (TP)
+103,33,TAMIL NADU,605,Vellore,5713,Katpadi,803378,Katpadi (TP)
+104,33,TAMIL NADU,605,Vellore,5713,Katpadi,803379,Dharapadavedu (M)
+105,33,TAMIL NADU,605,Vellore,5713,Katpadi,803380,Gandhinagar (TP)
+106,33,TAMIL NADU,605,Vellore,5713,Katpadi,803381,Kalinjur (TP)
+107,33,TAMIL NADU,605,Vellore,5714,Wallajah,0,Wallajah
+108,33,TAMIL NADU,605,Vellore,5714,Wallajah,803382,Sholingur (TP)
+109,33,TAMIL NADU,605,Vellore,5714,Wallajah,803383,Ammoor (TP)
+110,33,TAMIL NADU,605,Vellore,5714,Wallajah,803384,Walajapet (M + OG)
+111,33,TAMIL NADU,605,Vellore,5714,Wallajah,803384,Walajapet (M)
+112,33,TAMIL NADU,605,Vellore,5714,Wallajah,803385,Ranipettai (M)
+113,33,TAMIL NADU,605,Vellore,5714,Wallajah,803386,Melvisharam (M)
+114,33,TAMIL NADU,605,Vellore,5715,Arakonam,0,Arakonam
+115,33,TAMIL NADU,605,Vellore,5715,Arakonam,803387,Arakonam (M)
+116,33,TAMIL NADU,605,Vellore,5715,Arakonam,803388,Thakkolam (TP)
+117,33,TAMIL NADU,605,Vellore,5715,Arakonam,803389,Nemili (TP)
+118,33,TAMIL NADU,605,Vellore,5715,Arakonam,803390,Kaveripakkam (TP)
+119,33,TAMIL NADU,605,Vellore,5715,Arakonam,803391,Panapakkam (TP)
+120,33,TAMIL NADU,605,Vellore,5716,Arcot,0,Arcot
+121,33,TAMIL NADU,605,Vellore,5716,Arcot,803392,Arcot (M)
+122,33,TAMIL NADU,605,Vellore,5716,Arcot,803393,Vilapakkam (TP)
+123,33,TAMIL NADU,605,Vellore,5716,Arcot,803394,Timiri (TP)
+124,33,TAMIL NADU,605,Vellore,5716,Arcot,803395,Kalavai (TP)
+125,33,TAMIL NADU,605,Vellore,5717,Vellore,0,Vellore
+126,33,TAMIL NADU,605,Vellore,5717,Vellore,803396,Sathuvachari (M)
+127,33,TAMIL NADU,605,Vellore,5717,Vellore,803397,Shenbakkam (TP)
+128,33,TAMIL NADU,605,Vellore,5717,Vellore,803398,Vellore (M Corp.)
+129,33,TAMIL NADU,605,Vellore,5717,Vellore,803399,Pallikonda (TP)
+130,33,TAMIL NADU,605,Vellore,5717,Vellore,803400,Thorapadi (TP)
+131,33,TAMIL NADU,605,Vellore,5717,Vellore,803401,Allapuram (TP)
+132,33,TAMIL NADU,605,Vellore,5717,Vellore,803402,Pennathur (TP)
+133,33,TAMIL NADU,605,Vellore,5717,Vellore,803403,Odugathur (TP)
+134,33,TAMIL NADU,605,Vellore,5718,Vaniyambadi,0,Vaniyambadi
+135,33,TAMIL NADU,605,Vellore,5718,Vaniyambadi,803404,Vaniyambadi (M)
+136,33,TAMIL NADU,605,Vellore,5718,Vaniyambadi,803405,Alangayam (TP)
+137,33,TAMIL NADU,605,Vellore,5719,Ambur,0,Ambur
+138,33,TAMIL NADU,605,Vellore,5719,Ambur,803406,Ambur (M)
+139,33,TAMIL NADU,605,Vellore,5719,Ambur,803407,Uthayendram (TP)
+140,33,TAMIL NADU,605,Vellore,5720,Tirupathur,0,Tirupathur
+141,33,TAMIL NADU,605,Vellore,5720,Tirupathur,803408,Natrampalli (TP)
+142,33,TAMIL NADU,605,Vellore,5720,Tirupathur,803409,Jolarpet (M)
+143,33,TAMIL NADU,605,Vellore,5720,Tirupathur,803410,Tirupathur (M)
+144,33,TAMIL NADU,606,Tiruvannamalai,0,Tiruvannamalai,0,Tiruvannamalai
+145,33,TAMIL NADU,606,Tiruvannamalai,5721,Arani,0,Arani
+146,33,TAMIL NADU,606,Tiruvannamalai,5721,Arani,803411,Kannamangalam (TP)
+147,33,TAMIL NADU,606,Tiruvannamalai,5721,Arani,803412,Arani (M)
+148,33,TAMIL NADU,606,Tiruvannamalai,5722,Cheyyar,0,Cheyyar
+149,33,TAMIL NADU,606,Tiruvannamalai,5722,Cheyyar,803413,Tiruvethipuram (M)
+150,33,TAMIL NADU,606,Tiruvannamalai,5723,Vandavasi,0,Vandavasi
+151,33,TAMIL NADU,606,Tiruvannamalai,5723,Vandavasi,803414,Peranamallur (TP)
+152,33,TAMIL NADU,606,Tiruvannamalai,5723,Vandavasi,803415,Vandavasi (M)
+153,33,TAMIL NADU,606,Tiruvannamalai,5723,Vandavasi,803416,Desur (TP)
+154,33,TAMIL NADU,606,Tiruvannamalai,5724,Polur,0,Polur
+155,33,TAMIL NADU,606,Tiruvannamalai,5724,Polur,803417,Kalambur (TP)
+156,33,TAMIL NADU,606,Tiruvannamalai,5724,Polur,803418,Polur (TP)
+157,33,TAMIL NADU,606,Tiruvannamalai,5724,Polur,803419,Chetpet (TP)
+158,33,TAMIL NADU,606,Tiruvannamalai,5725,Chengam,0,Chengam
+159,33,TAMIL NADU,606,Tiruvannamalai,5725,Chengam,803420,Pudupalayam (TP)
+160,33,TAMIL NADU,606,Tiruvannamalai,5725,Chengam,803421,Chengam (TP)
+161,33,TAMIL NADU,606,Tiruvannamalai,5726,Thandrampet,0,Thandrampet
+162,33,TAMIL NADU,606,Tiruvannamalai,5727,Tiruvannamalai,0,Tiruvannamalai
+163,33,TAMIL NADU,606,Tiruvannamalai,5727,Tiruvannamalai,803422,Tiruvannamalai (M)
+164,33,TAMIL NADU,606,Tiruvannamalai,5727,Tiruvannamalai,803423,Kilpennathur (TP)
+165,33,TAMIL NADU,606,Tiruvannamalai,5727,Tiruvannamalai,803424,Vettavalam (TP)
+166,33,TAMIL NADU,607,Viluppuram,0,Viluppuram,0,Viluppuram
+167,33,TAMIL NADU,607,Viluppuram,5728,Gingee,0,Gingee
+168,33,TAMIL NADU,607,Viluppuram,5728,Gingee,803425,Gingee (TP)
+169,33,TAMIL NADU,607,Viluppuram,5728,Gingee,803426,Ananthapuram (TP)
+170,33,TAMIL NADU,607,Viluppuram,5729,Tindivanam,0,Tindivanam
+171,33,TAMIL NADU,607,Viluppuram,5729,Tindivanam,803427,Tindivanam (M)
+172,33,TAMIL NADU,607,Viluppuram,5729,Tindivanam,803428,Marakkanam (TP)
+173,33,TAMIL NADU,607,Viluppuram,5730,Vanur,0,Vanur
+174,33,TAMIL NADU,607,Viluppuram,5730,Vanur,803429,Kottakuppam (TP)
+175,33,TAMIL NADU,607,Viluppuram,5731,Viluppuram,0,Viluppuram
+176,33,TAMIL NADU,607,Viluppuram,5731,Viluppuram,803430,Vikravandi (TP)
+177,33,TAMIL NADU,607,Viluppuram,5731,Viluppuram,803431,Viluppuram (M)
+178,33,TAMIL NADU,607,Viluppuram,5731,Viluppuram,803432,Valavanur (TP)
+179,33,TAMIL NADU,607,Viluppuram,5732,Tirukkoyilur,0,Tirukkoyilur
+180,33,TAMIL NADU,607,Viluppuram,5732,Tirukkoyilur,803433,Manalurpet (TP)
+181,33,TAMIL NADU,607,Viluppuram,5732,Tirukkoyilur,803434,Arakandanallur (TP)
+182,33,TAMIL NADU,607,Viluppuram,5732,Tirukkoyilur,803435,Tirukkoyilur (TP)
+183,33,TAMIL NADU,607,Viluppuram,5732,Tirukkoyilur,803436,Thiruvennainallur (TP)
+184,33,TAMIL NADU,607,Viluppuram,5733,Sankarapuram,0,Sankarapuram
+185,33,TAMIL NADU,607,Viluppuram,5733,Sankarapuram,803437,Sankarapuram (TP)
+186,33,TAMIL NADU,607,Viluppuram,5734,Kallakkurichi,0,Kallakkurichi
+187,33,TAMIL NADU,607,Viluppuram,5734,Kallakkurichi,803438,Vadakkanandal (TP)
+188,33,TAMIL NADU,607,Viluppuram,5734,Kallakkurichi,803439,Thiagadurgam (TP)
+189,33,TAMIL NADU,607,Viluppuram,5734,Kallakkurichi,803440,Kallakkurichi (M)
+190,33,TAMIL NADU,607,Viluppuram,5734,Kallakkurichi,803441,Chinnasalem (TP)
+191,33,TAMIL NADU,607,Viluppuram,5735,Ulundurpettai,0,Ulundurpettai
+192,33,TAMIL NADU,607,Viluppuram,5735,Ulundurpettai,803442,Ulundurpettai (TP)
+193,33,TAMIL NADU,608,Salem,0,Salem,0,Salem
+194,33,TAMIL NADU,608,Salem,5736,Mettur,0,Mettur
+195,33,TAMIL NADU,608,Salem,5736,Mettur,803443,Kolathur (TP)
+196,33,TAMIL NADU,608,Salem,5736,Mettur,803444,Mecheri (TP)
+197,33,TAMIL NADU,608,Salem,5736,Mettur,803445,Veerakkalpudur (TP)
+198,33,TAMIL NADU,608,Salem,5736,Mettur,803446,Mettur (M)
+199,33,TAMIL NADU,608,Salem,5736,Mettur,803447,P.N.Patti (TP)
+200,33,TAMIL NADU,608,Salem,5736,Mettur,803448,Nangavalli (TP)
+201,33,TAMIL NADU,608,Salem,5736,Mettur,803449,Vanavasi (TP)
+202,33,TAMIL NADU,608,Salem,5736,Mettur,803450,Jalakandapuram (TP)
+203,33,TAMIL NADU,608,Salem,5737,Omalur,0,Omalur
+204,33,TAMIL NADU,608,Salem,5737,Omalur,803451,Kadayampatti (TP)
+205,33,TAMIL NADU,608,Salem,5737,Omalur,803452,Omalur (TP)
+206,33,TAMIL NADU,608,Salem,5737,Omalur,803453,Karuppur (TP)
+207,33,TAMIL NADU,608,Salem,5737,Omalur,803454,Tharamangalam (TP)
+208,33,TAMIL NADU,608,Salem,5738,Edappadi,0,Edappadi
+209,33,TAMIL NADU,608,Salem,5738,Edappadi,803455,Poolampatti (TP)
+210,33,TAMIL NADU,608,Salem,5738,Edappadi,803456,Edappadi (M)
+211,33,TAMIL NADU,608,Salem,5738,Edappadi,803457,Konganapuram (TP)
+212,33,TAMIL NADU,608,Salem,5739,Sankari,0,Sankari
+213,33,TAMIL NADU,608,Salem,5739,Sankari,803458,Edaganasalai (TP)
+214,33,TAMIL NADU,608,Salem,5739,Sankari,803459,Arasiramani (TP)
+215,33,TAMIL NADU,608,Salem,5739,Sankari,803460,Thevur (TP)
+216,33,TAMIL NADU,608,Salem,5739,Sankari,803461,Sankari (TP)
+217,33,TAMIL NADU,608,Salem,5740,Salem,0,Salem
+218,33,TAMIL NADU,608,Salem,5740,Salem,803462,Kannankurichi (TP)
+219,33,TAMIL NADU,608,Salem,5740,Salem,803463,Salem (M Corp.)
+220,33,TAMIL NADU,608,Salem,5740,Salem,803464,Ilampillai (TP)
+221,33,TAMIL NADU,608,Salem,5740,Salem,803465,Panaimarathupatti (TP)
+222,33,TAMIL NADU,608,Salem,5740,Salem,803466,Mallur (TP)
+223,33,TAMIL NADU,608,Salem,5740,Salem,803467,Attayampatti (TP)
+224,33,TAMIL NADU,608,Salem,5741,Yercaud,0,Yercaud
+225,33,TAMIL NADU,608,Salem,5742,Vazhapadi,0,Vazhapadi
+226,33,TAMIL NADU,608,Salem,5742,Vazhapadi,803468,Belur (TP)
+227,33,TAMIL NADU,608,Salem,5742,Vazhapadi,803469,Vazhapadi (TP)
+228,33,TAMIL NADU,608,Salem,5742,Vazhapadi,803470,Ayothiapattinam (TP)
+229,33,TAMIL NADU,608,Salem,5743,Attur,0,Attur
+230,33,TAMIL NADU,608,Salem,5743,Attur,803471,Pethanaickenpalayam (TP)
+231,33,TAMIL NADU,608,Salem,5743,Attur,803472,Ethapur (TP)
+232,33,TAMIL NADU,608,Salem,5743,Attur,803473,Attur (M)
+233,33,TAMIL NADU,608,Salem,5743,Attur,803474,Narasingapuram (M)
+234,33,TAMIL NADU,608,Salem,5743,Attur,803475,Keeripatti (TP)
+235,33,TAMIL NADU,608,Salem,5744,Gangavalli,0,Gangavalli
+236,33,TAMIL NADU,608,Salem,5744,Gangavalli,803476,Veeraganur ((TP)
+237,33,TAMIL NADU,608,Salem,5744,Gangavalli,803477,Thedavur (TP)
+238,33,TAMIL NADU,608,Salem,5744,Gangavalli,803478,Gangavalli (TP)
+239,33,TAMIL NADU,608,Salem,5744,Gangavalli,803479,Thammampatti (TP)
+240,33,TAMIL NADU,608,Salem,5744,Gangavalli,803480,Sentharapatti (TP)
+241,33,TAMIL NADU,609,Namakkal   ,0,Namakkal   ,0,Namakkal   
+242,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,0,Tiruchengode
+243,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,803481,Mallasamudram (TP)
+244,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,803482,Kumarapalayam (M)
+245,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,803483,Padaiveedu (TP)
+246,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,803484,Tiruchengode (M)
+247,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,803485,Alampalayam (TP)
+248,33,TAMIL NADU,609,Namakkal   ,5745,Tiruchengode,803486,Pallipalayam (M)
+249,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,0,Rasipuram
+250,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803487,Vennanthur (TP)
+251,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803488,Athanur (TP)
+252,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803489,R.Pudupatti (TP)
+253,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803490,Namagiripettai (TP)
+254,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803491,Seerapalli (TP)
+255,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803492,Pattinam (TP)
+256,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803493,Rasipuram (M)
+257,33,TAMIL NADU,609,Namakkal   ,5746,Rasipuram,803494,Pillanallur (TP)
+258,33,TAMIL NADU,609,Namakkal   ,5747,Namakkal,0,Namakkal
+259,33,TAMIL NADU,609,Namakkal   ,5747,Namakkal,803495,Kalappanaickenpatti (TP)
+260,33,TAMIL NADU,609,Namakkal   ,5747,Namakkal,803496,Senthamangalam (TP)
+261,33,TAMIL NADU,609,Namakkal   ,5747,Namakkal,803497,Namakkal (M)
+262,33,TAMIL NADU,609,Namakkal   ,5747,Namakkal,803498,Erumaipatti (TP)
+263,33,TAMIL NADU,609,Namakkal   ,5747,Namakkal,803499,Mohanur (TP)
+264,33,TAMIL NADU,609,Namakkal   ,5748,Paramathi-Velur,0,Paramathi-Velur
+265,33,TAMIL NADU,609,Namakkal   ,5748,Paramathi-Velur,803500,Paramathi (TP)
+266,33,TAMIL NADU,609,Namakkal   ,5748,Paramathi-Velur,803501,Velur (TP)
+267,33,TAMIL NADU,609,Namakkal   ,5748,Paramathi-Velur,803502,Pothanur (TP)
+268,33,TAMIL NADU,609,Namakkal   ,5748,Paramathi-Velur,803503,Venkarai (TP)
+269,33,TAMIL NADU,609,Namakkal   ,5748,Paramathi-Velur,803504,Pandamangalam (TP)
+270,33,TAMIL NADU,610,Erode,0,Erode,0,Erode
+271,33,TAMIL NADU,610,Erode,5749,Sathyamangalam,0,Sathyamangalam
+272,33,TAMIL NADU,610,Erode,5749,Sathyamangalam,803505,Sathyamangalam (M)
+273,33,TAMIL NADU,610,Erode,5749,Sathyamangalam,803506,Kembainaickenpalayam (TP)
+274,33,TAMIL NADU,610,Erode,5749,Sathyamangalam,803507,Ariyappampalayam (TP)
+275,33,TAMIL NADU,610,Erode,5749,Sathyamangalam,803508,Bhavanisagar (TP)
+276,33,TAMIL NADU,610,Erode,5749,Sathyamangalam,803509,Punjaipuliampatti (M)
+277,33,TAMIL NADU,610,Erode,5750,Bhavani,0,Bhavani
+278,33,TAMIL NADU,610,Erode,5750,Bhavani,803510,Nerunjipettai (TP)
+279,33,TAMIL NADU,610,Erode,5750,Bhavani,803511,Ammapettai (TP)
+280,33,TAMIL NADU,610,Erode,5750,Bhavani,803512,Anthiyur (TP)
+281,33,TAMIL NADU,610,Erode,5750,Bhavani,803513,Olagadam (TP)
+282,33,TAMIL NADU,610,Erode,5750,Bhavani,803514,Athani (TP)
+283,33,TAMIL NADU,610,Erode,5750,Bhavani,803515,Jambai (TP)
+284,33,TAMIL NADU,610,Erode,5750,Bhavani,803516,Appakudal (TP)
+285,33,TAMIL NADU,610,Erode,5750,Bhavani,803517,Bhavani (M)
+286,33,TAMIL NADU,610,Erode,5750,Bhavani,803518,Salangapalayam (TP)
+287,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,0,Gobichettipalayam
+288,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803519,Periyakodiveri (TP)
+289,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803520,Vaniputhur (TP)
+290,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803521,Lakkampatti (TP)
+291,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803522,Kasipalayam (G) (TP)
+292,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803523,Gobichettipalayam (M)
+293,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803524,Kuhalur (TP)
+294,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803525,P.Mettupalayam (TP)
+295,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803526,Elathur (TP)
+296,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803527,Kolappalur (TP)
+297,33,TAMIL NADU,610,Erode,5751,Gobichettipalayam,803528,Nambiyur (TP)
+298,33,TAMIL NADU,610,Erode,5752,Perundurai,0,Perundurai
+299,33,TAMIL NADU,610,Erode,5752,Perundurai,803529,Pallapalayam (TP)
+300,33,TAMIL NADU,610,Erode,5752,Perundurai,803530,Kanjikoil (TP)
+301,33,TAMIL NADU,610,Erode,5752,Perundurai,803531,Nallampatti (TP)
+302,33,TAMIL NADU,610,Erode,5752,Perundurai,803532,Pethampalayam (TP)
+303,33,TAMIL NADU,610,Erode,5752,Perundurai,803533,Karumandi Chellipalayam (TP)
+304,33,TAMIL NADU,610,Erode,5752,Perundurai,803534,Perundurai (TP)
+305,33,TAMIL NADU,610,Erode,5752,Perundurai,803535,Chennimalai (TP)
+306,33,TAMIL NADU,610,Erode,5753,Erode,0,Erode
+307,33,TAMIL NADU,610,Erode,5753,Erode,803536,Suriyampalayam (TP)
+308,33,TAMIL NADU,610,Erode,5753,Erode,803537,Chithode (TP)
+309,33,TAMIL NADU,610,Erode,5753,Erode,803538,Brahmana Periya Agraharam (TP)
+310,33,TAMIL NADU,610,Erode,5753,Erode,803539,Periyasemur (M)
+311,33,TAMIL NADU,610,Erode,5753,Erode,803540,Nasiyanur (TP)
+312,33,TAMIL NADU,610,Erode,5753,Erode,803541,Veerappanchatiram (M)
+313,33,TAMIL NADU,610,Erode,5753,Erode,803542,Erode (M Corp.)
+314,33,TAMIL NADU,610,Erode,5753,Erode,803543,Surampatti (M)
+315,33,TAMIL NADU,610,Erode,5753,Erode,803544,Kasipalayam  (E) (M)
+316,33,TAMIL NADU,610,Erode,5753,Erode,803545,Avalpoondurai (TP)
+317,33,TAMIL NADU,610,Erode,5753,Erode,803546,Modakurichi (TP)
+318,33,TAMIL NADU,610,Erode,5753,Erode,803547,Pasur (TP)
+319,33,TAMIL NADU,610,Erode,5753,Erode,803548,Kilampadi (TP)
+320,33,TAMIL NADU,610,Erode,5753,Erode,803549,Vellottamparappu (TP)
+321,33,TAMIL NADU,610,Erode,5753,Erode,803550,Vadugapatti (TP)
+322,33,TAMIL NADU,610,Erode,5753,Erode,803551,Arachalur (TP)
+323,33,TAMIL NADU,610,Erode,5753,Erode,803552,Sivagiri (TP)
+324,33,TAMIL NADU,610,Erode,5753,Erode,803553,Unjalur (TP)
+325,33,TAMIL NADU,610,Erode,5753,Erode,803554,Kollankoil (TP)
+326,33,TAMIL NADU,610,Erode,5753,Erode,803555,Vengampudur (TP)
+327,33,TAMIL NADU,610,Erode,5753,Erode,803556,Kodumudi (TP)
+328,33,TAMIL NADU,610,Erode,5753,Erode,803557,Chennasamudram (TP)
+329,33,TAMIL NADU,611,The Nilgiris,0,The Nilgiris,0,The Nilgiris
+330,33,TAMIL NADU,611,The Nilgiris,5754,Panthalur,0,Panthalur
+331,33,TAMIL NADU,611,The Nilgiris,5754,Panthalur,803558,Nelliyalam (M)
+332,33,TAMIL NADU,611,The Nilgiris,5755,Gudalur,0,Gudalur
+333,33,TAMIL NADU,611,The Nilgiris,5755,Gudalur,803559,Devarshola (TP)
+334,33,TAMIL NADU,611,The Nilgiris,5755,Gudalur,803560,Gudalur (M)
+335,33,TAMIL NADU,611,The Nilgiris,5755,Gudalur,803561,O' Valley (TP)
+336,33,TAMIL NADU,611,The Nilgiris,5756,Udhagamandalam,0,Udhagamandalam
+337,33,TAMIL NADU,611,The Nilgiris,5756,Udhagamandalam,803562,Sholur (TP)
+338,33,TAMIL NADU,611,The Nilgiris,5756,Udhagamandalam,803563,Naduvattam (TP)
+339,33,TAMIL NADU,611,The Nilgiris,5756,Udhagamandalam,803564,Udhagamandalam (M)
+340,33,TAMIL NADU,611,The Nilgiris,5757,Kotagiri,0,Kotagiri
+341,33,TAMIL NADU,611,The Nilgiris,5757,Kotagiri,803565,Kotagiri (TP)
+342,33,TAMIL NADU,611,The Nilgiris,5757,Kotagiri,803566,Jagathala (TP)
+343,33,TAMIL NADU,611,The Nilgiris,5758,Coonoor,0,Coonoor
+344,33,TAMIL NADU,611,The Nilgiris,5758,Coonoor,803567,Wellington (CB)
+345,33,TAMIL NADU,611,The Nilgiris,5758,Coonoor,803568,Kethi (TP)
+346,33,TAMIL NADU,611,The Nilgiris,5758,Coonoor,803569,Adikaratti (TP)
+347,33,TAMIL NADU,611,The Nilgiris,5758,Coonoor,803570,Coonoor (M)
+348,33,TAMIL NADU,611,The Nilgiris,5758,Coonoor,803571,Huligal (TP)
+349,33,TAMIL NADU,611,The Nilgiris,5759,Kundah,0,Kundah
+350,33,TAMIL NADU,611,The Nilgiris,5759,Kundah,803572,Bikketti (TP)
+351,33,TAMIL NADU,611,The Nilgiris,5759,Kundah,803573,Kilkunda (TP)
+352,33,TAMIL NADU,612,Dindigul,0,Dindigul,0,Dindigul
+353,33,TAMIL NADU,612,Dindigul,5760,Palani,0,Palani
+354,33,TAMIL NADU,612,Dindigul,5760,Palani,803574,Keeranur (TP)
+355,33,TAMIL NADU,612,Dindigul,5760,Palani,803575,Neikkarapatti (TP)
+356,33,TAMIL NADU,612,Dindigul,5760,Palani,803576,Palani (M)
+357,33,TAMIL NADU,612,Dindigul,5760,Palani,803577,Ayakudi (TP)
+358,33,TAMIL NADU,612,Dindigul,5760,Palani,803578,Balasamudram (TP)
+359,33,TAMIL NADU,612,Dindigul,5761,Oddanchatram,0,Oddanchatram
+360,33,TAMIL NADU,612,Dindigul,5761,Oddanchatram,803579,Oddanchatram (TP)
+361,33,TAMIL NADU,612,Dindigul,5762,Vedasandur,0,Vedasandur
+362,33,TAMIL NADU,612,Dindigul,5762,Vedasandur,803580,Palayam (TP)
+363,33,TAMIL NADU,612,Dindigul,5762,Vedasandur,803581,Vedasandur (TP)
+364,33,TAMIL NADU,612,Dindigul,5762,Vedasandur,803582,Eriodu (TP)
+365,33,TAMIL NADU,612,Dindigul,5762,Vedasandur,803583,Ayyalur (TP)
+366,33,TAMIL NADU,612,Dindigul,5762,Vedasandur,803584,Vadamadurai (TP)
+367,33,TAMIL NADU,612,Dindigul,5763,Natham,0,Natham
+368,33,TAMIL NADU,612,Dindigul,5763,Natham,803585,Natham (TP)
+369,33,TAMIL NADU,612,Dindigul,5764,Dindigul,0,Dindigul
+370,33,TAMIL NADU,612,Dindigul,5764,Dindigul,803586,Sriramapuram (TP)
+371,33,TAMIL NADU,612,Dindigul,5764,Dindigul,803587,Agaram (TP)
+372,33,TAMIL NADU,612,Dindigul,5764,Dindigul,803588,Thadikombu (TP)
+373,33,TAMIL NADU,612,Dindigul,5764,Dindigul,803589,Dindigul (M)
+374,33,TAMIL NADU,612,Dindigul,5764,Dindigul,803590,Kannivadi (TP)
+375,33,TAMIL NADU,612,Dindigul,5765,Attur,0,Attur
+376,33,TAMIL NADU,612,Dindigul,5765,Attur,803591,Sithayankottai (TP)
+377,33,TAMIL NADU,612,Dindigul,5765,Attur,803592,Chinnalapatti (TP)
+378,33,TAMIL NADU,612,Dindigul,5765,Attur,803593,Ayyampalayam (TP)
+379,33,TAMIL NADU,612,Dindigul,5766,Kodaikanal,0,Kodaikanal
+380,33,TAMIL NADU,612,Dindigul,5766,Kodaikanal,803594,Pannaikadu (TP)
+381,33,TAMIL NADU,612,Dindigul,5766,Kodaikanal,803595,Kodaikanal (M)
+382,33,TAMIL NADU,612,Dindigul,5767,Nilakkottai,0,Nilakkottai
+383,33,TAMIL NADU,612,Dindigul,5767,Nilakkottai,803596,Sevugampatti (TP)
+384,33,TAMIL NADU,612,Dindigul,5767,Nilakkottai,803597,Ammainaickanur (TP)
+385,33,TAMIL NADU,612,Dindigul,5767,Nilakkottai,803598,Nilakkottai (TP)
+386,33,TAMIL NADU,612,Dindigul,5767,Nilakkottai,803599,Pattiveeranpatti (TP)
+387,33,TAMIL NADU,612,Dindigul,5767,Nilakkottai,803600,Batlagundu (TP)
+388,33,TAMIL NADU,613,Karur ,0,Karur ,0,Karur 
+389,33,TAMIL NADU,613,Karur ,5768,Aravakurichi,0,Aravakurichi
+390,33,TAMIL NADU,613,Karur ,5768,Aravakurichi,803601,Aravakurichi (TP)
+391,33,TAMIL NADU,613,Karur ,5768,Aravakurichi,803602,Pallapatti (TP)
+392,33,TAMIL NADU,613,Karur ,5769,Karur,0,Karur
+393,33,TAMIL NADU,613,Karur ,5769,Karur,803603,TNPL Pugalur (TP)
+394,33,TAMIL NADU,613,Karur ,5769,Karur,803604,Punjaipugalur (TP)
+395,33,TAMIL NADU,613,Karur ,5769,Karur,803605,Punjai Thottakurichi (TP)
+396,33,TAMIL NADU,613,Karur ,5769,Karur,803606,Inam Karur (M)
+397,33,TAMIL NADU,613,Karur ,5769,Karur,803607,Karur (M)
+398,33,TAMIL NADU,613,Karur ,5769,Karur,803608,Puliyur (TP)
+399,33,TAMIL NADU,613,Karur ,5769,Karur,803609,Thanthoni (M)
+400,33,TAMIL NADU,613,Karur ,5769,Karur,803610,Uppidamangalam (TP)
+401,33,TAMIL NADU,613,Karur ,5770,Krishnarayapuram,0,Krishnarayapuram
+402,33,TAMIL NADU,613,Karur ,5770,Krishnarayapuram,803611,Krishnarayapuram (TP)
+403,33,TAMIL NADU,613,Karur ,5770,Krishnarayapuram,803612,P.J. Cholapuram (TP)
+404,33,TAMIL NADU,613,Karur ,5771,Kulithalai,0,Kulithalai
+405,33,TAMIL NADU,613,Karur ,5771,Kulithalai,803613,Kulithalai (M)
+406,33,TAMIL NADU,613,Karur ,5771,Kulithalai,803614,Marudur (TP)
+407,33,TAMIL NADU,613,Karur ,5771,Kulithalai,803615,Nangavaram (TP)
+408,33,TAMIL NADU,613,Karur ,5772,Kadavur,0,Kadavur
+409,33,TAMIL NADU,614,Tiruchirappalli,0,Tiruchirappalli,0,Tiruchirappalli
+410,33,TAMIL NADU,614,Tiruchirappalli,5773,Thottiyam,0,Thottiyam
+411,33,TAMIL NADU,614,Tiruchirappalli,5773,Thottiyam,803616,Kattuputhur (TP)
+412,33,TAMIL NADU,614,Tiruchirappalli,5773,Thottiyam,803617,Thottiyam (TP)
+413,33,TAMIL NADU,614,Tiruchirappalli,5774,Musiri,0,Musiri
+414,33,TAMIL NADU,614,Tiruchirappalli,5774,Musiri,803618,Mettupalayam (TP)
+415,33,TAMIL NADU,614,Tiruchirappalli,5774,Musiri,803619,Thathaiyangarpet (TP)
+416,33,TAMIL NADU,614,Tiruchirappalli,5774,Musiri,803620,Musiri (TP)
+417,33,TAMIL NADU,614,Tiruchirappalli,5775,Thuraiyur,0,Thuraiyur
+418,33,TAMIL NADU,614,Tiruchirappalli,5775,Thuraiyur,803621,Uppiliapuram (TP)
+419,33,TAMIL NADU,614,Tiruchirappalli,5775,Thuraiyur,803622,Balakrishnampatti (TP)
+420,33,TAMIL NADU,614,Tiruchirappalli,5775,Thuraiyur,803623,Thuraiyur (M)
+421,33,TAMIL NADU,614,Tiruchirappalli,5776,Manachanallur,0,Manachanallur
+422,33,TAMIL NADU,614,Tiruchirappalli,5776,Manachanallur,803624,S. Kannanur (TP)
+423,33,TAMIL NADU,614,Tiruchirappalli,5776,Manachanallur,803625,Manachanallur (TP)
+424,33,TAMIL NADU,614,Tiruchirappalli,5777,Lalgudi,0,Lalgudi
+425,33,TAMIL NADU,614,Tiruchirappalli,5777,Lalgudi,803626,Kallakudi (TP)
+426,33,TAMIL NADU,614,Tiruchirappalli,5777,Lalgudi,803627,Pullampadi (TP)
+427,33,TAMIL NADU,614,Tiruchirappalli,5777,Lalgudi,803628,Puvalur (TP)
+428,33,TAMIL NADU,614,Tiruchirappalli,5777,Lalgudi,803629,Lalgudi (TP)
+429,33,TAMIL NADU,614,Tiruchirappalli,5778,Srirangam,0,Srirangam
+430,33,TAMIL NADU,614,Tiruchirappalli,5778,Srirangam,803630,Sirugamani (TP)
+431,33,TAMIL NADU,614,Tiruchirappalli,5779,Tiruchirappalli,0,Tiruchirappalli
+432,33,TAMIL NADU,614,Tiruchirappalli,5779,Tiruchirappalli,803631,Tiruchirappalli (M Corp.)
+433,33,TAMIL NADU,614,Tiruchirappalli,5780,Thiruverumbur,0,Thiruverumbur
+434,33,TAMIL NADU,614,Tiruchirappalli,5780,Thiruverumbur,803632,Koothappar (TP)
+435,33,TAMIL NADU,614,Tiruchirappalli,5780,Thiruverumbur,803633,Thiruverumbur (TP)
+436,33,TAMIL NADU,614,Tiruchirappalli,5780,Thiruverumbur,803634,Thuvakudi  (M)
+437,33,TAMIL NADU,614,Tiruchirappalli,5781,Manapparai,0,Manapparai
+438,33,TAMIL NADU,614,Tiruchirappalli,5781,Manapparai,803635,Manapparai (M)
+439,33,TAMIL NADU,614,Tiruchirappalli,5781,Manapparai,803636,Ponnampatti (TP)
+440,33,TAMIL NADU,615,Perambalur  ,0,Perambalur  ,0,Perambalur  
+441,33,TAMIL NADU,615,Perambalur  ,5782,Veppanthattai,0,Veppanthattai
+442,33,TAMIL NADU,615,Perambalur  ,5782,Veppanthattai,803637,Poolambadi (TP)
+443,33,TAMIL NADU,615,Perambalur  ,5782,Veppanthattai,803638,Arumbavur (TP)
+444,33,TAMIL NADU,615,Perambalur  ,5783,Perambalur,0,Perambalur
+445,33,TAMIL NADU,615,Perambalur  ,5783,Perambalur,803639,Perambalur (M)
+446,33,TAMIL NADU,615,Perambalur  ,5783,Perambalur,803640,Kurumbalur (TP)
+447,33,TAMIL NADU,615,Perambalur  ,5784,Kunnam,0,Kunnam
+448,33,TAMIL NADU,615,Perambalur  ,5784,Kunnam,803641,Labbaikudikadu (TP)
+449,33,TAMIL NADU,616,Ariyalur  ,0,Ariyalur  ,0,Ariyalur  
+450,33,TAMIL NADU,616,Ariyalur  ,5785,Sendurai,0,Sendurai
+451,33,TAMIL NADU,616,Ariyalur  ,5786,Udayarpalayam,0,Udayarpalayam
+452,33,TAMIL NADU,616,Ariyalur  ,5786,Udayarpalayam,803642,Varadarajanpettai (TP)
+453,33,TAMIL NADU,616,Ariyalur  ,5786,Udayarpalayam,803643,Jayankondam (M)
+454,33,TAMIL NADU,616,Ariyalur  ,5786,Udayarpalayam,803644,Udayarpalayam (TP)
+455,33,TAMIL NADU,616,Ariyalur  ,5787,Ariyalur,0,Ariyalur
+456,33,TAMIL NADU,616,Ariyalur  ,5787,Ariyalur,803645,Ariyalur (M)
+457,33,TAMIL NADU,617,Cuddalore,0,Cuddalore,0,Cuddalore
+458,33,TAMIL NADU,617,Cuddalore,5788,Panruti,0,Panruti
+459,33,TAMIL NADU,617,Cuddalore,5788,Panruti,803646,Thorapadi (TP)
+460,33,TAMIL NADU,617,Cuddalore,5788,Panruti,803647,Melpattampakkam (TP)
+461,33,TAMIL NADU,617,Cuddalore,5788,Panruti,803648,Nellikuppam (M)
+462,33,TAMIL NADU,617,Cuddalore,5788,Panruti,803649,Panruti (M)
+463,33,TAMIL NADU,617,Cuddalore,5789,Cuddalore,0,Cuddalore
+464,33,TAMIL NADU,617,Cuddalore,5789,Cuddalore,803650,Cuddalore (M)
+465,33,TAMIL NADU,617,Cuddalore,5790,Kurinjipadi ,0,Kurinjipadi 
+466,33,TAMIL NADU,617,Cuddalore,5790,Kurinjipadi ,803651,Kurinjipadi (TP)
+467,33,TAMIL NADU,617,Cuddalore,5790,Kurinjipadi ,803652,Vadalur (TP)
+468,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,0,Chidambaram
+469,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,803653,Parangipettai (TP)
+470,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,803654,Sethiathoppu (TP)
+471,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,803655,Bhuvanagiri (TP)
+472,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,803656,Killai (TP)
+473,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,803657,Chidambaram (M)
+474,33,TAMIL NADU,617,Cuddalore,5791,Chidambaram,803658,Annamalai Nagar (TP)
+475,33,TAMIL NADU,617,Cuddalore,5792,Kattumannarkoil,0,Kattumannarkoil
+476,33,TAMIL NADU,617,Cuddalore,5792,Kattumannarkoil,803659,Srimushnam (TP)
+477,33,TAMIL NADU,617,Cuddalore,5792,Kattumannarkoil,803660,Lalpet (TP)
+478,33,TAMIL NADU,617,Cuddalore,5792,Kattumannarkoil,803661,Kattumannarkoil (TP)
+479,33,TAMIL NADU,617,Cuddalore,5793,Virudhachalam,0,Virudhachalam
+480,33,TAMIL NADU,617,Cuddalore,5793,Virudhachalam,803662,Mangalampet (TP)
+481,33,TAMIL NADU,617,Cuddalore,5793,Virudhachalam,803663,Gangaikondan (TP)
+482,33,TAMIL NADU,617,Cuddalore,5793,Virudhachalam,803664,Virudhachalam (M)
+483,33,TAMIL NADU,617,Cuddalore,5794,Tittakudi,0,Tittakudi
+484,33,TAMIL NADU,617,Cuddalore,5794,Tittakudi,803665,Pennadam (TP)
+485,33,TAMIL NADU,617,Cuddalore,5794,Tittakudi,803666,Tittakudi (TP)
+486,33,TAMIL NADU,618,Nagapattinam  ,0,Nagapattinam  ,0,Nagapattinam  
+487,33,TAMIL NADU,618,Nagapattinam  ,5795,Sirkali,0,Sirkali
+488,33,TAMIL NADU,618,Nagapattinam  ,5795,Sirkali,803667,Sirkali (M)
+489,33,TAMIL NADU,618,Nagapattinam  ,5795,Sirkali,803668,Vaitheeswarankoil (TP)
+490,33,TAMIL NADU,618,Nagapattinam  ,5796,Mayiladuthurai,0,Mayiladuthurai
+491,33,TAMIL NADU,618,Nagapattinam  ,5796,Mayiladuthurai,803669,Manalmedu (TP)
+492,33,TAMIL NADU,618,Nagapattinam  ,5796,Mayiladuthurai,803670,Mayiladuthurai (M)
+493,33,TAMIL NADU,618,Nagapattinam  ,5797,Kuthalam,0,Kuthalam
+494,33,TAMIL NADU,618,Nagapattinam  ,5797,Kuthalam,803671,Kuthalam (TP)
+495,33,TAMIL NADU,618,Nagapattinam  ,5798,Tharangambadi,0,Tharangambadi
+496,33,TAMIL NADU,618,Nagapattinam  ,5798,Tharangambadi,803672,Tharangambadi (TP)
+497,33,TAMIL NADU,618,Nagapattinam  ,5799,Nagapattinam,0,Nagapattinam
+498,33,TAMIL NADU,618,Nagapattinam  ,5799,Nagapattinam,803673,Tittacheri (TP)
+499,33,TAMIL NADU,618,Nagapattinam  ,5799,Nagapattinam,803674,Nagapattinam (M)
+500,33,TAMIL NADU,618,Nagapattinam  ,5800,Kilvelur,0,Kilvelur
+501,33,TAMIL NADU,618,Nagapattinam  ,5800,Kilvelur,803675,Kilvelur (TP)
+502,33,TAMIL NADU,618,Nagapattinam  ,5800,Kilvelur,803676,Velankanni (TP)
+503,33,TAMIL NADU,618,Nagapattinam  ,5801,Thirukkuvalai,0,Thirukkuvalai
+504,33,TAMIL NADU,618,Nagapattinam  ,5802,Vedaranyam,0,Vedaranyam
+505,33,TAMIL NADU,618,Nagapattinam  ,5802,Vedaranyam,803677,Thalainayar (TP)
+506,33,TAMIL NADU,618,Nagapattinam  ,5802,Vedaranyam,803678,Vedaranyam (M)
+507,33,TAMIL NADU,619,Thiruvarur,0,Thiruvarur,0,Thiruvarur
+508,33,TAMIL NADU,619,Thiruvarur,5803,Valangaiman,0,Valangaiman
+509,33,TAMIL NADU,619,Thiruvarur,5803,Valangaiman,803679,Valangaiman (TP)
+510,33,TAMIL NADU,619,Thiruvarur,5804,Kodavasal,0,Kodavasal
+511,33,TAMIL NADU,619,Thiruvarur,5804,Kodavasal,803680,Kodavasal (TP)
+512,33,TAMIL NADU,619,Thiruvarur,5804,Kodavasal,803681,Koradacheri (TP)
+513,33,TAMIL NADU,619,Thiruvarur,5805,Nannilam,0,Nannilam
+514,33,TAMIL NADU,619,Thiruvarur,5805,Nannilam,803682,Peralam (TP)
+515,33,TAMIL NADU,619,Thiruvarur,5805,Nannilam,803683,Nannilam (TP)
+516,33,TAMIL NADU,619,Thiruvarur,5806,Thiruvarur,0,Thiruvarur
+517,33,TAMIL NADU,619,Thiruvarur,5806,Thiruvarur,803684,Thiruvarur (M)
+518,33,TAMIL NADU,619,Thiruvarur,5807,Needamangalam,0,Needamangalam
+519,33,TAMIL NADU,619,Thiruvarur,5807,Needamangalam,803685,Needamangalam (TP)
+520,33,TAMIL NADU,619,Thiruvarur,5807,Needamangalam,803686,Kuthanallur (M)
+521,33,TAMIL NADU,619,Thiruvarur,5808,Mannargudi,0,Mannargudi
+522,33,TAMIL NADU,619,Thiruvarur,5808,Mannargudi,803687,Mannargudi (M)
+523,33,TAMIL NADU,619,Thiruvarur,5809,Thiruthuraipoondi,0,Thiruthuraipoondi
+524,33,TAMIL NADU,619,Thiruvarur,5809,Thiruthuraipoondi,803688,Thiruthuraipoondi (M)
+525,33,TAMIL NADU,619,Thiruvarur,5809,Thiruthuraipoondi,803689,Muthupet (TP)
+526,33,TAMIL NADU,620,Thanjavur,0,Thanjavur,0,Thanjavur
+527,33,TAMIL NADU,620,Thanjavur,5810,Thiruvidaimarudur,0,Thiruvidaimarudur
+528,33,TAMIL NADU,620,Thanjavur,5810,Thiruvidaimarudur,803690,Thiruppanandal (TP)
+529,33,TAMIL NADU,620,Thanjavur,5810,Thiruvidaimarudur,803691,Aduthurai alias Maruthuvakudi (TP)
+530,33,TAMIL NADU,620,Thanjavur,5810,Thiruvidaimarudur,803692,Veppathur (TP)
+531,33,TAMIL NADU,620,Thanjavur,5810,Thiruvidaimarudur,803693,Thirupuvanam (TP)
+532,33,TAMIL NADU,620,Thanjavur,5810,Thiruvidaimarudur,803694,Thiruvidaimarudur (TP)
+533,33,TAMIL NADU,620,Thanjavur,5811,Kumbakonam,0,Kumbakonam
+534,33,TAMIL NADU,620,Thanjavur,5811,Kumbakonam,803695,Cholapuram (TP)
+535,33,TAMIL NADU,620,Thanjavur,5811,Kumbakonam,803696,Thirunageswaram (TP)
+536,33,TAMIL NADU,620,Thanjavur,5811,Kumbakonam,803697,Kumbakonam (M)
+537,33,TAMIL NADU,620,Thanjavur,5811,Kumbakonam,803698,Swamimalai (TP)
+538,33,TAMIL NADU,620,Thanjavur,5811,Kumbakonam,803699,Dharasuram (TP)
+539,33,TAMIL NADU,620,Thanjavur,5812,Papanasam,0,Papanasam
+540,33,TAMIL NADU,620,Thanjavur,5812,Papanasam,803700,Papanasam (TP)
+541,33,TAMIL NADU,620,Thanjavur,5812,Papanasam,803701,Ayyampettai (TP)
+542,33,TAMIL NADU,620,Thanjavur,5812,Papanasam,803702,Melattur (TP)
+543,33,TAMIL NADU,620,Thanjavur,5812,Papanasam,803703,Ammapettai (TP)
+544,33,TAMIL NADU,620,Thanjavur,5813,Thiruvaiyaru,0,Thiruvaiyaru
+545,33,TAMIL NADU,620,Thanjavur,5813,Thiruvaiyaru,803704,Thiruvaiyaru (TP)
+546,33,TAMIL NADU,620,Thanjavur,5813,Thiruvaiyaru,803705,Melathiruppanthuruthi (TP)
+547,33,TAMIL NADU,620,Thanjavur,5813,Thiruvaiyaru,803706,Thirukkattupalli (TP)
+548,33,TAMIL NADU,620,Thanjavur,5814,Thanjavur,0,Thanjavur
+549,33,TAMIL NADU,620,Thanjavur,5814,Thanjavur,803707,Thanjavur (M)
+550,33,TAMIL NADU,620,Thanjavur,5814,Thanjavur,803708,Vallam (TP)
+551,33,TAMIL NADU,620,Thanjavur,5815,Orathanadu,0,Orathanadu
+552,33,TAMIL NADU,620,Thanjavur,5815,Orathanadu,803709,Orathanadu (Mukthambalpuram) (TP)
+553,33,TAMIL NADU,620,Thanjavur,5816,Pattukkottai,0,Pattukkottai
+554,33,TAMIL NADU,620,Thanjavur,5816,Pattukkottai,803710,Madukkur (TP)
+555,33,TAMIL NADU,620,Thanjavur,5816,Pattukkottai,803711,Pattukkottai (M)
+556,33,TAMIL NADU,620,Thanjavur,5816,Pattukkottai,803712,Adiramapattinam (TP)
+557,33,TAMIL NADU,620,Thanjavur,5817,Peravurani,0,Peravurani
+558,33,TAMIL NADU,620,Thanjavur,5817,Peravurani,803713,Peravurani (TP)
+559,33,TAMIL NADU,620,Thanjavur,5817,Peravurani,803714,Perumagalur (TP)
+560,33,TAMIL NADU,621,Pudukkottai,0,Pudukkottai,0,Pudukkottai
+561,33,TAMIL NADU,621,Pudukkottai,5818,Iluppur,0,Iluppur
+562,33,TAMIL NADU,621,Pudukkottai,5818,Iluppur,803715,Iluppur (TP)
+563,33,TAMIL NADU,621,Pudukkottai,5818,Iluppur,803716,Annavasal (TP)
+564,33,TAMIL NADU,621,Pudukkottai,5819,Kulathur,0,Kulathur
+565,33,TAMIL NADU,621,Pudukkottai,5819,Kulathur,803717,Keeranur (TP)
+566,33,TAMIL NADU,621,Pudukkottai,5820,Gandarvakkottai,0,Gandarvakkottai
+567,33,TAMIL NADU,621,Pudukkottai,5821,Pudukkottai,0,Pudukkottai
+568,33,TAMIL NADU,621,Pudukkottai,5821,Pudukkottai,803718,Pudukkottai (M)
+569,33,TAMIL NADU,621,Pudukkottai,5822,Thirumayam,0,Thirumayam
+570,33,TAMIL NADU,621,Pudukkottai,5822,Thirumayam,803719,Arimalam (TP)
+571,33,TAMIL NADU,621,Pudukkottai,5823,Ponnamaravathi,0,Ponnamaravathi
+572,33,TAMIL NADU,621,Pudukkottai,5823,Ponnamaravathi,803720,Ponnamaravathi (TP)
+573,33,TAMIL NADU,621,Pudukkottai,5824,Alangudi,0,Alangudi
+574,33,TAMIL NADU,621,Pudukkottai,5824,Alangudi,803721,Alangudi (TP)
+575,33,TAMIL NADU,621,Pudukkottai,5824,Alangudi,803722,Keeramangalam (TP)
+576,33,TAMIL NADU,621,Pudukkottai,5825,Karambakudi,0,Karambakudi
+577,33,TAMIL NADU,621,Pudukkottai,5825,Karambakudi,803723,Karambakkudi (TP)
+578,33,TAMIL NADU,621,Pudukkottai,5826,Aranthangi,0,Aranthangi
+579,33,TAMIL NADU,621,Pudukkottai,5826,Aranthangi,803724,Aranthangi (M)
+580,33,TAMIL NADU,621,Pudukkottai,5827,Manamelkudi,0,Manamelkudi
+581,33,TAMIL NADU,621,Pudukkottai,5828,Avudayarkoil,0,Avudayarkoil
+582,33,TAMIL NADU,622,Sivaganga,0,Sivaganga,0,Sivaganga
+583,33,TAMIL NADU,622,Sivaganga,5829,Tirupathur,0,Tirupathur
+584,33,TAMIL NADU,622,Sivaganga,5829,Tirupathur,803725,Nerkuppai (TP)
+585,33,TAMIL NADU,622,Sivaganga,5829,Tirupathur,803726,Singampuneri (TP)
+586,33,TAMIL NADU,622,Sivaganga,5829,Tirupathur,803727,Tirupathur (TP)
+587,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,0,Karaikkudi
+588,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,803728,Kanadukathan (TP)
+589,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,803729,Pallathur (TP)
+590,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,803730,Kottaiyur (TP)
+591,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,803731,Kandanur (TP)
+592,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,803732,Puduvayal (TP)
+593,33,TAMIL NADU,622,Sivaganga,5830,Karaikkudi,803733,Karaikkudi (M)
+594,33,TAMIL NADU,622,Sivaganga,5831,Devakottai,0,Devakottai
+595,33,TAMIL NADU,622,Sivaganga,5831,Devakottai,803734,Devakottai (M)
+596,33,TAMIL NADU,622,Sivaganga,5832,Sivaganga,0,Sivaganga
+597,33,TAMIL NADU,622,Sivaganga,5832,Sivaganga,803735,Nattarasankottai (TP)
+598,33,TAMIL NADU,622,Sivaganga,5832,Sivaganga,803736,Sivaganga (M)
+599,33,TAMIL NADU,622,Sivaganga,5833,Manamadurai,0,Manamadurai
+600,33,TAMIL NADU,622,Sivaganga,5833,Manamadurai,803737,Thirupuvanam (TP)
+601,33,TAMIL NADU,622,Sivaganga,5833,Manamadurai,803738,Manamadurai (TP)
+602,33,TAMIL NADU,622,Sivaganga,5834,Ilayangudi,0,Ilayangudi
+603,33,TAMIL NADU,622,Sivaganga,5834,Ilayangudi,803739,Ilayangudi (TP)
+604,33,TAMIL NADU,623,Madurai,0,Madurai,0,Madurai
+605,33,TAMIL NADU,623,Madurai,5835,Melur,0,Melur
+606,33,TAMIL NADU,623,Madurai,5835,Melur,803740,A.Vellalapatti (TP)
+607,33,TAMIL NADU,623,Madurai,5835,Melur,803741,Melur (M)
+608,33,TAMIL NADU,623,Madurai,5836,Madurai North,0,Madurai North
+609,33,TAMIL NADU,623,Madurai,5836,Madurai North,803742,Anaiyur (M)
+610,33,TAMIL NADU,623,Madurai,5836,Madurai North,803743,Paravai (TP)
+611,33,TAMIL NADU,623,Madurai,5836,Madurai North,803744,Vilangudi (TP)
+612,33,TAMIL NADU,623,Madurai,5837,Vadipatti,0,Vadipatti
+613,33,TAMIL NADU,623,Madurai,5837,Vadipatti,803745,Vadipatti (TP)
+614,33,TAMIL NADU,623,Madurai,5837,Vadipatti,803746,Palamedu (TP)
+615,33,TAMIL NADU,623,Madurai,5837,Vadipatti,803747,Sholavandan (TP)
+616,33,TAMIL NADU,623,Madurai,5837,Vadipatti,803748,Alanganallur (TP)
+617,33,TAMIL NADU,623,Madurai,5838,Usilampatti,0,Usilampatti
+618,33,TAMIL NADU,623,Madurai,5838,Usilampatti,803749,Usilampatti (M)
+619,33,TAMIL NADU,623,Madurai,5839,Peraiyur,0,Peraiyur
+620,33,TAMIL NADU,623,Madurai,5839,Peraiyur,803750,Elumalai (TP)
+621,33,TAMIL NADU,623,Madurai,5839,Peraiyur,803751,T.Kallupatti (TP)
+622,33,TAMIL NADU,623,Madurai,5839,Peraiyur,803752,Peraiyur (TP)
+623,33,TAMIL NADU,623,Madurai,5840,Thirumangalam,0,Thirumangalam
+624,33,TAMIL NADU,623,Madurai,5840,Thirumangalam,803753,Thirumangalam (M)
+625,33,TAMIL NADU,623,Madurai,5841,Madurai South,0,Madurai South
+626,33,TAMIL NADU,623,Madurai,5841,Madurai South,803754,Madurai (M Corp.)
+627,33,TAMIL NADU,623,Madurai,5841,Madurai South,803755,Thirunagar (TP)
+628,33,TAMIL NADU,623,Madurai,5841,Madurai South,803756,Avaniapuram (M)
+629,33,TAMIL NADU,623,Madurai,5841,Madurai South,803757,Thiruparankundram (M + OG)
+630,33,TAMIL NADU,623,Madurai,5841,Madurai South,803757,Thiruparankundram (M)
+631,33,TAMIL NADU,623,Madurai,5841,Madurai South,803758,Harveypatti (TP)
+632,33,TAMIL NADU,624,Theni  ,0,Theni  ,0,Theni  
+633,33,TAMIL NADU,624,Theni  ,5842,Bodinayakanur,0,Bodinayakanur
+634,33,TAMIL NADU,624,Theni  ,5842,Bodinayakanur,803759,Boothipuram (TP)
+635,33,TAMIL NADU,624,Theni  ,5842,Bodinayakanur,803760,Bodinayakanur (M)
+636,33,TAMIL NADU,624,Theni  ,5842,Bodinayakanur,803761,Melachokkanathapuram (TP)
+637,33,TAMIL NADU,624,Theni  ,5842,Bodinayakanur,803762,B. Meenakshipuram (TP)
+638,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,0,Periyakulam
+639,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,803763,Ganguvarpatti (TP)
+640,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,803764,Devadanapatti (TP)
+641,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,803765,Vadugapatti (TP)
+642,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,803766,Thamaraikulam (TP)
+643,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,803767,Periyakulam (M)
+644,33,TAMIL NADU,624,Theni  ,5843,Periyakulam,803768,Thenkarai (TP)
+645,33,TAMIL NADU,624,Theni  ,5844,Theni ,0,Theni 
+646,33,TAMIL NADU,624,Theni  ,5844,Theni ,803769,Theni Allinagaram (M)
+647,33,TAMIL NADU,624,Theni  ,5844,Theni ,803770,Palani Chettipatti (TP)
+648,33,TAMIL NADU,624,Theni  ,5844,Theni ,803771,Veerapandi (TP)
+649,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,0,Uthamapalayam
+650,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803772,Thevaram (TP)
+651,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803773,Kuchanur (TP)
+652,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803774,Markayankottai (TP)
+653,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803775,Pannaipuram (TP)
+654,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803776,Kombai (TP)
+655,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803777,Chinnamanur (M)
+656,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803778,Odaipatti (TP)
+657,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803779,Uthamapalayam (TP)
+658,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803780,Hanumanthampatti (TP)
+659,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803781,Pudupatti (TP)
+660,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803782,Kamayagoundanpatti (TP)
+661,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803783,Kambam (M)
+662,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803784,Gudalur (M)
+663,33,TAMIL NADU,624,Theni  ,5845,Uthamapalayam,803785,Highways (TP)
+664,33,TAMIL NADU,624,Theni  ,5846,Andipatti,0,Andipatti
+665,33,TAMIL NADU,624,Theni  ,5846,Andipatti,803786,Andipatti Jakkampatti (TP)
+666,33,TAMIL NADU,625,Virudhunagar,0,Virudhunagar,0,Virudhunagar
+667,33,TAMIL NADU,625,Virudhunagar,5847,Rajapalayam,0,Rajapalayam
+668,33,TAMIL NADU,625,Virudhunagar,5847,Rajapalayam,803787,Rajapalayam (M)
+669,33,TAMIL NADU,625,Virudhunagar,5847,Rajapalayam,803788,Seithur (TP)
+670,33,TAMIL NADU,625,Virudhunagar,5847,Rajapalayam,803789,Chettiarpatti (TP)
+671,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,0,Srivilliputhur
+672,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,803790,S.Kodikulam (TP)
+673,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,803791,Vathirairuppu (TP)
+674,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,803792,V.Pudupatti (TP)
+675,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,803793,Sundarapandiam (TP)
+676,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,803794,Srivilliputhur (M)
+677,33,TAMIL NADU,625,Virudhunagar,5848,Srivilliputhur,803795,Mamsapuram (TP)
+678,33,TAMIL NADU,625,Virudhunagar,5849,Sivakasi,0,Sivakasi
+679,33,TAMIL NADU,625,Virudhunagar,5849,Sivakasi,803796,Thiruthangal (M)
+680,33,TAMIL NADU,625,Virudhunagar,5849,Sivakasi,803797,Sivakasi (M)
+681,33,TAMIL NADU,625,Virudhunagar,5850,Virudhunagar,0,Virudhunagar
+682,33,TAMIL NADU,625,Virudhunagar,5850,Virudhunagar,803798,Virudhunagar (M)
+683,33,TAMIL NADU,625,Virudhunagar,5851,Kariapatti,0,Kariapatti
+684,33,TAMIL NADU,625,Virudhunagar,5851,Kariapatti,803799,Kariapatti (TP)
+685,33,TAMIL NADU,625,Virudhunagar,5851,Kariapatti,803800,Mallankinaru (TP)
+686,33,TAMIL NADU,625,Virudhunagar,5852,Tiruchuli,0,Tiruchuli
+687,33,TAMIL NADU,625,Virudhunagar,5853,Aruppukkottai,0,Aruppukkottai
+688,33,TAMIL NADU,625,Virudhunagar,5853,Aruppukkottai,803801,Aruppukkottai (M)
+689,33,TAMIL NADU,625,Virudhunagar,5854,Sattur,0,Sattur
+690,33,TAMIL NADU,625,Virudhunagar,5854,Sattur,803802,Sattur (M)
+691,33,TAMIL NADU,626,Ramanathapuram,0,Ramanathapuram,0,Ramanathapuram
+692,33,TAMIL NADU,626,Ramanathapuram,5855,Tiruvadanai,0,Tiruvadanai
+693,33,TAMIL NADU,626,Ramanathapuram,5855,Tiruvadanai,803803,Thondi (TP)
+694,33,TAMIL NADU,626,Ramanathapuram,5855,Tiruvadanai,803804,R.S.Mangalam (TP)
+695,33,TAMIL NADU,626,Ramanathapuram,5856,Paramakudi,0,Paramakudi
+696,33,TAMIL NADU,626,Ramanathapuram,5856,Paramakudi,803805,Paramakudi (M)
+697,33,TAMIL NADU,626,Ramanathapuram,5857,Mudukulathur,0,Mudukulathur
+698,33,TAMIL NADU,626,Ramanathapuram,5857,Mudukulathur,803806,Mudukulathur (TP)
+699,33,TAMIL NADU,626,Ramanathapuram,5858,Kamuthi,0,Kamuthi
+700,33,TAMIL NADU,626,Ramanathapuram,5858,Kamuthi,803807,Abiramam (TP)
+701,33,TAMIL NADU,626,Ramanathapuram,5858,Kamuthi,803808,Kamuthi (TP)
+702,33,TAMIL NADU,626,Ramanathapuram,5859,Kadaladi,0,Kadaladi
+703,33,TAMIL NADU,626,Ramanathapuram,5859,Kadaladi,803809,Sayalgudi (TP)
+704,33,TAMIL NADU,626,Ramanathapuram,5860,Ramanathapuram,0,Ramanathapuram
+705,33,TAMIL NADU,626,Ramanathapuram,5860,Ramanathapuram,803810,Ramanathapuram (M)
+706,33,TAMIL NADU,626,Ramanathapuram,5860,Ramanathapuram,803811,Mandapam (TP)
+707,33,TAMIL NADU,626,Ramanathapuram,5860,Ramanathapuram,803812,Keelakarai (M)
+708,33,TAMIL NADU,626,Ramanathapuram,5861,Rameswaram,0,Rameswaram
+709,33,TAMIL NADU,626,Ramanathapuram,5861,Rameswaram,803813,Rameswaram (M)
+710,33,TAMIL NADU,627,Thoothukkudi,0,Thoothukkudi,0,Thoothukkudi
+711,33,TAMIL NADU,627,Thoothukkudi,5862,Kovilpatti,0,Kovilpatti
+712,33,TAMIL NADU,627,Thoothukkudi,5862,Kovilpatti,803814,Kovilpatti (M)
+713,33,TAMIL NADU,627,Thoothukkudi,5862,Kovilpatti,803815,Kalugumalai (TP)
+714,33,TAMIL NADU,627,Thoothukkudi,5862,Kovilpatti,803816,Kadambur (TP)
+715,33,TAMIL NADU,627,Thoothukkudi,5862,Kovilpatti,803817,Kayatharu (TP)
+716,33,TAMIL NADU,627,Thoothukkudi,5863,Ettayapuram,0,Ettayapuram
+717,33,TAMIL NADU,627,Thoothukkudi,5863,Ettayapuram,803818,Ettayapuram (TP)
+718,33,TAMIL NADU,627,Thoothukkudi,5864,Vilathikulam,0,Vilathikulam
+719,33,TAMIL NADU,627,Thoothukkudi,5864,Vilathikulam,803819,V. Pudur (TP)
+720,33,TAMIL NADU,627,Thoothukkudi,5864,Vilathikulam,803820,Vilathikulam (TP)
+721,33,TAMIL NADU,627,Thoothukkudi,5865,Ottapidaram,0,Ottapidaram
+722,33,TAMIL NADU,627,Thoothukkudi,5866,Thoothukkudi,0,Thoothukkudi
+723,33,TAMIL NADU,627,Thoothukkudi,5866,Thoothukkudi,803821,Thoothukkudi (M Corp.)
+724,33,TAMIL NADU,627,Thoothukkudi,5867,Srivaikuntam,0,Srivaikuntam
+725,33,TAMIL NADU,627,Thoothukkudi,5867,Srivaikuntam,803822,Sayapuram (TP)
+726,33,TAMIL NADU,627,Thoothukkudi,5867,Srivaikuntam,803823,Perungulam (TP)
+727,33,TAMIL NADU,627,Thoothukkudi,5867,Srivaikuntam,803824,Srivaikuntam (TP)
+728,33,TAMIL NADU,627,Thoothukkudi,5867,Srivaikuntam,803825,Eral (TP)
+729,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,0,Tiruchendur
+730,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803826,Kayalpattinam (M)
+731,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803827,Athur (TP)
+732,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803828,Thenthiruperai (TP)
+733,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803829,Alwarthirunagiri (TP)
+734,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803830,Nazerath (TP)
+735,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803831,Arumuganeri (TP)
+736,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803832,Kanam (TP)
+737,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803833,Tiruchendur (TP)
+738,33,TAMIL NADU,627,Thoothukkudi,5868,Tiruchendur,803834,Udangudi (TP)
+739,33,TAMIL NADU,627,Thoothukkudi,5869,Sathankulam,0,Sathankulam
+740,33,TAMIL NADU,627,Thoothukkudi,5869,Sathankulam,803835,Sathankulam (TP)
+741,33,TAMIL NADU,628,Tirunelveli ,0,Tirunelveli ,0,Tirunelveli 
+742,33,TAMIL NADU,628,Tirunelveli ,5870,Sivagiri,0,Sivagiri
+743,33,TAMIL NADU,628,Tirunelveli ,5870,Sivagiri,803836,Sivagiri (TP)
+744,33,TAMIL NADU,628,Tirunelveli ,5870,Sivagiri,803837,Rayagiri (TP)
+745,33,TAMIL NADU,628,Tirunelveli ,5870,Sivagiri,803838,Vasudevanallur (TP)
+746,33,TAMIL NADU,628,Tirunelveli ,5870,Sivagiri,803839,Puliankudi (M)
+747,33,TAMIL NADU,628,Tirunelveli ,5871,Sankarankoil,0,Sankarankoil
+748,33,TAMIL NADU,628,Tirunelveli ,5871,Sankarankoil,803840,Thiruvenkadam (TP)
+749,33,TAMIL NADU,628,Tirunelveli ,5871,Sankarankoil,803841,Sankarankoil (M)
+750,33,TAMIL NADU,628,Tirunelveli ,5872,Veerakeralamputhur,0,Veerakeralamputhur
+751,33,TAMIL NADU,628,Tirunelveli ,5872,Veerakeralamputhur,803842,Surandai (TP)
+752,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,0,Tenkasi
+753,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803843,Kadayanallur (M)
+754,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803844,Sambavar Vadagarai (TP)
+755,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803845,Aygudi (TP)
+756,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803846,Tenkasi (M)
+757,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803847,Sundarapandiapuram (TP)
+758,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803848,Ilanji (TP)
+759,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803849,Courtalam (TP)
+760,33,TAMIL NADU,628,Tirunelveli ,5873,Tenkasi,803850,Melagaram (TP)
+761,33,TAMIL NADU,628,Tirunelveli ,5874,Shenkottai,0,Shenkottai
+762,33,TAMIL NADU,628,Tirunelveli ,5874,Shenkottai,803851,Achampudur (TP)
+763,33,TAMIL NADU,628,Tirunelveli ,5874,Shenkottai,803852,Vadakarai Keezhpadugai (TP)
+764,33,TAMIL NADU,628,Tirunelveli ,5874,Shenkottai,803853,Panpoli (TP)
+765,33,TAMIL NADU,628,Tirunelveli ,5874,Shenkottai,803854,Pudur (S) (TP)
+766,33,TAMIL NADU,628,Tirunelveli ,5874,Shenkottai,803855,Shenkottai (M)
+767,33,TAMIL NADU,628,Tirunelveli ,5875,Alangulam,0,Alangulam
+768,33,TAMIL NADU,628,Tirunelveli ,5875,Alangulam,803856,Kilapavoor (TP)
+769,33,TAMIL NADU,628,Tirunelveli ,5875,Alangulam,803857,Alangulam (TP)
+770,33,TAMIL NADU,628,Tirunelveli ,5876,Tirunelveli,0,Tirunelveli
+771,33,TAMIL NADU,628,Tirunelveli ,5876,Tirunelveli,803858,Sankarnagar (TP)
+772,33,TAMIL NADU,628,Tirunelveli ,5876,Tirunelveli,803859,Naranammalpuram (TP)
+773,33,TAMIL NADU,628,Tirunelveli ,5876,Tirunelveli,803860,Tirunelveli (M Corp.)
+774,33,TAMIL NADU,628,Tirunelveli ,5877,Palayamkottai,0,Palayamkottai
+775,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,0,Ambasamudram
+776,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803861,Alwarkurichi (TP)
+777,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803862,Mukkudal (TP)
+778,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803863,Vikramasingapuram (M)
+779,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803864,Ambasamudram (M)
+780,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803865,Cheranmadevi (TP)
+781,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803866,Veeravanallur (TP)
+782,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803867,Kalladaikurichi (TP)
+783,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803868,Manimutharu (TP)
+784,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803869,Pathamadai (TP)
+785,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803870,Melacheval (TP)
+786,33,TAMIL NADU,628,Tirunelveli ,5878,Ambasamudram,803871,Gopalasamudram (TP)
+787,33,TAMIL NADU,628,Tirunelveli ,5879,Nanguneri,0,Nanguneri
+788,33,TAMIL NADU,628,Tirunelveli ,5879,Nanguneri,803872,Moolakaraipatti (TP)
+789,33,TAMIL NADU,628,Tirunelveli ,5879,Nanguneri,803873,Kalakad (TP)
+790,33,TAMIL NADU,628,Tirunelveli ,5879,Nanguneri,803874,Nanguneri (TP)
+791,33,TAMIL NADU,628,Tirunelveli ,5879,Nanguneri,803875,Eruvadi (TP)
+792,33,TAMIL NADU,628,Tirunelveli ,5879,Nanguneri,803876,Thirukarungudi (TP)
+793,33,TAMIL NADU,628,Tirunelveli ,5880,Radhapuram,0,Radhapuram
+794,33,TAMIL NADU,628,Tirunelveli ,5880,Radhapuram,803877,Vadakkuvalliyur (TP)
+795,33,TAMIL NADU,628,Tirunelveli ,5880,Radhapuram,803878,Panagudi (TP)
+796,33,TAMIL NADU,628,Tirunelveli ,5880,Radhapuram,803879,Thisayanvilai (TP)
+797,33,TAMIL NADU,629,Kanniyakumari,0,Kanniyakumari,0,Kanniyakumari
+798,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,0,Vilavancode
+799,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803880,Kadayal (TP)
+800,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803881,Arumanai (TP)
+801,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803882,Edaicode (TP)
+802,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803883,Palugal (TP)
+803,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803884,Kaliyakkavilai (TP)
+804,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803885,Pacode (TP)
+805,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803886,Kuzhithurai (M)
+806,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803887,Unnamalaikadai (TP)
+807,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803888,Nalloor (TP)
+808,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803889,Kollancode (TP)
+809,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803890,Ezhudesam (TP)
+810,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803891,Puthukkadai (TP)
+811,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803892,Killiyoor (TP)
+812,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803893,Keezhkulam (TP)
+813,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803894,Karungal (TP)
+814,33,TAMIL NADU,629,Kanniyakumari,5881,Vilavancode,803895,Palappallam (TP)
+815,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,0,Kalkulam
+816,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803896,Thirparappu (TP)
+817,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803897,Ponmanai (TP)
+818,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803898,Kulasekaram (TP)
+819,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803899,Thiruvattar (TP)
+820,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803900,Athur (TP)
+821,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803901,Verkilambi (TP)
+822,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803902,Kumarapuram (TP)
+823,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803903,Kothanallur (TP)
+824,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803904,Valvaithankoshtam (TP)
+825,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803905,Mulagumudu (TP)
+826,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803906,Vilavur (TP)
+827,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803907,Padmanabhapuram (M)
+828,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803908,Thiruvithancode (TP)
+829,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803909,Kappiyarai (TP)
+830,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803910,Eraniel (TP)
+831,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803911,Villukuri (TP)
+832,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803912,Neyyoor (TP)
+833,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803913,Reethapuram (TP)
+834,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803914,Kallukuttam (TP)
+835,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803915,Thingalnagar (TP)
+836,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803916,Alur (TP)
+837,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803917,Colachel (M)
+838,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803918,Mandaikadu (TP)
+839,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803919,Manavalakurichi (TP)
+840,33,TAMIL NADU,629,Kanniyakumari,5882,Kalkulam,803920,Vellimalai (TP)
+841,33,TAMIL NADU,629,Kanniyakumari,5883,Thovala,0,Thovala
+842,33,TAMIL NADU,629,Kanniyakumari,5883,Thovala,803921,Azhagiapandipuram (TP)
+843,33,TAMIL NADU,629,Kanniyakumari,5883,Thovala,803922,Boothapandi (TP)
+844,33,TAMIL NADU,629,Kanniyakumari,5883,Thovala,803923,Aralvaimozhi (TP)
+845,33,TAMIL NADU,629,Kanniyakumari,5883,Thovala,803924,Thazhakudy (TP)
+846,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,0,Agastheeswaram
+847,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803925,Marungur (TP)
+848,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803926,Therur (TP)
+849,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803927,Nagercoil (M)
+850,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803928,Asaripallam (TP)
+851,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803929,Suchindrum (TP)
+852,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803930,Ganapathipuram (TP)
+853,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803931,Mylaudy (TP)
+854,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803932,Alagappapuram (TP)
+855,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803933,Anjugrammam (TP)
+856,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803934,Kottaram (TP)
+857,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803935,Thengampudur (TP)
+858,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803936,Puthalam (TP)
+859,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803937,Agastheeswaram (TP)
+860,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803938,Thenthamaraikulam (TP)
+861,33,TAMIL NADU,629,Kanniyakumari,5884,Agastheeswaram,803939,Kanniyakumari (TP)
+862,33,TAMIL NADU,630,Dharmapuri,0,Dharmapuri,0,Dharmapuri
+863,33,TAMIL NADU,630,Dharmapuri,5885,Palakkodu,0,Palakkodu
+864,33,TAMIL NADU,630,Dharmapuri,5885,Palakkodu,803940,Marandahalli (TP)
+865,33,TAMIL NADU,630,Dharmapuri,5885,Palakkodu,803941,Kariamangalam (TP)
+866,33,TAMIL NADU,630,Dharmapuri,5885,Palakkodu,803942,Palakkodu (TP)
+867,33,TAMIL NADU,630,Dharmapuri,5886,Harur,0,Harur
+868,33,TAMIL NADU,630,Dharmapuri,5886,Harur,803943,Kambainallur (TP)
+869,33,TAMIL NADU,630,Dharmapuri,5886,Harur,803944,Harur (TP)
+870,33,TAMIL NADU,630,Dharmapuri,5887,Pappireddipatti,0,Pappireddipatti
+871,33,TAMIL NADU,630,Dharmapuri,5887,Pappireddipatti,803945,Kadathur (TP)
+872,33,TAMIL NADU,630,Dharmapuri,5887,Pappireddipatti,803946,B.Mallapuram (TP)
+873,33,TAMIL NADU,630,Dharmapuri,5887,Pappireddipatti,803947,Pappireddipatti (TP)
+874,33,TAMIL NADU,630,Dharmapuri,5888,Dharmapuri,0,Dharmapuri
+875,33,TAMIL NADU,630,Dharmapuri,5888,Dharmapuri,803948,Dharmapuri (M)
+876,33,TAMIL NADU,630,Dharmapuri,5889,Pennagaram,0,Pennagaram
+877,33,TAMIL NADU,630,Dharmapuri,5889,Pennagaram,803949,Papparapatti (TP)
+878,33,TAMIL NADU,630,Dharmapuri,5889,Pennagaram,803950,Pennagaram (TP)
+879,33,TAMIL NADU,631,Krishnagiri,0,Krishnagiri,0,Krishnagiri
+880,33,TAMIL NADU,631,Krishnagiri,5890,Hosur,0,Hosur
+881,33,TAMIL NADU,631,Krishnagiri,5890,Hosur,803951,Hosur (M)
+882,33,TAMIL NADU,631,Krishnagiri,5890,Hosur,803952,Mathigiri (TP)
+883,33,TAMIL NADU,631,Krishnagiri,5891,Krishnagiri,0,Krishnagiri
+884,33,TAMIL NADU,631,Krishnagiri,5891,Krishnagiri,803953,Bargur (TP)
+885,33,TAMIL NADU,631,Krishnagiri,5891,Krishnagiri,803954,Krishnagiri (M)
+886,33,TAMIL NADU,631,Krishnagiri,5891,Krishnagiri,803955,Kaveripattinam (TP)
+887,33,TAMIL NADU,631,Krishnagiri,5892,Denkanikottai,0,Denkanikottai
+888,33,TAMIL NADU,631,Krishnagiri,5892,Denkanikottai,803956,Kelamangalam (TP)
+889,33,TAMIL NADU,631,Krishnagiri,5892,Denkanikottai,803957,Denkanikottai (TP)
+890,33,TAMIL NADU,631,Krishnagiri,5893,Pochampalli,0,Pochampalli
+891,33,TAMIL NADU,631,Krishnagiri,5893,Pochampalli,803958,Nagojanahalli (TP)
+892,33,TAMIL NADU,631,Krishnagiri,5894,Uthangarai,0,Uthangarai
+893,33,TAMIL NADU,631,Krishnagiri,5894,Uthangarai,803959,Uthangarai (TP)
+894,33,TAMIL NADU,632,Coimbatore,0,Coimbatore,0,Coimbatore
+895,33,TAMIL NADU,632,Coimbatore,5895,Mettupalayam,0,Mettupalayam
+896,33,TAMIL NADU,632,Coimbatore,5895,Mettupalayam,803960,Sirumugai (TP)
+897,33,TAMIL NADU,632,Coimbatore,5895,Mettupalayam,803961,Mettupalayam (M)
+898,33,TAMIL NADU,632,Coimbatore,5895,Mettupalayam,803962,Karamadai (TP)
+899,33,TAMIL NADU,632,Coimbatore,5896,Sulur,0,Sulur
+900,33,TAMIL NADU,632,Coimbatore,5896,Sulur,803963,Mopperipalayam (TP)
+901,33,TAMIL NADU,632,Coimbatore,5896,Sulur,803964,Karumathampatti (TP)
+902,33,TAMIL NADU,632,Coimbatore,5896,Sulur,803965,Irugur (TP)
+903,33,TAMIL NADU,632,Coimbatore,5896,Sulur,803966,Sulur (TP)
+904,33,TAMIL NADU,632,Coimbatore,5896,Sulur,803967,Pallapalayam (TP)
+905,33,TAMIL NADU,632,Coimbatore,5896,Sulur,803968,Kannampalayam (TP)
+906,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,0,Coimbatore North
+907,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803969,Annur (TP)
+908,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803970,Veerapandi (TP)
+909,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803971,Gudalur (TP)
+910,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803972,Periyanaicken-palayam (TP)
+911,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803973,Idikarai (TP)
+912,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803974,Sarcarsamakulam (TP)
+913,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803975,Narasimhanaicken-palayam (TP)
+914,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803976,Kalapatti (TP)
+915,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803977,Saravanampatti (TP)
+916,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803978,Vellakinar (TP)
+917,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803979,Thudiyalur (TP)
+918,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803980,Chinnavedampatti (TP)
+919,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803981,Goundampalayam (M)
+920,33,TAMIL NADU,632,Coimbatore,5897,Coimbatore North,803982,Veerakeralam (TP)
+921,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,0,Coimbatore South
+922,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803983,Vadavalli (TP)
+923,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803984,Coimbatore (M Corp.)
+924,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803985,Thondamuthur (TP)
+925,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803986,Dhaliyur (TP)
+926,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803987,Vedapatti (TP)
+927,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803988,Vellalur (TP)
+928,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803989,Kurichi (M)
+929,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803990,Kuniyamuthur (M)
+930,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803991,Perur (TP)
+931,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803992,Thenkarai (TP)
+932,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803993,Pooluvapatti (TP)
+933,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803994,Alanthurai (TP)
+934,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803995,Chettipalayam (TP)
+935,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803996,Madukkarai (TP)
+936,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803997,Ettimadai (TP)
+937,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803998,Othakalmandapam (TP)
+938,33,TAMIL NADU,632,Coimbatore,5898,Coimbatore South,803999,Thirumalayampalayam (TP)
+939,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,0,Pollachi
+940,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804000,Kinathukadavu (TP)
+941,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804001,Periya Negamam (TP)
+942,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804002,Pollachi (M)
+943,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804003,Zamin Uthukuli (TP)
+944,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804004,Suleeswaranpatti (TP)
+945,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804005,Samathur (TP)
+946,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804006,Anaimalai (TP)
+947,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804007,Odaiyakulam (TP)
+948,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804008,Vettaikaranpudur (TP)
+949,33,TAMIL NADU,632,Coimbatore,5899,Pollachi,804009,Kottur (TP)
+950,33,TAMIL NADU,632,Coimbatore,5900,Valparai,0,Valparai
+951,33,TAMIL NADU,632,Coimbatore,5900,Valparai,804010,Valparai (M)
+952,33,TAMIL NADU,633,Tiruppur,0,Tiruppur,0,Tiruppur
+953,33,TAMIL NADU,633,Tiruppur,5901,Kangeyam,0,Kangeyam
+954,33,TAMIL NADU,633,Tiruppur,5901,Kangeyam,804011,Muthur (TP)
+955,33,TAMIL NADU,633,Tiruppur,5901,Kangeyam,804012,Kangeyam (TP)
+956,33,TAMIL NADU,633,Tiruppur,5901,Kangeyam,804013,Vellakoil (M)
+957,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,0,Dharapuram
+958,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,804014,Rudravathi (TP)
+959,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,804015,Kannivadi (TP)
+960,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,804016,Mulanur (TP)
+961,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,804017,Kolathupalayam (TP)
+962,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,804018,Dharapuram (M)
+963,33,TAMIL NADU,633,Tiruppur,5902,Dharapuram,804019,Chinnakkampalayam (TP)
+964,33,TAMIL NADU,633,Tiruppur,5903,Avanashi,0,Avanashi
+965,33,TAMIL NADU,633,Tiruppur,5903,Avanashi,804020,Kunnathur (TP)
+966,33,TAMIL NADU,633,Tiruppur,5903,Avanashi,804021,Avanashi (TP)
+967,33,TAMIL NADU,633,Tiruppur,5903,Avanashi,804022,Thirumuruganpoondi (TP)
+968,33,TAMIL NADU,633,Tiruppur,5903,Avanashi,804023,Uthukuli (TP)
+969,33,TAMIL NADU,633,Tiruppur,5904,Tiruppur,0,Tiruppur
+970,33,TAMIL NADU,633,Tiruppur,5904,Tiruppur,804024,Velampalayam (M)
+971,33,TAMIL NADU,633,Tiruppur,5904,Tiruppur,804025,S.Nallur (M)
+972,33,TAMIL NADU,633,Tiruppur,5904,Tiruppur,804026,Tiruppur (M Corp.)
+973,33,TAMIL NADU,633,Tiruppur,5905,Palladam,0,Palladam
+974,33,TAMIL NADU,633,Tiruppur,5905,Palladam,804027,Samalapuram (TP)
+975,33,TAMIL NADU,633,Tiruppur,5905,Palladam,804028,Palladam (M)
+976,33,TAMIL NADU,633,Tiruppur,5906,Udumalaipettai,0,Udumalaipettai
+977,33,TAMIL NADU,633,Tiruppur,5906,Udumalaipettai,804029,Udumalaipettai  (M)
+978,33,TAMIL NADU,633,Tiruppur,5906,Udumalaipettai,804030,Dhali (TP)
+979,33,TAMIL NADU,633,Tiruppur,5907,Madathukulam,0,Madathukulam
+980,33,TAMIL NADU,633,Tiruppur,5907,Madathukulam,804031,Kaniyur (TP)
+981,33,TAMIL NADU,633,Tiruppur,5907,Madathukulam,804032,Madathukulam (TP)
+982,33,TAMIL NADU,633,Tiruppur,5907,Madathukulam,804033,Komaralingam (TP)
+983,33,TAMIL NADU,633,Tiruppur,5907,Madathukulam,804034,Sankaramanallur (TP)
+984,33,TAMIL NADU,603,Chennai,99999,Area not under any Sub-district,0,Area not under any Sub-district

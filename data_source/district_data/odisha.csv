@@ -1,0 +1,632 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,21,ODISHA,0,ODISHA,0,ODISHA,0,ODISHA
+1,21,ODISHA,370,Bargarh,0,Bargarh,0,Bargarh
+2,21,ODISHA,370,Bargarh,2755,Paikamal,0,Paikamal
+3,21,ODISHA,370,Bargarh,2756,Jharbandha,0,Jharbandha
+4,21,ODISHA,370,Bargarh,2757,Padmapur,0,Padmapur
+5,21,ODISHA,370,Bargarh,2757,Padmapur,801803,Padmapur (NAC)
+6,21,ODISHA,370,Bargarh,2758,Burden,0,Burden
+7,21,ODISHA,370,Bargarh,2759,Gaisilet,0,Gaisilet
+8,21,ODISHA,370,Bargarh,2760,Melchhamunda,0,Melchhamunda
+9,21,ODISHA,370,Bargarh,2761,Sohela,0,Sohela
+10,21,ODISHA,370,Bargarh,2762,Bijepur,0,Bijepur
+11,21,ODISHA,370,Bargarh,2763,Barapali,0,Barapali
+12,21,ODISHA,370,Bargarh,2763,Barapali,801804,Barapali (NAC)
+13,21,ODISHA,370,Bargarh,2764,Bheden,0,Bheden
+14,21,ODISHA,370,Bargarh,2765,Bargarh,0,Bargarh
+15,21,ODISHA,370,Bargarh,2765,Bargarh,801805,Bargarh (M)
+16,21,ODISHA,370,Bargarh,2766,Bargarh Sadar ,0,Bargarh Sadar 
+17,21,ODISHA,370,Bargarh,2767,Bhatli,0,Bhatli
+18,21,ODISHA,370,Bargarh,2768,Ambabhona,0,Ambabhona
+19,21,ODISHA,370,Bargarh,2769,Attabira,0,Attabira
+20,21,ODISHA,371,Jharsuguda,0,Jharsuguda,0,Jharsuguda
+21,21,ODISHA,371,Jharsuguda,2770,Rengali,0,Rengali
+22,21,ODISHA,371,Jharsuguda,2771,Lakhanpur,0,Lakhanpur
+23,21,ODISHA,371,Jharsuguda,2772,Belpahar,0,Belpahar
+24,21,ODISHA,371,Jharsuguda,2772,Belpahar,801806,Belpahar (M)
+25,21,ODISHA,371,Jharsuguda,2773,Banaharapali,0,Banaharapali
+26,21,ODISHA,371,Jharsuguda,2774,Orient,0,Orient
+27,21,ODISHA,371,Jharsuguda,2774,Orient,801807,Brajarajnagar (M)
+28,21,ODISHA,371,Jharsuguda,2775,Brajarajnagar,0,Brajarajnagar
+29,21,ODISHA,371,Jharsuguda,2776,Jharsuguda,0,Jharsuguda
+30,21,ODISHA,371,Jharsuguda,2776,Jharsuguda,801808,Jharsuguda (M)
+31,21,ODISHA,371,Jharsuguda,2777,Badmal ,0,Badmal 
+32,21,ODISHA,371,Jharsuguda,2778,Laikera,0,Laikera
+33,21,ODISHA,371,Jharsuguda,2779,Kolabira,0,Kolabira
+34,21,ODISHA,372,Sambalpur,0,Sambalpur,0,Sambalpur
+35,21,ODISHA,372,Sambalpur,2780,Govindpur,0,Govindpur
+36,21,ODISHA,372,Sambalpur,2781,Mahulpalli,0,Mahulpalli
+37,21,ODISHA,372,Sambalpur,2782,Kochinda,0,Kochinda
+38,21,ODISHA,372,Sambalpur,2782,Kochinda,801809,Kochinda (NAC)
+39,21,ODISHA,372,Sambalpur,2783,Katarbaga,0,Katarbaga
+40,21,ODISHA,372,Sambalpur,2784,Thelkoloi  ,0,Thelkoloi  
+41,21,ODISHA,372,Sambalpur,2785,Rengali ,0,Rengali 
+42,21,ODISHA,372,Sambalpur,2786,Sasan,0,Sasan
+43,21,ODISHA,372,Sambalpur,2787,Hirakud,0,Hirakud
+44,21,ODISHA,372,Sambalpur,2787,Hirakud,801810,Hirakud (NAC)
+45,21,ODISHA,372,Sambalpur,2788,Burla,0,Burla
+46,21,ODISHA,372,Sambalpur,2788,Burla,801811,Burla (NAC)
+47,21,ODISHA,372,Sambalpur,2789,Dhanupali,0,Dhanupali
+48,21,ODISHA,372,Sambalpur,2790,Ainthapali,0,Ainthapali
+49,21,ODISHA,372,Sambalpur,2791,Sadar,0,Sadar
+50,21,ODISHA,372,Sambalpur,2792,Jamankira,0,Jamankira
+51,21,ODISHA,372,Sambalpur,2793,Kisinda,0,Kisinda
+52,21,ODISHA,372,Sambalpur,2794,Jujomura,0,Jujomura
+53,21,ODISHA,372,Sambalpur,2795,Dhama,0,Dhama
+54,21,ODISHA,372,Sambalpur,2796,Charamal,0,Charamal
+55,21,ODISHA,372,Sambalpur,2797,Rairakhol,0,Rairakhol
+56,21,ODISHA,372,Sambalpur,2797,Rairakhol,801812,Redhakhol (NAC)
+57,21,ODISHA,372,Sambalpur,2798,Naktideul,0,Naktideul
+58,21,ODISHA,372,Sambalpur,2799,Sambalpur (M),0,Sambalpur (M)
+59,21,ODISHA,372,Sambalpur,2799,Sambalpur (M),801813,Sambalpur (M + OG)
+60,21,ODISHA,372,Sambalpur,2799,Sambalpur (M),801813,Sambalpur (M)
+61,21,ODISHA,373,Debagarh,0,Debagarh,0,Debagarh
+62,21,ODISHA,373,Debagarh,2800,Debagarh,0,Debagarh
+63,21,ODISHA,373,Debagarh,2800,Debagarh,801814,Debagarh (M)
+64,21,ODISHA,373,Debagarh,2801,Barkot,0,Barkot
+65,21,ODISHA,373,Debagarh,2802,Kundheigola,0,Kundheigola
+66,21,ODISHA,373,Debagarh,2803,Reamal,0,Reamal
+67,21,ODISHA,374,Sundargarh,0,Sundargarh,0,Sundargarh
+68,21,ODISHA,374,Sundargarh,2804,Hemgir,0,Hemgir
+69,21,ODISHA,374,Sundargarh,2805,Lephripara,0,Lephripara
+70,21,ODISHA,374,Sundargarh,2806,Bhasma,0,Bhasma
+71,21,ODISHA,374,Sundargarh,2807,Dharuadihi,0,Dharuadihi
+72,21,ODISHA,374,Sundargarh,2808,Sundargarh Town,0,Sundargarh Town
+73,21,ODISHA,374,Sundargarh,2808,Sundargarh Town,801815,Sundargarh (M)
+74,21,ODISHA,374,Sundargarh,2809,Sundargarh ,0,Sundargarh 
+75,21,ODISHA,374,Sundargarh,2810,Kinjirkela,0,Kinjirkela
+76,21,ODISHA,374,Sundargarh,2811,Talasara,0,Talasara
+77,21,ODISHA,374,Sundargarh,2812,Baragaon,0,Baragaon
+78,21,ODISHA,374,Sundargarh,2813,Kutra,0,Kutra
+79,21,ODISHA,374,Sundargarh,2814,Rajagangapur,0,Rajagangapur
+80,21,ODISHA,374,Sundargarh,2814,Rajagangapur,801816,Rajagangapur (M)
+81,21,ODISHA,374,Sundargarh,2814,Rajagangapur,801817,O.C.L. (ITS)
+82,21,ODISHA,374,Sundargarh,2815,Raiboga,0,Raiboga
+83,21,ODISHA,374,Sundargarh,2816,Biramitrapur,0,Biramitrapur
+84,21,ODISHA,374,Sundargarh,2816,Biramitrapur,801818,Biramitrapur (M)
+85,21,ODISHA,374,Sundargarh,2817,Hatibari,0,Hatibari
+86,21,ODISHA,374,Sundargarh,2818,Bisra,0,Bisra
+87,21,ODISHA,374,Sundargarh,2819,Bondamunda,0,Bondamunda
+88,21,ODISHA,374,Sundargarh,2820,Brahmani Tarang,0,Brahmani Tarang
+89,21,ODISHA,374,Sundargarh,2821,Raghunathapali,0,Raghunathapali
+90,21,ODISHA,374,Sundargarh,2822,Tangarapali,0,Tangarapali
+91,21,ODISHA,374,Sundargarh,2823,Lathikata,0,Lathikata
+92,21,ODISHA,374,Sundargarh,2824,Chandiposh,0,Chandiposh
+93,21,ODISHA,374,Sundargarh,2825,Kamarposh Balang,0,Kamarposh Balang
+94,21,ODISHA,374,Sundargarh,2826,Koida,0,Koida
+95,21,ODISHA,374,Sundargarh,2827,Lahunipara,0,Lahunipara
+96,21,ODISHA,374,Sundargarh,2828,Gurundia,0,Gurundia
+97,21,ODISHA,374,Sundargarh,2829,Tikaetpali,0,Tikaetpali
+98,21,ODISHA,374,Sundargarh,2830,Banei,0,Banei
+99,21,ODISHA,374,Sundargarh,2831,Mahulapada,0,Mahulapada
+100,21,ODISHA,374,Sundargarh,2832,Raurkela (M),0,Raurkela (M)
+101,21,ODISHA,374,Sundargarh,2832,Raurkela (M),801819,Raurkela (M + OG)
+102,21,ODISHA,374,Sundargarh,2832,Raurkela (M),801819,Raurkela (M)
+103,21,ODISHA,374,Sundargarh,2833,Raurkela (ITS),0,Raurkela (ITS)
+104,21,ODISHA,374,Sundargarh,2833,Raurkela (ITS),801820,Raurkela  (ITS + OG)
+105,21,ODISHA,374,Sundargarh,2833,Raurkela (ITS),801820,Raurkela  (ITS)
+106,21,ODISHA,375,Kendujhar,0,Kendujhar,0,Kendujhar
+107,21,ODISHA,375,Kendujhar,2834,Barbil,0,Barbil
+108,21,ODISHA,375,Kendujhar,2834,Barbil,801821,Barbil (M)
+109,21,ODISHA,375,Kendujhar,2835,Bolani,0,Bolani
+110,21,ODISHA,375,Kendujhar,2836,Rugudi,0,Rugudi
+111,21,ODISHA,375,Kendujhar,2837,Joda,0,Joda
+112,21,ODISHA,375,Kendujhar,2837,Joda,801822,Joda (M )
+113,21,ODISHA,375,Kendujhar,2838,Bamebari ,0,Bamebari 
+114,21,ODISHA,375,Kendujhar,2839,Champua,0,Champua
+115,21,ODISHA,375,Kendujhar,2840,Jhumpura,0,Jhumpura
+116,21,ODISHA,375,Kendujhar,2841,Baria,0,Baria
+117,21,ODISHA,375,Kendujhar,2842,Turumunga,0,Turumunga
+118,21,ODISHA,375,Kendujhar,2843,Patana,0,Patana
+119,21,ODISHA,375,Kendujhar,2844,Kendujhar Sadar,0,Kendujhar Sadar
+120,21,ODISHA,375,Kendujhar,2845,Kendujhar Town,0,Kendujhar Town
+121,21,ODISHA,375,Kendujhar,2845,Kendujhar Town,801823,Kendujhar (M)
+122,21,ODISHA,375,Kendujhar,2846,Nayakote,0,Nayakote
+123,21,ODISHA,375,Kendujhar,2847,Kanjipani,0,Kanjipani
+124,21,ODISHA,375,Kendujhar,2848,Telkoi,0,Telkoi
+125,21,ODISHA,375,Kendujhar,2849,Pandapara,0,Pandapara
+126,21,ODISHA,375,Kendujhar,2850,Ghatgaon,0,Ghatgaon
+127,21,ODISHA,375,Kendujhar,2851,Harichandanpur,0,Harichandanpur
+128,21,ODISHA,375,Kendujhar,2852,Daitari,0,Daitari
+129,21,ODISHA,375,Kendujhar,2853,Ghasipura,0,Ghasipura
+130,21,ODISHA,375,Kendujhar,2854,Anandapur,0,Anandapur
+131,21,ODISHA,375,Kendujhar,2854,Anandapur,801824,Anandpur (M)
+132,21,ODISHA,375,Kendujhar,2855,Soso,0,Soso
+133,21,ODISHA,375,Kendujhar,2856,Nandipada,0,Nandipada
+134,21,ODISHA,375,Kendujhar,2857,Sainkul,0,Sainkul
+135,21,ODISHA,376,Mayurbhanj,0,Mayurbhanj,0,Mayurbhanj
+136,21,ODISHA,376,Mayurbhanj,2858,Tiring,0,Tiring
+137,21,ODISHA,376,Mayurbhanj,2859,Bahalda,0,Bahalda
+138,21,ODISHA,376,Mayurbhanj,2860,Jamda,0,Jamda
+139,21,ODISHA,376,Mayurbhanj,2861,Rairangpur Town,0,Rairangpur Town
+140,21,ODISHA,376,Mayurbhanj,2861,Rairangpur Town,801825,Rairangpur (NAC + OG)
+141,21,ODISHA,376,Mayurbhanj,2861,Rairangpur Town,801825,Rairangpur (NAC)
+142,21,ODISHA,376,Mayurbhanj,2862,Gorumahisani,0,Gorumahisani
+143,21,ODISHA,376,Mayurbhanj,2863,Jharpokharia,0,Jharpokharia
+144,21,ODISHA,376,Mayurbhanj,2864,Bisoi,0,Bisoi
+145,21,ODISHA,376,Mayurbhanj,2865,Rairangpur,0,Rairangpur
+146,21,ODISHA,376,Mayurbhanj,2866,Badampahar,0,Badampahar
+147,21,ODISHA,376,Mayurbhanj,2867,Jashipur,0,Jashipur
+148,21,ODISHA,376,Mayurbhanj,2868,Raruan,0,Raruan
+149,21,ODISHA,376,Mayurbhanj,2869,Ghagarbeda ,0,Ghagarbeda 
+150,21,ODISHA,376,Mayurbhanj,2870,Karanjia,0,Karanjia
+151,21,ODISHA,376,Mayurbhanj,2870,Karanjia,801826,Karanjia (NAC)
+152,21,ODISHA,376,Mayurbhanj,2871,Thakurmunda,0,Thakurmunda
+153,21,ODISHA,376,Mayurbhanj,2872,Baripada Sadar,0,Baripada Sadar
+154,21,ODISHA,376,Mayurbhanj,2873,Baripada Town,0,Baripada Town
+155,21,ODISHA,376,Mayurbhanj,2874,Koliana,0,Koliana
+156,21,ODISHA,376,Mayurbhanj,2875,Bangiriposi,0,Bangiriposi
+157,21,ODISHA,376,Mayurbhanj,2876,Chandua,0,Chandua
+158,21,ODISHA,376,Mayurbhanj,2877,Suliapada,0,Suliapada
+159,21,ODISHA,376,Mayurbhanj,2878,Muruda,0,Muruda
+160,21,ODISHA,376,Mayurbhanj,2879,Rasagobindapur,0,Rasagobindapur
+161,21,ODISHA,376,Mayurbhanj,2880,Baisinga,0,Baisinga
+162,21,ODISHA,376,Mayurbhanj,2881,Betanati,0,Betanati
+163,21,ODISHA,376,Mayurbhanj,2882,Barsahi,0,Barsahi
+164,21,ODISHA,376,Mayurbhanj,2883,Khunta,0,Khunta
+165,21,ODISHA,376,Mayurbhanj,2884,Udala,0,Udala
+166,21,ODISHA,376,Mayurbhanj,2884,Udala,801827,Udala (NAC)
+167,21,ODISHA,376,Mayurbhanj,2885,Kaptipada,0,Kaptipada
+168,21,ODISHA,376,Mayurbhanj,2886,Sharata,0,Sharata
+169,21,ODISHA,376,Mayurbhanj,2887,Mahuldiha,0,Mahuldiha
+170,21,ODISHA,376,Mayurbhanj,2888,Baripada (M),0,Baripada (M)
+171,21,ODISHA,376,Mayurbhanj,2888,Baripada (M),801828,Baripada (M + OG)
+172,21,ODISHA,376,Mayurbhanj,2888,Baripada (M),801828,Baripada (M)
+173,21,ODISHA,377,Baleshwar,0,Baleshwar,0,Baleshwar
+174,21,ODISHA,377,Baleshwar,2889,Raibania ,0,Raibania 
+175,21,ODISHA,377,Baleshwar,2890,Jaleswar ,0,Jaleswar 
+176,21,ODISHA,377,Baleshwar,2890,Jaleswar ,801829,Jaleshwar (NAC)
+177,21,ODISHA,377,Baleshwar,2891,Bhograi,0,Bhograi
+178,21,ODISHA,377,Baleshwar,2892,Kamarda,0,Kamarda
+179,21,ODISHA,377,Baleshwar,2893,Baliapal ,0,Baliapal 
+180,21,ODISHA,377,Baleshwar,2894,Singla ,0,Singla 
+181,21,ODISHA,377,Baleshwar,2895,Basta ,0,Basta 
+182,21,ODISHA,377,Baleshwar,2896,Rupsa ,0,Rupsa 
+183,21,ODISHA,377,Baleshwar,2897,Baleshwar Sadar,0,Baleshwar Sadar
+184,21,ODISHA,377,Baleshwar,2898,Sahadevkhunta,0,Sahadevkhunta
+185,21,ODISHA,377,Baleshwar,2899,Chandipur ,0,Chandipur 
+186,21,ODISHA,377,Baleshwar,2900,Balaramgadi Marine ,0,Balaramgadi Marine 
+187,21,ODISHA,377,Baleshwar,2901,Bampada ,0,Bampada 
+188,21,ODISHA,377,Baleshwar,2902,Remuna ,0,Remuna 
+189,21,ODISHA,377,Baleshwar,2902,Remuna ,801830,Remuna (NAC)
+190,21,ODISHA,377,Baleshwar,2903,Nilagiri ,0,Nilagiri 
+191,21,ODISHA,377,Baleshwar,2903,Nilagiri ,801831,Nilagiri (NAC)
+192,21,ODISHA,377,Baleshwar,2904,Berhampur ,0,Berhampur 
+193,21,ODISHA,377,Baleshwar,2905,Oupada  ,0,Oupada  
+194,21,ODISHA,377,Baleshwar,2906,Khaira  ,0,Khaira  
+195,21,ODISHA,377,Baleshwar,2907,Soro,0,Soro
+196,21,ODISHA,377,Baleshwar,2907,Soro,801832,Soro (NAC)
+197,21,ODISHA,377,Baleshwar,2908,Similia ,0,Similia 
+198,21,ODISHA,377,Baleshwar,2909,Baleshwar (M),0,Baleshwar (M)
+199,21,ODISHA,377,Baleshwar,2909,Baleshwar (M),801833,Baleshwar (M + OG)
+200,21,ODISHA,377,Baleshwar,2909,Baleshwar (M),801833,Baleshwar (M)
+201,21,ODISHA,378,Bhadrak,0,Bhadrak,0,Bhadrak
+202,21,ODISHA,378,Bhadrak,2910,Agarpada ,0,Agarpada 
+203,21,ODISHA,378,Bhadrak,2911,Bant ,0,Bant 
+204,21,ODISHA,378,Bhadrak,2912,Bhandari Pokhari ,0,Bhandari Pokhari 
+205,21,ODISHA,378,Bhadrak,2913,Dhamanagar,0,Dhamanagar
+206,21,ODISHA,378,Bhadrak,2913,Dhamanagar,801834,Dhamanagar (NAC)
+207,21,ODISHA,378,Bhadrak,2914,Bhadrak Rural ,0,Bhadrak Rural 
+208,21,ODISHA,378,Bhadrak,2914,Bhadrak Rural ,801835,Bhadrak (M + OG)
+209,21,ODISHA,378,Bhadrak,2914,Bhadrak Rural ,801835,Bhadrak (M)
+210,21,ODISHA,378,Bhadrak,2915,Basudebpur ,0,Basudebpur 
+211,21,ODISHA,378,Bhadrak,2915,Basudebpur ,801836,Basudebpur (NAC)
+212,21,ODISHA,378,Bhadrak,2916,Naikanidihi ,0,Naikanidihi 
+213,21,ODISHA,378,Bhadrak,2917,Tihidi ,0,Tihidi 
+214,21,ODISHA,378,Bhadrak,2918,Dhusuri ,0,Dhusuri 
+215,21,ODISHA,378,Bhadrak,2919,Chandabali ,0,Chandabali 
+216,21,ODISHA,378,Bhadrak,2920,Bansada ,0,Bansada 
+217,21,ODISHA,378,Bhadrak,2921,Dhamara Marine,0,Dhamara Marine
+218,21,ODISHA,379,Kendrapara ,0,Kendrapara ,0,Kendrapara 
+219,21,ODISHA,379,Kendrapara ,2922,Rajkanika ,0,Rajkanika 
+220,21,ODISHA,379,Kendrapara ,2923,Rajnagar ,0,Rajnagar 
+221,21,ODISHA,379,Kendrapara ,2924,Jamboo Marine  ,0,Jamboo Marine  
+222,21,ODISHA,379,Kendrapara ,2925,Aali ,0,Aali 
+223,21,ODISHA,379,Kendrapara ,2926,Pattamundai ,0,Pattamundai 
+224,21,ODISHA,379,Kendrapara ,2926,Pattamundai ,801837,Pattamundai (NAC)
+225,21,ODISHA,379,Kendrapara ,2927,Kendrapara,0,Kendrapara
+226,21,ODISHA,379,Kendrapara ,2927,Kendrapara,801838,Kendrapara (M)
+227,21,ODISHA,379,Kendrapara ,2928,Kendrapara Sadar  ,0,Kendrapara Sadar  
+228,21,ODISHA,379,Kendrapara ,2929,Nikirai ,0,Nikirai 
+229,21,ODISHA,379,Kendrapara ,2930,Derabish ,0,Derabish 
+230,21,ODISHA,379,Kendrapara ,2931,Patkura ,0,Patkura 
+231,21,ODISHA,379,Kendrapara ,2932,Marsaghai ,0,Marsaghai 
+232,21,ODISHA,379,Kendrapara ,2933,Mahakalapada ,0,Mahakalapada 
+233,21,ODISHA,380,Jagatsinghapur ,0,Jagatsinghapur ,0,Jagatsinghapur 
+234,21,ODISHA,380,Jagatsinghapur ,2934,Paradip ,0,Paradip 
+235,21,ODISHA,380,Jagatsinghapur ,2934,Paradip ,801839,Paradip (M)
+236,21,ODISHA,380,Jagatsinghapur ,2935,Paradeep Lock ,0,Paradeep Lock 
+237,21,ODISHA,380,Jagatsinghapur ,2936,Kujang ,0,Kujang 
+238,21,ODISHA,380,Jagatsinghapur ,2937,Abhyachandpur  ,0,Abhyachandpur  
+239,21,ODISHA,380,Jagatsinghapur ,2938,Ersama ,0,Ersama 
+240,21,ODISHA,380,Jagatsinghapur ,2939,Tirtol ,0,Tirtol 
+241,21,ODISHA,380,Jagatsinghapur ,2940,Jagatsinghapur,0,Jagatsinghapur
+242,21,ODISHA,380,Jagatsinghapur ,2940,Jagatsinghapur,801840,Jagatsinghapur (M)
+243,21,ODISHA,380,Jagatsinghapur ,2941,Biridi,0,Biridi
+244,21,ODISHA,380,Jagatsinghapur ,2942,Naugaon ,0,Naugaon 
+245,21,ODISHA,380,Jagatsinghapur ,2943,Balikuda ,0,Balikuda 
+246,21,ODISHA,381,Cuttack,0,Cuttack,0,Cuttack
+247,21,ODISHA,381,Cuttack,2944,Narasinghpur ,0,Narasinghpur 
+248,21,ODISHA,381,Cuttack,2945,Kanpur ,0,Kanpur 
+249,21,ODISHA,381,Cuttack,2946,Badamba ,0,Badamba 
+250,21,ODISHA,381,Cuttack,2947,Baidyeswar ,0,Baidyeswar 
+251,21,ODISHA,381,Cuttack,2948,Banki ,0,Banki 
+252,21,ODISHA,381,Cuttack,2948,Banki ,801841,Banki (NAC)
+253,21,ODISHA,381,Cuttack,2949,Tigiria ,0,Tigiria 
+254,21,ODISHA,381,Cuttack,2950,Athagad ,0,Athagad 
+255,21,ODISHA,381,Cuttack,2950,Athagad ,801842,Athagad (NAC)
+256,21,ODISHA,381,Cuttack,2951,Barang ,0,Barang 
+257,21,ODISHA,381,Cuttack,2952,Gurudijhatia ,0,Gurudijhatia 
+258,21,ODISHA,381,Cuttack,2953,Khuntuni  ,0,Khuntuni  
+259,21,ODISHA,381,Cuttack,2954,Choudwar ,0,Choudwar 
+260,21,ODISHA,381,Cuttack,2954,Choudwar ,801843,Choudwar (M + OG)
+261,21,ODISHA,381,Cuttack,2954,Choudwar ,801843,Choudwar (M)
+262,21,ODISHA,381,Cuttack,2955,Tangi ,0,Tangi 
+263,21,ODISHA,381,Cuttack,2956,Mahanga ,0,Mahanga 
+264,21,ODISHA,381,Cuttack,2957,Salepur ,0,Salepur 
+265,21,ODISHA,381,Cuttack,2958,Nischintakoili ,0,Nischintakoili 
+266,21,ODISHA,381,Cuttack,2959,Nemalo,0,Nemalo
+267,21,ODISHA,381,Cuttack,2960,Kishannagar ,0,Kishannagar 
+268,21,ODISHA,381,Cuttack,2961,Jagatpur ,0,Jagatpur 
+269,21,ODISHA,381,Cuttack,2962,Cuttack Sadar ,0,Cuttack Sadar 
+270,21,ODISHA,381,Cuttack,2963,Kandarpur,0,Kandarpur
+271,21,ODISHA,381,Cuttack,2964,C.R.R.I. ,0,C.R.R.I. 
+272,21,ODISHA,381,Cuttack,2965,Gobindpur ,0,Gobindpur 
+273,21,ODISHA,381,Cuttack,2966,Olatapur,0,Olatapur
+274,21,ODISHA,381,Cuttack,2967,Niali ,0,Niali 
+275,21,ODISHA,381,Cuttack,2968,Cuttack (M Corp.),0,Cuttack (M Corp.)
+276,21,ODISHA,381,Cuttack,2968,Cuttack (M Corp.),801844,Cuttack (M Corp.)
+277,21,ODISHA,382,Jajapur  ,0,Jajapur  ,0,Jajapur  
+278,21,ODISHA,382,Jajapur  ,2969,Sukinda,0,Sukinda
+279,21,ODISHA,382,Jajapur  ,2970,Tomka,0,Tomka
+280,21,ODISHA,382,Jajapur  ,2971,Kaliapani ,0,Kaliapani 
+281,21,ODISHA,382,Jajapur  ,2972,Kalinganagar ,0,Kalinganagar 
+282,21,ODISHA,382,Jajapur  ,2973,Jakhapura,0,Jakhapura
+283,21,ODISHA,382,Jajapur  ,2974,Jajapur Road ,0,Jajapur Road 
+284,21,ODISHA,382,Jajapur  ,2974,Jajapur Road ,801845,Byasanagar (M + OG)
+285,21,ODISHA,382,Jajapur  ,2974,Jajapur Road ,801845,Byasanagar (M)
+286,21,ODISHA,382,Jajapur  ,2975,Korai ,0,Korai 
+287,21,ODISHA,382,Jajapur  ,2976,Panikoili ,0,Panikoili 
+288,21,ODISHA,382,Jajapur  ,2977,Jajapur    ,0,Jajapur    
+289,21,ODISHA,382,Jajapur  ,2977,Jajapur    ,801846,Jajapur (M)
+290,21,ODISHA,382,Jajapur  ,2978,Jajpur Sadar  ,0,Jajpur Sadar  
+291,21,ODISHA,382,Jajapur  ,2979,Dharmasala ,0,Dharmasala 
+292,21,ODISHA,382,Jajapur  ,2980,Jenapur  ,0,Jenapur  
+293,21,ODISHA,382,Jajapur  ,2981,Kuakhia  ,0,Kuakhia  
+294,21,ODISHA,382,Jajapur  ,2982,Badachana ,0,Badachana 
+295,21,ODISHA,382,Jajapur  ,2983,Balichandrapur ,0,Balichandrapur 
+296,21,ODISHA,382,Jajapur  ,2984,Binjharpur ,0,Binjharpur 
+297,21,ODISHA,382,Jajapur  ,2985,Bari - Ramachandrapur,0,Bari - Ramachandrapur
+298,21,ODISHA,382,Jajapur  ,2986,Mangalpur ,0,Mangalpur 
+299,21,ODISHA,383,Dhenkanal,0,Dhenkanal,0,Dhenkanal
+300,21,ODISHA,383,Dhenkanal,2987,Parajang ,0,Parajang 
+301,21,ODISHA,383,Dhenkanal,2988,Kamakshyanagar ,0,Kamakshyanagar 
+302,21,ODISHA,383,Dhenkanal,2988,Kamakshyanagar ,801847,Kamakshyanagar (NAC)
+303,21,ODISHA,383,Dhenkanal,2989,Kankadahad  ,0,Kankadahad  
+304,21,ODISHA,383,Dhenkanal,2990,Bhuban ,0,Bhuban 
+305,21,ODISHA,383,Dhenkanal,2990,Bhuban ,801848,Bhuban (NAC)
+306,21,ODISHA,383,Dhenkanal,2991,Gandia ,0,Gandia 
+307,21,ODISHA,383,Dhenkanal,2992,Nihalprasad ,0,Nihalprasad 
+308,21,ODISHA,383,Dhenkanal,2993,Tumusingha ,0,Tumusingha 
+309,21,ODISHA,383,Dhenkanal,2994,Motunga ,0,Motunga 
+310,21,ODISHA,383,Dhenkanal,2995,Bhusan Steel Limited,0,Bhusan Steel Limited
+311,21,ODISHA,383,Dhenkanal,2996,Balimi ,0,Balimi 
+312,21,ODISHA,383,Dhenkanal,2997,Hindol ,0,Hindol 
+313,21,ODISHA,383,Dhenkanal,2998,Rasol ,0,Rasol 
+314,21,ODISHA,383,Dhenkanal,2999,Dhenkanal Sadar ,0,Dhenkanal Sadar 
+315,21,ODISHA,383,Dhenkanal,2999,Dhenkanal Sadar ,801849,Dhenkanal (M)
+316,21,ODISHA,384,Anugul  ,0,Anugul  ,0,Anugul  
+317,21,ODISHA,384,Anugul  ,3000,Palalahada ,0,Palalahada 
+318,21,ODISHA,384,Anugul  ,3001,Khamar ,0,Khamar 
+319,21,ODISHA,384,Anugul  ,3002,Rengali Damsite ,0,Rengali Damsite 
+320,21,ODISHA,384,Anugul  ,3003,Kaniha ,0,Kaniha 
+321,21,ODISHA,384,Anugul  ,3004,N.T.P.C.   ,0,N.T.P.C.   
+322,21,ODISHA,384,Anugul  ,3005,Samal Barrage ,0,Samal Barrage 
+323,21,ODISHA,384,Anugul  ,3006,Talcher Sadar,0,Talcher Sadar
+324,21,ODISHA,384,Anugul  ,3006,Talcher Sadar,801850,Talcher (M)
+325,21,ODISHA,384,Anugul  ,3007,Colliery ,0,Colliery 
+326,21,ODISHA,384,Anugul  ,3008,Bikrampur ,0,Bikrampur 
+327,21,ODISHA,384,Anugul  ,3009,Nalco,0,Nalco
+328,21,ODISHA,384,Anugul  ,3010,Banarpal,0,Banarpal
+329,21,ODISHA,384,Anugul  ,2995,Bhusan Steel Limited,0,Bhusan Steel Limited
+330,21,ODISHA,384,Anugul  ,3011,Anugul ,0,Anugul 
+331,21,ODISHA,384,Anugul  ,3011,Anugul ,801851,Anugul (M)
+332,21,ODISHA,384,Anugul  ,3012,Jarapada ,0,Jarapada 
+333,21,ODISHA,384,Anugul  ,3013,Industrial  ,0,Industrial  
+334,21,ODISHA,384,Anugul  ,3014,Chhendipada ,0,Chhendipada 
+335,21,ODISHA,384,Anugul  ,3015,Handapa,0,Handapa
+336,21,ODISHA,384,Anugul  ,3016,Kishorenagar ,0,Kishorenagar 
+337,21,ODISHA,384,Anugul  ,3017,Athmallik ,0,Athmallik 
+338,21,ODISHA,384,Anugul  ,3017,Athmallik ,801852,Athmallik (NAC)
+339,21,ODISHA,384,Anugul  ,3018,Kiakata,0,Kiakata
+340,21,ODISHA,384,Anugul  ,3019,Thakurgarh ,0,Thakurgarh 
+341,21,ODISHA,384,Anugul  ,3020,Purunakot ,0,Purunakot 
+342,21,ODISHA,384,Anugul  ,3021,Bantala ,0,Bantala 
+343,21,ODISHA,385,Nayagarh  ,0,Nayagarh  ,0,Nayagarh  
+344,21,ODISHA,385,Nayagarh  ,3022,Gania ,0,Gania 
+345,21,ODISHA,385,Nayagarh  ,3023,Dasapalla ,0,Dasapalla 
+346,21,ODISHA,385,Nayagarh  ,3024,Banigochha ,0,Banigochha 
+347,21,ODISHA,385,Nayagarh  ,3025,Nuagaon ,0,Nuagaon 
+348,21,ODISHA,385,Nayagarh  ,3026,Khandapada ,0,Khandapada 
+349,21,ODISHA,385,Nayagarh  ,3026,Khandapada ,801853,Khandapada (NAC)
+350,21,ODISHA,385,Nayagarh  ,3027,Fategarh,0,Fategarh
+351,21,ODISHA,385,Nayagarh  ,3028,Nayagarh ,0,Nayagarh 
+352,21,ODISHA,385,Nayagarh  ,3028,Nayagarh ,801854,Nayagarh (NAC)
+353,21,ODISHA,385,Nayagarh  ,3029,Itamati ,0,Itamati 
+354,21,ODISHA,385,Nayagarh  ,3030,Nayagarh Sadar,0,Nayagarh Sadar
+355,21,ODISHA,385,Nayagarh  ,3031,Odagaon,0,Odagaon
+356,21,ODISHA,385,Nayagarh  ,3032,Sarankul,0,Sarankul
+357,21,ODISHA,385,Nayagarh  ,3033,Ranapur ,0,Ranapur 
+358,21,ODISHA,386,Khordha ,0,Khordha ,0,Khordha 
+359,21,ODISHA,386,Khordha ,3034,Bolagad ,0,Bolagad 
+360,21,ODISHA,386,Khordha ,3035,Begunia,0,Begunia
+361,21,ODISHA,386,Khordha ,3036,Khordha ,0,Khordha 
+362,21,ODISHA,386,Khordha ,3036,Khordha ,801855,Khordha (M)
+363,21,ODISHA,386,Khordha ,3037,Khordha Sadar,0,Khordha Sadar
+364,21,ODISHA,386,Khordha ,3038,Chandaka,0,Chandaka
+365,21,ODISHA,386,Khordha ,3039,Nandankanan,0,Nandankanan
+366,21,ODISHA,386,Khordha ,3040,Saheednagar ,0,Saheednagar 
+367,21,ODISHA,386,Khordha ,3041,Mancheswar,0,Mancheswar
+368,21,ODISHA,386,Khordha ,3042,Balianta ,0,Balianta 
+369,21,ODISHA,386,Khordha ,3043,Balipatna,0,Balipatna
+370,21,ODISHA,386,Khordha ,3044,Lingaraj,0,Lingaraj
+371,21,ODISHA,386,Khordha ,3045,Airfield (Kapila Prasad),0,Airfield (Kapila Prasad)
+372,21,ODISHA,386,Khordha ,3046,Uttara,0,Uttara
+373,21,ODISHA,386,Khordha ,3047,Khandagiri ,0,Khandagiri 
+374,21,ODISHA,386,Khordha ,3048,Tamando ,0,Tamando 
+375,21,ODISHA,386,Khordha ,3049,Jatani,0,Jatani
+376,21,ODISHA,386,Khordha ,3049,Jatani,801856,Jatani (M + OG)
+377,21,ODISHA,386,Khordha ,3049,Jatani,801856,Jatani (M)
+378,21,ODISHA,386,Khordha ,3050,Jankia ,0,Jankia 
+379,21,ODISHA,386,Khordha ,3051,Nirakarpur,0,Nirakarpur
+380,21,ODISHA,386,Khordha ,3052,Tangi,0,Tangi
+381,21,ODISHA,386,Khordha ,3053,Balugaon,0,Balugaon
+382,21,ODISHA,386,Khordha ,3053,Balugaon,801857,Balugaon (NAC)
+383,21,ODISHA,386,Khordha ,3054,Banapur,0,Banapur
+384,21,ODISHA,386,Khordha ,3054,Banapur,801858,Banapur (NAC)
+385,21,ODISHA,386,Khordha ,3055,Bhubaneswar (M Corp.),0,Bhubaneswar (M Corp.)
+386,21,ODISHA,386,Khordha ,3055,Bhubaneswar (M Corp.),801859,Bhubaneswar (M Corp. + OG)
+387,21,ODISHA,386,Khordha ,3055,Bhubaneswar (M Corp.),801859,Bhubaneswar (M Corp.)
+388,21,ODISHA,387,Puri,0,Puri,0,Puri
+389,21,ODISHA,387,Puri,3056,Delanga,0,Delanga
+390,21,ODISHA,387,Puri,3057,Pipili ,0,Pipili 
+391,21,ODISHA,387,Puri,3057,Pipili ,801860,Pipili (NAC)
+392,21,ODISHA,387,Puri,3058,Nimapada,0,Nimapada
+393,21,ODISHA,387,Puri,3058,Nimapada,801861,Nimapada (NAC)
+394,21,ODISHA,387,Puri,3059,Kakatpur,0,Kakatpur
+395,21,ODISHA,387,Puri,3060,Astaranga,0,Astaranga
+396,21,ODISHA,387,Puri,3061,Konark,0,Konark
+397,21,ODISHA,387,Puri,3061,Konark,801862,Konark (NAC)
+398,21,ODISHA,387,Puri,3062,Gop,0,Gop
+399,21,ODISHA,387,Puri,3063,Ramachandi,0,Ramachandi
+400,21,ODISHA,387,Puri,3064,Satyabadi,0,Satyabadi
+401,21,ODISHA,387,Puri,3065,Chandanpur ,0,Chandanpur 
+402,21,ODISHA,387,Puri,3066,Sadar ,0,Sadar 
+403,21,ODISHA,387,Puri,3067,Brahmagiri,0,Brahmagiri
+404,21,ODISHA,387,Puri,3068,Gadisagada,0,Gadisagada
+405,21,ODISHA,387,Puri,3069,Krushna Prasad ,0,Krushna Prasad 
+406,21,ODISHA,387,Puri,3070,Puri (M),0,Puri (M)
+407,21,ODISHA,387,Puri,3070,Puri (M),801863,Puri (M)
+408,21,ODISHA,388,Ganjam,0,Ganjam,0,Ganjam
+409,21,ODISHA,388,Ganjam,3071,Tarasingi,0,Tarasingi
+410,21,ODISHA,388,Ganjam,3072,Buguda,0,Buguda
+411,21,ODISHA,388,Ganjam,3072,Buguda,801864,Buguda (NAC)
+412,21,ODISHA,388,Ganjam,3073,Jagannath Prasad,0,Jagannath Prasad
+413,21,ODISHA,388,Ganjam,3074,Bhanjanagar,0,Bhanjanagar
+414,21,ODISHA,388,Ganjam,3074,Bhanjanagar,801865,Bhanjanagar (NAC)
+415,21,ODISHA,388,Ganjam,3074,Bhanjanagar,801866,Bellaguntha (NAC)
+416,21,ODISHA,388,Ganjam,3075,Gangapur,0,Gangapur
+417,21,ODISHA,388,Ganjam,3076,Surada,0,Surada
+418,21,ODISHA,388,Ganjam,3076,Surada,801867,Surada (NAC)
+419,21,ODISHA,388,Ganjam,3077,Badagada,0,Badagada
+420,21,ODISHA,388,Ganjam,3078,Asika,0,Asika
+421,21,ODISHA,388,Ganjam,3078,Asika,801868,Asika (NAC)
+422,21,ODISHA,388,Ganjam,3079,Dharakote,0,Dharakote
+423,21,ODISHA,388,Ganjam,3080,Kabisuryanagar,0,Kabisuryanagar
+424,21,ODISHA,388,Ganjam,3080,Kabisuryanagar,801869,Kabisurjyanagar (NAC)
+425,21,ODISHA,388,Ganjam,3081,Polasara,0,Polasara
+426,21,ODISHA,388,Ganjam,3081,Polasara,801870,Polasara (NAC)
+427,21,ODISHA,388,Ganjam,3082,Kodala,0,Kodala
+428,21,ODISHA,388,Ganjam,3082,Kodala,801871,Kodala (NAC)
+429,21,ODISHA,388,Ganjam,3083,Khalikote,0,Khalikote
+430,21,ODISHA,388,Ganjam,3083,Khalikote,801872,Khalikote (NAC)
+431,21,ODISHA,388,Ganjam,3084,Rambha,0,Rambha
+432,21,ODISHA,388,Ganjam,3084,Rambha,801873,Rambha (NAC)
+433,21,ODISHA,388,Ganjam,3085,Chhatrapur,0,Chhatrapur
+434,21,ODISHA,388,Ganjam,3085,Chhatrapur,801874,Chhatrapur (NAC)
+435,21,ODISHA,388,Ganjam,3086,Ganjam,0,Ganjam
+436,21,ODISHA,388,Ganjam,3086,Ganjam,801875,Ganjam (NAC)
+437,21,ODISHA,388,Ganjam,3087,Chamakhandi,0,Chamakhandi
+438,21,ODISHA,388,Ganjam,3088,Arjyapalli Marine,0,Arjyapalli Marine
+439,21,ODISHA,388,Ganjam,3089,Purusottampur,0,Purusottampur
+440,21,ODISHA,388,Ganjam,3089,Purusottampur,801876,Purusottampur (NAC)
+441,21,ODISHA,388,Ganjam,3090,Hinjili,0,Hinjili
+442,21,ODISHA,388,Ganjam,3090,Hinjili,801877,Hinjilicut (NAC)
+443,21,ODISHA,388,Ganjam,3091,Patapur,0,Patapur
+444,21,ODISHA,388,Ganjam,3092,Seragad,0,Seragad
+445,21,ODISHA,388,Ganjam,3093,Brahmapur Sadar,0,Brahmapur Sadar
+446,21,ODISHA,388,Ganjam,3094,Gopalpur,0,Gopalpur
+447,21,ODISHA,388,Ganjam,3094,Gopalpur,801878,Gopalpur (NAC)
+448,21,ODISHA,388,Ganjam,3095,Golanthara,0,Golanthara
+449,21,ODISHA,388,Ganjam,3096,Digapahandi,0,Digapahandi
+450,21,ODISHA,388,Ganjam,3096,Digapahandi,801879,Digapahandi (NAC)
+451,21,ODISHA,388,Ganjam,3097,Nuagaon,0,Nuagaon
+452,21,ODISHA,388,Ganjam,3097,Nuagaon,801880,Chikiti (NAC)
+453,21,ODISHA,388,Ganjam,3098,Jarada,0,Jarada
+454,21,ODISHA,388,Ganjam,3109,Ramagiri,0,Ramagiri
+455,21,ODISHA,388,Ganjam,3099,Brahmapur (M.Corp.),0,Brahmapur (M.Corp.)
+456,21,ODISHA,388,Ganjam,3099,Brahmapur (M.Corp.),801881,Brahmapur (M Corp.)
+457,21,ODISHA,389,Gajapati,0,Gajapati,0,Gajapati
+458,21,ODISHA,389,Gajapati,3100,Adva ,0,Adva 
+459,21,ODISHA,389,Gajapati,3101,Mohana ,0,Mohana 
+460,21,ODISHA,389,Gajapati,3102,R.Udaygiri ,0,R.Udaygiri 
+461,21,ODISHA,389,Gajapati,3103,Serango ,0,Serango 
+462,21,ODISHA,389,Gajapati,3104,Kashinagara ,0,Kashinagara 
+463,21,ODISHA,389,Gajapati,3104,Kashinagara ,801882,Kashinagar (NAC)
+464,21,ODISHA,389,Gajapati,3105,Parlakhemundi ,0,Parlakhemundi 
+465,21,ODISHA,389,Gajapati,3105,Parlakhemundi ,801883,Paralakhemundi (M + OG)
+466,21,ODISHA,389,Gajapati,3105,Parlakhemundi ,801883,Paralakhemundi (M)
+467,21,ODISHA,389,Gajapati,3106,Gurandi,0,Gurandi
+468,21,ODISHA,389,Gajapati,3107,Rayagada ,0,Rayagada 
+469,21,ODISHA,389,Gajapati,3108,Garabandha,0,Garabandha
+470,21,ODISHA,389,Gajapati,3109,Ramagiri,0,Ramagiri
+471,21,ODISHA,390,Kandhamal,0,Kandhamal,0,Kandhamal
+472,21,ODISHA,390,Kandhamal,3110,Gochhapada,0,Gochhapada
+473,21,ODISHA,390,Kandhamal,3111,Phulabani ,0,Phulabani 
+474,21,ODISHA,390,Kandhamal,3112,Phulabani Town  ,0,Phulabani Town  
+475,21,ODISHA,390,Kandhamal,3112,Phulabani Town  ,801884,Phulabani (M)
+476,21,ODISHA,390,Kandhamal,3113,Khajuripada,0,Khajuripada
+477,21,ODISHA,390,Kandhamal,3114,G.Udayagiri,0,G.Udayagiri
+478,21,ODISHA,390,Kandhamal,3114,G.Udayagiri,801885,G. Udayagiri (NAC)
+479,21,ODISHA,390,Kandhamal,3115,Tikabali,0,Tikabali
+480,21,ODISHA,390,Kandhamal,3116,Chakapada ,0,Chakapada 
+481,21,ODISHA,390,Kandhamal,3117,Sarangagarh ,0,Sarangagarh 
+482,21,ODISHA,390,Kandhamal,3118,Phiringia ,0,Phiringia 
+483,21,ODISHA,390,Kandhamal,3119,Baliguda,0,Baliguda
+484,21,ODISHA,390,Kandhamal,3120,Nuagaon,0,Nuagaon
+485,21,ODISHA,390,Kandhamal,3121,Tumudibandha,0,Tumudibandha
+486,21,ODISHA,390,Kandhamal,3122,Belaghar ,0,Belaghar 
+487,21,ODISHA,390,Kandhamal,3123,Kotagarh ,0,Kotagarh 
+488,21,ODISHA,390,Kandhamal,3124,Brahmanigaon ,0,Brahmanigaon 
+489,21,ODISHA,390,Kandhamal,3125,Daringbadi ,0,Daringbadi 
+490,21,ODISHA,390,Kandhamal,3126,Raikia,0,Raikia
+491,21,ODISHA,391,Baudh,0,Baudh,0,Baudh
+492,21,ODISHA,391,Baudh,3127,Kantamal ,0,Kantamal 
+493,21,ODISHA,391,Baudh,3128,Manamunda,0,Manamunda
+494,21,ODISHA,391,Baudh,3129,Baunsuni ,0,Baunsuni 
+495,21,ODISHA,391,Baudh,3130,Baudh Sadar ,0,Baudh Sadar 
+496,21,ODISHA,391,Baudh,3130,Baudh Sadar ,801886,Baudhgarh (NAC)
+497,21,ODISHA,391,Baudh,3131,Puruna Katak ,0,Puruna Katak 
+498,21,ODISHA,391,Baudh,3132,Harbhanga ,0,Harbhanga 
+499,21,ODISHA,392,Subarnapur,0,Subarnapur,0,Subarnapur
+500,21,ODISHA,392,Subarnapur,3133,Dunguripali ,0,Dunguripali 
+501,21,ODISHA,392,Subarnapur,3134,Rampur ,0,Rampur 
+502,21,ODISHA,392,Subarnapur,3135,Binika,0,Binika
+503,21,ODISHA,392,Subarnapur,3135,Binika,801887,Binika (NAC)
+504,21,ODISHA,392,Subarnapur,3136,Ulunda,0,Ulunda
+505,21,ODISHA,392,Subarnapur,3137,Biramaharajpur,0,Biramaharajpur
+506,21,ODISHA,392,Subarnapur,3138,Subalaya,0,Subalaya
+507,21,ODISHA,392,Subarnapur,3139,Sonapur,0,Sonapur
+508,21,ODISHA,392,Subarnapur,3139,Sonapur,801888,Sonapur (M)
+509,21,ODISHA,392,Subarnapur,3140,Tarbha,0,Tarbha
+510,21,ODISHA,392,Subarnapur,3140,Tarbha,801889,Tarbha (NAC)
+511,21,ODISHA,393,Balangir,0,Balangir,0,Balangir
+512,21,ODISHA,393,Balangir,3141,Loisinga ,0,Loisinga 
+513,21,ODISHA,393,Balangir,3142,Balangir,0,Balangir
+514,21,ODISHA,393,Balangir,3142,Balangir,801890,Balangir (M)
+515,21,ODISHA,393,Balangir,3143,Tushura,0,Tushura
+516,21,ODISHA,393,Balangir,3144,Patnagarh,0,Patnagarh
+517,21,ODISHA,393,Balangir,3144,Patnagarh,801891,Patnagarh (NAC)
+518,21,ODISHA,393,Balangir,3145,Khaprakhol ,0,Khaprakhol 
+519,21,ODISHA,393,Balangir,3146,Turekela ,0,Turekela 
+520,21,ODISHA,393,Balangir,3147,Belpara ,0,Belpara 
+521,21,ODISHA,393,Balangir,3148,Saintala,0,Saintala
+522,21,ODISHA,393,Balangir,3149,Kantabanji,0,Kantabanji
+523,21,ODISHA,393,Balangir,3149,Kantabanji,801892,Kantabanji (NAC)
+524,21,ODISHA,393,Balangir,3150,Bangomunda,0,Bangomunda
+525,21,ODISHA,393,Balangir,3151,Sindhekela ,0,Sindhekela 
+526,21,ODISHA,393,Balangir,3152,Titlagarh ,0,Titlagarh 
+527,21,ODISHA,393,Balangir,3152,Titlagarh ,801893,Titlagarh (NAC + OG)
+528,21,ODISHA,393,Balangir,3152,Titlagarh ,801893,Titlagarh (NAC)
+529,21,ODISHA,394,Nuapada,0,Nuapada,0,Nuapada
+530,21,ODISHA,394,Nuapada,3153,Jonk,0,Jonk
+531,21,ODISHA,394,Nuapada,3153,Jonk,801894,Khariar Road (NAC)
+532,21,ODISHA,394,Nuapada,3154,Nuapada,0,Nuapada
+533,21,ODISHA,394,Nuapada,3155,Komna,0,Komna
+534,21,ODISHA,394,Nuapada,3156,Khariar,0,Khariar
+535,21,ODISHA,394,Nuapada,3156,Khariar,801895,Khariar (NAC)
+536,21,ODISHA,394,Nuapada,3157,Boden,0,Boden
+537,21,ODISHA,394,Nuapada,3158,Sinapali,0,Sinapali
+538,21,ODISHA,395,Kalahandi,0,Kalahandi,0,Kalahandi
+539,21,ODISHA,395,Kalahandi,3159,Kesinga,0,Kesinga
+540,21,ODISHA,395,Kalahandi,3159,Kesinga,801896,Kesinga (NAC)
+541,21,ODISHA,395,Kalahandi,3160,Madanpur Rampur ,0,Madanpur Rampur 
+542,21,ODISHA,395,Kalahandi,3161,Narala ,0,Narala 
+543,21,ODISHA,395,Kalahandi,3162,Lanjigarh  ,0,Lanjigarh  
+544,21,ODISHA,395,Kalahandi,3163,Biswanathpur ,0,Biswanathpur 
+545,21,ODISHA,395,Kalahandi,3164,Sadar,0,Sadar
+546,21,ODISHA,395,Kalahandi,3164,Sadar,801897,Bhawanipatna (M)
+547,21,ODISHA,395,Kalahandi,3165,Kegaon ,0,Kegaon 
+548,21,ODISHA,395,Kalahandi,3166,Junagarh,0,Junagarh
+549,21,ODISHA,395,Kalahandi,3166,Junagarh,801898,Junagarh (NAC)
+550,21,ODISHA,395,Kalahandi,3167,Golamunda,0,Golamunda
+551,21,ODISHA,395,Kalahandi,3168,Dharamgarh,0,Dharamgarh
+552,21,ODISHA,395,Kalahandi,3169,Kokasara ,0,Kokasara 
+553,21,ODISHA,395,Kalahandi,3170,Jayapatna,0,Jayapatna
+554,21,ODISHA,395,Kalahandi,3171,Thuamul Rampur ,0,Thuamul Rampur 
+555,21,ODISHA,396,Rayagada  ,0,Rayagada  ,0,Rayagada  
+556,21,ODISHA,396,Rayagada  ,3172,Ambadala ,0,Ambadala 
+557,21,ODISHA,396,Rayagada  ,3173,Muniguda,0,Muniguda
+558,21,ODISHA,396,Rayagada  ,3174,Chandrapur,0,Chandrapur
+559,21,ODISHA,396,Rayagada  ,3175,Bishamakatak,0,Bishamakatak
+560,21,ODISHA,396,Rayagada  ,3176,Kalyanasingpur ,0,Kalyanasingpur 
+561,21,ODISHA,396,Rayagada  ,3177,Kashipur ,0,Kashipur 
+562,21,ODISHA,396,Rayagada  ,3178,Andirakanch ,0,Andirakanch 
+563,21,ODISHA,396,Rayagada  ,3179,Tikiri ,0,Tikiri 
+564,21,ODISHA,396,Rayagada  ,3180,Doraguda ,0,Doraguda 
+565,21,ODISHA,396,Rayagada  ,3181,Rayagada ,0,Rayagada 
+566,21,ODISHA,396,Rayagada  ,3181,Rayagada ,801899,Rayagada (M)
+567,21,ODISHA,396,Rayagada  ,3182,Seskhal ,0,Seskhal 
+568,21,ODISHA,396,Rayagada  ,3183,Gunupur,0,Gunupur
+569,21,ODISHA,396,Rayagada  ,3183,Gunupur,801900,Gunupur (NAC + OG)
+570,21,ODISHA,396,Rayagada  ,3183,Gunupur,801900,Gunupur (NAC)
+571,21,ODISHA,396,Rayagada  ,3184,Gudari ,0,Gudari 
+572,21,ODISHA,396,Rayagada  ,3184,Gudari ,801901,Gudari (NAC)
+573,21,ODISHA,396,Rayagada  ,3185,Padmapur,0,Padmapur
+574,21,ODISHA,396,Rayagada  ,3186,Puttasing ,0,Puttasing 
+575,21,ODISHA,397,Nabarangapur ,0,Nabarangapur ,0,Nabarangapur 
+576,21,ODISHA,397,Nabarangapur ,3187,Raighar ,0,Raighar 
+577,21,ODISHA,397,Nabarangapur ,3188,Kundei ,0,Kundei 
+578,21,ODISHA,397,Nabarangapur ,3189,Umarkote,0,Umarkote
+579,21,ODISHA,397,Nabarangapur ,3189,Umarkote,801902,Umarkote (NAC)
+580,21,ODISHA,397,Nabarangapur ,3190,Chandahandi ,0,Chandahandi 
+581,21,ODISHA,397,Nabarangapur ,3191,Jharigan,0,Jharigan
+582,21,ODISHA,397,Nabarangapur ,3192,Dabugan,0,Dabugan
+583,21,ODISHA,397,Nabarangapur ,3193,Paparahandi,0,Paparahandi
+584,21,ODISHA,397,Nabarangapur ,3194,Kodinga,0,Kodinga
+585,21,ODISHA,397,Nabarangapur ,3195,Kosagumuda ,0,Kosagumuda 
+586,21,ODISHA,397,Nabarangapur ,3196,Nabarangapur,0,Nabarangapur
+587,21,ODISHA,397,Nabarangapur ,3196,Nabarangapur,801903,Nabarangapur (M + OG)
+588,21,ODISHA,397,Nabarangapur ,3196,Nabarangapur,801903,Nabarangapur (M)
+589,21,ODISHA,397,Nabarangapur ,3197,Tentulikhunti ,0,Tentulikhunti 
+590,21,ODISHA,397,Nabarangapur ,3198,Khatiguda,0,Khatiguda
+591,21,ODISHA,398,Koraput,0,Koraput,0,Koraput
+592,21,ODISHA,398,Koraput,3199,Kotpad ,0,Kotpad 
+593,21,ODISHA,398,Koraput,3199,Kotpad ,801904,Kotpad (NAC)
+594,21,ODISHA,398,Koraput,3200,Boriguma ,0,Boriguma 
+595,21,ODISHA,398,Koraput,3201,Bhairabsingipur ,0,Bhairabsingipur 
+596,21,ODISHA,398,Koraput,3202,Dasamantapur,0,Dasamantapur
+597,21,ODISHA,398,Koraput,3203,Lakshmipur,0,Lakshmipur
+598,21,ODISHA,398,Koraput,3204,Narayanpatana ,0,Narayanpatana 
+599,21,ODISHA,398,Koraput,3205,Bandhugaon ,0,Bandhugaon 
+600,21,ODISHA,398,Koraput,3206,Kakiriguma ,0,Kakiriguma 
+601,21,ODISHA,398,Koraput,3207,Koraput ,0,Koraput 
+602,21,ODISHA,398,Koraput,3208,Koraput Town ,0,Koraput Town 
+603,21,ODISHA,398,Koraput,3208,Koraput Town ,801905,Koraput (NAC)
+604,21,ODISHA,398,Koraput,3209,Jeypore ,0,Jeypore 
+605,21,ODISHA,398,Koraput,3209,Jeypore ,801906,Jeypur (M)
+606,21,ODISHA,398,Koraput,3210,Kundura,0,Kundura
+607,21,ODISHA,398,Koraput,3211,Boipariguda ,0,Boipariguda 
+608,21,ODISHA,398,Koraput,3212,Machh kund ,0,Machh kund 
+609,21,ODISHA,398,Koraput,3213,Padua ,0,Padua 
+610,21,ODISHA,398,Koraput,3214,Nandapur,0,Nandapur
+611,21,ODISHA,398,Koraput,3215,Similiguda ,0,Similiguda 
+612,21,ODISHA,398,Koraput,3216,Sunabeda,0,Sunabeda
+613,21,ODISHA,398,Koraput,3216,Sunabeda,801907,Sunabeda (NAC).
+614,21,ODISHA,398,Koraput,3217,Damonjodi,0,Damonjodi
+615,21,ODISHA,398,Koraput,3218,Pottangi ,0,Pottangi 
+616,21,ODISHA,398,Koraput,3219,Kotiya ,0,Kotiya 
+617,21,ODISHA,399,Malkangiri  ,0,Malkangiri  ,0,Malkangiri  
+618,21,ODISHA,399,Malkangiri  ,3220,Malkangiri,0,Malkangiri
+619,21,ODISHA,399,Malkangiri  ,3220,Malkangiri,801908,Malkangiri (NAC)
+620,21,ODISHA,399,Malkangiri  ,3221,Mathili ,0,Mathili 
+621,21,ODISHA,399,Malkangiri  ,3222,Mudulipada ,0,Mudulipada 
+622,21,ODISHA,399,Malkangiri  ,3223,Chitrakonda,0,Chitrakonda
+623,21,ODISHA,399,Malkangiri  ,3224,Paparmetla ,0,Paparmetla 
+624,21,ODISHA,399,Malkangiri  ,3225,Jodamba,0,Jodamba
+625,21,ODISHA,399,Malkangiri  ,3226,Orkel,0,Orkel
+626,21,ODISHA,399,Malkangiri  ,3226,Orkel,801909,Balimela (NAC)
+627,21,ODISHA,399,Malkangiri  ,3227,Kalimela ,0,Kalimela 
+628,21,ODISHA,399,Malkangiri  ,3228,Podia,0,Podia
+629,21,ODISHA,399,Malkangiri  ,3229,M.V. 79,0,M.V. 79
+630,21,ODISHA,399,Malkangiri  ,3230,Motu ,0,Motu 

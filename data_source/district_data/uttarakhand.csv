@@ -1,0 +1,210 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,5,UTTARAKHAND,0,UTTARAKHAND,0,UTTARAKHAND,0,UTTARAKHAND
+1,5,UTTARAKHAND,56,Uttarkashi,0,Uttarkashi,0,Uttarkashi
+2,5,UTTARAKHAND,56,Uttarkashi,278,Puraula,0,Puraula
+3,5,UTTARAKHAND,56,Uttarkashi,279,Mori,0,Mori
+4,5,UTTARAKHAND,56,Uttarkashi,280,Rajgarhi,0,Rajgarhi
+5,5,UTTARAKHAND,56,Uttarkashi,280,Rajgarhi,800287,Barkot (NP)
+6,5,UTTARAKHAND,56,Uttarkashi,281,Dunda,0,Dunda
+7,5,UTTARAKHAND,56,Uttarkashi,282,Chiniyalisaur,0,Chiniyalisaur
+8,5,UTTARAKHAND,56,Uttarkashi,283,Bhatwari,0,Bhatwari
+9,5,UTTARAKHAND,56,Uttarkashi,283,Bhatwari,800288,Uttarkashi (NPP)
+10,5,UTTARAKHAND,56,Uttarkashi,283,Bhatwari,800289,Gangotri (NP)
+11,5,UTTARAKHAND,57,Chamoli,0,Chamoli,0,Chamoli
+12,5,UTTARAKHAND,57,Chamoli,284,Joshimath ,0,Joshimath 
+13,5,UTTARAKHAND,57,Chamoli,284,Joshimath ,800290,Badrinathpuri (NP)
+14,5,UTTARAKHAND,57,Chamoli,284,Joshimath ,800291,Joshimath  (NPP)
+15,5,UTTARAKHAND,57,Chamoli,285,Chamoli,0,Chamoli
+16,5,UTTARAKHAND,57,Chamoli,285,Chamoli,800292,Chamoli Gopeshwar (NPP)
+17,5,UTTARAKHAND,57,Chamoli,285,Chamoli,800293,Nandprayag (NP)
+18,5,UTTARAKHAND,57,Chamoli,286,Pokhari ,0,Pokhari 
+19,5,UTTARAKHAND,57,Chamoli,287,Karnaprayag,0,Karnaprayag
+20,5,UTTARAKHAND,57,Chamoli,287,Karnaprayag,800294,Gochar (NP)
+21,5,UTTARAKHAND,57,Chamoli,287,Karnaprayag,800295,Karnaprayag (NP)
+22,5,UTTARAKHAND,57,Chamoli,288,Tharali  ,0,Tharali  
+23,5,UTTARAKHAND,57,Chamoli,289,Gairsain,0,Gairsain
+24,5,UTTARAKHAND,58,Rudraprayag,0,Rudraprayag,0,Rudraprayag
+25,5,UTTARAKHAND,58,Rudraprayag,290,Ukhimath,0,Ukhimath
+26,5,UTTARAKHAND,58,Rudraprayag,290,Ukhimath,800296,Kedarnath (NP)
+27,5,UTTARAKHAND,58,Rudraprayag,291,"Rudraprayag
+",0,"Rudraprayag
+"
+28,5,UTTARAKHAND,58,Rudraprayag,291,"Rudraprayag
+",800297,Rudraprayag (NPP)
+29,5,UTTARAKHAND,58,Rudraprayag,292,Jakholi,0,Jakholi
+30,5,UTTARAKHAND,59,Tehri Garhwal,0,Tehri Garhwal,0,Tehri Garhwal
+31,5,UTTARAKHAND,59,Tehri Garhwal,293,Ghansali,0,Ghansali
+32,5,UTTARAKHAND,59,Tehri Garhwal,294,Devprayag,0,Devprayag
+33,5,UTTARAKHAND,59,Tehri Garhwal,294,Devprayag,800298,Kirtinagar (NP)
+34,5,UTTARAKHAND,59,Tehri Garhwal,294,Devprayag,800299,Devaprayag (NP) (Part)
+35,5,UTTARAKHAND,59,Tehri Garhwal,295,Pratapnagar,0,Pratapnagar
+36,5,UTTARAKHAND,59,Tehri Garhwal,296,Jakhani Dhar,0,Jakhani Dhar
+37,5,UTTARAKHAND,59,Tehri Garhwal,297,Tehri   ,0,Tehri   
+38,5,UTTARAKHAND,59,Tehri Garhwal,297,Tehri   ,800300,Tehri (NPP)
+39,5,UTTARAKHAND,59,Tehri Garhwal,297,Tehri   ,800301,Chamba (NP)  
+40,5,UTTARAKHAND,59,Tehri Garhwal,298,Dhanaulti,0,Dhanaulti
+41,5,UTTARAKHAND,59,Tehri Garhwal,299,Narendra Nagar,0,Narendra Nagar
+42,5,UTTARAKHAND,59,Tehri Garhwal,299,Narendra Nagar,800302,Narendranagar (NPP)
+43,5,UTTARAKHAND,59,Tehri Garhwal,299,Narendra Nagar,800303,Muni Ki Reti (NP)
+44,5,UTTARAKHAND,60,Dehradun,0,Dehradun,0,Dehradun
+45,5,UTTARAKHAND,60,Dehradun,300,Chakrata ,0,Chakrata 
+46,5,UTTARAKHAND,60,Dehradun,300,Chakrata ,800304,Chakrata (CB)
+47,5,UTTARAKHAND,60,Dehradun,301,Tyuni,0,Tyuni
+48,5,UTTARAKHAND,60,Dehradun,302,Kalsi,0,Kalsi
+49,5,UTTARAKHAND,60,Dehradun,303,Vikas Nagar,0,Vikas Nagar
+50,5,UTTARAKHAND,60,Dehradun,303,Vikas Nagar,800305,Vikasnagar (NPP)
+51,5,UTTARAKHAND,60,Dehradun,303,Vikas Nagar,800306,Herbertpur (NP)
+52,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",0,"Dehradun 
+"
+53,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800307,Mussoorie (NPP)
+54,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800308,Landaur (CB)
+55,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800309,Dehradun (M Corp. + OG)
+56,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800309,Dehradun (M Corp.)
+57,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800310,Dehradun (CB)
+58,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800311,Clement Town (CB)
+59,5,UTTARAKHAND,60,Dehradun,304,"Dehradun 
+",800312,Doiwala (NP)
+60,5,UTTARAKHAND,60,Dehradun,305,"Rishikesh
+",0,"Rishikesh
+"
+61,5,UTTARAKHAND,60,Dehradun,305,"Rishikesh
+",800313,Rishikesh (NPP)
+62,5,UTTARAKHAND,60,Dehradun,305,"Rishikesh
+",800314,Virbhadra IDPL (ITS)
+63,5,UTTARAKHAND,61,Garhwal,0,Garhwal,0,Garhwal
+64,5,UTTARAKHAND,61,Garhwal,306,Srinagar,0,Srinagar
+65,5,UTTARAKHAND,61,Garhwal,306,Srinagar,800315,Srinagar (NPP)
+66,5,UTTARAKHAND,61,Garhwal,307,Pauri,0,Pauri
+67,5,UTTARAKHAND,61,Garhwal,307,Pauri,800316,Pauri (NPP)
+68,5,UTTARAKHAND,61,Garhwal,307,Pauri,800299,Devaprayag (NP) (Part)
+69,5,UTTARAKHAND,61,Garhwal,308,Thailisain,0,Thailisain
+70,5,UTTARAKHAND,61,Garhwal,309,Dhoomakot,0,Dhoomakot
+71,5,UTTARAKHAND,61,Garhwal,310,Lansdowne,0,Lansdowne
+72,5,UTTARAKHAND,61,Garhwal,310,Lansdowne,800317,Lansdowne (CB)
+73,5,UTTARAKHAND,61,Garhwal,311,Satpuli,0,Satpuli
+74,5,UTTARAKHAND,61,Garhwal,312,Chaubatta Khal,0,Chaubatta Khal
+75,5,UTTARAKHAND,61,Garhwal,313,"Kotdwara
+",0,"Kotdwara
+"
+76,5,UTTARAKHAND,61,Garhwal,313,"Kotdwara
+",800318,Dogadda (NPP)
+77,5,UTTARAKHAND,61,Garhwal,313,"Kotdwara
+",800319,Kotdwara (NPP + OG)
+78,5,UTTARAKHAND,61,Garhwal,313,"Kotdwara
+",800319,Kotdwara (NPP)
+79,5,UTTARAKHAND,61,Garhwal,314,Yamkeshwar,0,Yamkeshwar
+80,5,UTTARAKHAND,62,Pithoragarh,0,Pithoragarh,0,Pithoragarh
+81,5,UTTARAKHAND,62,Pithoragarh,315,Munsiari,0,Munsiari
+82,5,UTTARAKHAND,62,Pithoragarh,316,Dharchula,0,Dharchula
+83,5,UTTARAKHAND,62,Pithoragarh,316,Dharchula,800320,Dharchula (NP)
+84,5,UTTARAKHAND,62,Pithoragarh,317,Didihat,0,Didihat
+85,5,UTTARAKHAND,62,Pithoragarh,317,Didihat,800321,Didihat (NP)
+86,5,UTTARAKHAND,62,Pithoragarh,318,Berinag,0,Berinag
+87,5,UTTARAKHAND,62,Pithoragarh,319,Gangolihat,0,Gangolihat
+88,5,UTTARAKHAND,62,Pithoragarh,320,"Pithoragarh
+",0,"Pithoragarh
+"
+89,5,UTTARAKHAND,62,Pithoragarh,320,"Pithoragarh
+",800322,Pithoragarh (NPP)
+90,5,UTTARAKHAND,63,Bageshwar,0,Bageshwar,0,Bageshwar
+91,5,UTTARAKHAND,63,Bageshwar,321,Kapkot,0,Kapkot
+92,5,UTTARAKHAND,63,Bageshwar,322,Kanda,0,Kanda
+93,5,UTTARAKHAND,63,Bageshwar,323,"Bageshwar
+",0,"Bageshwar
+"
+94,5,UTTARAKHAND,63,Bageshwar,323,"Bageshwar
+",800323,Bageshwar (NPP)
+95,5,UTTARAKHAND,63,Bageshwar,324,Garud,0,Garud
+96,5,UTTARAKHAND,64,Almora,0,Almora,0,Almora
+97,5,UTTARAKHAND,64,Almora,325,Bhikiasain,0,Bhikiasain
+98,5,UTTARAKHAND,64,Almora,326,Chaukhutiya,0,Chaukhutiya
+99,5,UTTARAKHAND,64,Almora,327,Sult,0,Sult
+100,5,UTTARAKHAND,64,Almora,328,Ranikhet,0,Ranikhet
+101,5,UTTARAKHAND,64,Almora,328,Ranikhet,800324,Ranikhet (CB)
+102,5,UTTARAKHAND,64,Almora,329,Dwarahat,0,Dwarahat
+103,5,UTTARAKHAND,64,Almora,329,Dwarahat,800325,Dwarahat (NP)
+104,5,UTTARAKHAND,64,Almora,330,Almora,0,Almora
+105,5,UTTARAKHAND,64,Almora,330,Almora,800326,Almora (CB)
+106,5,UTTARAKHAND,64,Almora,330,Almora,800327,Almora (NPP)
+107,5,UTTARAKHAND,64,Almora,331,Someshwar,0,Someshwar
+108,5,UTTARAKHAND,64,Almora,332,Jainti,0,Jainti
+109,5,UTTARAKHAND,64,Almora,333,Bhanoli,0,Bhanoli
+110,5,UTTARAKHAND,65,Champawat,0,Champawat,0,Champawat
+111,5,UTTARAKHAND,65,Champawat,334,Champawat,0,Champawat
+112,5,UTTARAKHAND,65,Champawat,334,Champawat,800328,Champawat (NP)
+113,5,UTTARAKHAND,65,Champawat,335,Pati,0,Pati
+114,5,UTTARAKHAND,65,Champawat,336,Lohaghat,0,Lohaghat
+115,5,UTTARAKHAND,65,Champawat,336,Lohaghat,800329,Lohaghat (NP)
+116,5,UTTARAKHAND,65,Champawat,337,Poornagiri,0,Poornagiri
+117,5,UTTARAKHAND,65,Champawat,337,Poornagiri,800330,Tanakpur (NPP)
+118,5,UTTARAKHAND,66,Nainital,0,Nainital,0,Nainital
+119,5,UTTARAKHAND,66,Nainital,338,Kosya Kutauli,0,Kosya Kutauli
+120,5,UTTARAKHAND,66,Nainital,339,Betalghat,0,Betalghat
+121,5,UTTARAKHAND,66,Nainital,340,Nainital,0,Nainital
+122,5,UTTARAKHAND,66,Nainital,340,Nainital,800331,Nainital (NPP)
+123,5,UTTARAKHAND,66,Nainital,340,Nainital,800332,Nainital (CB)
+124,5,UTTARAKHAND,66,Nainital,340,Nainital,800333,Bhowali (NPP)
+125,5,UTTARAKHAND,66,Nainital,340,Nainital,800334,Bhimtal (NP)
+126,5,UTTARAKHAND,66,Nainital,341,Dhari,0,Dhari
+127,5,UTTARAKHAND,66,Nainital,342,"Haldwani
+",0,"Haldwani
+"
+128,5,UTTARAKHAND,66,Nainital,342,"Haldwani
+",800335,Haldwani-cum-Kathgodam (NPP + OG)
+129,5,UTTARAKHAND,66,Nainital,342,"Haldwani
+",800335,Haldwani-cum-Kathgodam (NPP)
+130,5,UTTARAKHAND,66,Nainital,343,Ramnagar,0,Ramnagar
+131,5,UTTARAKHAND,66,Nainital,343,Ramnagar,800336,Ramnagar (NPP)
+132,5,UTTARAKHAND,66,Nainital,344,Kaladhungi,0,Kaladhungi
+133,5,UTTARAKHAND,66,Nainital,344,Kaladhungi,800337,Kaladhungi (NP)
+134,5,UTTARAKHAND,66,Nainital,345,Lalkuan,0,Lalkuan
+135,5,UTTARAKHAND,66,Nainital,345,Lalkuan,800338,Lalkuan (NP)
+136,5,UTTARAKHAND,67,Udham Singh Nagar,0,Udham Singh Nagar,0,Udham Singh Nagar
+137,5,UTTARAKHAND,67,Udham Singh Nagar,346,Kashipur,0,Kashipur
+138,5,UTTARAKHAND,67,Udham Singh Nagar,346,Kashipur,800339,Kashipur (NPP)
+139,5,UTTARAKHAND,67,Udham Singh Nagar,346,Kashipur,800340,Mahua Kheraganj (NP)
+140,5,UTTARAKHAND,67,Udham Singh Nagar,347,Jaspur,0,Jaspur
+141,5,UTTARAKHAND,67,Udham Singh Nagar,347,Jaspur,800341,Mahua Dabra Haripura (NP)
+142,5,UTTARAKHAND,67,Udham Singh Nagar,347,Jaspur,800342,Jaspur (NPP)
+143,5,UTTARAKHAND,67,Udham Singh Nagar,348,Bajpur,0,Bajpur
+144,5,UTTARAKHAND,67,Udham Singh Nagar,348,Bajpur,800343,Sultanpur (NP)
+145,5,UTTARAKHAND,67,Udham Singh Nagar,348,Bajpur,800344,Bajpur (NPP)
+146,5,UTTARAKHAND,67,Udham Singh Nagar,348,Bajpur,800345,Kela Khera (NP)
+147,5,UTTARAKHAND,67,Udham Singh Nagar,349,Kichha,0,Kichha
+148,5,UTTARAKHAND,67,Udham Singh Nagar,349,Kichha,800346,Rudrapur (NPP + OG)
+149,5,UTTARAKHAND,67,Udham Singh Nagar,349,Kichha,800346,Rudrapur (NPP)
+150,5,UTTARAKHAND,67,Udham Singh Nagar,349,Kichha,800347,Kichha (NPP)
+151,5,UTTARAKHAND,67,Udham Singh Nagar,350,Gadarpur,0,Gadarpur
+152,5,UTTARAKHAND,67,Udham Singh Nagar,350,Gadarpur,800348,Gadarpur (NPP)
+153,5,UTTARAKHAND,67,Udham Singh Nagar,350,Gadarpur,800349,Dineshpur (NP)
+154,5,UTTARAKHAND,67,Udham Singh Nagar,351,Sitarganj,0,Sitarganj
+155,5,UTTARAKHAND,67,Udham Singh Nagar,351,Sitarganj,800350,Shaktigarh (NP)
+156,5,UTTARAKHAND,67,Udham Singh Nagar,351,Sitarganj,800351,Sitarganj (NPP)
+157,5,UTTARAKHAND,67,Udham Singh Nagar,352,"Khatima
+",0,"Khatima
+"
+158,5,UTTARAKHAND,67,Udham Singh Nagar,352,"Khatima
+",800352,Khatima (NPP)
+159,5,UTTARAKHAND,68,Haridwar,0,Hardwar,0,Hardwar
+160,5,UTTARAKHAND,68,Haridwar,353,Roorkee,0,Roorkee
+161,5,UTTARAKHAND,68,Haridwar,353,Roorkee,800353,Roorkee (NPP)
+162,5,UTTARAKHAND,68,Haridwar,353,Roorkee,800354,Roorkee (CB)
+163,5,UTTARAKHAND,68,Haridwar,353,Roorkee,800355,Jhabrera (NP)
+164,5,UTTARAKHAND,68,Haridwar,353,Roorkee,800356,Manglaur (NPP)
+165,5,UTTARAKHAND,68,Haridwar,353,Roorkee,800357,Landhaura (NP)
+166,5,UTTARAKHAND,68,Haridwar,354,Hardwar,0,Hardwar
+167,5,UTTARAKHAND,68,Haridwar,354,Hardwar,800358,Bharat Heavy Electricals Limited Ranipur (ITS)
+168,5,UTTARAKHAND,68,Haridwar,354,Hardwar,800359,Hardwar (NPP + OG)
+169,5,UTTARAKHAND,68,Haridwar,354,Hardwar,800359,Hardwar (NPP)
+170,5,UTTARAKHAND,68,Haridwar,355,"Laksar
+",0,"Laksar
+"
+171,5,UTTARAKHAND,68,Haridwar,355,"Laksar
+",800360,Laksar (NP)

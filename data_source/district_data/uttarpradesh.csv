@@ -1,0 +1,1055 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,9,UTTAR PRADESH,0,UTTAR PRADESH,0,UTTAR PRADESH,0,UTTAR PRADESH
+1,9,UTTAR PRADESH,132,Saharanpur,0,Saharanpur,0,Saharanpur
+2,9,UTTAR PRADESH,132,Saharanpur,701,Behat,0,Behat
+3,9,UTTAR PRADESH,132,Saharanpur,701,Behat,800629,Behat (NP)
+4,9,UTTAR PRADESH,132,Saharanpur,702,Saharanpur,0,Saharanpur
+5,9,UTTAR PRADESH,132,Saharanpur,702,Saharanpur,800630,Saharanpur (M Corp.)
+6,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,0,Nakur
+7,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,800631,Chilkana Sultanpur (NP)
+8,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,800632,Sarsawa (NPP)
+9,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,800633,Nakur (NPP)
+10,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,800634,Ambehta (NP)
+11,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,800635,Gangoh (NPP)
+12,9,UTTAR PRADESH,132,Saharanpur,703,Nakur,800636,Titron (NP)
+13,9,UTTAR PRADESH,132,Saharanpur,704,Deoband,0,Deoband
+14,9,UTTAR PRADESH,132,Saharanpur,704,Deoband,800637,Deoband (NPP)
+15,9,UTTAR PRADESH,132,Saharanpur,705,Rampur Maniharan,0,Rampur Maniharan
+16,9,UTTAR PRADESH,132,Saharanpur,705,Rampur Maniharan,800638,Nanauta (NP)
+17,9,UTTAR PRADESH,132,Saharanpur,705,Rampur Maniharan,800639,Rampur Maniharan (NP)
+18,9,UTTAR PRADESH,133,Muzaffarnagar,0,Muzaffarnagar,0,Muzaffarnagar
+19,9,UTTAR PRADESH,133,Muzaffarnagar,706,Kairana,0,Kairana
+20,9,UTTAR PRADESH,133,Muzaffarnagar,706,Kairana,800640,Un (NP)
+21,9,UTTAR PRADESH,133,Muzaffarnagar,706,Kairana,800641,Jhinjhana (NP)
+22,9,UTTAR PRADESH,133,Muzaffarnagar,706,Kairana,800642,Kairana (NPP)
+23,9,UTTAR PRADESH,133,Muzaffarnagar,706,Kairana,800643,Kandhla (NPP)
+24,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,0,Shamli
+25,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,800644,Ailam (NP)
+26,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,800645,Shamli (NPP)
+27,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,800646,Banat (NP)
+28,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,800647,Garhi Pukhta (NP)
+29,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,800648,Thana Bhawan (NP)
+30,9,UTTAR PRADESH,133,Muzaffarnagar,707,Shamli,800649,Jalalabad (NP)
+31,9,UTTAR PRADESH,133,Muzaffarnagar,708,Muzaffarnagar,0,Muzaffarnagar
+32,9,UTTAR PRADESH,133,Muzaffarnagar,708,Muzaffarnagar,800650,Purquazi (NP + OG)
+33,9,UTTAR PRADESH,133,Muzaffarnagar,708,Muzaffarnagar,800650,Purquazi (NP)
+34,9,UTTAR PRADESH,133,Muzaffarnagar,708,Muzaffarnagar,800651,Charthawal (NP)
+35,9,UTTAR PRADESH,133,Muzaffarnagar,708,Muzaffarnagar,800652,Muzaffarnagar (NPP)
+36,9,UTTAR PRADESH,133,Muzaffarnagar,709,Budhana,0,Budhana
+37,9,UTTAR PRADESH,133,Muzaffarnagar,709,Budhana,800653,Sisauli (NP)
+38,9,UTTAR PRADESH,133,Muzaffarnagar,709,Budhana,800654,Budhana (NP + OG)
+39,9,UTTAR PRADESH,133,Muzaffarnagar,709,Budhana,800654,Budhana (NP)
+40,9,UTTAR PRADESH,133,Muzaffarnagar,709,Budhana,800655,Shahpur (NP)
+41,9,UTTAR PRADESH,133,Muzaffarnagar,710,Khatauli,0,Khatauli
+42,9,UTTAR PRADESH,133,Muzaffarnagar,710,Khatauli,800656,Khatauli (NPP)
+43,9,UTTAR PRADESH,133,Muzaffarnagar,711,Jansath,0,Jansath
+44,9,UTTAR PRADESH,133,Muzaffarnagar,711,Jansath,800657,Jansath (NP)
+45,9,UTTAR PRADESH,133,Muzaffarnagar,711,Jansath,800658,Bhokarhedi (NP)
+46,9,UTTAR PRADESH,133,Muzaffarnagar,711,Jansath,800659,Miranpur (NP)
+47,9,UTTAR PRADESH,134,Bijnor,0,Bijnor,0,Bijnor
+48,9,UTTAR PRADESH,134,Bijnor,712,Najibabad,0,Najibabad
+49,9,UTTAR PRADESH,134,Bijnor,712,Najibabad,800660,Sahanpur (NP)
+50,9,UTTAR PRADESH,134,Bijnor,712,Najibabad,800661,Najibabad (NPP)
+51,9,UTTAR PRADESH,134,Bijnor,712,Najibabad,800662,Jalalabad (NP)
+52,9,UTTAR PRADESH,134,Bijnor,712,Najibabad,800663,Kiratpur (NPP + OG)
+53,9,UTTAR PRADESH,134,Bijnor,712,Najibabad,800663,Kiratpur (NPP)
+54,9,UTTAR PRADESH,134,Bijnor,713,Bijnor,0,Bijnor
+55,9,UTTAR PRADESH,134,Bijnor,713,Bijnor,800664,Mandawar (NP)
+56,9,UTTAR PRADESH,134,Bijnor,713,Bijnor,800665,Bijnor (NPP)
+57,9,UTTAR PRADESH,134,Bijnor,713,Bijnor,800666,Jhalu (NP)
+58,9,UTTAR PRADESH,134,Bijnor,713,Bijnor,800667,Haldaur (NPP)
+59,9,UTTAR PRADESH,134,Bijnor,714,Nagina,0,Nagina
+60,9,UTTAR PRADESH,134,Bijnor,714,Nagina,800668,Nagina (NPP)
+61,9,UTTAR PRADESH,134,Bijnor,714,Nagina,800669,Warhapur (NP)
+62,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,0,Dhampur
+63,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800670,Afzalgarh (NPP)
+64,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800671,Sherkot (NPP)
+65,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800672,Dhampur (NPP)
+66,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800673,Nehtaur (NPP)
+67,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800674,Seohara (NPP + OG)
+68,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800674,Seohara (NPP)
+69,9,UTTAR PRADESH,134,Bijnor,715,Dhampur,800675,Sahaspur (NP)
+70,9,UTTAR PRADESH,134,Bijnor,716,Chandpur,0,Chandpur
+71,9,UTTAR PRADESH,134,Bijnor,716,Chandpur,800676,Noorpur (NPP)
+72,9,UTTAR PRADESH,134,Bijnor,716,Chandpur,800677,Chandpur (NPP)
+73,9,UTTAR PRADESH,135,Moradabad,0,Moradabad,0,Moradabad
+74,9,UTTAR PRADESH,135,Moradabad,717,Thakurdwara,0,Thakurdwara
+75,9,UTTAR PRADESH,135,Moradabad,717,Thakurdwara,800678,Thakurdwara (NPP)
+76,9,UTTAR PRADESH,135,Moradabad,718,Kanth,0,Kanth
+77,9,UTTAR PRADESH,135,Moradabad,718,Kanth,800679,Kanth (NP)
+78,9,UTTAR PRADESH,135,Moradabad,718,Kanth,800680,Umri Kalan (NP)
+79,9,UTTAR PRADESH,135,Moradabad,719,Moradabad,0,Moradabad
+80,9,UTTAR PRADESH,135,Moradabad,719,Moradabad,800681,Bhojpur Dharampur (NP)
+81,9,UTTAR PRADESH,135,Moradabad,719,Moradabad,800682,Moradabad (M Corp.)
+82,9,UTTAR PRADESH,135,Moradabad,720,Bilari,0,Bilari
+83,9,UTTAR PRADESH,135,Moradabad,720,Bilari,800683,Kundarki (NP)
+84,9,UTTAR PRADESH,135,Moradabad,720,Bilari,800684,Bilari (NPP)
+85,9,UTTAR PRADESH,135,Moradabad,721,Sambhal,0,Sambhal
+86,9,UTTAR PRADESH,135,Moradabad,721,Sambhal,800685,Sirsi (NP)
+87,9,UTTAR PRADESH,135,Moradabad,721,Sambhal,800686,Sambhal (NPP)
+88,9,UTTAR PRADESH,135,Moradabad,722,Chandausi,0,Chandausi
+89,9,UTTAR PRADESH,135,Moradabad,722,Chandausi,800687,Bahjoi (NPP)
+90,9,UTTAR PRADESH,135,Moradabad,722,Chandausi,800688,Narauli (NP)
+91,9,UTTAR PRADESH,135,Moradabad,722,Chandausi,800689,Chandausi (NPP)
+92,9,UTTAR PRADESH,136,Rampur,0,Rampur,0,Rampur
+93,9,UTTAR PRADESH,136,Rampur,723,Suar,0,Suar
+94,9,UTTAR PRADESH,136,Rampur,723,Suar,800690,Maswasi (NP)
+95,9,UTTAR PRADESH,136,Rampur,723,Suar,800691,Suar (NPP)
+96,9,UTTAR PRADESH,136,Rampur,724,Tanda,0,Tanda
+97,9,UTTAR PRADESH,136,Rampur,724,Tanda,800692,Tanda (NPP)
+98,9,UTTAR PRADESH,136,Rampur,725,Bilaspur,0,Bilaspur
+99,9,UTTAR PRADESH,136,Rampur,725,Bilaspur,800693,Bilaspur (NPP)
+100,9,UTTAR PRADESH,136,Rampur,725,Bilaspur,800694,Kemri (NP)
+101,9,UTTAR PRADESH,136,Rampur,726,Rampur,0,Rampur
+102,9,UTTAR PRADESH,136,Rampur,726,Rampur,800695,Rampur (NPP)
+103,9,UTTAR PRADESH,136,Rampur,727,Shahabad ,0,Shahabad 
+104,9,UTTAR PRADESH,136,Rampur,727,Shahabad ,800696,Shahabad (NP)
+105,9,UTTAR PRADESH,136,Rampur,728,Milak ,0,Milak 
+106,9,UTTAR PRADESH,136,Rampur,728,Milak ,800697,Milak (NPP)
+107,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,0,Jyotiba Phule Nagar,0,Jyotiba Phule Nagar
+108,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,729,Dhanaura,0,Dhanaura
+109,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,729,Dhanaura,800698,Dhanaura (NPP)
+110,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,729,Dhanaura,800699,Bachhraon (NPP)
+111,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,729,Dhanaura,800700,Gajraula (NP)
+112,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,730,Amroha,0,Amroha
+113,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,730,Amroha,800701,Naugawan Sadat (NP)
+114,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,730,Amroha,800702,Amroha (NPP)
+115,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,730,Amroha,800703,Joya (NP)
+116,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,731,Hasanpur,0,Hasanpur
+117,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,731,Hasanpur,800704,Hasanpur (NPP)
+118,9,UTTAR PRADESH,137,Jyotiba Phule Nagar,731,Hasanpur,800705,Ujhari (NP)
+119,9,UTTAR PRADESH,138,Meerut,0,Meerut,0,Meerut
+120,9,UTTAR PRADESH,138,Meerut,732,Sardhana,0,Sardhana
+121,9,UTTAR PRADESH,138,Meerut,732,Sardhana,800706,Karnawal (NP)
+122,9,UTTAR PRADESH,138,Meerut,732,Sardhana,800707,Sardhana (NPP)
+123,9,UTTAR PRADESH,138,Meerut,732,Sardhana,800708,Daurala (NP)
+124,9,UTTAR PRADESH,138,Meerut,732,Sardhana,800709,Lawar (NP)
+125,9,UTTAR PRADESH,138,Meerut,733,Mawana,0,Mawana
+126,9,UTTAR PRADESH,138,Meerut,733,Mawana,800710,Phalauda (NP)
+127,9,UTTAR PRADESH,138,Meerut,733,Mawana,800711,Bahsuma (NP)
+128,9,UTTAR PRADESH,138,Meerut,733,Mawana,800712,Hastinapur (NP)
+129,9,UTTAR PRADESH,138,Meerut,733,Mawana,800713,Mawana (NPP)
+130,9,UTTAR PRADESH,138,Meerut,733,Mawana,800714,Parikshitgarh (NP)
+131,9,UTTAR PRADESH,138,Meerut,733,Mawana,800715,Kithaur (NP)
+132,9,UTTAR PRADESH,138,Meerut,734,Meerut,0,Meerut
+133,9,UTTAR PRADESH,138,Meerut,734,Meerut,800716,Meerut (M Corp.)
+134,9,UTTAR PRADESH,138,Meerut,734,Meerut,800717,Meerut (CB)
+135,9,UTTAR PRADESH,138,Meerut,734,Meerut,800718,Sewalkhas (NP)
+136,9,UTTAR PRADESH,138,Meerut,734,Meerut,800719,Kharkhoda (NP)
+137,9,UTTAR PRADESH,139,Baghpat,0,Baghpat,0,Baghpat
+138,9,UTTAR PRADESH,139,Baghpat,735,Baraut,0,Baraut
+139,9,UTTAR PRADESH,139,Baghpat,735,Baraut,800720,Chhaprauli (NP)
+140,9,UTTAR PRADESH,139,Baghpat,735,Baraut,800721,Tikri (NP)
+141,9,UTTAR PRADESH,139,Baghpat,735,Baraut,800722,Doghat (NP)
+142,9,UTTAR PRADESH,139,Baghpat,735,Baraut,800723,Baraut (NPP)
+143,9,UTTAR PRADESH,139,Baghpat,736,Baghpat,0,Baghpat
+144,9,UTTAR PRADESH,139,Baghpat,736,Baghpat,800724,Baghpat (NPP)
+145,9,UTTAR PRADESH,139,Baghpat,736,Baghpat,800725,Agarwal Mandi (Tatiri) (NP)
+146,9,UTTAR PRADESH,139,Baghpat,736,Baghpat,800726,Aminagar Sarai (NP)
+147,9,UTTAR PRADESH,139,Baghpat,737,Khekada,0,Khekada
+148,9,UTTAR PRADESH,139,Baghpat,737,Khekada,800727,Khekada (NP)
+149,9,UTTAR PRADESH,140,Ghaziabad,0,Ghaziabad,0,Ghaziabad
+150,9,UTTAR PRADESH,140,Ghaziabad,738,Modinagar,0,Modinagar
+151,9,UTTAR PRADESH,140,Ghaziabad,738,Modinagar,800728,Patala (NP)
+152,9,UTTAR PRADESH,140,Ghaziabad,738,Modinagar,800729,Niwari (NP)
+153,9,UTTAR PRADESH,140,Ghaziabad,738,Modinagar,800730,Modinagar (NPP)
+154,9,UTTAR PRADESH,140,Ghaziabad,738,Modinagar,800731,Faridnagar (NP)
+155,9,UTTAR PRADESH,140,Ghaziabad,738,Modinagar,800732,Muradnagar (NPP)
+156,9,UTTAR PRADESH,140,Ghaziabad,739,Ghaziabad,0,Ghaziabad
+157,9,UTTAR PRADESH,140,Ghaziabad,739,Ghaziabad,800733,Loni (NPP)
+158,9,UTTAR PRADESH,140,Ghaziabad,739,Ghaziabad,800734,Ghaziabad (M Corp.)
+159,9,UTTAR PRADESH,140,Ghaziabad,739,Ghaziabad,800735,Dasna (NP)
+160,9,UTTAR PRADESH,140,Ghaziabad,740,Hapur,0,Hapur
+161,9,UTTAR PRADESH,140,Ghaziabad,740,Hapur,800736,Pilkhuwa (NPP)
+162,9,UTTAR PRADESH,140,Ghaziabad,740,Hapur,800737,Hapur (NPP)
+163,9,UTTAR PRADESH,140,Ghaziabad,740,Hapur,800738,Babugarh (NP)
+164,9,UTTAR PRADESH,140,Ghaziabad,741,Garhmukteshwar,0,Garhmukteshwar
+165,9,UTTAR PRADESH,140,Ghaziabad,741,Garhmukteshwar,800739,Garhmukhteshwar (NPP)
+166,9,UTTAR PRADESH,141,Gautam Buddha Nagar,0,Gautam Buddha Nagar,0,Gautam Buddha Nagar
+167,9,UTTAR PRADESH,141,Gautam Buddha Nagar,742,Dadri,0,Dadri
+168,9,UTTAR PRADESH,141,Gautam Buddha Nagar,742,Dadri,800740,Dadri (NPP)
+169,9,UTTAR PRADESH,141,Gautam Buddha Nagar,743,Gautam Buddha Nagar,0,Gautam Buddha Nagar
+170,9,UTTAR PRADESH,141,Gautam Buddha Nagar,743,Gautam Buddha Nagar,800741,Bilaspur (NP)
+171,9,UTTAR PRADESH,141,Gautam Buddha Nagar,743,Gautam Buddha Nagar,800742,Dankaur (NP)
+172,9,UTTAR PRADESH,141,Gautam Buddha Nagar,744,Jewar,0,Jewar
+173,9,UTTAR PRADESH,141,Gautam Buddha Nagar,744,Jewar,800743,Rabupura (NP)
+174,9,UTTAR PRADESH,141,Gautam Buddha Nagar,744,Jewar,800744,Jahangirpur (NP)
+175,9,UTTAR PRADESH,141,Gautam Buddha Nagar,744,Jewar,800745,Jewar (NP)
+176,9,UTTAR PRADESH,142,Bulandshahr ,0,Bulandshahr ,0,Bulandshahr 
+177,9,UTTAR PRADESH,142,Bulandshahr ,745,Sikandrabad,0,Sikandrabad
+178,9,UTTAR PRADESH,142,Bulandshahr ,745,Sikandrabad,800746,Sikandrabad (NPP)
+179,9,UTTAR PRADESH,142,Bulandshahr ,745,Sikandrabad,800747,Kakod (NP)
+180,9,UTTAR PRADESH,142,Bulandshahr ,746,Bulandshahr,0,Bulandshahr
+181,9,UTTAR PRADESH,142,Bulandshahr ,746,Bulandshahr,800748,Aurangabad (NP)
+182,9,UTTAR PRADESH,142,Bulandshahr ,746,Bulandshahr,800749,Bulandshahr (NPP + OG)
+183,9,UTTAR PRADESH,142,Bulandshahr ,746,Bulandshahr,800749,Bulandshahr (NPP)
+184,9,UTTAR PRADESH,142,Bulandshahr ,746,Bulandshahr,800750,Gulaothi (NPP)
+185,9,UTTAR PRADESH,142,Bulandshahr ,747,Siana,0,Siana
+186,9,UTTAR PRADESH,142,Bulandshahr ,747,Siana,800751,Bhawan Bahadur Nagar (NP)
+187,9,UTTAR PRADESH,142,Bulandshahr ,747,Siana,800752,Siana (NPP)
+188,9,UTTAR PRADESH,142,Bulandshahr ,747,Siana,800753,Bugrasi (NP)
+189,9,UTTAR PRADESH,142,Bulandshahr ,747,Siana,800754,Khanpur (NP)
+190,9,UTTAR PRADESH,142,Bulandshahr ,748,Anupshahr,0,Anupshahr
+191,9,UTTAR PRADESH,142,Bulandshahr ,748,Anupshahr,800755,Anupshahr (NPP)
+192,9,UTTAR PRADESH,142,Bulandshahr ,748,Anupshahr,800756,Jahangirabad (NPP)
+193,9,UTTAR PRADESH,142,Bulandshahr ,749,Debai,0,Debai
+194,9,UTTAR PRADESH,142,Bulandshahr ,749,Debai,800757,Dibai (NPP)
+195,9,UTTAR PRADESH,142,Bulandshahr ,749,Debai,800758,Naraura (NP)
+196,9,UTTAR PRADESH,142,Bulandshahr ,750,Shikarpur,0,Shikarpur
+197,9,UTTAR PRADESH,142,Bulandshahr ,750,Shikarpur,800759,Shikarpur (NPP)
+198,9,UTTAR PRADESH,142,Bulandshahr ,750,Shikarpur,800760,Pahasu (NP)
+199,9,UTTAR PRADESH,142,Bulandshahr ,750,Shikarpur,800761,Chhatari (NP)
+200,9,UTTAR PRADESH,142,Bulandshahr ,751,Khurja ,0,Khurja 
+201,9,UTTAR PRADESH,142,Bulandshahr ,751,Khurja ,800762,Khurja (NPP + OG)
+202,9,UTTAR PRADESH,142,Bulandshahr ,751,Khurja ,800762,Khurja (NPP)
+203,9,UTTAR PRADESH,143,Aligarh,0,Aligarh,0,Aligarh
+204,9,UTTAR PRADESH,143,Aligarh,752,Khair,0,Khair
+205,9,UTTAR PRADESH,143,Aligarh,752,Khair,800763,Jatari (NP)
+206,9,UTTAR PRADESH,143,Aligarh,752,Khair,800764,Khair (NPP)
+207,9,UTTAR PRADESH,143,Aligarh,753,Gabhana,0,Gabhana
+208,9,UTTAR PRADESH,143,Aligarh,754,Atrauli,0,Atrauli
+209,9,UTTAR PRADESH,143,Aligarh,754,Atrauli,800765,Atrauli (NPP)
+210,9,UTTAR PRADESH,143,Aligarh,754,Atrauli,800766,Chharra Rafatpur (NP)
+211,9,UTTAR PRADESH,143,Aligarh,755,Koil,0,Koil
+212,9,UTTAR PRADESH,143,Aligarh,755,Koil,800767,Harduaganj (NP)
+213,9,UTTAR PRADESH,143,Aligarh,755,Koil,800768,Aligarh (M Corp.)
+214,9,UTTAR PRADESH,143,Aligarh,755,Koil,800769,Jalali (NP)
+215,9,UTTAR PRADESH,143,Aligarh,755,Koil,800770,Kauriaganj (NP)
+216,9,UTTAR PRADESH,143,Aligarh,755,Koil,800771,Pilkhana (NP)
+217,9,UTTAR PRADESH,143,Aligarh,755,Koil,800772,Vijaigarh (NP)
+218,9,UTTAR PRADESH,143,Aligarh,756,Iglas,0,Iglas
+219,9,UTTAR PRADESH,143,Aligarh,756,Iglas,800773,Iglas (NP)
+220,9,UTTAR PRADESH,143,Aligarh,756,Iglas,800774,Beswan (NP)
+221,9,UTTAR PRADESH,144,Mahamaya Nagar,0,Mahamaya Nagar,0,Mahamaya Nagar
+222,9,UTTAR PRADESH,144,Mahamaya Nagar,757,Sasni,0,Sasni
+223,9,UTTAR PRADESH,144,Mahamaya Nagar,757,Sasni,800775,Sasni (NP)
+224,9,UTTAR PRADESH,144,Mahamaya Nagar,758,Sikandra Rao ,0,Sikandra Rao 
+225,9,UTTAR PRADESH,144,Mahamaya Nagar,758,Sikandra Rao ,800776,Sikandrarao (NPP)
+226,9,UTTAR PRADESH,144,Mahamaya Nagar,758,Sikandra Rao ,800777,Purdilnagar (NP)
+227,9,UTTAR PRADESH,144,Mahamaya Nagar,758,Sikandra Rao ,800778,Hasayan (NP)
+228,9,UTTAR PRADESH,144,Mahamaya Nagar,759,Hathras,0,Hathras
+229,9,UTTAR PRADESH,144,Mahamaya Nagar,759,Hathras,800779,Mendu (NP)
+230,9,UTTAR PRADESH,144,Mahamaya Nagar,759,Hathras,800780,Hathras (NPP + OG)
+231,9,UTTAR PRADESH,144,Mahamaya Nagar,759,Hathras,800780,Hathras (NPP)
+232,9,UTTAR PRADESH,144,Mahamaya Nagar,759,Hathras,800781,Mursan (NP)
+233,9,UTTAR PRADESH,144,Mahamaya Nagar,760,Sadabad,0,Sadabad
+234,9,UTTAR PRADESH,144,Mahamaya Nagar,760,Sadabad,800782,Sadabad (NP)
+235,9,UTTAR PRADESH,144,Mahamaya Nagar,760,Sadabad,800783,Sahpau (NP)
+236,9,UTTAR PRADESH,145,Mathura,0,Mathura,0,Mathura
+237,9,UTTAR PRADESH,145,Mathura,761,Chhata,0,Chhata
+238,9,UTTAR PRADESH,145,Mathura,761,Chhata,800784,Kosi Kalan (NPP + OG)
+239,9,UTTAR PRADESH,145,Mathura,761,Chhata,800784,Kosi Kalan (NPP)
+240,9,UTTAR PRADESH,145,Mathura,761,Chhata,800785,Nandgaon (NP)
+241,9,UTTAR PRADESH,145,Mathura,761,Chhata,800786,Barsana (NP)
+242,9,UTTAR PRADESH,145,Mathura,761,Chhata,800787,Chhata (NP)
+243,9,UTTAR PRADESH,145,Mathura,761,Chhata,800788,Chaumuhan (NP)
+244,9,UTTAR PRADESH,145,Mathura,762,Mat,0,Mat
+245,9,UTTAR PRADESH,145,Mathura,762,Mat,800789,Bajna (NP)
+246,9,UTTAR PRADESH,145,Mathura,763,Mahavan,0,Mahavan
+247,9,UTTAR PRADESH,145,Mathura,763,Mahavan,800790,Raya (NP)
+248,9,UTTAR PRADESH,145,Mathura,763,Mahavan,800791,Gokul (NP)
+249,9,UTTAR PRADESH,145,Mathura,763,Mahavan,800792,Mahaban (NP)
+250,9,UTTAR PRADESH,145,Mathura,763,Mahavan,800793,Baldeo (NP)
+251,9,UTTAR PRADESH,145,Mathura,764,Mathura,0,Mathura
+252,9,UTTAR PRADESH,145,Mathura,764,Mathura,800794,Farah (NP)
+253,9,UTTAR PRADESH,145,Mathura,764,Mathura,800795,Vrindavan (NPP)
+254,9,UTTAR PRADESH,145,Mathura,764,Mathura,800796,Radhakund (NP)
+255,9,UTTAR PRADESH,145,Mathura,764,Mathura,800797,Govardhan (NP)
+256,9,UTTAR PRADESH,145,Mathura,764,Mathura,800798,Saunkh (NP)
+257,9,UTTAR PRADESH,145,Mathura,764,Mathura,800799,Mathura (NPP)
+258,9,UTTAR PRADESH,145,Mathura,764,Mathura,800800,Mathura (CB)
+259,9,UTTAR PRADESH,146,Agra,0,Agra,0,Agra
+260,9,UTTAR PRADESH,146,Agra,765,Etmadpur,0,Etmadpur
+261,9,UTTAR PRADESH,146,Agra,765,Etmadpur,800801,Etmadpur (NPP)
+262,9,UTTAR PRADESH,146,Agra,766,Agra,0,Agra
+263,9,UTTAR PRADESH,146,Agra,766,Agra,800802,Dayalbagh (NP)
+264,9,UTTAR PRADESH,146,Agra,766,Agra,800803,Swamibagh (NP)
+265,9,UTTAR PRADESH,146,Agra,766,Agra,800804,Agra (M Corp.)
+266,9,UTTAR PRADESH,146,Agra,766,Agra,800805,Agra (CB)
+267,9,UTTAR PRADESH,146,Agra,767,Kiraoli,0,Kiraoli
+268,9,UTTAR PRADESH,146,Agra,767,Kiraoli,800806,Achhnera (NPP)
+269,9,UTTAR PRADESH,146,Agra,767,Kiraoli,800807,Kiraoali (NP)
+270,9,UTTAR PRADESH,146,Agra,767,Kiraoli,800808,Fatehpur Sikri (NPP)
+271,9,UTTAR PRADESH,146,Agra,768,Kheragarh,0,Kheragarh
+272,9,UTTAR PRADESH,146,Agra,768,Kheragarh,800809,Jagner (NP)
+273,9,UTTAR PRADESH,146,Agra,768,Kheragarh,800810,Kheragarh (NP)
+274,9,UTTAR PRADESH,146,Agra,769,Fatehabad,0,Fatehabad
+275,9,UTTAR PRADESH,146,Agra,769,Fatehabad,800811,Shamsabad (NPP)
+276,9,UTTAR PRADESH,146,Agra,769,Fatehabad,800812,Fatehabad (NP)
+277,9,UTTAR PRADESH,146,Agra,770,Bah,0,Bah
+278,9,UTTAR PRADESH,146,Agra,770,Bah,800813,Pinahat (NP)
+279,9,UTTAR PRADESH,146,Agra,770,Bah,800814,Bah (NPP)
+280,9,UTTAR PRADESH,147,Firozabad,0,Firozabad,0,Firozabad
+281,9,UTTAR PRADESH,147,Firozabad,771,Tundla,0,Tundla
+282,9,UTTAR PRADESH,147,Firozabad,771,Tundla,800815,Tundla (NPP)
+283,9,UTTAR PRADESH,147,Firozabad,772,Firozabad,0,Firozabad
+284,9,UTTAR PRADESH,147,Firozabad,772,Firozabad,800816,Firozabad (NPP)
+285,9,UTTAR PRADESH,147,Firozabad,773,Jasrana ,0,Jasrana 
+286,9,UTTAR PRADESH,147,Firozabad,773,Jasrana ,800817,Fariha (NP)
+287,9,UTTAR PRADESH,147,Firozabad,773,Jasrana ,800818,Jasrana (NP)
+288,9,UTTAR PRADESH,147,Firozabad,774,Shikohabad ,0,Shikohabad 
+289,9,UTTAR PRADESH,147,Firozabad,774,Shikohabad ,800819,Shikohabad (NPP)
+290,9,UTTAR PRADESH,147,Firozabad,774,Shikohabad ,800820,Sirsaganj (NPP + OG)
+291,9,UTTAR PRADESH,147,Firozabad,774,Shikohabad ,800820,Sirsaganj (NPP)
+292,9,UTTAR PRADESH,148,Mainpuri,0,Mainpuri,0,Mainpuri
+293,9,UTTAR PRADESH,148,Mainpuri,775,Mainpuri,0,Mainpuri
+294,9,UTTAR PRADESH,148,Mainpuri,775,Mainpuri,800821,Kuraoali (NP)
+295,9,UTTAR PRADESH,148,Mainpuri,775,Mainpuri,800822,Jyoti Khuriya (NP)
+296,9,UTTAR PRADESH,148,Mainpuri,775,Mainpuri,800823,Ghiraur (NP)
+297,9,UTTAR PRADESH,148,Mainpuri,775,Mainpuri,800824,Mainpuri (NPP + OG)
+298,9,UTTAR PRADESH,148,Mainpuri,775,Mainpuri,800824,Mainpuri (NPP)
+299,9,UTTAR PRADESH,148,Mainpuri,776,Karhal,0,Karhal
+300,9,UTTAR PRADESH,148,Mainpuri,776,Karhal,800825,Karhal (NP)
+301,9,UTTAR PRADESH,148,Mainpuri,777,Bhogaon ,0,Bhogaon 
+302,9,UTTAR PRADESH,148,Mainpuri,777,Bhogaon ,800826,Bhogaon (NP)
+303,9,UTTAR PRADESH,148,Mainpuri,777,Bhogaon ,800827,Bewar (NP)
+304,9,UTTAR PRADESH,148,Mainpuri,777,Bhogaon ,800828,Kusmara (NP)
+305,9,UTTAR PRADESH,148,Mainpuri,777,Bhogaon ,800829,Kishni (NP)
+306,9,UTTAR PRADESH,149,Budaun,0,Budaun,0,Budaun
+307,9,UTTAR PRADESH,149,Budaun,778,Gunnaur ,0,Gunnaur 
+308,9,UTTAR PRADESH,149,Budaun,778,Gunnaur ,800830,Gawan (NP)
+309,9,UTTAR PRADESH,149,Budaun,778,Gunnaur ,800831,Babrala (NP)
+310,9,UTTAR PRADESH,149,Budaun,778,Gunnaur ,800832,Gunnaur (NP)
+311,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,0,Bisauli 
+312,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,800833,Islamnagar (NP)
+313,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,800834,Faizganj (NP)
+314,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,800835,Mundiya (NP)
+315,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,800836,Bisauli (NPP)
+316,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,800837,Saidpur (NP)
+317,9,UTTAR PRADESH,149,Budaun,779,Bisauli ,800838,Wazirganj (NP)
+318,9,UTTAR PRADESH,149,Budaun,780,Bilsi,0,Bilsi
+319,9,UTTAR PRADESH,149,Budaun,780,Bilsi,800839,Rudayan (NP)
+320,9,UTTAR PRADESH,149,Budaun,780,Bilsi,800840,Bilsi (NPP)
+321,9,UTTAR PRADESH,149,Budaun,781,Sahaswan,0,Sahaswan
+322,9,UTTAR PRADESH,149,Budaun,781,Sahaswan,800841,Sahaswan (NPP)
+323,9,UTTAR PRADESH,149,Budaun,782,Budaun,0,Budaun
+324,9,UTTAR PRADESH,149,Budaun,782,Budaun,800842,Kachhla (NP)
+325,9,UTTAR PRADESH,149,Budaun,782,Budaun,800843,Ujhani (NPP)
+326,9,UTTAR PRADESH,149,Budaun,782,Budaun,800844,Budaun (NPP)
+327,9,UTTAR PRADESH,149,Budaun,782,Budaun,800845,Kunwargaon (NP)
+328,9,UTTAR PRADESH,149,Budaun,782,Budaun,800846,Gulariya (NP)
+329,9,UTTAR PRADESH,149,Budaun,782,Budaun,800847,Sakhanu (NP)
+330,9,UTTAR PRADESH,149,Budaun,783,Dataganj,0,Dataganj
+331,9,UTTAR PRADESH,149,Budaun,783,Dataganj,800848,Kakrala (NPP)
+332,9,UTTAR PRADESH,149,Budaun,783,Dataganj,800849,Allapur (NP)
+333,9,UTTAR PRADESH,149,Budaun,783,Dataganj,800850,Dataganj (NP)
+334,9,UTTAR PRADESH,149,Budaun,783,Dataganj,800851,Usawan (NP)
+335,9,UTTAR PRADESH,149,Budaun,783,Dataganj,800852,Usehat (NP)
+336,9,UTTAR PRADESH,150,Bareilly,0,Bareilly,0,Bareilly
+337,9,UTTAR PRADESH,150,Bareilly,784,Baheri,0,Baheri
+338,9,UTTAR PRADESH,150,Bareilly,784,Baheri,800853,Baheri (NPP)
+339,9,UTTAR PRADESH,150,Bareilly,784,Baheri,800854,Faridpur (NP)
+340,9,UTTAR PRADESH,150,Bareilly,784,Baheri,800855,Richha (NP)
+341,9,UTTAR PRADESH,150,Bareilly,784,Baheri,800856,Deoranian (NP)
+342,9,UTTAR PRADESH,150,Bareilly,784,Baheri,800857,Shergarh (NP)
+343,9,UTTAR PRADESH,150,Bareilly,785,Meerganj ,0,Meerganj 
+344,9,UTTAR PRADESH,150,Bareilly,785,Meerganj ,800858,Shishgarh (NP)
+345,9,UTTAR PRADESH,150,Bareilly,785,Meerganj ,800859,Mirganj (NP)
+346,9,UTTAR PRADESH,150,Bareilly,785,Meerganj ,800860,Fatehganj Pashchimi (NP)
+347,9,UTTAR PRADESH,150,Bareilly,785,Meerganj ,800861,Shahi (NP)
+348,9,UTTAR PRADESH,150,Bareilly,786,Aonla ,0,Aonla 
+349,9,UTTAR PRADESH,150,Bareilly,786,Aonla ,800862,Bisharatganj (NP)
+350,9,UTTAR PRADESH,150,Bareilly,786,Aonla ,800863,Aonla (NPP)
+351,9,UTTAR PRADESH,150,Bareilly,786,Aonla ,800864,Sirauli (NP)
+352,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,0,Bareilly 
+353,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,800865,Dhaura Tanda (NP)
+354,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,800866,Bareilly (M Corp. + OG)
+355,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,800866,Bareilly (M Corp.)
+356,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,800867,Bareilly (CB)
+357,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,800868,Thiriya Nizamat Khan (NP)
+358,9,UTTAR PRADESH,150,Bareilly,787,Bareilly ,800869,Rithora (NP)
+359,9,UTTAR PRADESH,150,Bareilly,788,Nawabganj ,0,Nawabganj 
+360,9,UTTAR PRADESH,150,Bareilly,788,Nawabganj ,800870,Sainthal (NP)
+361,9,UTTAR PRADESH,150,Bareilly,788,Nawabganj ,800871,Nawabganj (NPP)
+362,9,UTTAR PRADESH,150,Bareilly,789,Faridpur ,0,Faridpur 
+363,9,UTTAR PRADESH,150,Bareilly,789,Faridpur ,800872,Fatehganj Purvi (NP)
+364,9,UTTAR PRADESH,150,Bareilly,789,Faridpur ,800873,Faridpur (NPP)
+365,9,UTTAR PRADESH,151,Pilibhit,0,Pilibhit,0,Pilibhit
+366,9,UTTAR PRADESH,151,Pilibhit,790,Pilibhit ,0,Pilibhit 
+367,9,UTTAR PRADESH,151,Pilibhit,790,Pilibhit ,800874,Gulariya Bhindara (NP)
+368,9,UTTAR PRADESH,151,Pilibhit,790,Pilibhit ,800875,Nyoria Husainpur (NP)
+369,9,UTTAR PRADESH,151,Pilibhit,790,Pilibhit ,800876,Jahanabad (NP)
+370,9,UTTAR PRADESH,151,Pilibhit,790,Pilibhit ,800877,Pilibhit (NPP)
+371,9,UTTAR PRADESH,151,Pilibhit,791,Bisalpur,0,Bisalpur
+372,9,UTTAR PRADESH,151,Pilibhit,791,Bisalpur,800878,Barkhera (NP)
+373,9,UTTAR PRADESH,151,Pilibhit,791,Bisalpur,800879,Bisalpur (NPP)
+374,9,UTTAR PRADESH,151,Pilibhit,791,Bisalpur,800880,Bilsanda (NP)
+375,9,UTTAR PRADESH,151,Pilibhit,792,Puranpur,0,Puranpur
+376,9,UTTAR PRADESH,151,Pilibhit,792,Puranpur,800881,Kalinagar (NP)
+377,9,UTTAR PRADESH,151,Pilibhit,792,Puranpur,800882,Puranpur (NPP)
+378,9,UTTAR PRADESH,152,Shahjahanpur,0,Shahjahanpur,0,Shahjahanpur
+379,9,UTTAR PRADESH,152,Shahjahanpur,793,Powayan,0,Powayan
+380,9,UTTAR PRADESH,152,Shahjahanpur,793,Powayan,800883,Khutar (NP)
+381,9,UTTAR PRADESH,152,Shahjahanpur,793,Powayan,800884,Powayan (NP)
+382,9,UTTAR PRADESH,152,Shahjahanpur,794,Tilhar,0,Tilhar
+383,9,UTTAR PRADESH,152,Shahjahanpur,794,Tilhar,800885,Khudaganj (NP)
+384,9,UTTAR PRADESH,152,Shahjahanpur,794,Tilhar,800886,Katra (NP)
+385,9,UTTAR PRADESH,152,Shahjahanpur,794,Tilhar,800887,Tilhar (NPP)
+386,9,UTTAR PRADESH,152,Shahjahanpur,795,Shahjahanpur,0,Shahjahanpur
+387,9,UTTAR PRADESH,152,Shahjahanpur,795,Shahjahanpur,800888,Railway Settlement Roza (NP)
+388,9,UTTAR PRADESH,152,Shahjahanpur,795,Shahjahanpur,800889,Shahjahanpur (NPP)
+389,9,UTTAR PRADESH,152,Shahjahanpur,795,Shahjahanpur,800890,Shahjahanpur (CB)
+390,9,UTTAR PRADESH,152,Shahjahanpur,795,Shahjahanpur,800891,Kanth (NP)
+391,9,UTTAR PRADESH,152,Shahjahanpur,796,Jalalabad,0,Jalalabad
+392,9,UTTAR PRADESH,152,Shahjahanpur,796,Jalalabad,800892,Jalalabad (NPP)
+393,9,UTTAR PRADESH,152,Shahjahanpur,796,Jalalabad,800893,Allahganj (NP)
+394,9,UTTAR PRADESH,153,Kheri,0,Kheri,0,Kheri
+395,9,UTTAR PRADESH,153,Kheri,797,Nighasan,0,Nighasan
+396,9,UTTAR PRADESH,153,Kheri,797,Nighasan,800894,Singahi Bhiraura (NP)
+397,9,UTTAR PRADESH,153,Kheri,798,Palia,0,Palia
+398,9,UTTAR PRADESH,153,Kheri,798,Palia,800895,Paliya Kalan (NPP)
+399,9,UTTAR PRADESH,153,Kheri,799,Gola Gokaran Nath,0,Gola Gokaran Nath
+400,9,UTTAR PRADESH,153,Kheri,799,Gola Gokaran Nath,800896,Mailani (NP)
+401,9,UTTAR PRADESH,153,Kheri,799,Gola Gokaran Nath,800897,Gola Gokaran Nath (NPP)
+402,9,UTTAR PRADESH,153,Kheri,800,Mohammdi,0,Mohammdi
+403,9,UTTAR PRADESH,153,Kheri,800,Mohammdi,800898,Mohammadi (NPP)
+404,9,UTTAR PRADESH,153,Kheri,800,Mohammdi,800899,Barwar (NP)
+405,9,UTTAR PRADESH,153,Kheri,801,Lakhimpur,0,Lakhimpur
+406,9,UTTAR PRADESH,153,Kheri,801,Lakhimpur,800900,Lakhimpur (NPP)
+407,9,UTTAR PRADESH,153,Kheri,801,Lakhimpur,800901,Kheri (NP)
+408,9,UTTAR PRADESH,153,Kheri,801,Lakhimpur,800902,Oel Dhakwa (NP)
+409,9,UTTAR PRADESH,153,Kheri,802,Dhaurahara,0,Dhaurahara
+410,9,UTTAR PRADESH,153,Kheri,802,Dhaurahara,800903,Dhaurehra (NP)
+411,9,UTTAR PRADESH,154,Sitapur,0,Sitapur,0,Sitapur
+412,9,UTTAR PRADESH,154,Sitapur,803,Misrikh,0,Misrikh
+413,9,UTTAR PRADESH,154,Sitapur,803,Misrikh,800904,Maholi (NP)
+414,9,UTTAR PRADESH,154,Sitapur,803,Misrikh,800905,Misrikh-cum-Neemsar (NPP)
+415,9,UTTAR PRADESH,154,Sitapur,804,Sitapur,0,Sitapur
+416,9,UTTAR PRADESH,154,Sitapur,804,Sitapur,800906,Khairabad (NPP)
+417,9,UTTAR PRADESH,154,Sitapur,804,Sitapur,800907,Sitapur (NPP)
+418,9,UTTAR PRADESH,154,Sitapur,804,Sitapur,800908,Hargaon (NP)
+419,9,UTTAR PRADESH,154,Sitapur,805,Laharpur ,0,Laharpur 
+420,9,UTTAR PRADESH,154,Sitapur,805,Laharpur ,800909,Laharpur (NPP)
+421,9,UTTAR PRADESH,154,Sitapur,805,Laharpur ,800910,Tambaur-cum-Ahamdabad (NP)
+422,9,UTTAR PRADESH,154,Sitapur,806,Biswan,0,Biswan
+423,9,UTTAR PRADESH,154,Sitapur,806,Biswan,800911,Biswan (NPP)
+424,9,UTTAR PRADESH,154,Sitapur,807,Mahmudabad,0,Mahmudabad
+425,9,UTTAR PRADESH,154,Sitapur,807,Mahmudabad,800912,Mahmudabad (NPP)
+426,9,UTTAR PRADESH,154,Sitapur,807,Mahmudabad,800913,Paintepur (NP)
+427,9,UTTAR PRADESH,154,Sitapur,808,Sidhauli,0,Sidhauli
+428,9,UTTAR PRADESH,154,Sitapur,808,Sidhauli,800914,Sidhauli (NP)
+429,9,UTTAR PRADESH,155,Hardoi,0,Hardoi,0,Hardoi
+430,9,UTTAR PRADESH,155,Hardoi,809,Shahabad,0,Shahabad
+431,9,UTTAR PRADESH,155,Hardoi,809,Shahabad,800915,Shahabad (NPP)
+432,9,UTTAR PRADESH,155,Hardoi,809,Shahabad,800916,Pihani (NPP)
+433,9,UTTAR PRADESH,155,Hardoi,810,Sawayajpur,0,Sawayajpur
+434,9,UTTAR PRADESH,155,Hardoi,810,Sawayajpur,800917,Pali (NP)
+435,9,UTTAR PRADESH,155,Hardoi,811,Hardoi ,0,Hardoi 
+436,9,UTTAR PRADESH,155,Hardoi,811,Hardoi ,800918,Gopamau (NP)
+437,9,UTTAR PRADESH,155,Hardoi,811,Hardoi ,800919,Hardoi (NPP + OG)
+438,9,UTTAR PRADESH,155,Hardoi,811,Hardoi ,800919,Hardoi (NPP)
+439,9,UTTAR PRADESH,155,Hardoi,812,Bilgram,0,Bilgram
+440,9,UTTAR PRADESH,155,Hardoi,812,Bilgram,800920,Sandi (NPP)
+441,9,UTTAR PRADESH,155,Hardoi,812,Bilgram,800921,Bilgram (NPP)
+442,9,UTTAR PRADESH,155,Hardoi,812,Bilgram,800922,Madhoganj (NP)
+443,9,UTTAR PRADESH,155,Hardoi,812,Bilgram,800923,Mallawan (NPP)
+444,9,UTTAR PRADESH,155,Hardoi,812,Bilgram,800924,Kursath (NP)
+445,9,UTTAR PRADESH,155,Hardoi,813,Sandila ,0,Sandila 
+446,9,UTTAR PRADESH,155,Hardoi,813,Sandila ,800925,Kachhauna Patseni (NP)
+447,9,UTTAR PRADESH,155,Hardoi,813,Sandila ,800926,Beniganj (NP)
+448,9,UTTAR PRADESH,155,Hardoi,813,Sandila ,800927,Sandila (NPP)
+449,9,UTTAR PRADESH,156,Unnao,0,Unnao,0,Unnao
+450,9,UTTAR PRADESH,156,Unnao,814,Safipur,0,Safipur
+451,9,UTTAR PRADESH,156,Unnao,814,Safipur,800928,Ganj Muradabad (NP)
+452,9,UTTAR PRADESH,156,Unnao,814,Safipur,800929,Bangarmau (NPP)
+453,9,UTTAR PRADESH,156,Unnao,814,Safipur,800930,Fatehpur Chaurasi (NP)
+454,9,UTTAR PRADESH,156,Unnao,814,Safipur,800931,Ugu (NP)
+455,9,UTTAR PRADESH,156,Unnao,814,Safipur,800932,Safipur (NP)
+456,9,UTTAR PRADESH,156,Unnao,814,Safipur,800933,Kursath (NP)
+457,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,0,Hasanganj 
+458,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,800934,Auras (NP)
+459,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,800935,Hyderabad (NP)
+460,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,800936,Rasulabad (NP)
+461,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,800937,Mohan (NP)
+462,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,800938,Nyotini (NP)
+463,9,UTTAR PRADESH,156,Unnao,815,Hasanganj ,800939,Nawabganj (NP)
+464,9,UTTAR PRADESH,156,Unnao,816,Unnao,0,Unnao
+465,9,UTTAR PRADESH,156,Unnao,816,Unnao,800940,Unnao (NPP)
+466,9,UTTAR PRADESH,156,Unnao,816,Unnao,800941,Gangaghat (NPP)
+467,9,UTTAR PRADESH,156,Unnao,817,Purwa ,0,Purwa 
+468,9,UTTAR PRADESH,156,Unnao,817,Purwa ,800942,Purwa (NP)
+469,9,UTTAR PRADESH,156,Unnao,817,Purwa ,800943,Maurawan (NP)
+470,9,UTTAR PRADESH,156,Unnao,818,Bighapur,0,Bighapur
+471,9,UTTAR PRADESH,156,Unnao,818,Bighapur,800944,Bighapur (NP)
+472,9,UTTAR PRADESH,156,Unnao,818,Bighapur,800945,Bhagwant Nagar (NP)
+473,9,UTTAR PRADESH,157,Lucknow,0,Lucknow,0,Lucknow
+474,9,UTTAR PRADESH,157,Lucknow,819,Malihabad,0,Malihabad
+475,9,UTTAR PRADESH,157,Lucknow,819,Malihabad,800946,Malihabad (NP)
+476,9,UTTAR PRADESH,157,Lucknow,820,Bakshi Ka Talab,0,Bakshi Ka Talab
+477,9,UTTAR PRADESH,157,Lucknow,820,Bakshi Ka Talab,800947,Mahona (NP)
+478,9,UTTAR PRADESH,157,Lucknow,820,Bakshi Ka Talab,800948,Itaunja (NP)
+479,9,UTTAR PRADESH,157,Lucknow,820,Bakshi Ka Talab,800949,Bakshi Ka Talab (NP)
+480,9,UTTAR PRADESH,157,Lucknow,821,Lucknow,0,Lucknow
+481,9,UTTAR PRADESH,157,Lucknow,821,Lucknow,800950,Kakori (NP)
+482,9,UTTAR PRADESH,157,Lucknow,821,Lucknow,800951,Lucknow (M Corp.)
+483,9,UTTAR PRADESH,157,Lucknow,821,Lucknow,800952,Lucknow (CB)
+484,9,UTTAR PRADESH,157,Lucknow,822,Mohanlalganj ,0,Mohanlalganj 
+485,9,UTTAR PRADESH,157,Lucknow,822,Mohanlalganj ,800953,Gosainganj (NP)
+486,9,UTTAR PRADESH,157,Lucknow,822,Mohanlalganj ,800954,Amethi (NP)
+487,9,UTTAR PRADESH,157,Lucknow,822,Mohanlalganj ,800955,Nagram (NP)
+488,9,UTTAR PRADESH,158,Rae Bareli,0,Rae Bareli,0,Rae Bareli
+489,9,UTTAR PRADESH,158,Rae Bareli,823,Maharajganj,0,Maharajganj
+490,9,UTTAR PRADESH,158,Rae Bareli,823,Maharajganj,800956,Bachhrawan (NP)
+491,9,UTTAR PRADESH,158,Rae Bareli,823,Maharajganj,800957,Maharajganj (NP)
+492,9,UTTAR PRADESH,158,Rae Bareli,824,Tiloi,0,Tiloi
+493,9,UTTAR PRADESH,158,Rae Bareli,824,Tiloi,800958,Jais (NPP)
+494,9,UTTAR PRADESH,158,Rae Bareli,825,Rae Bareli ,0,Rae Bareli 
+495,9,UTTAR PRADESH,158,Rae Bareli,825,Rae Bareli ,800959,Rae Bareli (NPP)
+496,9,UTTAR PRADESH,158,Rae Bareli,826,Lalganj ,0,Lalganj 
+497,9,UTTAR PRADESH,158,Rae Bareli,826,Lalganj ,800960,Lalganj (NP)
+498,9,UTTAR PRADESH,158,Rae Bareli,827,Dalmau ,0,Dalmau 
+499,9,UTTAR PRADESH,158,Rae Bareli,827,Dalmau ,800961,Dalmau (NP)
+500,9,UTTAR PRADESH,158,Rae Bareli,828,Unchahar,0,Unchahar
+501,9,UTTAR PRADESH,158,Rae Bareli,828,Unchahar,800962,Unchahar (NP)
+502,9,UTTAR PRADESH,158,Rae Bareli,829,Salon,0,Salon
+503,9,UTTAR PRADESH,158,Rae Bareli,829,Salon,800963,Parsadepur (NP)
+504,9,UTTAR PRADESH,158,Rae Bareli,829,Salon,800964,Salon (NP)
+505,9,UTTAR PRADESH,159,Farrukhabad,0,Farrukhabad,0,Farrukhabad
+506,9,UTTAR PRADESH,159,Farrukhabad,830,Kaimganj,0,Kaimganj
+507,9,UTTAR PRADESH,159,Farrukhabad,830,Kaimganj,800965,Kampil (NP)
+508,9,UTTAR PRADESH,159,Farrukhabad,830,Kaimganj,800966,Kaimganj (NPP)
+509,9,UTTAR PRADESH,159,Farrukhabad,830,Kaimganj,800967,Shamsabad (NP)
+510,9,UTTAR PRADESH,159,Farrukhabad,831,Amritpur,0,Amritpur
+511,9,UTTAR PRADESH,159,Farrukhabad,832,Farrukhabad ,0,Farrukhabad 
+512,9,UTTAR PRADESH,159,Farrukhabad,832,Farrukhabad ,800968,Farrukhabad-cum-Fatehgarh (NPP)
+513,9,UTTAR PRADESH,159,Farrukhabad,832,Farrukhabad ,800969,Fatehgarh (CB)
+514,9,UTTAR PRADESH,159,Farrukhabad,832,Farrukhabad ,800970,Mohammadabad (NP)
+515,9,UTTAR PRADESH,159,Farrukhabad,832,Farrukhabad ,800971,Kamalganj (NP)
+516,9,UTTAR PRADESH,160,Kannauj,0,Kannauj,0,Kannauj
+517,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,0,Chhibramau
+518,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,800972,Samdhan (NP)
+519,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,800973,Gursahaiganj (NPP)
+520,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,800974,Sikanderpur (NP)
+521,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,800975,Chhibramau (NPP)
+522,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,800976,Saurikh (NP)
+523,9,UTTAR PRADESH,160,Kannauj,833,Chhibramau,800977,Talgram (NP)
+524,9,UTTAR PRADESH,160,Kannauj,834,Kannauj,0,Kannauj
+525,9,UTTAR PRADESH,160,Kannauj,834,Kannauj,800978,Kannauj (NPP)
+526,9,UTTAR PRADESH,160,Kannauj,835,Tirwa,0,Tirwa
+527,9,UTTAR PRADESH,160,Kannauj,835,Tirwa,800979,Tirwaganj (NP)
+528,9,UTTAR PRADESH,161,Etawah,0,Etawah,0,Etawah
+529,9,UTTAR PRADESH,161,Etawah,836,Jaswantnagar,0,Jaswantnagar
+530,9,UTTAR PRADESH,161,Etawah,836,Jaswantnagar,800980,Jaswantnagar (NPP)
+531,9,UTTAR PRADESH,161,Etawah,837,Saifai,0,Saifai
+532,9,UTTAR PRADESH,161,Etawah,838,Etawah,0,Etawah
+533,9,UTTAR PRADESH,161,Etawah,838,Etawah,800981,Etawah (NPP)
+534,9,UTTAR PRADESH,161,Etawah,838,Etawah,800982,Ekdil (NP)
+535,9,UTTAR PRADESH,161,Etawah,839,Bharthana,0,Bharthana
+536,9,UTTAR PRADESH,161,Etawah,839,Bharthana,800983,Bharthana (NPP)
+537,9,UTTAR PRADESH,161,Etawah,839,Bharthana,800984,Bakewar (NP)
+538,9,UTTAR PRADESH,161,Etawah,839,Bharthana,800985,Lakhna (NP)
+539,9,UTTAR PRADESH,161,Etawah,840,Chakarnagar,0,Chakarnagar
+540,9,UTTAR PRADESH,162,Auraiya,0,Auraiya,0,Auraiya
+541,9,UTTAR PRADESH,162,Auraiya,841,Bidhuna,0,Bidhuna
+542,9,UTTAR PRADESH,162,Auraiya,841,Bidhuna,800986,Bidhuna (NP)
+543,9,UTTAR PRADESH,162,Auraiya,841,Bidhuna,800987,Achhalda (NP)
+544,9,UTTAR PRADESH,162,Auraiya,842,Auraiya ,0,Auraiya 
+545,9,UTTAR PRADESH,162,Auraiya,842,Auraiya ,800988,Babarpur Ajitmal (NP)
+546,9,UTTAR PRADESH,162,Auraiya,842,Auraiya ,800989,Atasu (NP)
+547,9,UTTAR PRADESH,162,Auraiya,842,Auraiya ,800990,Phaphund (NP)
+548,9,UTTAR PRADESH,162,Auraiya,842,Auraiya ,800991,Dibiyapur (NP)
+549,9,UTTAR PRADESH,162,Auraiya,842,Auraiya ,800992,Auraiya (NPP)
+550,9,UTTAR PRADESH,163,Kanpur Dehat,0,Kanpur Dehat,0,Kanpur Dehat
+551,9,UTTAR PRADESH,163,Kanpur Dehat,843,Rasulabad ,0,Rasulabad 
+552,9,UTTAR PRADESH,163,Kanpur Dehat,843,Rasulabad ,800993,Rasulabad (NP)
+553,9,UTTAR PRADESH,163,Kanpur Dehat,844,Derapur,0,Derapur
+554,9,UTTAR PRADESH,163,Kanpur Dehat,844,Derapur,800994,Jhinjhak (NP)
+555,9,UTTAR PRADESH,163,Kanpur Dehat,844,Derapur,800995,Derapur (NP)
+556,9,UTTAR PRADESH,163,Kanpur Dehat,845,Akbarpur ,0,Akbarpur 
+557,9,UTTAR PRADESH,163,Kanpur Dehat,845,Akbarpur ,800996,Shivli (NP)
+558,9,UTTAR PRADESH,163,Kanpur Dehat,845,Akbarpur ,800997,Rura (NP)
+559,9,UTTAR PRADESH,163,Kanpur Dehat,845,Akbarpur ,800998,Akbarpur (NP)
+560,9,UTTAR PRADESH,163,Kanpur Dehat,846,Bhognipur,0,Bhognipur
+561,9,UTTAR PRADESH,163,Kanpur Dehat,846,Bhognipur,800999,Amraudha (NP)
+562,9,UTTAR PRADESH,163,Kanpur Dehat,846,Bhognipur,801000,Pukhrayan (NPP)
+563,9,UTTAR PRADESH,163,Kanpur Dehat,847,Sikandra,0,Sikandra
+564,9,UTTAR PRADESH,163,Kanpur Dehat,847,Sikandra,801001,Sikandra (NP)
+565,9,UTTAR PRADESH,164,Kanpur Nagar,0,Kanpur Nagar,0,Kanpur Nagar
+566,9,UTTAR PRADESH,164,Kanpur Nagar,848,Bilhaur ,0,Bilhaur 
+567,9,UTTAR PRADESH,164,Kanpur Nagar,848,Bilhaur ,801002,Bilhaur (NPP)
+568,9,UTTAR PRADESH,164,Kanpur Nagar,848,Bilhaur ,801003,Shivrajpur (NP)
+569,9,UTTAR PRADESH,164,Kanpur Nagar,849,Kanpur ,0,Kanpur 
+570,9,UTTAR PRADESH,164,Kanpur Nagar,849,Kanpur ,801004,Bithoor (NP)
+571,9,UTTAR PRADESH,164,Kanpur Nagar,849,Kanpur ,801005,Kanpur (M Corp. + OG)
+572,9,UTTAR PRADESH,164,Kanpur Nagar,849,Kanpur ,801005,Kanpur (M Corp.)
+573,9,UTTAR PRADESH,164,Kanpur Nagar,849,Kanpur ,801006,Kanpur (CB)
+574,9,UTTAR PRADESH,164,Kanpur Nagar,850,Ghatampur ,0,Ghatampur 
+575,9,UTTAR PRADESH,164,Kanpur Nagar,850,Ghatampur ,801007,Ghatampur (NPP)
+576,9,UTTAR PRADESH,165,Jalaun ,0,Jalaun ,0,Jalaun 
+577,9,UTTAR PRADESH,165,Jalaun ,851,Madhogarh,0,Madhogarh
+578,9,UTTAR PRADESH,165,Jalaun ,851,Madhogarh,801008,Rampura (NP)
+579,9,UTTAR PRADESH,165,Jalaun ,851,Madhogarh,801009,Umri (NP)
+580,9,UTTAR PRADESH,165,Jalaun ,851,Madhogarh,801010,Madhogarh (NP)
+581,9,UTTAR PRADESH,165,Jalaun ,852,Jalaun,0,Jalaun
+582,9,UTTAR PRADESH,165,Jalaun ,852,Jalaun,801011,Jalaun (NPP)
+583,9,UTTAR PRADESH,165,Jalaun ,853,Kalpi ,0,Kalpi 
+584,9,UTTAR PRADESH,165,Jalaun ,853,Kalpi ,801012,Kalpi (NPP)
+585,9,UTTAR PRADESH,165,Jalaun ,853,Kalpi ,801013,Kadaura (NP)
+586,9,UTTAR PRADESH,165,Jalaun ,854,Orai,0,Orai
+587,9,UTTAR PRADESH,165,Jalaun ,854,Orai,801014,Orai (NPP + OG)
+588,9,UTTAR PRADESH,165,Jalaun ,854,Orai,801014,Orai (NPP)
+589,9,UTTAR PRADESH,165,Jalaun ,854,Orai,801015,Kotra (NP)
+590,9,UTTAR PRADESH,165,Jalaun ,855,Konch,0,Konch
+591,9,UTTAR PRADESH,165,Jalaun ,855,Konch,801016,Konch (NPP)
+592,9,UTTAR PRADESH,165,Jalaun ,855,Konch,801017,Nadigaon (NP)
+593,9,UTTAR PRADESH,166,Jhansi,0,Jhansi,0,Jhansi
+594,9,UTTAR PRADESH,166,Jhansi,856,Moth,0,Moth
+595,9,UTTAR PRADESH,166,Jhansi,856,Moth,801018,Samthar (NPP)
+596,9,UTTAR PRADESH,166,Jhansi,856,Moth,801019,Moth (NP)
+597,9,UTTAR PRADESH,166,Jhansi,856,Moth,801020,Chirgaon (NPP)
+598,9,UTTAR PRADESH,166,Jhansi,857,Garautha,0,Garautha
+599,9,UTTAR PRADESH,166,Jhansi,857,Garautha,801021,Erich (NP)
+600,9,UTTAR PRADESH,166,Jhansi,857,Garautha,801022,Gursarai (NPP)
+601,9,UTTAR PRADESH,166,Jhansi,857,Garautha,801023,Garautha (NP)
+602,9,UTTAR PRADESH,166,Jhansi,858,Tahrauli,0,Tahrauli
+603,9,UTTAR PRADESH,166,Jhansi,858,Tahrauli,801024,Tondi Fatehpur (NP)
+604,9,UTTAR PRADESH,166,Jhansi,859,Mauranipur,0,Mauranipur
+605,9,UTTAR PRADESH,166,Jhansi,859,Mauranipur,801025,Mauranipur (NPP + OG)
+606,9,UTTAR PRADESH,166,Jhansi,859,Mauranipur,801025,Mauranipur (NPP)
+607,9,UTTAR PRADESH,166,Jhansi,859,Mauranipur,801026,Ranipur (NP)
+608,9,UTTAR PRADESH,166,Jhansi,859,Mauranipur,801027,Kathera (NP)
+609,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,0,Jhansi
+610,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,801028,Barua Sagar (NPP)
+611,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,801029,Baragaon (NP)
+612,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,801030,Jhansi (M Corp.)
+613,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,801031,Jhansi (CB)
+614,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,801032,Jhansi Railway Settlement (ITS)
+615,9,UTTAR PRADESH,166,Jhansi,860,Jhansi,801033,Babina (CB)
+616,9,UTTAR PRADESH,167,Lalitpur,0,Lalitpur,0,Lalitpur
+617,9,UTTAR PRADESH,167,Lalitpur,861,Talbehat,0,Talbehat
+618,9,UTTAR PRADESH,167,Lalitpur,861,Talbehat,801034,Talbehat (NP)
+619,9,UTTAR PRADESH,167,Lalitpur,862,Lalitpur ,0,Lalitpur 
+620,9,UTTAR PRADESH,167,Lalitpur,862,Lalitpur ,801035,Lalitpur (NPP)
+621,9,UTTAR PRADESH,167,Lalitpur,862,Lalitpur ,801036,Pali (NP)
+622,9,UTTAR PRADESH,167,Lalitpur,863,Mahroni,0,Mahroni
+623,9,UTTAR PRADESH,167,Lalitpur,863,Mahroni,801037,Mahroni (NP)
+624,9,UTTAR PRADESH,168,Hamirpur,0,Hamirpur,0,Hamirpur
+625,9,UTTAR PRADESH,168,Hamirpur,864,Hamirpur,0,Hamirpur
+626,9,UTTAR PRADESH,168,Hamirpur,864,Hamirpur,801038,Kurara (NP)
+627,9,UTTAR PRADESH,168,Hamirpur,864,Hamirpur,801039,Hamirpur (NPP)
+628,9,UTTAR PRADESH,168,Hamirpur,864,Hamirpur,801040,Sumerpur (NP + OG)
+629,9,UTTAR PRADESH,168,Hamirpur,864,Hamirpur,801040,Sumerpur (NP)
+630,9,UTTAR PRADESH,168,Hamirpur,865,Rath,0,Rath
+631,9,UTTAR PRADESH,168,Hamirpur,865,Rath,801042,Rath (NPP)
+632,9,UTTAR PRADESH,168,Hamirpur,866,Sarila,0,Sarila
+633,9,UTTAR PRADESH,168,Hamirpur,866,Sarila,801041,Gohand (NP)
+634,9,UTTAR PRADESH,168,Hamirpur,866,Sarila,801043,Sarila (NP)
+635,9,UTTAR PRADESH,168,Hamirpur,867,Maudaha,0,Maudaha
+636,9,UTTAR PRADESH,168,Hamirpur,867,Maudaha,801044,Maudaha (NPP)
+637,9,UTTAR PRADESH,169,Mahoba,0,Mahoba,0,Mahoba
+638,9,UTTAR PRADESH,169,Mahoba,868,Kulpahar,0,Kulpahar
+639,9,UTTAR PRADESH,169,Mahoba,868,Kulpahar,801045,Kul Pahar (NP)
+640,9,UTTAR PRADESH,169,Mahoba,869,Charkhari,0,Charkhari
+641,9,UTTAR PRADESH,169,Mahoba,869,Charkhari,801046,Kharela (NP)
+642,9,UTTAR PRADESH,169,Mahoba,869,Charkhari,801047,Charkhari (NPP)
+643,9,UTTAR PRADESH,169,Mahoba,870,Mahoba ,0,Mahoba 
+644,9,UTTAR PRADESH,169,Mahoba,870,Mahoba ,801048,Mahoba (NPP)
+645,9,UTTAR PRADESH,169,Mahoba,870,Mahoba ,801049,Kabrai (NP)
+646,9,UTTAR PRADESH,170,Banda,0,Banda,0,Banda
+647,9,UTTAR PRADESH,170,Banda,871,Banda,0,Banda
+648,9,UTTAR PRADESH,170,Banda,871,Banda,801050,Mataundh (NP)
+649,9,UTTAR PRADESH,170,Banda,871,Banda,801051,Banda (NPP + OG)
+650,9,UTTAR PRADESH,170,Banda,871,Banda,801051,Banda (NPP)
+651,9,UTTAR PRADESH,170,Banda,871,Banda,801052,Tindwari (NP)
+652,9,UTTAR PRADESH,170,Banda,872,Baberu,0,Baberu
+653,9,UTTAR PRADESH,170,Banda,872,Baberu,801053,Baberu (NP)
+654,9,UTTAR PRADESH,170,Banda,873,Atarra ,0,Atarra 
+655,9,UTTAR PRADESH,170,Banda,873,Atarra ,801054,Oran (NP)
+656,9,UTTAR PRADESH,170,Banda,873,Atarra ,801055,Bisanda Buzurg (NP)
+657,9,UTTAR PRADESH,170,Banda,873,Atarra ,801056,Atarra (NPP)
+658,9,UTTAR PRADESH,170,Banda,874,Naraini,0,Naraini
+659,9,UTTAR PRADESH,170,Banda,874,Naraini,801057,Naraini (NP)
+660,9,UTTAR PRADESH,171,Chitrakoot,0,Chitrakoot,0,Chitrakoot
+661,9,UTTAR PRADESH,171,Chitrakoot,875,Karwi,0,Karwi
+662,9,UTTAR PRADESH,171,Chitrakoot,875,Karwi,801058,Manikpur Sarhat (NP)
+663,9,UTTAR PRADESH,171,Chitrakoot,875,Karwi,801059,Chitrakoot Dham (Karwi) (NPP)
+664,9,UTTAR PRADESH,171,Chitrakoot,876,Mau,0,Mau
+665,9,UTTAR PRADESH,171,Chitrakoot,876,Mau,801060,Rajapur (NP)
+666,9,UTTAR PRADESH,172,Fatehpur,0,Fatehpur,0,Fatehpur
+667,9,UTTAR PRADESH,172,Fatehpur,877,Bindki,0,Bindki
+668,9,UTTAR PRADESH,172,Fatehpur,877,Bindki,801061,Kora Jahanabad (NP)
+669,9,UTTAR PRADESH,172,Fatehpur,877,Bindki,801062,Bindki (NPP)
+670,9,UTTAR PRADESH,172,Fatehpur,878,Fatehpur,0,Fatehpur
+671,9,UTTAR PRADESH,172,Fatehpur,878,Fatehpur,801063,Bahuwa (NP)
+672,9,UTTAR PRADESH,172,Fatehpur,878,Fatehpur,801064,Fatehpur (NPP)
+673,9,UTTAR PRADESH,172,Fatehpur,879,Khaga ,0,Khaga 
+674,9,UTTAR PRADESH,172,Fatehpur,879,Khaga ,801065,Khaga (NP)
+675,9,UTTAR PRADESH,172,Fatehpur,879,Khaga ,801066,Kishunpur (NP)
+676,9,UTTAR PRADESH,172,Fatehpur,879,Khaga ,801067,Hathgram (NP)
+677,9,UTTAR PRADESH,173,Pratapgarh,0,Pratapgarh,0,Pratapgarh
+678,9,UTTAR PRADESH,173,Pratapgarh,880,Lalganj ,0,Lalganj 
+679,9,UTTAR PRADESH,173,Pratapgarh,881,Kunda,0,Kunda
+680,9,UTTAR PRADESH,173,Pratapgarh,881,Kunda,801068,Manikpur (NP)
+681,9,UTTAR PRADESH,173,Pratapgarh,881,Kunda,801069,Kunda (NP)
+682,9,UTTAR PRADESH,173,Pratapgarh,882,Pratapgarh,0,Pratapgarh
+683,9,UTTAR PRADESH,173,Pratapgarh,882,Pratapgarh,801070,Antu (NP)
+684,9,UTTAR PRADESH,173,Pratapgarh,882,Pratapgarh,801071,Bela Pratapgarh (NPP)
+685,9,UTTAR PRADESH,173,Pratapgarh,882,Pratapgarh,801072,Pratapgarh City (NP)
+686,9,UTTAR PRADESH,173,Pratapgarh,882,Pratapgarh,801073,Katra Medniganj (NP)
+687,9,UTTAR PRADESH,173,Pratapgarh,883,Patti,0,Patti
+688,9,UTTAR PRADESH,173,Pratapgarh,883,Patti,801074,Patti (NP)
+689,9,UTTAR PRADESH,173,Pratapgarh,884,Raniganj,0,Raniganj
+690,9,UTTAR PRADESH,174,Kaushambi,0,Kaushambi,0,Kaushambi
+691,9,UTTAR PRADESH,174,Kaushambi,885,Sirathu,0,Sirathu
+692,9,UTTAR PRADESH,174,Kaushambi,885,Sirathu,801075,Ajhuwa (NP)
+693,9,UTTAR PRADESH,174,Kaushambi,885,Sirathu,801076,Sirathu (NP)
+694,9,UTTAR PRADESH,174,Kaushambi,886,Manjhanpur ,0,Manjhanpur 
+695,9,UTTAR PRADESH,174,Kaushambi,886,Manjhanpur ,801077,Manjhanpur (NP)
+696,9,UTTAR PRADESH,174,Kaushambi,886,Manjhanpur ,801078,Karari (NP)
+697,9,UTTAR PRADESH,174,Kaushambi,887,Chail,0,Chail
+698,9,UTTAR PRADESH,174,Kaushambi,887,Chail,801079,Bharwari (NP)
+699,9,UTTAR PRADESH,174,Kaushambi,887,Chail,801080,Chail (NP)
+700,9,UTTAR PRADESH,174,Kaushambi,887,Chail,801081,Sarai Aquil (NP)
+701,9,UTTAR PRADESH,175,Allahabad ,0,Allahabad ,0,Allahabad 
+702,9,UTTAR PRADESH,175,Allahabad ,888,Soraon,0,Soraon
+703,9,UTTAR PRADESH,175,Allahabad ,888,Soraon,801082,Mau Aima (NP)
+704,9,UTTAR PRADESH,175,Allahabad ,888,Soraon,801083,Lal Gopalganj Nindaura (NP)
+705,9,UTTAR PRADESH,175,Allahabad ,889,Phulpur ,0,Phulpur 
+706,9,UTTAR PRADESH,175,Allahabad ,889,Phulpur ,801084,Jhusi (NP)
+707,9,UTTAR PRADESH,175,Allahabad ,889,Phulpur ,801085,Phulpur (NP)
+708,9,UTTAR PRADESH,175,Allahabad ,890,Allahabad,0,Allahabad
+709,9,UTTAR PRADESH,175,Allahabad ,890,Allahabad,801086,Allahabad (M Corp. + OG)
+710,9,UTTAR PRADESH,175,Allahabad ,890,Allahabad,801086,Allahabad (M Corp.)
+711,9,UTTAR PRADESH,175,Allahabad ,890,Allahabad,801087,Allahabad (CB)
+712,9,UTTAR PRADESH,175,Allahabad ,891,Bara  ,0,Bara  
+713,9,UTTAR PRADESH,175,Allahabad ,891,Bara  ,801088,Shankargarh (NP)
+714,9,UTTAR PRADESH,175,Allahabad ,892,Karchhana ,0,Karchhana 
+715,9,UTTAR PRADESH,175,Allahabad ,893,Handia,0,Handia
+716,9,UTTAR PRADESH,175,Allahabad ,893,Handia,801089,Handia (NP)
+717,9,UTTAR PRADESH,175,Allahabad ,894,Meja,0,Meja
+718,9,UTTAR PRADESH,175,Allahabad ,894,Meja,801090,Sirsa (NP)
+719,9,UTTAR PRADESH,175,Allahabad ,894,Meja,801091,Bharatganj (NP)
+720,9,UTTAR PRADESH,175,Allahabad ,895,Koraon,0,Koraon
+721,9,UTTAR PRADESH,175,Allahabad ,895,Koraon,801092,Koraon (NP)
+722,9,UTTAR PRADESH,176,Bara Banki,0,Bara Banki,0,Bara Banki
+723,9,UTTAR PRADESH,176,Bara Banki,896,Fatehpur,0,Fatehpur
+724,9,UTTAR PRADESH,176,Bara Banki,896,Fatehpur,801093,Fatehpur (NP)
+725,9,UTTAR PRADESH,176,Bara Banki,897,Ramnagar ,0,Ramnagar 
+726,9,UTTAR PRADESH,176,Bara Banki,897,Ramnagar ,801094,Ramnagar (NP)
+727,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,0,Nawabganj 
+728,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,801095,Dewa (NP)
+729,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,801096,Nawabganj (NPP + OG)
+730,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,801096,Nawabganj (NPP)
+731,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,801097,Banki (NP)
+732,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,801098,Satrikh (NP)
+733,9,UTTAR PRADESH,176,Bara Banki,898,Nawabganj ,801099,Zaidpur (NP)
+734,9,UTTAR PRADESH,176,Bara Banki,899,Sirauli Gauspur,0,Sirauli Gauspur
+735,9,UTTAR PRADESH,176,Bara Banki,899,Sirauli Gauspur,801100,Tikait Nagar (NP)
+736,9,UTTAR PRADESH,176,Bara Banki,900,Ramsanehighat,0,Ramsanehighat
+737,9,UTTAR PRADESH,176,Bara Banki,900,Ramsanehighat,801101,Dariyabad (NP)
+738,9,UTTAR PRADESH,176,Bara Banki,901,Haidergarh,0,Haidergarh
+739,9,UTTAR PRADESH,176,Bara Banki,901,Haidergarh,801102,Siddhaur (NP)
+740,9,UTTAR PRADESH,176,Bara Banki,901,Haidergarh,801103,Haidergarh (NP)
+741,9,UTTAR PRADESH,176,Bara Banki,901,Haidergarh,801104,Subeha (NP)
+742,9,UTTAR PRADESH,177,Faizabad,0,Faizabad,0,Faizabad
+743,9,UTTAR PRADESH,177,Faizabad,902,Rudauli,0,Rudauli
+744,9,UTTAR PRADESH,177,Faizabad,902,Rudauli,801105,Rudauli (NPP)
+745,9,UTTAR PRADESH,177,Faizabad,903,Milkipur,0,Milkipur
+746,9,UTTAR PRADESH,177,Faizabad,904,Sohawal,0,Sohawal
+747,9,UTTAR PRADESH,177,Faizabad,904,Sohawal,801106,Bhadarsa (NP)
+748,9,UTTAR PRADESH,177,Faizabad,905,Faizabad,0,Faizabad
+749,9,UTTAR PRADESH,177,Faizabad,905,Faizabad,801107,Faizabad (CB)
+750,9,UTTAR PRADESH,177,Faizabad,905,Faizabad,801108,Faizabad (NPP)
+751,9,UTTAR PRADESH,177,Faizabad,905,Faizabad,801109,Ayodhya (NPP)
+752,9,UTTAR PRADESH,177,Faizabad,905,Faizabad,801110,Gosainganj (NP)
+753,9,UTTAR PRADESH,177,Faizabad,906,Bikapur,0,Bikapur
+754,9,UTTAR PRADESH,177,Faizabad,906,Bikapur,801111,Bikapur (NP)
+755,9,UTTAR PRADESH,178,Ambedkar Nagar,0,Ambedkar Nagar,0,Ambedkar Nagar
+756,9,UTTAR PRADESH,178,Ambedkar Nagar,907,Tanda,0,Tanda
+757,9,UTTAR PRADESH,178,Ambedkar Nagar,907,Tanda,801112,Iltifatganj Bazar (NP)
+758,9,UTTAR PRADESH,178,Ambedkar Nagar,907,Tanda,801113,Tanda (NPP)
+759,9,UTTAR PRADESH,178,Ambedkar Nagar,907,Tanda,801114,Ashrafpur Kichhauchha (NP)
+760,9,UTTAR PRADESH,178,Ambedkar Nagar,908,Allapur,0,Allapur
+761,9,UTTAR PRADESH,178,Ambedkar Nagar,909,Jalalpur ,0,Jalalpur 
+762,9,UTTAR PRADESH,178,Ambedkar Nagar,909,Jalalpur ,801115,Jalalpur (NPP)
+763,9,UTTAR PRADESH,178,Ambedkar Nagar,910,Akbarpur,0,Akbarpur
+764,9,UTTAR PRADESH,178,Ambedkar Nagar,910,Akbarpur,801116,Akbarpur (NPP)
+765,9,UTTAR PRADESH,178,Ambedkar Nagar,911,Bhiti,0,Bhiti
+766,9,UTTAR PRADESH,179,Sultanpur,0,Sultanpur,0,Sultanpur
+767,9,UTTAR PRADESH,179,Sultanpur,912,Musafirkhana ,0,Musafirkhana 
+768,9,UTTAR PRADESH,179,Sultanpur,912,Musafirkhana ,801117,Musafirkhana (NP)
+769,9,UTTAR PRADESH,179,Sultanpur,913,Gauriganj,0,Gauriganj
+770,9,UTTAR PRADESH,179,Sultanpur,914,Amethi ,0,Amethi 
+771,9,UTTAR PRADESH,179,Sultanpur,914,Amethi ,801118,Amethi (NP)
+772,9,UTTAR PRADESH,179,Sultanpur,915,Sultanpur,0,Sultanpur
+773,9,UTTAR PRADESH,179,Sultanpur,915,Sultanpur,801119,Sultanpur (NPP)
+774,9,UTTAR PRADESH,179,Sultanpur,916,Jaisinghpur,0,Jaisinghpur
+775,9,UTTAR PRADESH,179,Sultanpur,917,Lambhua,0,Lambhua
+776,9,UTTAR PRADESH,179,Sultanpur,917,Lambhua,801120,Koeripur (NP)
+777,9,UTTAR PRADESH,179,Sultanpur,918,Kadipur ,0,Kadipur 
+778,9,UTTAR PRADESH,179,Sultanpur,918,Kadipur ,801121,Dostpur (NP)
+779,9,UTTAR PRADESH,179,Sultanpur,918,Kadipur ,801122,Kadipur (NP)
+780,9,UTTAR PRADESH,180,Bahraich,0,Bahraich,0,Bahraich
+781,9,UTTAR PRADESH,180,Bahraich,919,Nanpara ,0,Nanpara 
+782,9,UTTAR PRADESH,180,Bahraich,919,Nanpara ,801123,Nanpara (NPP)
+783,9,UTTAR PRADESH,180,Bahraich,920,Mahasi,0,Mahasi
+784,9,UTTAR PRADESH,180,Bahraich,921,Bahraich,0,Bahraich
+785,9,UTTAR PRADESH,180,Bahraich,921,Bahraich,801124,Risiya Bazar (NP)
+786,9,UTTAR PRADESH,180,Bahraich,921,Bahraich,801125,Bahraich (NPP)
+787,9,UTTAR PRADESH,180,Bahraich,922,Kaiserganj,0,Kaiserganj
+788,9,UTTAR PRADESH,180,Bahraich,922,Kaiserganj,801126,Jarwal (NP)
+789,9,UTTAR PRADESH,181,Shrawasti,0,Shrawasti,0,Shrawasti
+790,9,UTTAR PRADESH,181,Shrawasti,923,Bhinga,0,Bhinga
+791,9,UTTAR PRADESH,181,Shrawasti,923,Bhinga,801127,Bhinga (NP)
+792,9,UTTAR PRADESH,181,Shrawasti,924,Ikauna,0,Ikauna
+793,9,UTTAR PRADESH,181,Shrawasti,924,Ikauna,801128,Ikauna (NP)
+794,9,UTTAR PRADESH,182,Balrampur,0,Balrampur,0,Balrampur
+795,9,UTTAR PRADESH,182,Balrampur,925,Balrampur,0,Balrampur
+796,9,UTTAR PRADESH,182,Balrampur,925,Balrampur,801129,Balrampur (NPP + OG)
+797,9,UTTAR PRADESH,182,Balrampur,925,Balrampur,801129,Balrampur (NPP)
+798,9,UTTAR PRADESH,182,Balrampur,926,Tulsipur,0,Tulsipur
+799,9,UTTAR PRADESH,182,Balrampur,926,Tulsipur,801130,Tulsipur (NP)
+800,9,UTTAR PRADESH,182,Balrampur,926,Tulsipur,801131,Pachperwa (NP)
+801,9,UTTAR PRADESH,182,Balrampur,927,Utraula,0,Utraula
+802,9,UTTAR PRADESH,182,Balrampur,927,Utraula,801132,Utraula (NPP)
+803,9,UTTAR PRADESH,183,Gonda,0,Gonda,0,Gonda
+804,9,UTTAR PRADESH,183,Gonda,928,Gonda ,0,Gonda 
+805,9,UTTAR PRADESH,183,Gonda,928,Gonda ,801133,Khargupur (NP)
+806,9,UTTAR PRADESH,183,Gonda,928,Gonda ,801134,Gonda (NPP)
+807,9,UTTAR PRADESH,183,Gonda,929,Colonelganj ,0,Colonelganj 
+808,9,UTTAR PRADESH,183,Gonda,929,Colonelganj ,801135,Katra (NP)
+809,9,UTTAR PRADESH,183,Gonda,929,Colonelganj ,801136,Colonelganj (NPP)
+810,9,UTTAR PRADESH,183,Gonda,930,Tarabganj,0,Tarabganj
+811,9,UTTAR PRADESH,183,Gonda,930,Tarabganj,801137,Nawabganj (NPP)
+812,9,UTTAR PRADESH,183,Gonda,931,Mankapur ,0,Mankapur 
+813,9,UTTAR PRADESH,183,Gonda,931,Mankapur ,801138,Mankapur (NP)
+814,9,UTTAR PRADESH,184,Siddharthnagar,0,Siddharthnagar,0,Siddharthnagar
+815,9,UTTAR PRADESH,184,Siddharthnagar,932,Shohratgarh,0,Shohratgarh
+816,9,UTTAR PRADESH,184,Siddharthnagar,932,Shohratgarh,801139,Barhani Bazar (NP)
+817,9,UTTAR PRADESH,184,Siddharthnagar,932,Shohratgarh,801140,Shohratgarh (NP)
+818,9,UTTAR PRADESH,184,Siddharthnagar,933,Naugarh,0,Naugarh
+819,9,UTTAR PRADESH,184,Siddharthnagar,933,Naugarh,801141,Siddharthnagar (NPP)
+820,9,UTTAR PRADESH,184,Siddharthnagar,933,Naugarh,801142,Uska Bazar (NP)
+821,9,UTTAR PRADESH,184,Siddharthnagar,934,Bansi,0,Bansi
+822,9,UTTAR PRADESH,184,Siddharthnagar,934,Bansi,801143,Bansi (NPP)
+823,9,UTTAR PRADESH,184,Siddharthnagar,935,Itwa,0,Itwa
+824,9,UTTAR PRADESH,184,Siddharthnagar,936,Domariyaganj,0,Domariyaganj
+825,9,UTTAR PRADESH,184,Siddharthnagar,936,Domariyaganj,801144,Domariyaganj (NP)
+826,9,UTTAR PRADESH,185,Basti,0,Basti,0,Basti
+827,9,UTTAR PRADESH,185,Basti,937,Bhanpur,0,Bhanpur
+828,9,UTTAR PRADESH,185,Basti,938,Harraiya,0,Harraiya
+829,9,UTTAR PRADESH,185,Basti,938,Harraiya,801145,Harraiya (NP)
+830,9,UTTAR PRADESH,185,Basti,938,Harraiya,801146,Bhabnan Bazar (NP)
+831,9,UTTAR PRADESH,185,Basti,939,Basti,0,Basti
+832,9,UTTAR PRADESH,185,Basti,939,Basti,801147,Basti (NPP)
+833,9,UTTAR PRADESH,185,Basti,940,Rudhauli,0,Rudhauli
+834,9,UTTAR PRADESH,186,Sant Kabir Nagar,0,Sant Kabir Nagar,0,Sant Kabir Nagar
+835,9,UTTAR PRADESH,186,Sant Kabir Nagar,941,Mehdawal,0,Mehdawal
+836,9,UTTAR PRADESH,186,Sant Kabir Nagar,941,Mehdawal,801148,Mehdawal (NP)
+837,9,UTTAR PRADESH,186,Sant Kabir Nagar,942,Khalilabad,0,Khalilabad
+838,9,UTTAR PRADESH,186,Sant Kabir Nagar,942,Khalilabad,801149,Khalilabad (NPP)
+839,9,UTTAR PRADESH,186,Sant Kabir Nagar,942,Khalilabad,801150,Maghar (NP)
+840,9,UTTAR PRADESH,186,Sant Kabir Nagar,943,Ghanghata,0,Ghanghata
+841,9,UTTAR PRADESH,186,Sant Kabir Nagar,943,Ghanghata,801151,Hariharpur (NP)
+842,9,UTTAR PRADESH,187,Mahrajganj,0,Mahrajganj,0,Mahrajganj
+843,9,UTTAR PRADESH,187,Mahrajganj,944,Nautanwa,0,Nautanwa
+844,9,UTTAR PRADESH,187,Mahrajganj,944,Nautanwa,801152,Nautanwa (NPP)
+845,9,UTTAR PRADESH,187,Mahrajganj,945,Nichlaul,0,Nichlaul
+846,9,UTTAR PRADESH,187,Mahrajganj,945,Nichlaul,801153,Nichlaul (NP)
+847,9,UTTAR PRADESH,187,Mahrajganj,945,Nichlaul,801154,Siswa Bazar (NP)
+848,9,UTTAR PRADESH,187,Mahrajganj,946,Pharenda,0,Pharenda
+849,9,UTTAR PRADESH,187,Mahrajganj,946,Pharenda,801155,Anandnagar (NP)
+850,9,UTTAR PRADESH,187,Mahrajganj,947,Maharajganj,0,Maharajganj
+851,9,UTTAR PRADESH,187,Mahrajganj,947,Maharajganj,801156,Ghughuli (NP)
+852,9,UTTAR PRADESH,187,Mahrajganj,947,Maharajganj,801157,Maharajganj (NPP)
+853,9,UTTAR PRADESH,188,Gorakhpur,0,Gorakhpur,0,Gorakhpur
+854,9,UTTAR PRADESH,188,Gorakhpur,948,Campierganj,0,Campierganj
+855,9,UTTAR PRADESH,188,Gorakhpur,948,Campierganj,801158,Pipiganj (NP)
+856,9,UTTAR PRADESH,188,Gorakhpur,949,Sahjanwa,0,Sahjanwa
+857,9,UTTAR PRADESH,188,Gorakhpur,949,Sahjanwa,801159,Sahjanwan (NP)
+858,9,UTTAR PRADESH,188,Gorakhpur,950,Gorakhpur,0,Gorakhpur
+859,9,UTTAR PRADESH,188,Gorakhpur,950,Gorakhpur,801160,Gorakhpur (M Corp.)
+860,9,UTTAR PRADESH,188,Gorakhpur,950,Gorakhpur,801161,Pipraich (NP)
+861,9,UTTAR PRADESH,188,Gorakhpur,951,Chauri Chaura,0,Chauri Chaura
+862,9,UTTAR PRADESH,188,Gorakhpur,951,Chauri Chaura,801162,Mundera Bazar (NP)
+863,9,UTTAR PRADESH,188,Gorakhpur,952,Bansgaon,0,Bansgaon
+864,9,UTTAR PRADESH,188,Gorakhpur,952,Bansgaon,801163,Bansgaon (NP)
+865,9,UTTAR PRADESH,188,Gorakhpur,953,Khajni,0,Khajni
+866,9,UTTAR PRADESH,188,Gorakhpur,954,Gola ,0,Gola 
+867,9,UTTAR PRADESH,188,Gorakhpur,954,Gola ,801164,Gola Bazar (NP)
+868,9,UTTAR PRADESH,188,Gorakhpur,954,Gola ,801165,Barhalganj (NP)
+869,9,UTTAR PRADESH,189,Kushinagar,0,Kushinagar,0,Kushinagar
+870,9,UTTAR PRADESH,189,Kushinagar,955,Padrauna,0,Padrauna
+871,9,UTTAR PRADESH,189,Kushinagar,955,Padrauna,801166,Khadda (NP)
+872,9,UTTAR PRADESH,189,Kushinagar,955,Padrauna,801167,Padrauna (NPP)
+873,9,UTTAR PRADESH,189,Kushinagar,956,Hata,0,Hata
+874,9,UTTAR PRADESH,189,Kushinagar,956,Hata,801168,Ramkola (NP)
+875,9,UTTAR PRADESH,189,Kushinagar,956,Hata,801169,Kaptanganj (NP)
+876,9,UTTAR PRADESH,189,Kushinagar,956,Hata,801170,Hata (NP)
+877,9,UTTAR PRADESH,189,Kushinagar,957,Kasya,0,Kasya
+878,9,UTTAR PRADESH,189,Kushinagar,957,Kasya,801171,Kushinagar (NP)
+879,9,UTTAR PRADESH,189,Kushinagar,958,Tamkuhi Raj,0,Tamkuhi Raj
+880,9,UTTAR PRADESH,189,Kushinagar,958,Tamkuhi Raj,801172,Sewarhi (NP)
+881,9,UTTAR PRADESH,190,Deoria,0,Deoria,0,Deoria
+882,9,UTTAR PRADESH,190,Deoria,959,Deoria,0,Deoria
+883,9,UTTAR PRADESH,190,Deoria,959,Deoria,801173,Gauri Bazar (NP)
+884,9,UTTAR PRADESH,190,Deoria,959,Deoria,801174,Rampur Karkhana (NP)
+885,9,UTTAR PRADESH,190,Deoria,959,Deoria,801175,Deoria (NPP)
+886,9,UTTAR PRADESH,190,Deoria,960,Rudrapur,0,Rudrapur
+887,9,UTTAR PRADESH,190,Deoria,960,Rudrapur,801176,Rudrapur (NP)
+888,9,UTTAR PRADESH,190,Deoria,961,Barhaj,0,Barhaj
+889,9,UTTAR PRADESH,190,Deoria,961,Barhaj,801177,Gaura Barhaj (NPP)
+890,9,UTTAR PRADESH,190,Deoria,962,Salempur,0,Salempur
+891,9,UTTAR PRADESH,190,Deoria,962,Salempur,801178,Bhatni Bazar (NP)
+892,9,UTTAR PRADESH,190,Deoria,962,Salempur,801179,Majhauliraj (NP)
+893,9,UTTAR PRADESH,190,Deoria,962,Salempur,801180,Salempur (NP)
+894,9,UTTAR PRADESH,190,Deoria,962,Salempur,801181,Lar (NP)
+895,9,UTTAR PRADESH,190,Deoria,963,Bhatpar Rani,0,Bhatpar Rani
+896,9,UTTAR PRADESH,190,Deoria,963,Bhatpar Rani,801182,Bhatpar Rani (NP)
+897,9,UTTAR PRADESH,191,Azamgarh,0,Azamgarh,0,Azamgarh
+898,9,UTTAR PRADESH,191,Azamgarh,964,Burhanpur,0,Burhanpur
+899,9,UTTAR PRADESH,191,Azamgarh,964,Burhanpur,801183,Atrauliya (NP)
+900,9,UTTAR PRADESH,191,Azamgarh,965,Sagri,0,Sagri
+901,9,UTTAR PRADESH,191,Azamgarh,965,Sagri,801184,Mahrajganj (NP)
+902,9,UTTAR PRADESH,191,Azamgarh,965,Sagri,801185,Bilariaganj (NP)
+903,9,UTTAR PRADESH,191,Azamgarh,965,Sagri,801186,Jiyanpur (NP)
+904,9,UTTAR PRADESH,191,Azamgarh,965,Sagri,801187,Azmatgarh (NP)
+905,9,UTTAR PRADESH,191,Azamgarh,966,Azamgarh ,0,Azamgarh 
+906,9,UTTAR PRADESH,191,Azamgarh,966,Azamgarh ,801188,Mubarakpur (NPP)
+907,9,UTTAR PRADESH,191,Azamgarh,966,Azamgarh ,801189,Azamgarh (NPP)
+908,9,UTTAR PRADESH,191,Azamgarh,967,Nizamabad,0,Nizamabad
+909,9,UTTAR PRADESH,191,Azamgarh,967,Nizamabad,801190,Nizamabad (NP)
+910,9,UTTAR PRADESH,191,Azamgarh,967,Nizamabad,801191,Sarai Mir (NP)
+911,9,UTTAR PRADESH,191,Azamgarh,968,Phulpur ,0,Phulpur 
+912,9,UTTAR PRADESH,191,Azamgarh,968,Phulpur ,801192,Phulpur (NP)
+913,9,UTTAR PRADESH,191,Azamgarh,969,Lalganj,0,Lalganj
+914,9,UTTAR PRADESH,191,Azamgarh,969,Lalganj,801193,Katghar Lalganj (NP)
+915,9,UTTAR PRADESH,191,Azamgarh,970,Mehnagar,0,Mehnagar
+916,9,UTTAR PRADESH,191,Azamgarh,970,Mehnagar,801194,Mehnagar (NP)
+917,9,UTTAR PRADESH,192,Mau,0,Mau,0,Mau
+918,9,UTTAR PRADESH,192,Mau,971,Ghosi,0,Ghosi
+919,9,UTTAR PRADESH,192,Mau,971,Ghosi,801195,Dohrighat (NP)
+920,9,UTTAR PRADESH,192,Mau,971,Ghosi,801196,Amila (NP)
+921,9,UTTAR PRADESH,192,Mau,971,Ghosi,801197,Ghosi (NP)
+922,9,UTTAR PRADESH,192,Mau,972,Madhuban,0,Madhuban
+923,9,UTTAR PRADESH,192,Mau,973,Maunath Bhanjan,0,Maunath Bhanjan
+924,9,UTTAR PRADESH,192,Mau,973,Maunath Bhanjan,801198,Kopaganj (NP)
+925,9,UTTAR PRADESH,192,Mau,973,Maunath Bhanjan,801199,Adari (NP)
+926,9,UTTAR PRADESH,192,Mau,973,Maunath Bhanjan,801200,Maunath Bhanjan (NPP)
+927,9,UTTAR PRADESH,192,Mau,974,Muhammadabad Gohna,0,Muhammadabad Gohna
+928,9,UTTAR PRADESH,192,Mau,974,Muhammadabad Gohna,801201,Muhammadabad (NP)
+929,9,UTTAR PRADESH,193,Ballia,0,Ballia,0,Ballia
+930,9,UTTAR PRADESH,193,Ballia,975,Belthara Road,0,Belthara Road
+931,9,UTTAR PRADESH,193,Ballia,975,Belthara Road,801202,Belthara Road (NP)
+932,9,UTTAR PRADESH,193,Ballia,976,Sikanderpur,0,Sikanderpur
+933,9,UTTAR PRADESH,193,Ballia,976,Sikanderpur,801203,Sikanderpur (NP)
+934,9,UTTAR PRADESH,193,Ballia,977,Rasra,0,Rasra
+935,9,UTTAR PRADESH,193,Ballia,977,Rasra,801204,Rasra (NPP)
+936,9,UTTAR PRADESH,193,Ballia,978,Ballia,0,Ballia
+937,9,UTTAR PRADESH,193,Ballia,978,Ballia,801205,Chitbara Gaon (NP)
+938,9,UTTAR PRADESH,193,Ballia,978,Ballia,801206,Ballia (NPP)
+939,9,UTTAR PRADESH,193,Ballia,979,Bansdih,0,Bansdih
+940,9,UTTAR PRADESH,193,Ballia,979,Bansdih,801207,Maniyar (NP)
+941,9,UTTAR PRADESH,193,Ballia,979,Bansdih,801208,Bansdih (NP)
+942,9,UTTAR PRADESH,193,Ballia,979,Bansdih,801209,Sahatwar (NP)
+943,9,UTTAR PRADESH,193,Ballia,979,Bansdih,801210,Reoti (NP)
+944,9,UTTAR PRADESH,193,Ballia,980,Bairia,0,Bairia
+945,9,UTTAR PRADESH,194,Jaunpur,0,Jaunpur,0,Jaunpur
+946,9,UTTAR PRADESH,194,Jaunpur,981,Shahganj,0,Shahganj
+947,9,UTTAR PRADESH,194,Jaunpur,981,Shahganj,801211,Shahganj (NPP)
+948,9,UTTAR PRADESH,194,Jaunpur,981,Shahganj,801212,Khetasarai (NP)
+949,9,UTTAR PRADESH,194,Jaunpur,982,Badlapur,0,Badlapur
+950,9,UTTAR PRADESH,194,Jaunpur,983,Machhlishahr,0,Machhlishahr
+951,9,UTTAR PRADESH,194,Jaunpur,983,Machhlishahr,801213,Mogra Badshahpur (NPP)
+952,9,UTTAR PRADESH,194,Jaunpur,983,Machhlishahr,801214,Machhlishahr (NP)
+953,9,UTTAR PRADESH,194,Jaunpur,984,Jaunpur ,0,Jaunpur 
+954,9,UTTAR PRADESH,194,Jaunpur,984,Jaunpur ,801215,Jaunpur (NPP)
+955,9,UTTAR PRADESH,194,Jaunpur,984,Jaunpur ,801216,Jafarabad (NP)
+956,9,UTTAR PRADESH,194,Jaunpur,985,Mariahu ,0,Mariahu 
+957,9,UTTAR PRADESH,194,Jaunpur,985,Mariahu ,801217,Mariahu (NP)
+958,9,UTTAR PRADESH,194,Jaunpur,986,Kerakat,0,Kerakat
+959,9,UTTAR PRADESH,194,Jaunpur,986,Kerakat,801218,Kerakat (NP)
+960,9,UTTAR PRADESH,195,Ghazipur,0,Ghazipur,0,Ghazipur
+961,9,UTTAR PRADESH,195,Ghazipur,987,Jakhania,0,Jakhania
+962,9,UTTAR PRADESH,195,Ghazipur,987,Jakhania,801219,Sadat (NP)
+963,9,UTTAR PRADESH,195,Ghazipur,988,Saidpur,0,Saidpur
+964,9,UTTAR PRADESH,195,Ghazipur,988,Saidpur,801220,Saidpur (NP)
+965,9,UTTAR PRADESH,195,Ghazipur,989,Ghazipur,0,Ghazipur
+966,9,UTTAR PRADESH,195,Ghazipur,989,Ghazipur,801221,Jangipur (NP)
+967,9,UTTAR PRADESH,195,Ghazipur,989,Ghazipur,801222,Ghazipur (NPP + OG)
+968,9,UTTAR PRADESH,195,Ghazipur,989,Ghazipur,801222,Ghazipur (NPP)
+969,9,UTTAR PRADESH,195,Ghazipur,990,Mohammadabad ,0,Mohammadabad 
+970,9,UTTAR PRADESH,195,Ghazipur,990,Mohammadabad ,801223,Bahadurganj (NP)
+971,9,UTTAR PRADESH,195,Ghazipur,990,Mohammadabad ,801224,Mohammadabad (NPP)
+972,9,UTTAR PRADESH,195,Ghazipur,991,Zamania,0,Zamania
+973,9,UTTAR PRADESH,195,Ghazipur,991,Zamania,801225,Dildarnagar Fatehpur Bazar (NP)
+974,9,UTTAR PRADESH,195,Ghazipur,991,Zamania,801226,Zamania (NPP)
+975,9,UTTAR PRADESH,196,Chandauli,0,Chandauli,0,Chandauli
+976,9,UTTAR PRADESH,196,Chandauli,992,Sakaldiha,0,Sakaldiha
+977,9,UTTAR PRADESH,196,Chandauli,993,Chandauli,0,Chandauli
+978,9,UTTAR PRADESH,196,Chandauli,993,Chandauli,801227,Mughalsarai (NPP)
+979,9,UTTAR PRADESH,196,Chandauli,993,Chandauli,801228,Mughalsarai Railway Settlement (ITS)
+980,9,UTTAR PRADESH,196,Chandauli,993,Chandauli,801229,Chandauli (NP)
+981,9,UTTAR PRADESH,196,Chandauli,993,Chandauli,801230,Saiyad Raza (NP)
+982,9,UTTAR PRADESH,196,Chandauli,994,Chakia,0,Chakia
+983,9,UTTAR PRADESH,196,Chandauli,994,Chakia,801231,Chakia (NP)
+984,9,UTTAR PRADESH,197,Varanasi,0,Varanasi,0,Varanasi
+985,9,UTTAR PRADESH,197,Varanasi,995,Pindra,0,Pindra
+986,9,UTTAR PRADESH,197,Varanasi,996,Varanasi,0,Varanasi
+987,9,UTTAR PRADESH,197,Varanasi,996,Varanasi,801232,Gangapur (NP)
+988,9,UTTAR PRADESH,197,Varanasi,996,Varanasi,801233,Varanasi (CB)
+989,9,UTTAR PRADESH,197,Varanasi,996,Varanasi,801234,Maruadih Railway Settlement (ITS)
+990,9,UTTAR PRADESH,197,Varanasi,996,Varanasi,801235,Varanasi (M Corp.)
+991,9,UTTAR PRADESH,197,Varanasi,996,Varanasi,801236,Ramnagar (NPP)
+992,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),0,Sant Ravidas Nagar (Bhadohi),0,Sant Ravidas Nagar (Bhadohi)
+993,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),997,Bhadohi,0,Bhadohi
+994,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),997,Bhadohi,801237,Suriyawan (NP)
+995,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),997,Bhadohi,801238,Nai Bazar (NP)
+996,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),997,Bhadohi,801239,Bhadohi (NPP)
+997,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),998,Gyanpur,0,Gyanpur
+998,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),998,Gyanpur,801240,Gyanpur (NP)
+999,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),998,Gyanpur,801241,Gopiganj (NPP)
+1000,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),999,Aurai,0,Aurai
+1001,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),999,Aurai,801242,Khamaria (NP)
+1002,9,UTTAR PRADESH,198,Sant Ravidas Nagar (Bhadohi),999,Aurai,801243,Ghosia Bazar (NP)
+1003,9,UTTAR PRADESH,199,Mirzapur,0,Mirzapur,0,Mirzapur
+1004,9,UTTAR PRADESH,199,Mirzapur,1000,Mirzapur,0,Mirzapur
+1005,9,UTTAR PRADESH,199,Mirzapur,1000,Mirzapur,801244,Mirzapur-cum-Vindhyachal (NPP)
+1006,9,UTTAR PRADESH,199,Mirzapur,1000,Mirzapur,801245,Kachhwa (NP)
+1007,9,UTTAR PRADESH,199,Mirzapur,1001,Lalganj,0,Lalganj
+1008,9,UTTAR PRADESH,199,Mirzapur,1002,Marihan,0,Marihan
+1009,9,UTTAR PRADESH,199,Mirzapur,1003,Chunar,0,Chunar
+1010,9,UTTAR PRADESH,199,Mirzapur,1003,Chunar,801246,Chunar (NPP)
+1011,9,UTTAR PRADESH,199,Mirzapur,1003,Chunar,801247,Ahraura (NPP)
+1012,9,UTTAR PRADESH,200,Sonbhadra,0,Sonbhadra,0,Sonbhadra
+1013,9,UTTAR PRADESH,200,Sonbhadra,1004,Ghorawal,0,Ghorawal
+1014,9,UTTAR PRADESH,200,Sonbhadra,1004,Ghorawal,801248,Ghorawal (NP)
+1015,9,UTTAR PRADESH,200,Sonbhadra,1005,Robertsganj,0,Robertsganj
+1016,9,UTTAR PRADESH,200,Sonbhadra,1005,Robertsganj,801249,Sonbhadra (NPP)
+1017,9,UTTAR PRADESH,200,Sonbhadra,1005,Robertsganj,801250,Churk Ghurma (NP)
+1018,9,UTTAR PRADESH,200,Sonbhadra,1005,Robertsganj,801251,Chopan (NP)
+1019,9,UTTAR PRADESH,200,Sonbhadra,1005,Robertsganj,801252,Obra (NP)
+1020,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,0,Dudhi
+1021,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,801253,Dudhi (NP)
+1022,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,801254,Renukoot (NP + OG)
+1023,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,801254,Renukoot (NP)
+1024,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,801255,Hindalco Industries Ltd. (Renukoot) (ITS)
+1025,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,801256,Kanaudia Chamical & Industries Ltd. (Renukoot) (ITS)
+1026,9,UTTAR PRADESH,200,Sonbhadra,1006,Dudhi,801257,Pipri (NP)
+1027,9,UTTAR PRADESH,201,Etah,0,Etah,0,Etah
+1028,9,UTTAR PRADESH,201,Etah,1007,Aliganj ,0,Aliganj 
+1029,9,UTTAR PRADESH,201,Etah,1007,Aliganj ,801258,Raja Ka Rampur (NP)
+1030,9,UTTAR PRADESH,201,Etah,1007,Aliganj ,801259,Aliganj (NPP)
+1031,9,UTTAR PRADESH,201,Etah,1007,Aliganj ,801260,Jaithara (NP)
+1032,9,UTTAR PRADESH,201,Etah,1008,Etah,0,Etah
+1033,9,UTTAR PRADESH,201,Etah,1008,Etah,801261,Sakit (NP)
+1034,9,UTTAR PRADESH,201,Etah,1008,Etah,801262,Etah (NPP)
+1035,9,UTTAR PRADESH,201,Etah,1008,Etah,801263,Marehra (NPP)
+1036,9,UTTAR PRADESH,201,Etah,1008,Etah,801264,Nidhauli Kalan (NP)
+1037,9,UTTAR PRADESH,201,Etah,1009,Jalesar ,0,Jalesar 
+1038,9,UTTAR PRADESH,201,Etah,1009,Jalesar ,801265,Jalesar (NPP)
+1039,9,UTTAR PRADESH,201,Etah,1009,Jalesar ,801266,Awagarh (NP)
+1040,9,UTTAR PRADESH,202,Kanshiram Nagar,0,Kanshiram Nagar,0,Kanshiram Nagar
+1041,9,UTTAR PRADESH,202,Kanshiram Nagar,1010,Kasganj,0,Kasganj
+1042,9,UTTAR PRADESH,202,Kanshiram Nagar,1010,Kasganj,801267,Soron (NPP)
+1043,9,UTTAR PRADESH,202,Kanshiram Nagar,1010,Kasganj,801268,Bilram (NP)
+1044,9,UTTAR PRADESH,202,Kanshiram Nagar,1010,Kasganj,801269,Kasganj (NPP)
+1045,9,UTTAR PRADESH,202,Kanshiram Nagar,1011,Sahawar,0,Sahawar
+1046,9,UTTAR PRADESH,202,Kanshiram Nagar,1011,Sahawar,801270,Sahawar (NP)
+1047,9,UTTAR PRADESH,202,Kanshiram Nagar,1011,Sahawar,801271,Amanpur (NP)
+1048,9,UTTAR PRADESH,202,Kanshiram Nagar,1012,Patiyali,0,Patiyali
+1049,9,UTTAR PRADESH,202,Kanshiram Nagar,1012,Patiyali,801272,Mohanpur (NP)
+1050,9,UTTAR PRADESH,202,Kanshiram Nagar,1012,Patiyali,801273,Ganj Dundawara (NPP)
+1051,9,UTTAR PRADESH,202,Kanshiram Nagar,1012,Patiyali,801274,Patiyali (NP)
+1052,9,UTTAR PRADESH,202,Kanshiram Nagar,1012,Patiyali,801275,Sidhpura (NP)
+1053,9,UTTAR PRADESH,202,Kanshiram Nagar,1012,Patiyali,801276,Bhargain (NP)

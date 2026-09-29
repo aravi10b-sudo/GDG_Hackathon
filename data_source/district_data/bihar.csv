@@ -1,0 +1,717 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,10,BIHAR,0,BIHAR,0,BIHAR,0,BIHAR
+1,10,BIHAR,203,Pashchim Champaran,0,Pashchim Champaran,0,Pashchim Champaran
+2,10,BIHAR,203,Pashchim Champaran,1013,Sidhaw,0,Sidhaw
+3,10,BIHAR,203,Pashchim Champaran,1014,Ramnagar,0,Ramnagar
+4,10,BIHAR,203,Pashchim Champaran,1014,Ramnagar,801277,Ramnagar (NP)
+5,10,BIHAR,203,Pashchim Champaran,1015,Gaunaha,0,Gaunaha
+6,10,BIHAR,203,Pashchim Champaran,1016,Mainatanr,0,Mainatanr
+7,10,BIHAR,203,Pashchim Champaran,1017,Narkatiaganj,0,Narkatiaganj
+8,10,BIHAR,203,Pashchim Champaran,1017,Narkatiaganj,801278,Narkatiaganj (Nagar Parishad)
+9,10,BIHAR,203,Pashchim Champaran,1018,Lauriya,0,Lauriya
+10,10,BIHAR,203,Pashchim Champaran,1019,Bagaha,0,Bagaha
+11,10,BIHAR,203,Pashchim Champaran,1019,Bagaha,801279,Bagaha (Nagar Parishad)
+12,10,BIHAR,203,Pashchim Champaran,1020,Piprasi,0,Piprasi
+13,10,BIHAR,203,Pashchim Champaran,1021,Madhubani,0,Madhubani
+14,10,BIHAR,203,Pashchim Champaran,1022,Bhitaha,0,Bhitaha
+15,10,BIHAR,203,Pashchim Champaran,1023,Thakrahan,0,Thakrahan
+16,10,BIHAR,203,Pashchim Champaran,1024,Jogapatti,0,Jogapatti
+17,10,BIHAR,203,Pashchim Champaran,1025,Chanpatia,0,Chanpatia
+18,10,BIHAR,203,Pashchim Champaran,1025,Chanpatia,801280,Chanpatia (NP)
+19,10,BIHAR,203,Pashchim Champaran,1026,Sikta,0,Sikta
+20,10,BIHAR,203,Pashchim Champaran,1027,Majhaulia,0,Majhaulia
+21,10,BIHAR,203,Pashchim Champaran,1028,Bettiah,0,Bettiah
+22,10,BIHAR,203,Pashchim Champaran,1028,Bettiah,801281,Bettiah (Nagar Parishad)
+23,10,BIHAR,203,Pashchim Champaran,1029,Bairia,0,Bairia
+24,10,BIHAR,203,Pashchim Champaran,1030,Nautan,0,Nautan
+25,10,BIHAR,204,Purba Champaran,0,Purba Champaran,0,Purba Champaran
+26,10,BIHAR,204,Purba Champaran,1031,Raxaul,0,Raxaul
+27,10,BIHAR,204,Purba Champaran,1031,Raxaul,801282,Raxaul Bazar  (Nagar Parishad)
+28,10,BIHAR,204,Purba Champaran,1032,Adapur,0,Adapur
+29,10,BIHAR,204,Purba Champaran,1033,Ramgarhwa,0,Ramgarhwa
+30,10,BIHAR,204,Purba Champaran,1034,Sugauli,0,Sugauli
+31,10,BIHAR,204,Purba Champaran,1034,Sugauli,801283,Sugauli (NP)
+32,10,BIHAR,204,Purba Champaran,1035,Banjaria,0,Banjaria
+33,10,BIHAR,204,Purba Champaran,1036,Narkatia,0,Narkatia
+34,10,BIHAR,204,Purba Champaran,1037,Bankatwa,0,Bankatwa
+35,10,BIHAR,204,Purba Champaran,1038,Ghorasahan,0,Ghorasahan
+36,10,BIHAR,204,Purba Champaran,1039,Dhaka,0,Dhaka
+37,10,BIHAR,204,Purba Champaran,1039,Dhaka,801284,Dhaka (NP)
+38,10,BIHAR,204,Purba Champaran,1040,Chiraia,0,Chiraia
+39,10,BIHAR,204,Purba Champaran,1041,Motihari,0,Motihari
+40,10,BIHAR,204,Purba Champaran,1041,Motihari,801285,Motihari (Nagar Parishad)
+41,10,BIHAR,204,Purba Champaran,1042,Turkaulia,0,Turkaulia
+42,10,BIHAR,204,Purba Champaran,1043,Harsidhi,0,Harsidhi
+43,10,BIHAR,204,Purba Champaran,1044,Paharpur,0,Paharpur
+44,10,BIHAR,204,Purba Champaran,1045,Areraj,0,Areraj
+45,10,BIHAR,204,Purba Champaran,1045,Areraj,801286,Areraj (NP)
+46,10,BIHAR,204,Purba Champaran,1046,Sangrampur,0,Sangrampur
+47,10,BIHAR,204,Purba Champaran,1047,Kesaria,0,Kesaria
+48,10,BIHAR,204,Purba Champaran,1047,Kesaria,801287,Kesaria (NP)
+49,10,BIHAR,204,Purba Champaran,1048,Kalyanpur,0,Kalyanpur
+50,10,BIHAR,204,Purba Champaran,1049,Kotwa,0,Kotwa
+51,10,BIHAR,204,Purba Champaran,1050,Piprakothi,0,Piprakothi
+52,10,BIHAR,204,Purba Champaran,1051,Chakia(Pipra),0,Chakia(Pipra)
+53,10,BIHAR,204,Purba Champaran,1051,Chakia(Pipra),801288,Chakia (NP)
+54,10,BIHAR,204,Purba Champaran,1052,Pakri Dayal,0,Pakri Dayal
+55,10,BIHAR,204,Purba Champaran,1052,Pakri Dayal,801289,Pakri Dayal (NP)
+56,10,BIHAR,204,Purba Champaran,1053,Patahi,0,Patahi
+57,10,BIHAR,204,Purba Champaran,1054,Phenhara,0,Phenhara
+58,10,BIHAR,204,Purba Champaran,1055,Madhuban,0,Madhuban
+59,10,BIHAR,204,Purba Champaran,1055,Madhuban,801290,Madhuban (NP)
+60,10,BIHAR,204,Purba Champaran,1056,Tetaria,0,Tetaria
+61,10,BIHAR,204,Purba Champaran,1057,Mehsi,0,Mehsi
+62,10,BIHAR,204,Purba Champaran,1057,Mehsi,801291,Mehsi (NP)
+63,10,BIHAR,205,Sheohar,0,Sheohar,0,Sheohar
+64,10,BIHAR,205,Sheohar,1058,Purnahiya,0,Purnahiya
+65,10,BIHAR,205,Sheohar,1059,Piprarhi,0,Piprarhi
+66,10,BIHAR,205,Sheohar,1060,Sheohar,0,Sheohar
+67,10,BIHAR,205,Sheohar,1060,Sheohar,801292,Sheohar (NP)
+68,10,BIHAR,205,Sheohar,1061,Dumri Katsari,0,Dumri Katsari
+69,10,BIHAR,205,Sheohar,1062,Tariani Chowk,0,Tariani Chowk
+70,10,BIHAR,206,Sitamarhi,0,Sitamarhi,0,Sitamarhi
+71,10,BIHAR,206,Sitamarhi,1063,Bairgania,0,Bairgania
+72,10,BIHAR,206,Sitamarhi,1063,Bairgania,801293,Bairgania (NP)
+73,10,BIHAR,206,Sitamarhi,1064,Suppi,0,Suppi
+74,10,BIHAR,206,Sitamarhi,1065,Majorganj,0,Majorganj
+75,10,BIHAR,206,Sitamarhi,1066,Sonbarsa,0,Sonbarsa
+76,10,BIHAR,206,Sitamarhi,1067,Parihar,0,Parihar
+77,10,BIHAR,206,Sitamarhi,1068,Sursand,0,Sursand
+78,10,BIHAR,206,Sitamarhi,1069,Bathnaha,0,Bathnaha
+79,10,BIHAR,206,Sitamarhi,1070,Riga,0,Riga
+80,10,BIHAR,206,Sitamarhi,1071,Parsauni,0,Parsauni
+81,10,BIHAR,206,Sitamarhi,1072,Belsand,0,Belsand
+82,10,BIHAR,206,Sitamarhi,1072,Belsand,801294,Belsand (NP)
+83,10,BIHAR,206,Sitamarhi,1073,Runisaidpur,0,Runisaidpur
+84,10,BIHAR,206,Sitamarhi,1074,Dumra,0,Dumra
+85,10,BIHAR,206,Sitamarhi,1074,Dumra,801295,Sitamarhi (Nagar Parishad)
+86,10,BIHAR,206,Sitamarhi,1074,Dumra,801296,Dumra (NP)
+87,10,BIHAR,206,Sitamarhi,1075,Bajpatti,0,Bajpatti
+88,10,BIHAR,206,Sitamarhi,1076,Charaut,0,Charaut
+89,10,BIHAR,206,Sitamarhi,1077,Pupri,0,Pupri
+90,10,BIHAR,206,Sitamarhi,1077,Pupri,801297,Janakpur Road (NP)
+91,10,BIHAR,206,Sitamarhi,1078,Nanpur,0,Nanpur
+92,10,BIHAR,206,Sitamarhi,1079,Bokhara,0,Bokhara
+93,10,BIHAR,207,Madhubani,0,Madhubani,0,Madhubani
+94,10,BIHAR,207,Madhubani,1080,Madhwapur,0,Madhwapur
+95,10,BIHAR,207,Madhubani,1081,Harlakhi,0,Harlakhi
+96,10,BIHAR,207,Madhubani,1082,Basopatti,0,Basopatti
+97,10,BIHAR,207,Madhubani,1083,Jainagar,0,Jainagar
+98,10,BIHAR,207,Madhubani,1083,Jainagar,801298,Jainagar (NP)
+99,10,BIHAR,207,Madhubani,1084,Ladania,0,Ladania
+100,10,BIHAR,207,Madhubani,1085,Laukaha,0,Laukaha
+101,10,BIHAR,207,Madhubani,1086,Laukahi,0,Laukahi
+102,10,BIHAR,207,Madhubani,1087,Phulparas,0,Phulparas
+103,10,BIHAR,207,Madhubani,1088,Babubarhi,0,Babubarhi
+104,10,BIHAR,207,Madhubani,1089,Khajauli,0,Khajauli
+105,10,BIHAR,207,Madhubani,1090,Kaluahi,0,Kaluahi
+106,10,BIHAR,207,Madhubani,1091,Benipatti,0,Benipatti
+107,10,BIHAR,207,Madhubani,1092,Bisfi,0,Bisfi
+108,10,BIHAR,207,Madhubani,1093,Madhubani,0,Madhubani
+109,10,BIHAR,207,Madhubani,1093,Madhubani,801299,Madhubani (Nagar Parishad)
+110,10,BIHAR,207,Madhubani,1094,Pandaul,0,Pandaul
+111,10,BIHAR,207,Madhubani,1095,Rajnagar,0,Rajnagar
+112,10,BIHAR,207,Madhubani,1096,Andhratharhi,0,Andhratharhi
+113,10,BIHAR,207,Madhubani,1097,Jhanjharpur,0,Jhanjharpur
+114,10,BIHAR,207,Madhubani,1097,Jhanjharpur,801300,Jhanjharpur (NP)
+115,10,BIHAR,207,Madhubani,1098,Ghoghardiha,0,Ghoghardiha
+116,10,BIHAR,207,Madhubani,1098,Ghoghardiha,801301,Ghoghardiha (NP)
+117,10,BIHAR,207,Madhubani,1099,Lakhnaur,0,Lakhnaur
+118,10,BIHAR,207,Madhubani,1100,Madhepur,0,Madhepur
+119,10,BIHAR,208,Supaul,0,Supaul,0,Supaul
+120,10,BIHAR,208,Supaul,1101,Nirmali,0,Nirmali
+121,10,BIHAR,208,Supaul,1101,Nirmali,801302,Nirmali (NP)
+122,10,BIHAR,208,Supaul,1102,Basantpur,0,Basantpur
+123,10,BIHAR,208,Supaul,1102,Basantpur,801303,Birpur (NP)
+124,10,BIHAR,208,Supaul,1103,Chhatapur,0,Chhatapur
+125,10,BIHAR,208,Supaul,1104,Pratapganj,0,Pratapganj
+126,10,BIHAR,208,Supaul,1105,Raghopur,0,Raghopur
+127,10,BIHAR,208,Supaul,1106,Saraigarh Bhaptiyahi,0,Saraigarh Bhaptiyahi
+128,10,BIHAR,208,Supaul,1107,Kishanpur,0,Kishanpur
+129,10,BIHAR,208,Supaul,1108,Marauna,0,Marauna
+130,10,BIHAR,208,Supaul,1109,Supaul,0,Supaul
+131,10,BIHAR,208,Supaul,1109,Supaul,801304,Supaul (Nagar Parishad)
+132,10,BIHAR,208,Supaul,1110,Pipra,0,Pipra
+133,10,BIHAR,208,Supaul,1111,Tribeniganj,0,Tribeniganj
+134,10,BIHAR,209,Araria,0,Araria,0,Araria
+135,10,BIHAR,209,Araria,1112,Narpatganj,0,Narpatganj
+136,10,BIHAR,209,Araria,1113,Forbesganj,0,Forbesganj
+137,10,BIHAR,209,Araria,1113,Forbesganj,801305,Jogabani (NP)
+138,10,BIHAR,209,Araria,1113,Forbesganj,801306,Forbesganj (Nagar Parishad)
+139,10,BIHAR,209,Araria,1114,Bhargama,0,Bhargama
+140,10,BIHAR,209,Araria,1115,Raniganj,0,Raniganj
+141,10,BIHAR,209,Araria,1116,Araria,0,Araria
+142,10,BIHAR,209,Araria,1116,Araria,801307,Araria (Nagar Parishad)
+143,10,BIHAR,209,Araria,1117,Kursakatta,0,Kursakatta
+144,10,BIHAR,209,Araria,1118,Sikti,0,Sikti
+145,10,BIHAR,209,Araria,1119,Palasi,0,Palasi
+146,10,BIHAR,209,Araria,1120,Jokihat,0,Jokihat
+147,10,BIHAR,210,Kishanganj,0,Kishanganj,0,Kishanganj
+148,10,BIHAR,210,Kishanganj,1121,Terhagachh,0,Terhagachh
+149,10,BIHAR,210,Kishanganj,1122,Dighalbank,0,Dighalbank
+150,10,BIHAR,210,Kishanganj,1123,Thakurganj,0,Thakurganj
+151,10,BIHAR,210,Kishanganj,1123,Thakurganj,801308,Thakurganj (NP)
+152,10,BIHAR,210,Kishanganj,1124,Pothia,0,Pothia
+153,10,BIHAR,210,Kishanganj,1125,Bahadurganj,0,Bahadurganj
+154,10,BIHAR,210,Kishanganj,1125,Bahadurganj,801309,Bahadurganj (NP)
+155,10,BIHAR,210,Kishanganj,1126,Kochadhamin,0,Kochadhamin
+156,10,BIHAR,210,Kishanganj,1127,Kishanganj,0,Kishanganj
+157,10,BIHAR,210,Kishanganj,1127,Kishanganj,801310,Kishanganj (Nagar Parishad)
+158,10,BIHAR,211,Purnia,0,Purnia,0,Purnia
+159,10,BIHAR,211,Purnia,1128,Banmankhi,0,Banmankhi
+160,10,BIHAR,211,Purnia,1128,Banmankhi,801311,Banmankhi Bazar (NP)
+161,10,BIHAR,211,Purnia,1129,Barhara,0,Barhara
+162,10,BIHAR,211,Purnia,1130,Bhawanipur,0,Bhawanipur
+163,10,BIHAR,211,Purnia,1131,Rupauli,0,Rupauli
+164,10,BIHAR,211,Purnia,1132,Dhamdaha,0,Dhamdaha
+165,10,BIHAR,211,Purnia,1133,Krityanand Nagar,0,Krityanand Nagar
+166,10,BIHAR,211,Purnia,1134,Purnia East,0,Purnia East
+167,10,BIHAR,211,Purnia,1134,Purnia East,801312,Purnia (M Corp.)
+168,10,BIHAR,211,Purnia,1135,Kasba,0,Kasba
+169,10,BIHAR,211,Purnia,1135,Kasba,801313,Kasba (NP)
+170,10,BIHAR,211,Purnia,1136,Srinagar,0,Srinagar
+171,10,BIHAR,211,Purnia,1137,Jalalgarh,0,Jalalgarh
+172,10,BIHAR,211,Purnia,1138,Amour,0,Amour
+173,10,BIHAR,211,Purnia,1139,Baisa,0,Baisa
+174,10,BIHAR,211,Purnia,1140,Baisi,0,Baisi
+175,10,BIHAR,211,Purnia,1141,Dagarua,0,Dagarua
+176,10,BIHAR,212,Katihar,0,Katihar,0,Katihar
+177,10,BIHAR,212,Katihar,1142,Falka,0,Falka
+178,10,BIHAR,212,Katihar,1143,Korha,0,Korha
+179,10,BIHAR,212,Katihar,1144,Hasanganj,0,Hasanganj
+180,10,BIHAR,212,Katihar,1145,Kadwa,0,Kadwa
+181,10,BIHAR,212,Katihar,1146,Balrampur,0,Balrampur
+182,10,BIHAR,212,Katihar,1147,Barsoi,0,Barsoi
+183,10,BIHAR,212,Katihar,1148,Azamnagar,0,Azamnagar
+184,10,BIHAR,212,Katihar,1149,Pranpur,0,Pranpur
+185,10,BIHAR,212,Katihar,1150,Dandkhora,0,Dandkhora
+186,10,BIHAR,212,Katihar,1151,Katihar,0,Katihar
+187,10,BIHAR,212,Katihar,1151,Katihar,801314,Katihar (M Corp. + OG)
+188,10,BIHAR,212,Katihar,1151,Katihar,801314,Katihar (M Corp.)
+189,10,BIHAR,212,Katihar,1152,Mansahi,0,Mansahi
+190,10,BIHAR,212,Katihar,1153,Barari,0,Barari
+191,10,BIHAR,212,Katihar,1154,Sameli,0,Sameli
+192,10,BIHAR,212,Katihar,1155,Kursela,0,Kursela
+193,10,BIHAR,212,Katihar,1156,Manihari,0,Manihari
+194,10,BIHAR,212,Katihar,1156,Manihari,801315,Manihari (NP)
+195,10,BIHAR,212,Katihar,1157,Amdabad,0,Amdabad
+196,10,BIHAR,213,Madhepura,0,Madhepura,0,Madhepura
+197,10,BIHAR,213,Madhepura,1158,Gamharia,0,Gamharia
+198,10,BIHAR,213,Madhepura,1159,Singheshwar,0,Singheshwar
+199,10,BIHAR,213,Madhepura,1160,Ghailarh,0,Ghailarh
+200,10,BIHAR,213,Madhepura,1161,Madhepura,0,Madhepura
+201,10,BIHAR,213,Madhepura,1161,Madhepura,801316,Madhepura (Nagar Parishad)
+202,10,BIHAR,213,Madhepura,1162,Shankarpur,0,Shankarpur
+203,10,BIHAR,213,Madhepura,1163,Kumarkhand,0,Kumarkhand
+204,10,BIHAR,213,Madhepura,1164,Murliganj,0,Murliganj
+205,10,BIHAR,213,Madhepura,1164,Murliganj,801317,Murliganj (NP)
+206,10,BIHAR,213,Madhepura,1165,Gwalpara,0,Gwalpara
+207,10,BIHAR,213,Madhepura,1166,Bihariganj,0,Bihariganj
+208,10,BIHAR,213,Madhepura,1167,Kishanganj,0,Kishanganj
+209,10,BIHAR,213,Madhepura,1168,Puraini,0,Puraini
+210,10,BIHAR,213,Madhepura,1169,Alamnagar,0,Alamnagar
+211,10,BIHAR,213,Madhepura,1170,Chausa,0,Chausa
+212,10,BIHAR,214,Saharsa,0,Saharsa,0,Saharsa
+213,10,BIHAR,214,Saharsa,1171,Nauhatta,0,Nauhatta
+214,10,BIHAR,214,Saharsa,1172,Satar Kataiya,0,Satar Kataiya
+215,10,BIHAR,214,Saharsa,1173,Mahishi,0,Mahishi
+216,10,BIHAR,214,Saharsa,1174,Kahara,0,Kahara
+217,10,BIHAR,214,Saharsa,1174,Kahara,801318,Saharsa (Nagar Parishad)
+218,10,BIHAR,214,Saharsa,1175,Saur Bazar,0,Saur Bazar
+219,10,BIHAR,214,Saharsa,1176,Patarghat,0,Patarghat
+220,10,BIHAR,214,Saharsa,1177,Sonbarsa,0,Sonbarsa
+221,10,BIHAR,214,Saharsa,1178,Simri Bakhtiarpur,0,Simri Bakhtiarpur
+222,10,BIHAR,214,Saharsa,1179,Salkhua,0,Salkhua
+223,10,BIHAR,214,Saharsa,1180,Banma Itahri,0,Banma Itahri
+224,10,BIHAR,215,Darbhanga,0,Darbhanga,0,Darbhanga
+225,10,BIHAR,215,Darbhanga,1181,Jale,0,Jale
+226,10,BIHAR,215,Darbhanga,1182,Singhwara,0,Singhwara
+227,10,BIHAR,215,Darbhanga,1183,Keotiranway,0,Keotiranway
+228,10,BIHAR,215,Darbhanga,1184,Darbhanga,0,Darbhanga
+229,10,BIHAR,215,Darbhanga,1184,Darbhanga,801319,Darbhanga (M Corp.)
+230,10,BIHAR,215,Darbhanga,1185,Manigachhi,0,Manigachhi
+231,10,BIHAR,215,Darbhanga,1186,Tardih,0,Tardih
+232,10,BIHAR,215,Darbhanga,1187,Alinagar,0,Alinagar
+233,10,BIHAR,215,Darbhanga,1188,Benipur,0,Benipur
+234,10,BIHAR,215,Darbhanga,1188,Benipur,801320,Benipur (Nagar Parishad)
+235,10,BIHAR,215,Darbhanga,1189,Bahadurpur,0,Bahadurpur
+236,10,BIHAR,215,Darbhanga,1190,Hanumannagar,0,Hanumannagar
+237,10,BIHAR,215,Darbhanga,1191,Hayaghat,0,Hayaghat
+238,10,BIHAR,215,Darbhanga,1192,Baheri,0,Baheri
+239,10,BIHAR,215,Darbhanga,1193,Biraul,0,Biraul
+240,10,BIHAR,215,Darbhanga,1194,Ghanshyampur,0,Ghanshyampur
+241,10,BIHAR,215,Darbhanga,1195,Kiratpur,0,Kiratpur
+242,10,BIHAR,215,Darbhanga,1196,Gora Bauram,0,Gora Bauram
+243,10,BIHAR,215,Darbhanga,1197,Kusheshwar Asthan,0,Kusheshwar Asthan
+244,10,BIHAR,215,Darbhanga,1198,Kusheshwar Asthan Purbi,0,Kusheshwar Asthan Purbi
+245,10,BIHAR,216,Muzaffarpur,0,Muzaffarpur,0,Muzaffarpur
+246,10,BIHAR,216,Muzaffarpur,1199,Sahebganj,0,Sahebganj
+247,10,BIHAR,216,Muzaffarpur,1199,Sahebganj,801321,Sahebganj (NP)
+248,10,BIHAR,216,Muzaffarpur,1200,Baruraj (Motipur),0,Baruraj (Motipur)
+249,10,BIHAR,216,Muzaffarpur,1200,Baruraj (Motipur),801322,Motipur (NP)
+250,10,BIHAR,216,Muzaffarpur,1201,Paroo,0,Paroo
+251,10,BIHAR,216,Muzaffarpur,1202,Saraiya,0,Saraiya
+252,10,BIHAR,216,Muzaffarpur,1203,Marwan,0,Marwan
+253,10,BIHAR,216,Muzaffarpur,1204,Kanti,0,Kanti
+254,10,BIHAR,216,Muzaffarpur,1204,Kanti,801323,Kanti (NP)
+255,10,BIHAR,216,Muzaffarpur,1205,Minapur,0,Minapur
+256,10,BIHAR,216,Muzaffarpur,1206,Bochaha,0,Bochaha
+257,10,BIHAR,216,Muzaffarpur,1207,Aurai,0,Aurai
+258,10,BIHAR,216,Muzaffarpur,1208,Katra,0,Katra
+259,10,BIHAR,216,Muzaffarpur,1209,Gaighat,0,Gaighat
+260,10,BIHAR,216,Muzaffarpur,1210,Bandra,0,Bandra
+261,10,BIHAR,216,Muzaffarpur,1211,Dholi (Moraul),0,Dholi (Moraul)
+262,10,BIHAR,216,Muzaffarpur,1212,Musahri,0,Musahri
+263,10,BIHAR,216,Muzaffarpur,1212,Musahri,801324,Muzaffarpur (M Corp.)
+264,10,BIHAR,216,Muzaffarpur,1213,Kurhani,0,Kurhani
+265,10,BIHAR,216,Muzaffarpur,1214,Sakra,0,Sakra
+266,10,BIHAR,217,Gopalganj,0,Gopalganj,0,Gopalganj
+267,10,BIHAR,217,Gopalganj,1215,Katiya,0,Katiya
+268,10,BIHAR,217,Gopalganj,1215,Katiya,801325,Kataiya (NP)
+269,10,BIHAR,217,Gopalganj,1216,Bijaipur,0,Bijaipur
+270,10,BIHAR,217,Gopalganj,1217,Bhorey,0,Bhorey
+271,10,BIHAR,217,Gopalganj,1218,Pach Deuri,0,Pach Deuri
+272,10,BIHAR,217,Gopalganj,1219,Kuchaikote,0,Kuchaikote
+273,10,BIHAR,217,Gopalganj,1220,Phulwaria,0,Phulwaria
+274,10,BIHAR,217,Gopalganj,1221,Hathua,0,Hathua
+275,10,BIHAR,217,Gopalganj,1222,Uchkagaon,0,Uchkagaon
+276,10,BIHAR,217,Gopalganj,1222,Uchkagaon,801326,Mirganj (NP)
+277,10,BIHAR,217,Gopalganj,1223,Thawe,0,Thawe
+278,10,BIHAR,217,Gopalganj,1224,Gopalganj,0,Gopalganj
+279,10,BIHAR,217,Gopalganj,1224,Gopalganj,801327,Gopalganj (Nagar Parishad)
+280,10,BIHAR,217,Gopalganj,1225,Manjha,0,Manjha
+281,10,BIHAR,217,Gopalganj,1226,Barauli,0,Barauli
+282,10,BIHAR,217,Gopalganj,1226,Barauli,801328,Barauli (NP)
+283,10,BIHAR,217,Gopalganj,1227,Sidhwalia,0,Sidhwalia
+284,10,BIHAR,217,Gopalganj,1228,Baikunthpur,0,Baikunthpur
+285,10,BIHAR,218,Siwan,0,Siwan,0,Siwan
+286,10,BIHAR,218,Siwan,1229,Nautan,0,Nautan
+287,10,BIHAR,218,Siwan,1230,Siwan,0,Siwan
+288,10,BIHAR,218,Siwan,1230,Siwan,801329,Siwan (Nagar Parishad)
+289,10,BIHAR,218,Siwan,1231,Barharia,0,Barharia
+290,10,BIHAR,218,Siwan,1232,Goriakothi,0,Goriakothi
+291,10,BIHAR,218,Siwan,1233,Lakri Nabiganj,0,Lakri Nabiganj
+292,10,BIHAR,218,Siwan,1234,Basantpur,0,Basantpur
+293,10,BIHAR,218,Siwan,1235,Bhagwanpur Hat,0,Bhagwanpur Hat
+294,10,BIHAR,218,Siwan,1236,Maharajganj,0,Maharajganj
+295,10,BIHAR,218,Siwan,1236,Maharajganj,801330,Maharajganj (NP)
+296,10,BIHAR,218,Siwan,1237,Pachrukhi,0,Pachrukhi
+297,10,BIHAR,218,Siwan,1238,Hussainganj,0,Hussainganj
+298,10,BIHAR,218,Siwan,1239,Ziradei,0,Ziradei
+299,10,BIHAR,218,Siwan,1240,Mairwa,0,Mairwa
+300,10,BIHAR,218,Siwan,1240,Mairwa,801331,Mairwa (NP)
+301,10,BIHAR,218,Siwan,1241,Guthani,0,Guthani
+302,10,BIHAR,218,Siwan,1242,Darauli,0,Darauli
+303,10,BIHAR,218,Siwan,1243,Andar,0,Andar
+304,10,BIHAR,218,Siwan,1244,Raghunathpur,0,Raghunathpur
+305,10,BIHAR,218,Siwan,1245,Hasanpura,0,Hasanpura
+306,10,BIHAR,218,Siwan,1246,Daraundha,0,Daraundha
+307,10,BIHAR,218,Siwan,1247,Siswan,0,Siswan
+308,10,BIHAR,219,Saran,0,Saran,0,Saran
+309,10,BIHAR,219,Saran,1248,Mashrakh,0,Mashrakh
+310,10,BIHAR,219,Saran,1249,Panapur,0,Panapur
+311,10,BIHAR,219,Saran,1250,Taraiya,0,Taraiya
+312,10,BIHAR,219,Saran,1251,Ishupur,0,Ishupur
+313,10,BIHAR,219,Saran,1252,Baniapur,0,Baniapur
+314,10,BIHAR,219,Saran,1253,Lahladpur,0,Lahladpur
+315,10,BIHAR,219,Saran,1254,Ekma,0,Ekma
+316,10,BIHAR,219,Saran,1255,Manjhi,0,Manjhi
+317,10,BIHAR,219,Saran,1256,Jalalpur,0,Jalalpur
+318,10,BIHAR,219,Saran,1257,Revelganj,0,Revelganj
+319,10,BIHAR,219,Saran,1257,Revelganj,801332,Revelganj (NP)
+320,10,BIHAR,219,Saran,1258,Chapra,0,Chapra
+321,10,BIHAR,219,Saran,1258,Chapra,801333,Chapra (Nagar Parishad)
+322,10,BIHAR,219,Saran,1259,Nagra,0,Nagra
+323,10,BIHAR,219,Saran,1260,Marhaura,0,Marhaura
+324,10,BIHAR,219,Saran,1260,Marhaura,801334,Marhaura (NP)
+325,10,BIHAR,219,Saran,1261,Amnour,0,Amnour
+326,10,BIHAR,219,Saran,1262,Maker,0,Maker
+327,10,BIHAR,219,Saran,1263,Parsa,0,Parsa
+328,10,BIHAR,219,Saran,1264,Dariapur,0,Dariapur
+329,10,BIHAR,219,Saran,1265,Garkha,0,Garkha
+330,10,BIHAR,219,Saran,1266,Dighwara,0,Dighwara
+331,10,BIHAR,219,Saran,1266,Dighwara,801335,Dighwara (NP)
+332,10,BIHAR,219,Saran,1267,Sonepur,0,Sonepur
+333,10,BIHAR,219,Saran,1267,Sonepur,801336,Sonepur (NP)
+334,10,BIHAR,220,Vaishali,0,Vaishali,0,Vaishali
+335,10,BIHAR,220,Vaishali,1268,Vaishali,0,Vaishali
+336,10,BIHAR,220,Vaishali,1269,Paterhi Belsar,0,Paterhi Belsar
+337,10,BIHAR,220,Vaishali,1270,Lalganj,0,Lalganj
+338,10,BIHAR,220,Vaishali,1270,Lalganj,801337,Lalganj (NP)
+339,10,BIHAR,220,Vaishali,1271,Bhagwanpur,0,Bhagwanpur
+340,10,BIHAR,220,Vaishali,1272,Goraul,0,Goraul
+341,10,BIHAR,220,Vaishali,1273,Chehra Kalan,0,Chehra Kalan
+342,10,BIHAR,220,Vaishali,1274,Patepur,0,Patepur
+343,10,BIHAR,220,Vaishali,1275,Mahua,0,Mahua
+344,10,BIHAR,220,Vaishali,1276,Jandaha,0,Jandaha
+345,10,BIHAR,220,Vaishali,1277,Raja Pakar,0,Raja Pakar
+346,10,BIHAR,220,Vaishali,1278,Hajipur,0,Hajipur
+347,10,BIHAR,220,Vaishali,1278,Hajipur,801338,Hajipur (Nagar Parishad)
+348,10,BIHAR,220,Vaishali,1279,Raghopur,0,Raghopur
+349,10,BIHAR,220,Vaishali,1280,Bidupur,0,Bidupur
+350,10,BIHAR,220,Vaishali,1281,Desri,0,Desri
+351,10,BIHAR,220,Vaishali,1282,Sahdai Buzurg,0,Sahdai Buzurg
+352,10,BIHAR,220,Vaishali,1283,Mahnar,0,Mahnar
+353,10,BIHAR,220,Vaishali,1283,Mahnar,801339,Mahnar Bazar (NP)
+354,10,BIHAR,221,Samastipur,0,Samastipur,0,Samastipur
+355,10,BIHAR,221,Samastipur,1284,Kalyanpur,0,Kalyanpur
+356,10,BIHAR,221,Samastipur,1285,Warisnagar,0,Warisnagar
+357,10,BIHAR,221,Samastipur,1286,Shivaji Nagar,0,Shivaji Nagar
+358,10,BIHAR,221,Samastipur,1287,Khanpur,0,Khanpur
+359,10,BIHAR,221,Samastipur,1288,Samastipur,0,Samastipur
+360,10,BIHAR,221,Samastipur,1288,Samastipur,801340,Samastipur (Nagar Parishad + OG)
+361,10,BIHAR,221,Samastipur,1288,Samastipur,801340,Samastipur (Nagar Parishad)
+362,10,BIHAR,221,Samastipur,1289,Pusa,0,Pusa
+363,10,BIHAR,221,Samastipur,1290,Tajpur,0,Tajpur
+364,10,BIHAR,221,Samastipur,1291,Morwa,0,Morwa
+365,10,BIHAR,221,Samastipur,1292,Patori,0,Patori
+366,10,BIHAR,221,Samastipur,1293,Mohanpur,0,Mohanpur
+367,10,BIHAR,221,Samastipur,1294,Mohiuddinagar,0,Mohiuddinagar
+368,10,BIHAR,221,Samastipur,1295,Sarairanjan,0,Sarairanjan
+369,10,BIHAR,221,Samastipur,1296,Vidyapati Nagar,0,Vidyapati Nagar
+370,10,BIHAR,221,Samastipur,1297,Dalsinghsarai,0,Dalsinghsarai
+371,10,BIHAR,221,Samastipur,1297,Dalsinghsarai,801341,Dalsinghsarai (NP)
+372,10,BIHAR,221,Samastipur,1298,Ujiarpur,0,Ujiarpur
+373,10,BIHAR,221,Samastipur,1299,Bibhutpur,0,Bibhutpur
+374,10,BIHAR,221,Samastipur,1300,Rosera,0,Rosera
+375,10,BIHAR,221,Samastipur,1300,Rosera,801342,Rosera (NP)
+376,10,BIHAR,221,Samastipur,1301,Singhia,0,Singhia
+377,10,BIHAR,221,Samastipur,1302,Hasanpur,0,Hasanpur
+378,10,BIHAR,221,Samastipur,1303,Bithan,0,Bithan
+379,10,BIHAR,222,Begusarai,0,Begusarai,0,Begusarai
+380,10,BIHAR,222,Begusarai,1304,Khudabandpur,0,Khudabandpur
+381,10,BIHAR,222,Begusarai,1305,Chhorahi,0,Chhorahi
+382,10,BIHAR,222,Begusarai,1306,Garhpura,0,Garhpura
+383,10,BIHAR,222,Begusarai,1307,Cheria Bariarpur,0,Cheria Bariarpur
+384,10,BIHAR,222,Begusarai,1308,Bhagwanpur,0,Bhagwanpur
+385,10,BIHAR,222,Begusarai,1309,Mansurchak,0,Mansurchak
+386,10,BIHAR,222,Begusarai,1310,Bachhwara,0,Bachhwara
+387,10,BIHAR,222,Begusarai,1311,Teghra,0,Teghra
+388,10,BIHAR,222,Begusarai,1311,Teghra,801343,Barauni (Nagar Parishad)
+389,10,BIHAR,222,Begusarai,1311,Teghra,801344,Teghra (NP)
+390,10,BIHAR,222,Begusarai,1312,Barauni,0,Barauni
+391,10,BIHAR,222,Begusarai,1312,Barauni,801345,Bihat (Nagar Parishad)
+392,10,BIHAR,222,Begusarai,1313,Birpur,0,Birpur
+393,10,BIHAR,222,Begusarai,1314,Begusarai,0,Begusarai
+394,10,BIHAR,222,Begusarai,1314,Begusarai,801346,Begusarai (M Corp.) 
+395,10,BIHAR,222,Begusarai,1315,Naokothi,0,Naokothi
+396,10,BIHAR,222,Begusarai,1316,Bakhri,0,Bakhri
+397,10,BIHAR,222,Begusarai,1316,Bakhri,801347,Bakhri (NP)
+398,10,BIHAR,222,Begusarai,1317,Dandari,0,Dandari
+399,10,BIHAR,222,Begusarai,1318,Sahebpur Kamal,0,Sahebpur Kamal
+400,10,BIHAR,222,Begusarai,1319,Balia,0,Balia
+401,10,BIHAR,222,Begusarai,1319,Balia,801348,Balia (NP)
+402,10,BIHAR,222,Begusarai,1320,Matihani,0,Matihani
+403,10,BIHAR,222,Begusarai,1321,Shamho Akha Kurha,0,Shamho Akha Kurha
+404,10,BIHAR,223,Khagaria,0,Khagaria,0,Khagaria
+405,10,BIHAR,223,Khagaria,1322,Alauli,0,Alauli
+406,10,BIHAR,223,Khagaria,1323,Khagaria,0,Khagaria
+407,10,BIHAR,223,Khagaria,1323,Khagaria,801349,Khagaria (Nagar Parishad)
+408,10,BIHAR,223,Khagaria,1324,Mansi,0,Mansi
+409,10,BIHAR,223,Khagaria,1325,Chautham,0,Chautham
+410,10,BIHAR,223,Khagaria,1326,Beldaur,0,Beldaur
+411,10,BIHAR,223,Khagaria,1327,Gogri,0,Gogri
+412,10,BIHAR,223,Khagaria,1327,Gogri,801350,Gogri Jamalpur (NP)
+413,10,BIHAR,223,Khagaria,1328,Parbatta,0,Parbatta
+414,10,BIHAR,224,Bhagalpur,0,Bhagalpur,0,Bhagalpur
+415,10,BIHAR,224,Bhagalpur,1329,Narayanpur,0,Narayanpur
+416,10,BIHAR,224,Bhagalpur,1330,Bihpur,0,Bihpur
+417,10,BIHAR,224,Bhagalpur,1331,Kharik,0,Kharik
+418,10,BIHAR,224,Bhagalpur,1332,Naugachhia,0,Naugachhia
+419,10,BIHAR,224,Bhagalpur,1332,Naugachhia,801351,Naugachhia (NP)
+420,10,BIHAR,224,Bhagalpur,1333,Rangra Chowk,0,Rangra Chowk
+421,10,BIHAR,224,Bhagalpur,1334,Gopalpur,0,Gopalpur
+422,10,BIHAR,224,Bhagalpur,1335,Pirpainti,0,Pirpainti
+423,10,BIHAR,224,Bhagalpur,1336,Colgong,0,Colgong
+424,10,BIHAR,224,Bhagalpur,1336,Colgong,801352,Colgong (NP)
+425,10,BIHAR,224,Bhagalpur,1337,Ismailpur,0,Ismailpur
+426,10,BIHAR,224,Bhagalpur,1338,Sabour,0,Sabour
+427,10,BIHAR,224,Bhagalpur,1339,Nathnagar,0,Nathnagar
+428,10,BIHAR,224,Bhagalpur,1340,Sultanganj,0,Sultanganj
+429,10,BIHAR,224,Bhagalpur,1340,Sultanganj,801353,Sultanganj (Nagar Parishad)
+430,10,BIHAR,224,Bhagalpur,1341,Shahkund,0,Shahkund
+431,10,BIHAR,224,Bhagalpur,1342,Goradih,0,Goradih
+432,10,BIHAR,224,Bhagalpur,1343,Jagdishpur,0,Jagdishpur
+433,10,BIHAR,224,Bhagalpur,1343,Jagdishpur,801354,Bhagalpur (M Corp.)
+434,10,BIHAR,224,Bhagalpur,1344,Sonhaula,0,Sonhaula
+435,10,BIHAR,225,Banka,0,Banka,0,Banka
+436,10,BIHAR,225,Banka,1345,Shambhuganj,0,Shambhuganj
+437,10,BIHAR,225,Banka,1346,Amarpur,0,Amarpur
+438,10,BIHAR,225,Banka,1346,Amarpur,801355,Amarpur (NP)
+439,10,BIHAR,225,Banka,1347,Rajaun,0,Rajaun
+440,10,BIHAR,225,Banka,1348,Dhuraiya,0,Dhuraiya
+441,10,BIHAR,225,Banka,1349,Barahat,0,Barahat
+442,10,BIHAR,225,Banka,1350,Banka,0,Banka
+443,10,BIHAR,225,Banka,1350,Banka,801356,Banka (NP)
+444,10,BIHAR,225,Banka,1351,Phulidumar,0,Phulidumar
+445,10,BIHAR,225,Banka,1352,Belhar,0,Belhar
+446,10,BIHAR,225,Banka,1353,Chanan,0,Chanan
+447,10,BIHAR,225,Banka,1354,Katoria,0,Katoria
+448,10,BIHAR,225,Banka,1355,Bausi,0,Bausi
+449,10,BIHAR,226,Munger,0,Munger,0,Munger
+450,10,BIHAR,226,Munger,1356,Munger,0,Munger
+451,10,BIHAR,226,Munger,1356,Munger,801357,Munger (M Corp.)
+452,10,BIHAR,226,Munger,1357,Bariarpur,0,Bariarpur
+453,10,BIHAR,226,Munger,1358,Jamalpur,0,Jamalpur
+454,10,BIHAR,226,Munger,1358,Jamalpur,801358,Jamalpur (Nagar Parishad)
+455,10,BIHAR,226,Munger,1359,Dharhara,0,Dharhara
+456,10,BIHAR,226,Munger,1360,Kharagpur,0,Kharagpur
+457,10,BIHAR,226,Munger,1360,Kharagpur,801359,Kharagpur (NP)
+458,10,BIHAR,226,Munger,1361,Asarganj,0,Asarganj
+459,10,BIHAR,226,Munger,1362,Tarapur,0,Tarapur
+460,10,BIHAR,226,Munger,1363,Tetiha Bambor,0,Tetiha Bambor
+461,10,BIHAR,226,Munger,1364,Sangrampur,0,Sangrampur
+462,10,BIHAR,227,Lakhisarai,0,Lakhisarai,0,Lakhisarai
+463,10,BIHAR,227,Lakhisarai,1365,Barahiya,0,Barahiya
+464,10,BIHAR,227,Lakhisarai,1365,Barahiya,801360,Barahiya (NP)
+465,10,BIHAR,227,Lakhisarai,1366,Pipariya,0,Pipariya
+466,10,BIHAR,227,Lakhisarai,1367,Surajgarha,0,Surajgarha
+467,10,BIHAR,227,Lakhisarai,1368,Lakhisarai,0,Lakhisarai
+468,10,BIHAR,227,Lakhisarai,1368,Lakhisarai,801361,Lakhisarai (Nagar Parishad)
+469,10,BIHAR,227,Lakhisarai,1369,Chanan*,0,Chanan*
+470,10,BIHAR,227,Lakhisarai,1370,Ramgarh Chowk,0,Ramgarh Chowk
+471,10,BIHAR,227,Lakhisarai,1371,Halsi,0,Halsi
+472,10,BIHAR,228,Sheikhpura,0,Sheikhpura,0,Sheikhpura
+473,10,BIHAR,228,Sheikhpura,1372,Barbigha,0,Barbigha
+474,10,BIHAR,228,Sheikhpura,1372,Barbigha,801362,Barbigha (NP)
+475,10,BIHAR,228,Sheikhpura,1373,Shekhopur Sarai,0,Shekhopur Sarai
+476,10,BIHAR,228,Sheikhpura,1374,Sheikhpura,0,Sheikhpura
+477,10,BIHAR,228,Sheikhpura,1374,Sheikhpura,801363,Sheikhpura (Nagar Parishad)
+478,10,BIHAR,228,Sheikhpura,1375,Ghat Kusumbha,0,Ghat Kusumbha
+479,10,BIHAR,228,Sheikhpura,1376,Chewara,0,Chewara
+480,10,BIHAR,228,Sheikhpura,1377,Ariari,0,Ariari
+481,10,BIHAR,229,Nalanda,0,Nalanda,0,Nalanda
+482,10,BIHAR,229,Nalanda,1378,Karai Parsurai,0,Karai Parsurai
+483,10,BIHAR,229,Nalanda,1379,Nagar Nausa,0,Nagar Nausa
+484,10,BIHAR,229,Nalanda,1380,Harnaut,0,Harnaut
+485,10,BIHAR,229,Nalanda,1381,Chandi,0,Chandi
+486,10,BIHAR,229,Nalanda,1382,Rahui,0,Rahui
+487,10,BIHAR,229,Nalanda,1383,Bind,0,Bind
+488,10,BIHAR,229,Nalanda,1384,Sarmera,0,Sarmera
+489,10,BIHAR,229,Nalanda,1385,Asthawan ,0,Asthawan 
+490,10,BIHAR,229,Nalanda,1386,Bihar,0,Bihar
+491,10,BIHAR,229,Nalanda,1386,Bihar,801364,Biharsharif (M Corp.)
+492,10,BIHAR,229,Nalanda,1387,Noorsarai,0,Noorsarai
+493,10,BIHAR,229,Nalanda,1388,Tharthari ,0,Tharthari 
+494,10,BIHAR,229,Nalanda,1389,Parbalpur,0,Parbalpur
+495,10,BIHAR,229,Nalanda,1390,Hilsa,0,Hilsa
+496,10,BIHAR,229,Nalanda,1390,Hilsa,801365,Hilsa (Nagar Parishad)
+497,10,BIHAR,229,Nalanda,1391,Ekangarsarai,0,Ekangarsarai
+498,10,BIHAR,229,Nalanda,1392,Islampur,0,Islampur
+499,10,BIHAR,229,Nalanda,1392,Islampur,801366,Islampur (NP)
+500,10,BIHAR,229,Nalanda,1393,Ben,0,Ben
+501,10,BIHAR,229,Nalanda,1394,Rajgir,0,Rajgir
+502,10,BIHAR,229,Nalanda,1394,Rajgir,801367,Rajgir (NP)
+503,10,BIHAR,229,Nalanda,1395,Silao,0,Silao
+504,10,BIHAR,229,Nalanda,1395,Silao,801368,Silao (NP)
+505,10,BIHAR,229,Nalanda,1396,Giriak,0,Giriak
+506,10,BIHAR,229,Nalanda,1397,Katrisarai,0,Katrisarai
+507,10,BIHAR,230,Patna,0,Patna,0,Patna
+508,10,BIHAR,230,Patna,1398,Maner,0,Maner
+509,10,BIHAR,230,Patna,1398,Maner,801369,Maner (NP)
+510,10,BIHAR,230,Patna,1399,Dinapur-Cum-Khagaul,0,Dinapur-Cum-Khagaul
+511,10,BIHAR,230,Patna,1399,Dinapur-Cum-Khagaul,801370,Dinapur Nizamat (Nagar Parishad)
+512,10,BIHAR,230,Patna,1399,Dinapur-Cum-Khagaul,801371,Dinapur Cantonment (CB)
+513,10,BIHAR,230,Patna,1399,Dinapur-Cum-Khagaul,801372,Khagaul (Nagar Parishad)
+514,10,BIHAR,230,Patna,1400,Patna Rural ,0,Patna Rural 
+515,10,BIHAR,230,Patna,1400,Patna Rural ,801373,Patna (M Corp. + OG)
+516,10,BIHAR,230,Patna,1400,Patna Rural ,801373,Patna (M Corp.)
+517,10,BIHAR,230,Patna,1401,Sampatchak,0,Sampatchak
+518,10,BIHAR,230,Patna,1402,Phulwari,0,Phulwari
+519,10,BIHAR,230,Patna,1402,Phulwari,801374,Phulwari Sharif (Nagar Parishad)
+520,10,BIHAR,230,Patna,1403,Bihta,0,Bihta
+521,10,BIHAR,230,Patna,1403,Bihta,801375,Bihta (NP)
+522,10,BIHAR,230,Patna,1404,Naubatpur,0,Naubatpur
+523,10,BIHAR,230,Patna,1404,Naubatpur,801376,Naubatpur (NP)
+524,10,BIHAR,230,Patna,1405,Bikram,0,Bikram
+525,10,BIHAR,230,Patna,1405,Bikram,801377,Bikram (NP)
+526,10,BIHAR,230,Patna,1406,Dulhin Bazar,0,Dulhin Bazar
+527,10,BIHAR,230,Patna,1407,Paliganj,0,Paliganj
+528,10,BIHAR,230,Patna,1408,Masaurhi ,0,Masaurhi 
+529,10,BIHAR,230,Patna,1408,Masaurhi ,801378,Masaurhi (Nagar Parishad)
+530,10,BIHAR,230,Patna,1409,Dhanarua,0,Dhanarua
+531,10,BIHAR,230,Patna,1410,Punpun,0,Punpun
+532,10,BIHAR,230,Patna,1411,Fatwah,0,Fatwah
+533,10,BIHAR,230,Patna,1411,Fatwah,801379,Fatwah (NP)
+534,10,BIHAR,230,Patna,1412,Daniawan ,0,Daniawan 
+535,10,BIHAR,230,Patna,1413,Khusrupur,0,Khusrupur
+536,10,BIHAR,230,Patna,1413,Khusrupur,801380,Khusrupur (NP)
+537,10,BIHAR,230,Patna,1414,Bakhtiarpur,0,Bakhtiarpur
+538,10,BIHAR,230,Patna,1414,Bakhtiarpur,801381,Bakhtiarpur (NP)
+539,10,BIHAR,230,Patna,1415,Athmalgola,0,Athmalgola
+540,10,BIHAR,230,Patna,1416,Belchhi,0,Belchhi
+541,10,BIHAR,230,Patna,1417,Barh,0,Barh
+542,10,BIHAR,230,Patna,1417,Barh,801382,Barh (Nagar Parishad)
+543,10,BIHAR,230,Patna,1418,Pandarak,0,Pandarak
+544,10,BIHAR,230,Patna,1419,Ghoswari,0,Ghoswari
+545,10,BIHAR,230,Patna,1420,Mokameh,0,Mokameh
+546,10,BIHAR,230,Patna,1420,Mokameh,801383,Mokameh (Nagar Parishad)
+547,10,BIHAR,231,Bhojpur,0,Bhojpur,0,Bhojpur
+548,10,BIHAR,231,Bhojpur,1421,Shahpur,0,Shahpur
+549,10,BIHAR,231,Bhojpur,1421,Shahpur,801384,Shahpur (NP)
+550,10,BIHAR,231,Bhojpur,1422,Arrah,0,Arrah
+551,10,BIHAR,231,Bhojpur,1422,Arrah,801385,Arrah (M Corp.)
+552,10,BIHAR,231,Bhojpur,1423,Barhara,0,Barhara
+553,10,BIHAR,231,Bhojpur,1424,Koilwar,0,Koilwar
+554,10,BIHAR,231,Bhojpur,1424,Koilwar,801386,Koilwar (NP)
+555,10,BIHAR,231,Bhojpur,1425,Sandesh,0,Sandesh
+556,10,BIHAR,231,Bhojpur,1426,Udwant Nagar,0,Udwant Nagar
+557,10,BIHAR,231,Bhojpur,1427,Behea,0,Behea
+558,10,BIHAR,231,Bhojpur,1427,Behea,801387,Behea (NP)
+559,10,BIHAR,231,Bhojpur,1428,Jagdishpur,0,Jagdishpur
+560,10,BIHAR,231,Bhojpur,1428,Jagdishpur,801388,Jagdishpur (NP)
+561,10,BIHAR,231,Bhojpur,1429,Piro,0,Piro
+562,10,BIHAR,231,Bhojpur,1429,Piro,801389,Piro (NP)
+563,10,BIHAR,231,Bhojpur,1430,Charpokhari,0,Charpokhari
+564,10,BIHAR,231,Bhojpur,1431,Garhani,0,Garhani
+565,10,BIHAR,231,Bhojpur,1432,Agiaon,0,Agiaon
+566,10,BIHAR,231,Bhojpur,1433,Tarari,0,Tarari
+567,10,BIHAR,231,Bhojpur,1434,Sahar,0,Sahar
+568,10,BIHAR,232,Buxar,0,Buxar,0,Buxar
+569,10,BIHAR,232,Buxar,1435,Simri,0,Simri
+570,10,BIHAR,232,Buxar,1436,Chakki,0,Chakki
+571,10,BIHAR,232,Buxar,1437,Barhampur,0,Barhampur
+572,10,BIHAR,232,Buxar,1438,Chaugain,0,Chaugain
+573,10,BIHAR,232,Buxar,1439,Kesath ,0,Kesath 
+574,10,BIHAR,232,Buxar,1440,Dumraon ,0,Dumraon 
+575,10,BIHAR,232,Buxar,1440,Dumraon ,801390,Dumraon (Nagar Parishad)
+576,10,BIHAR,232,Buxar,1441,Buxar,0,Buxar
+577,10,BIHAR,232,Buxar,1441,Buxar,801391,Buxar (Nagar Parishad)
+578,10,BIHAR,232,Buxar,1442,Chausa,0,Chausa
+579,10,BIHAR,232,Buxar,1443,Rajpur,0,Rajpur
+580,10,BIHAR,232,Buxar,1444,Itarhi,0,Itarhi
+581,10,BIHAR,232,Buxar,1445,Nawanagar,0,Nawanagar
+582,10,BIHAR,233,Kaimur (Bhabua),0,Kaimur (Bhabua),0,Kaimur (Bhabua)
+583,10,BIHAR,233,Kaimur (Bhabua),1446,Ramgarh,0,Ramgarh
+584,10,BIHAR,233,Kaimur (Bhabua),1447,Nuaon,0,Nuaon
+585,10,BIHAR,233,Kaimur (Bhabua),1448,Kudra,0,Kudra
+586,10,BIHAR,233,Kaimur (Bhabua),1449,Mohania,0,Mohania
+587,10,BIHAR,233,Kaimur (Bhabua),1450,Durgawati,0,Durgawati
+588,10,BIHAR,233,Kaimur (Bhabua),1451,Chand,0,Chand
+589,10,BIHAR,233,Kaimur (Bhabua),1452,Chainpur,0,Chainpur
+590,10,BIHAR,233,Kaimur (Bhabua),1453,Bhabua,0,Bhabua
+591,10,BIHAR,233,Kaimur (Bhabua),1453,Bhabua,801392,Bhabua (Nagar Parishad)
+592,10,BIHAR,233,Kaimur (Bhabua),1454,Rampur,0,Rampur
+593,10,BIHAR,233,Kaimur (Bhabua),1455,Bhagwanpur,0,Bhagwanpur
+594,10,BIHAR,233,Kaimur (Bhabua),1456,Adhaura,0,Adhaura
+595,10,BIHAR,234,Rohtas,0,Rohtas,0,Rohtas
+596,10,BIHAR,234,Rohtas,1457,Kochas,0,Kochas
+597,10,BIHAR,234,Rohtas,1458,Dinara,0,Dinara
+598,10,BIHAR,234,Rohtas,1459,Dawath,0,Dawath
+599,10,BIHAR,234,Rohtas,1459,Dawath,801393,Koath (NP)
+600,10,BIHAR,234,Rohtas,1460,Suryapura,0,Suryapura
+601,10,BIHAR,234,Rohtas,1461,Bikramganj,0,Bikramganj
+602,10,BIHAR,234,Rohtas,1461,Bikramganj,801394,Bikramganj (NP)
+603,10,BIHAR,234,Rohtas,1462,Karakat,0,Karakat
+604,10,BIHAR,234,Rohtas,1463,Nasriganj,0,Nasriganj
+605,10,BIHAR,234,Rohtas,1463,Nasriganj,801395,Nasriganj (NP)
+606,10,BIHAR,234,Rohtas,1464,Rajpur,0,Rajpur
+607,10,BIHAR,234,Rohtas,1465,Sanjhauli,0,Sanjhauli
+608,10,BIHAR,234,Rohtas,1466,Nokha,0,Nokha
+609,10,BIHAR,234,Rohtas,1466,Nokha,801396,Nokha (NP)
+610,10,BIHAR,234,Rohtas,1467,Kargahar,0,Kargahar
+611,10,BIHAR,234,Rohtas,1468,Chenari,0,Chenari
+612,10,BIHAR,234,Rohtas,1469,Nauhatta,0,Nauhatta
+613,10,BIHAR,234,Rohtas,1470,Sheosagar,0,Sheosagar
+614,10,BIHAR,234,Rohtas,1471,Sasaram,0,Sasaram
+615,10,BIHAR,234,Rohtas,1471,Sasaram,801397,Sasaram (Nagar Parishad)
+616,10,BIHAR,234,Rohtas,1472,Akorhi Gola,0,Akorhi Gola
+617,10,BIHAR,234,Rohtas,1473,Dehri,0,Dehri
+618,10,BIHAR,234,Rohtas,1473,Dehri,801398,Dehri (Nagar Parishad)
+619,10,BIHAR,234,Rohtas,1474,Tilouthu,0,Tilouthu
+620,10,BIHAR,234,Rohtas,1475,Rohtas,0,Rohtas
+621,10,BIHAR,235,Aurangabad,0,Aurangabad,0,Aurangabad
+622,10,BIHAR,235,Aurangabad,1476,Daudnagar,0,Daudnagar
+623,10,BIHAR,235,Aurangabad,1476,Daudnagar,801399,Daudnagar (NP)
+624,10,BIHAR,235,Aurangabad,1477,Haspura,0,Haspura
+625,10,BIHAR,235,Aurangabad,1478,Goh,0,Goh
+626,10,BIHAR,235,Aurangabad,1479,Rafiganj,0,Rafiganj
+627,10,BIHAR,235,Aurangabad,1479,Rafiganj,801400,Rafiganj (NP)
+628,10,BIHAR,235,Aurangabad,1480,Obra,0,Obra
+629,10,BIHAR,235,Aurangabad,1481,Aurangabad,0,Aurangabad
+630,10,BIHAR,235,Aurangabad,1481,Aurangabad,801401,Aurangabad (Nagar Parishad)
+631,10,BIHAR,235,Aurangabad,1482,Barun,0,Barun
+632,10,BIHAR,235,Aurangabad,1483,Nabinagar,0,Nabinagar
+633,10,BIHAR,235,Aurangabad,1483,Nabinagar,801402,Nabinagar (NP)
+634,10,BIHAR,235,Aurangabad,1484,Kutumba,0,Kutumba
+635,10,BIHAR,235,Aurangabad,1485,Deo,0,Deo
+636,10,BIHAR,235,Aurangabad,1486,Madanpur,0,Madanpur
+637,10,BIHAR,236,Gaya,0,Gaya,0,Gaya
+638,10,BIHAR,236,Gaya,1487,Konch,0,Konch
+639,10,BIHAR,236,Gaya,1488,Tikari ,0,Tikari 
+640,10,BIHAR,236,Gaya,1488,Tikari ,801403,Tikari (NP)
+641,10,BIHAR,236,Gaya,1489,Belaganj,0,Belaganj
+642,10,BIHAR,236,Gaya,1490,Khizirsarai,0,Khizirsarai
+643,10,BIHAR,236,Gaya,1491,Neem Chak Bathani,0,Neem Chak Bathani
+644,10,BIHAR,236,Gaya,1492,Muhra,0,Muhra
+645,10,BIHAR,236,Gaya,1493,Atri,0,Atri
+646,10,BIHAR,236,Gaya,1494,Manpur,0,Manpur
+647,10,BIHAR,236,Gaya,1495,Gaya Town C.D.Block,0,Gaya Town C.D.Block
+648,10,BIHAR,236,Gaya,1495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG)
+649,10,BIHAR,236,Gaya,1495,Gaya Town C.D.Block,801404,Gaya (M Corp.)
+650,10,BIHAR,236,Gaya,1496,Paraiya,0,Paraiya
+651,10,BIHAR,236,Gaya,1497,Guraru,0,Guraru
+652,10,BIHAR,236,Gaya,1498,Gurua,0,Gurua
+653,10,BIHAR,236,Gaya,1499,Amas,0,Amas
+654,10,BIHAR,236,Gaya,1500,Banke Bazar,0,Banke Bazar
+655,10,BIHAR,236,Gaya,1501,Imamganj,0,Imamganj
+656,10,BIHAR,236,Gaya,1502,Dumaria,0,Dumaria
+657,10,BIHAR,236,Gaya,1503,Sherghati,0,Sherghati
+658,10,BIHAR,236,Gaya,1503,Sherghati,801405,Sherghati (NP)
+659,10,BIHAR,236,Gaya,1504,Dobhi,0,Dobhi
+660,10,BIHAR,236,Gaya,1505,Bodh Gaya,0,Bodh Gaya
+661,10,BIHAR,236,Gaya,1505,Bodh Gaya,801406,Bodh Gaya (NP)
+662,10,BIHAR,236,Gaya,1506,Tan Kuppa,0,Tan Kuppa
+663,10,BIHAR,236,Gaya,1507,Wazirganj,0,Wazirganj
+664,10,BIHAR,236,Gaya,1508,Fatehpur,0,Fatehpur
+665,10,BIHAR,236,Gaya,1509,Mohanpur,0,Mohanpur
+666,10,BIHAR,236,Gaya,1510,Barachatti,0,Barachatti
+667,10,BIHAR,237,Nawada,0,Nawada,0,Nawada
+668,10,BIHAR,237,Nawada,1511,Nardiganj,0,Nardiganj
+669,10,BIHAR,237,Nawada,1512,Nawada,0,Nawada
+670,10,BIHAR,237,Nawada,1512,Nawada,801407,Nawada (Nagar Parishad)
+671,10,BIHAR,237,Nawada,1513,Warisaliganj,0,Warisaliganj
+672,10,BIHAR,237,Nawada,1513,Warisaliganj,801408,Warisaliganj (NP)
+673,10,BIHAR,237,Nawada,1514,Kashi Chak,0,Kashi Chak
+674,10,BIHAR,237,Nawada,1515,Pakribarawan,0,Pakribarawan
+675,10,BIHAR,237,Nawada,1516,Kawakol,0,Kawakol
+676,10,BIHAR,237,Nawada,1517,Roh,0,Roh
+677,10,BIHAR,237,Nawada,1518,Gobindpur,0,Gobindpur
+678,10,BIHAR,237,Nawada,1519,Akbarpur,0,Akbarpur
+679,10,BIHAR,237,Nawada,1520,Hisua,0,Hisua
+680,10,BIHAR,237,Nawada,1520,Hisua,801409,Hisua (NP)
+681,10,BIHAR,237,Nawada,1521,Narhat,0,Narhat
+682,10,BIHAR,237,Nawada,1522,Meskaur,0,Meskaur
+683,10,BIHAR,237,Nawada,1523,Sirdala,0,Sirdala
+684,10,BIHAR,237,Nawada,1524,Rajauli,0,Rajauli
+685,10,BIHAR,237,Nawada,1524,Rajauli,801410,Rajauli (NP)
+686,10,BIHAR,238,Jamui,0,Jamui,0,Jamui
+687,10,BIHAR,238,Jamui,1525,Islamnagar Aliganj,0,Islamnagar Aliganj
+688,10,BIHAR,238,Jamui,1526,Sikandra,0,Sikandra
+689,10,BIHAR,238,Jamui,1527,Jamui,0,Jamui
+690,10,BIHAR,238,Jamui,1527,Jamui,801411,Jamui (Nagar Parishad)
+691,10,BIHAR,238,Jamui,1528,Barhat,0,Barhat
+692,10,BIHAR,238,Jamui,1529,Lakshmipur,0,Lakshmipur
+693,10,BIHAR,238,Jamui,1530,Jhajha,0,Jhajha
+694,10,BIHAR,238,Jamui,1530,Jhajha,801412,Jhajha (NP)
+695,10,BIHAR,238,Jamui,1531,Gidhaur,0,Gidhaur
+696,10,BIHAR,238,Jamui,1532,Khaira,0,Khaira
+697,10,BIHAR,238,Jamui,1533,Sono,0,Sono
+698,10,BIHAR,238,Jamui,1534,Chakai,0,Chakai
+699,10,BIHAR,239,Jehanabad ,0,Jehanabad ,0,Jehanabad 
+700,10,BIHAR,239,Jehanabad ,1535,Ratni Faridpur,0,Ratni Faridpur
+701,10,BIHAR,239,Jehanabad ,1536,Jehanabad,0,Jehanabad
+702,10,BIHAR,239,Jehanabad ,1536,Jehanabad,801413,Jehanabad (Nagar Parishad) 
+703,10,BIHAR,239,Jehanabad ,1537,Kako,0,Kako
+704,10,BIHAR,239,Jehanabad ,1538,Modanganj,0,Modanganj
+705,10,BIHAR,239,Jehanabad ,1539,Ghoshi,0,Ghoshi
+706,10,BIHAR,239,Jehanabad ,1540,Makhdumpur,0,Makhdumpur
+707,10,BIHAR,239,Jehanabad ,1540,Makhdumpur,801414,Makhdumpur (NP)
+708,10,BIHAR,239,Jehanabad ,1541,Hulasganj,0,Hulasganj
+709,10,BIHAR,240,Arwal,0,Arwal,0,Arwal
+710,10,BIHAR,240,Arwal,1542,Arwal,0,Arwal
+711,10,BIHAR,240,Arwal,1542,Arwal,801415,Arwal (Nagar Parishad)
+712,10,BIHAR,240,Arwal,1543,Kaler,0,Kaler
+713,10,BIHAR,240,Arwal,1544,Karpi,0,Karpi
+714,10,BIHAR,240,Arwal,1545,Sonbhadra Banshi Suryapur,0,Sonbhadra Banshi Suryapur
+715,10,BIHAR,240,Arwal,1546,Kurtha,0,Kurtha

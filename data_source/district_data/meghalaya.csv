@@ -1,0 +1,58 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,17,MEGHALAYA,0,MEGHALAYA,0,MEGHALAYA,0,MEGHALAYA
+1,17,MEGHALAYA,293,West Garo Hills,0,West Garo Hills,0,West Garo Hills
+2,17,MEGHALAYA,293,West Garo Hills,1962,Selsella,0,Selsella
+3,17,MEGHALAYA,293,West Garo Hills,1963,Dadenggiri ,0,Dadenggiri 
+4,17,MEGHALAYA,293,West Garo Hills,1964,Tikrikilla ,0,Tikrikilla 
+5,17,MEGHALAYA,293,West Garo Hills,1965,Rongram,0,Rongram
+6,17,MEGHALAYA,293,West Garo Hills,1965,Rongram,801536,Tura (M)
+7,17,MEGHALAYA,293,West Garo Hills,1966,Betasing ,0,Betasing 
+8,17,MEGHALAYA,293,West Garo Hills,1967,Zikzak ,0,Zikzak 
+9,17,MEGHALAYA,293,West Garo Hills,1968,Gambegre ,0,Gambegre 
+10,17,MEGHALAYA,293,West Garo Hills,1969,Dalu ,0,Dalu 
+11,17,MEGHALAYA,294,East Garo Hills,0,East Garo Hills,0,East Garo Hills
+12,17,MEGHALAYA,294,East Garo Hills,1970,Resubelpara ,0,Resubelpara 
+13,17,MEGHALAYA,294,East Garo Hills,1970,Resubelpara ,801537,Resubelpara (MB)
+14,17,MEGHALAYA,294,East Garo Hills,1971,Dambo Rongjeng ,0,Dambo Rongjeng 
+15,17,MEGHALAYA,294,East Garo Hills,1972,Kharkutta,0,Kharkutta
+16,17,MEGHALAYA,294,East Garo Hills,1973,Songsak ,0,Songsak 
+17,17,MEGHALAYA,294,East Garo Hills,1974,Samanda ,0,Samanda 
+18,17,MEGHALAYA,294,East Garo Hills,1974,Samanda ,801538,Williamnagar (MB)
+19,17,MEGHALAYA,295,South Garo Hills,0,South Garo Hills,0,South Garo Hills
+20,17,MEGHALAYA,295,South Garo Hills,1975,Chokpot ,0,Chokpot 
+21,17,MEGHALAYA,295,South Garo Hills,1976,Gasuapara ,0,Gasuapara 
+22,17,MEGHALAYA,295,South Garo Hills,1977,Baghmara ,0,Baghmara 
+23,17,MEGHALAYA,295,South Garo Hills,1977,Baghmara ,801539,Baghmara (MB)
+24,17,MEGHALAYA,295,South Garo Hills,1978,Rongara ,0,Rongara 
+25,17,MEGHALAYA,296,West Khasi Hills,0,West Khasi Hills,0,West Khasi Hills
+26,17,MEGHALAYA,296,West Khasi Hills,1979,Mawshynrut,0,Mawshynrut
+27,17,MEGHALAYA,296,West Khasi Hills,1980,Nongstoin,0,Nongstoin
+28,17,MEGHALAYA,296,West Khasi Hills,1980,Nongstoin,801540,Nongstoin (TC)
+29,17,MEGHALAYA,296,West Khasi Hills,1981,Mawthadraishan,0,Mawthadraishan
+30,17,MEGHALAYA,296,West Khasi Hills,1982,Mairang,0,Mairang
+31,17,MEGHALAYA,296,West Khasi Hills,1982,Mairang,801541,Mairang (TC)
+32,17,MEGHALAYA,296,West Khasi Hills,1983,Ranikor,0,Ranikor
+33,17,MEGHALAYA,296,West Khasi Hills,1984,Mawkyrwat,0,Mawkyrwat
+34,17,MEGHALAYA,297,Ribhoi,0,Ribhoi,0,Ribhoi
+35,17,MEGHALAYA,297,Ribhoi,1985,Umling ,0,Umling 
+36,17,MEGHALAYA,297,Ribhoi,1985,Umling ,801542,Nongpoh (TC)
+37,17,MEGHALAYA,297,Ribhoi,1986,Jirang ,0,Jirang 
+38,17,MEGHALAYA,297,Ribhoi,1987,Umsning ,0,Umsning 
+39,17,MEGHALAYA,298,East Khasi Hills,0,East Khasi Hills,0,East Khasi Hills
+40,17,MEGHALAYA,298,East Khasi Hills,1988,Mawphlang,0,Mawphlang
+41,17,MEGHALAYA,298,East Khasi Hills,1989,Mylliem,0,Mylliem
+42,17,MEGHALAYA,298,East Khasi Hills,1989,Mylliem,801543,Shillong (CB)
+43,17,MEGHALAYA,298,East Khasi Hills,1989,Mylliem,801544,Shillong (MB)
+44,17,MEGHALAYA,298,East Khasi Hills,1990,Mawryngkneng,0,Mawryngkneng
+45,17,MEGHALAYA,298,East Khasi Hills,1991,Mawkynrew,0,Mawkynrew
+46,17,MEGHALAYA,298,East Khasi Hills,1992,Khatarshnong Laitkroh,0,Khatarshnong Laitkroh
+47,17,MEGHALAYA,298,East Khasi Hills,1993,Mawsynram,0,Mawsynram
+48,17,MEGHALAYA,298,East Khasi Hills,1994,Shella Bholaganj,0,Shella Bholaganj
+49,17,MEGHALAYA,298,East Khasi Hills,1995,Pynursla,0,Pynursla
+50,17,MEGHALAYA,299,Jaintia Hills,0,Jaintia Hills,0,Jaintia Hills
+51,17,MEGHALAYA,299,Jaintia Hills,1996,Thadlaskein,0,Thadlaskein
+52,17,MEGHALAYA,299,Jaintia Hills,1996,Thadlaskein,801545,Jowai (M)
+53,17,MEGHALAYA,299,Jaintia Hills,1997,Laskein,0,Laskein
+54,17,MEGHALAYA,299,Jaintia Hills,1998,Amlarem,0,Amlarem
+55,17,MEGHALAYA,299,Jaintia Hills,1999,Khliehriat,0,Khliehriat
+56,17,MEGHALAYA,299,Jaintia Hills,2000,Saipung,0,Saipung

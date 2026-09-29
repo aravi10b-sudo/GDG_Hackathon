@@ -1,0 +1,490 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,8,RAJASTHAN,0,RAJASTHAN,0,RAJASTHAN,0,RAJASTHAN
+1,8,RAJASTHAN,99,Ganganagar ,0,Ganganagar ,0,Ganganagar 
+2,8,RAJASTHAN,99,Ganganagar ,457,Karanpur,0,Karanpur
+3,8,RAJASTHAN,99,Ganganagar ,457,Karanpur,800444,Kesrisinghpur (M)
+4,8,RAJASTHAN,99,Ganganagar ,457,Karanpur,800445,Karanpur (M)
+5,8,RAJASTHAN,99,Ganganagar ,458,Ganganagar,0,Ganganagar
+6,8,RAJASTHAN,99,Ganganagar ,458,Ganganagar,800446,Ganganagar (M Cl + OG)
+7,8,RAJASTHAN,99,Ganganagar ,458,Ganganagar,800446,Ganganagar (M Cl)
+8,8,RAJASTHAN,99,Ganganagar ,459,Sadulshahar,0,Sadulshahar
+9,8,RAJASTHAN,99,Ganganagar ,459,Sadulshahar,800447,Sadulshahar (M)
+10,8,RAJASTHAN,99,Ganganagar ,460,Padampur,0,Padampur
+11,8,RAJASTHAN,99,Ganganagar ,460,Padampur,800448,Gajsinghpur (M)
+12,8,RAJASTHAN,99,Ganganagar ,460,Padampur,800449,Padampur (M)
+13,8,RAJASTHAN,99,Ganganagar ,461,Raisinghnagar,0,Raisinghnagar
+14,8,RAJASTHAN,99,Ganganagar ,461,Raisinghnagar,800450,Raisinghnagar (M)
+15,8,RAJASTHAN,99,Ganganagar ,462,Anupgarh,0,Anupgarh
+16,8,RAJASTHAN,99,Ganganagar ,462,Anupgarh,800451,Anupgarh (M)
+17,8,RAJASTHAN,99,Ganganagar ,463,Gharsana,0,Gharsana
+18,8,RAJASTHAN,99,Ganganagar ,464,Vijainagar,0,Vijainagar
+19,8,RAJASTHAN,99,Ganganagar ,464,Vijainagar,800452,Vijainagar (M)
+20,8,RAJASTHAN,99,Ganganagar ,465,Suratgarh,0,Suratgarh
+21,8,RAJASTHAN,99,Ganganagar ,465,Suratgarh,800453,Suratgarh (M)
+22,8,RAJASTHAN,100,Hanumangarh,0,Hanumangarh,0,Hanumangarh
+23,8,RAJASTHAN,100,Hanumangarh,466,Sangaria,0,Sangaria
+24,8,RAJASTHAN,100,Hanumangarh,466,Sangaria,800454,Sangaria (M)
+25,8,RAJASTHAN,100,Hanumangarh,467,Tibi,0,Tibi
+26,8,RAJASTHAN,100,Hanumangarh,468,Hanumangarh,0,Hanumangarh
+27,8,RAJASTHAN,100,Hanumangarh,468,Hanumangarh,800455,Hanumangarh (M Cl)
+28,8,RAJASTHAN,100,Hanumangarh,469,Pilibanga,0,Pilibanga
+29,8,RAJASTHAN,100,Hanumangarh,469,Pilibanga,800456,Pilibanga (M)
+30,8,RAJASTHAN,100,Hanumangarh,470,Rawatsar,0,Rawatsar
+31,8,RAJASTHAN,100,Hanumangarh,470,Rawatsar,800457,Rawatsar (M)
+32,8,RAJASTHAN,100,Hanumangarh,471,Nohar,0,Nohar
+33,8,RAJASTHAN,100,Hanumangarh,471,Nohar,800458,Nohar (M)
+34,8,RAJASTHAN,100,Hanumangarh,472,Bhadra,0,Bhadra
+35,8,RAJASTHAN,100,Hanumangarh,472,Bhadra,800459,Bhadra (M)
+36,8,RAJASTHAN,101,Bikaner,0,Bikaner,0,Bikaner
+37,8,RAJASTHAN,101,Bikaner,473,Bikaner,0,Bikaner
+38,8,RAJASTHAN,101,Bikaner,473,Bikaner,800460,Bikaner (M Corp.)
+39,8,RAJASTHAN,101,Bikaner,473,Bikaner,800461,Deshnoke (M)
+40,8,RAJASTHAN,101,Bikaner,474,Poogal,0,Poogal
+41,8,RAJASTHAN,101,Bikaner,475,Lunkaransar,0,Lunkaransar
+42,8,RAJASTHAN,101,Bikaner,476,Kolayat,0,Kolayat
+43,8,RAJASTHAN,101,Bikaner,477,Nokha,0,Nokha
+44,8,RAJASTHAN,101,Bikaner,477,Nokha,800462,Nokha (M)
+45,8,RAJASTHAN,101,Bikaner,478,Khajuwala,0,Khajuwala
+46,8,RAJASTHAN,101,Bikaner,479,Chhatargarh,0,Chhatargarh
+47,8,RAJASTHAN,101,Bikaner,480,Sridungargarh,0,Sridungargarh
+48,8,RAJASTHAN,101,Bikaner,480,Sridungargarh,800463,Dungargarh (M)
+49,8,RAJASTHAN,102,Churu,0,Churu,0,Churu
+50,8,RAJASTHAN,102,Churu,481,Taranagar,0,Taranagar
+51,8,RAJASTHAN,102,Churu,481,Taranagar,800464,Taranagar (M)
+52,8,RAJASTHAN,102,Churu,482,Rajgarh,0,Rajgarh
+53,8,RAJASTHAN,102,Churu,482,Rajgarh,800465,Rajgarh (M)
+54,8,RAJASTHAN,102,Churu,483,Sardarshahar,0,Sardarshahar
+55,8,RAJASTHAN,102,Churu,483,Sardarshahar,800466,Sardarshahar (M)
+56,8,RAJASTHAN,102,Churu,484,Churu,0,Churu
+57,8,RAJASTHAN,102,Churu,484,Churu,800467,Ratannagar (M)
+58,8,RAJASTHAN,102,Churu,484,Churu,800468,Churu (M Cl + OG)
+59,8,RAJASTHAN,102,Churu,484,Churu,800468,Churu (M Cl)
+60,8,RAJASTHAN,102,Churu,485,Ratangarh,0,Ratangarh
+61,8,RAJASTHAN,102,Churu,485,Ratangarh,800469,Ratangarh (M)
+62,8,RAJASTHAN,102,Churu,485,Ratangarh,800470,Rajaldesar (M)
+63,8,RAJASTHAN,102,Churu,486,Sujangarh,0,Sujangarh
+64,8,RAJASTHAN,102,Churu,486,Sujangarh,800471,Bidasar (M)
+65,8,RAJASTHAN,102,Churu,486,Sujangarh,800472,Chhapar (M)
+66,8,RAJASTHAN,102,Churu,486,Sujangarh,800473,Sujangarh (M)
+67,8,RAJASTHAN,103,Jhunjhunun,0,Jhunjhunun,0,Jhunjhunun
+68,8,RAJASTHAN,103,Jhunjhunun,487,Jhunjhunun,0,Jhunjhunun
+69,8,RAJASTHAN,103,Jhunjhunun,487,Jhunjhunun,800474,Bissau (M)
+70,8,RAJASTHAN,103,Jhunjhunun,487,Jhunjhunun,800475,Mandawa (M)
+71,8,RAJASTHAN,103,Jhunjhunun,487,Jhunjhunun,800476,Jhunjhunun (M Cl)
+72,8,RAJASTHAN,103,Jhunjhunun,487,Jhunjhunun,800477,Baggar (M)
+73,8,RAJASTHAN,103,Jhunjhunun,488,Chirawa,0,Chirawa
+74,8,RAJASTHAN,103,Jhunjhunun,488,Chirawa,800478,Pilani (M) 
+75,8,RAJASTHAN,103,Jhunjhunun,488,Chirawa,800479,Vidyavihar (M)
+76,8,RAJASTHAN,103,Jhunjhunun,488,Chirawa,800480,Surajgarh (M)
+77,8,RAJASTHAN,103,Jhunjhunun,488,Chirawa,800481,Chirawa (M)
+78,8,RAJASTHAN,103,Jhunjhunun,489,Buhana,0,Buhana
+79,8,RAJASTHAN,103,Jhunjhunun,490,Khetri,0,Khetri
+80,8,RAJASTHAN,103,Jhunjhunun,490,Khetri,800482,Khetri (M)
+81,8,RAJASTHAN,103,Jhunjhunun,491,Nawalgarh,0,Nawalgarh
+82,8,RAJASTHAN,103,Jhunjhunun,491,Nawalgarh,800483,Mukandgarh (M)
+83,8,RAJASTHAN,103,Jhunjhunun,491,Nawalgarh,800484,Nawalgarh (M)
+84,8,RAJASTHAN,103,Jhunjhunun,492,Udaipurwati,0,Udaipurwati
+85,8,RAJASTHAN,103,Jhunjhunun,492,Udaipurwati,800485,Udaipurwati (M)
+86,8,RAJASTHAN,104,Alwar,0,Alwar,0,Alwar
+87,8,RAJASTHAN,104,Alwar,493,Behror,0,Behror
+88,8,RAJASTHAN,104,Alwar,493,Behror,800486,Behror (M)
+89,8,RAJASTHAN,104,Alwar,494,Mandawar,0,Mandawar
+90,8,RAJASTHAN,104,Alwar,495,Kotkasim,0,Kotkasim
+91,8,RAJASTHAN,104,Alwar,496,Tijara,0,Tijara
+92,8,RAJASTHAN,104,Alwar,496,Tijara,800487,Bhiwadi (M)
+93,8,RAJASTHAN,104,Alwar,496,Tijara,800488,Tijara (M)
+94,8,RAJASTHAN,104,Alwar,497,Kishangarh Bas,0,Kishangarh Bas
+95,8,RAJASTHAN,104,Alwar,497,Kishangarh Bas,800489,Khairthal (M)
+96,8,RAJASTHAN,104,Alwar,498,Ramgarh,0,Ramgarh
+97,8,RAJASTHAN,104,Alwar,499,Alwar,0,Alwar
+98,8,RAJASTHAN,104,Alwar,499,Alwar,800490,Alwar (M Cl + OG)
+99,8,RAJASTHAN,104,Alwar,499,Alwar,800490,Alwar (M Cl)
+100,8,RAJASTHAN,104,Alwar,500,Bansur,0,Bansur
+101,8,RAJASTHAN,104,Alwar,501,Thanagazi,0,Thanagazi
+102,8,RAJASTHAN,104,Alwar,502,Rajgarh,0,Rajgarh
+103,8,RAJASTHAN,104,Alwar,502,Rajgarh,800491,Rajgarh (M)
+104,8,RAJASTHAN,104,Alwar,503,Lachhmangarh,0,Lachhmangarh
+105,8,RAJASTHAN,104,Alwar,504,Kathumar,0,Kathumar
+106,8,RAJASTHAN,104,Alwar,504,Kathumar,800492,Kherli (M)
+107,8,RAJASTHAN,105,Bharatpur,0,Bharatpur,0,Bharatpur
+108,8,RAJASTHAN,105,Bharatpur,505,Pahari,0,Pahari
+109,8,RAJASTHAN,105,Bharatpur,506,Kaman,0,Kaman
+110,8,RAJASTHAN,105,Bharatpur,506,Kaman,800493,Kaman (M)
+111,8,RAJASTHAN,105,Bharatpur,507,Nagar,0,Nagar
+112,8,RAJASTHAN,105,Bharatpur,507,Nagar,800494,Nagar (M)
+113,8,RAJASTHAN,105,Bharatpur,508,Deeg,0,Deeg
+114,8,RAJASTHAN,105,Bharatpur,508,Deeg,800495,Deeg (M)
+115,8,RAJASTHAN,105,Bharatpur,509,Nadbai,0,Nadbai
+116,8,RAJASTHAN,105,Bharatpur,509,Nadbai,800496,Nadbai (M)
+117,8,RAJASTHAN,105,Bharatpur,510,Kumher,0,Kumher
+118,8,RAJASTHAN,105,Bharatpur,510,Kumher,800497,Kumher (M)
+119,8,RAJASTHAN,105,Bharatpur,511,Bharatpur,0,Bharatpur
+120,8,RAJASTHAN,105,Bharatpur,511,Bharatpur,800498,Bharatpur (M Cl + OG)  
+121,8,RAJASTHAN,105,Bharatpur,511,Bharatpur,800498,Bharatpur (M Cl) 
+122,8,RAJASTHAN,105,Bharatpur,512,Weir,0,Weir
+123,8,RAJASTHAN,105,Bharatpur,512,Weir,800499,Bhusawar (M)
+124,8,RAJASTHAN,105,Bharatpur,512,Weir,800500,Weir (M)
+125,8,RAJASTHAN,105,Bharatpur,513,Bayana,0,Bayana
+126,8,RAJASTHAN,105,Bharatpur,513,Bayana,800501,Bayana (M)
+127,8,RAJASTHAN,105,Bharatpur,514,Rupbas,0,Rupbas
+128,8,RAJASTHAN,106,Dhaulpur,0,Dhaulpur,0,Dhaulpur
+129,8,RAJASTHAN,106,Dhaulpur,515,Baseri,0,Baseri
+130,8,RAJASTHAN,106,Dhaulpur,516,Bari,0,Bari
+131,8,RAJASTHAN,106,Dhaulpur,516,Bari,800502,Bari (M)
+132,8,RAJASTHAN,106,Dhaulpur,517,Sepau,0,Sepau
+133,8,RAJASTHAN,106,Dhaulpur,518,Dhaulpur,0,Dhaulpur
+134,8,RAJASTHAN,106,Dhaulpur,518,Dhaulpur,800503,Dhaulpur (M + OG)
+135,8,RAJASTHAN,106,Dhaulpur,518,Dhaulpur,800503,Dhaulpur (M)
+136,8,RAJASTHAN,106,Dhaulpur,519,Rajakhera,0,Rajakhera
+137,8,RAJASTHAN,106,Dhaulpur,519,Rajakhera,800504,Rajakhera (M)
+138,8,RAJASTHAN,107,Karauli,0,Karauli,0,Karauli
+139,8,RAJASTHAN,107,Karauli,520,Todabhim,0,Todabhim
+140,8,RAJASTHAN,107,Karauli,520,Todabhim,800505,Todabhim (M)
+141,8,RAJASTHAN,107,Karauli,521,Nadoti,0,Nadoti
+142,8,RAJASTHAN,107,Karauli,522,Hindaun,0,Hindaun
+143,8,RAJASTHAN,107,Karauli,522,Hindaun,800506,Hindaun (M)
+144,8,RAJASTHAN,107,Karauli,523,Karauli,0,Karauli
+145,8,RAJASTHAN,107,Karauli,523,Karauli,800507,Karauli (M)
+146,8,RAJASTHAN,107,Karauli,524,Mandrail,0,Mandrail
+147,8,RAJASTHAN,107,Karauli,525,Sapotra,0,Sapotra
+148,8,RAJASTHAN,108,Sawai Madhopur,0,Sawai Madhopur,0,Sawai Madhopur
+149,8,RAJASTHAN,108,Sawai Madhopur,526,Gangapur,0,Gangapur
+150,8,RAJASTHAN,108,Sawai Madhopur,526,Gangapur,800508,Gangapur City (M)
+151,8,RAJASTHAN,108,Sawai Madhopur,527,Bamanwas,0,Bamanwas
+152,8,RAJASTHAN,108,Sawai Madhopur,528,Malarna Doongar,0,Malarna Doongar
+153,8,RAJASTHAN,108,Sawai Madhopur,529,Bonli,0,Bonli
+154,8,RAJASTHAN,108,Sawai Madhopur,530,Chauth Ka Barwara,0,Chauth Ka Barwara
+155,8,RAJASTHAN,108,Sawai Madhopur,531,Sawai Madhopur,0,Sawai Madhopur
+156,8,RAJASTHAN,108,Sawai Madhopur,531,Sawai Madhopur,800509,Sawai Madhopur (M)
+157,8,RAJASTHAN,108,Sawai Madhopur,532,Khandar,0,Khandar
+158,8,RAJASTHAN,109,Dausa,0,Dausa,0,Dausa
+159,8,RAJASTHAN,109,Dausa,533,Baswa,0,Baswa
+160,8,RAJASTHAN,109,Dausa,533,Baswa,800510,Bandikui (M)
+161,8,RAJASTHAN,109,Dausa,534,Mahwa,0,Mahwa
+162,8,RAJASTHAN,109,Dausa,535,Sikrai,0,Sikrai
+163,8,RAJASTHAN,109,Dausa,536,Dausa,0,Dausa
+164,8,RAJASTHAN,109,Dausa,536,Dausa,800511,Dausa (M)
+165,8,RAJASTHAN,109,Dausa,537,Lalsot,0,Lalsot
+166,8,RAJASTHAN,109,Dausa,537,Lalsot,800512,Lalsot (M)
+167,8,RAJASTHAN,110,Jaipur,0,Jaipur,0,Jaipur
+168,8,RAJASTHAN,110,Jaipur,538,Kotputli,0,Kotputli
+169,8,RAJASTHAN,110,Jaipur,538,Kotputli,800513,Kotputli (M)
+170,8,RAJASTHAN,110,Jaipur,539,Viratnagar,0,Viratnagar
+171,8,RAJASTHAN,110,Jaipur,539,Viratnagar,800514,Viratnagar (M)
+172,8,RAJASTHAN,110,Jaipur,540,Shahpura,0,Shahpura
+173,8,RAJASTHAN,110,Jaipur,540,Shahpura,800515,Shahpura (M)
+174,8,RAJASTHAN,110,Jaipur,541,Chomu,0,Chomu
+175,8,RAJASTHAN,110,Jaipur,541,Chomu,800516,Chomu (M)
+176,8,RAJASTHAN,110,Jaipur,542,Phulera (Hq.Sambhar),0,Phulera (Hq.Sambhar)
+177,8,RAJASTHAN,110,Jaipur,542,Phulera (Hq.Sambhar),800517,Kishangarh Renwal (M)
+178,8,RAJASTHAN,110,Jaipur,542,Phulera (Hq.Sambhar),800518,Sambhar (M)
+179,8,RAJASTHAN,110,Jaipur,542,Phulera (Hq.Sambhar),800519,Phulera (M + OG)
+180,8,RAJASTHAN,110,Jaipur,542,Phulera (Hq.Sambhar),800519,Phulera (M)
+181,8,RAJASTHAN,110,Jaipur,542,Phulera (Hq.Sambhar),800520,Jobner (M)
+182,8,RAJASTHAN,110,Jaipur,543,Mauzamabad,0,Mauzamabad
+183,8,RAJASTHAN,110,Jaipur,544,Phagi,0,Phagi
+184,8,RAJASTHAN,110,Jaipur,545,Sanganer,0,Sanganer
+185,8,RAJASTHAN,110,Jaipur,545,Sanganer,800521,Bagru (M)
+186,8,RAJASTHAN,110,Jaipur,0,Jaipur,800522,Jaipur (M Corp.)
+187,8,RAJASTHAN,110,Jaipur,545,Sanganer,800522,Jaipur (M Corp.) (Part)
+188,8,RAJASTHAN,110,Jaipur,546,Jaipur,0,Jaipur
+189,8,RAJASTHAN,110,Jaipur,546,Jaipur,800522,Jaipur (M Corp.) (Part)
+190,8,RAJASTHAN,110,Jaipur,547,Amber,0,Amber
+191,8,RAJASTHAN,110,Jaipur,547,Amber,800522,Jaipur (M Corp.) (Part)
+192,8,RAJASTHAN,110,Jaipur,548,Jamwa Ramgarh,0,Jamwa Ramgarh
+193,8,RAJASTHAN,110,Jaipur,549,Bassi,0,Bassi
+194,8,RAJASTHAN,110,Jaipur,550,Chaksu,0,Chaksu
+195,8,RAJASTHAN,110,Jaipur,550,Chaksu,800523,Chaksu (M)
+196,8,RAJASTHAN,111,Sikar,0,Sikar,0,Sikar
+197,8,RAJASTHAN,111,Sikar,551,Fatehpur,0,Fatehpur
+198,8,RAJASTHAN,111,Sikar,551,Fatehpur,800524,Ramgarh (M)
+199,8,RAJASTHAN,111,Sikar,551,Fatehpur,800525,Fatehpur (M)
+200,8,RAJASTHAN,111,Sikar,552,Lachhmangarh,0,Lachhmangarh
+201,8,RAJASTHAN,111,Sikar,552,Lachhmangarh,800526,Lachhmangarh (M)
+202,8,RAJASTHAN,111,Sikar,553,Sikar,0,Sikar
+203,8,RAJASTHAN,111,Sikar,553,Sikar,800527,Sikar (M Cl + OG)
+204,8,RAJASTHAN,111,Sikar,553,Sikar,800527,Sikar (M Cl)
+205,8,RAJASTHAN,111,Sikar,554,Danta Ramgarh,0,Danta Ramgarh
+206,8,RAJASTHAN,111,Sikar,554,Danta Ramgarh,800528,Losal (M)
+207,8,RAJASTHAN,111,Sikar,555,Sri Madhopur,0,Sri Madhopur
+208,8,RAJASTHAN,111,Sikar,555,Sri Madhopur,800529,Khandela (M + OG)
+209,8,RAJASTHAN,111,Sikar,555,Sri Madhopur,800529,Khandela (M)
+210,8,RAJASTHAN,111,Sikar,555,Sri Madhopur,800530,Sri Madhopur (M)
+211,8,RAJASTHAN,111,Sikar,555,Sri Madhopur,800531,Reengus (M)
+212,8,RAJASTHAN,111,Sikar,556,Neem-Ka-Thana,0,Neem-Ka-Thana
+213,8,RAJASTHAN,111,Sikar,556,Neem-Ka-Thana,800532,Neem-Ka-Thana (M)
+214,8,RAJASTHAN,112,Nagaur,0,Nagaur,0,Nagaur
+215,8,RAJASTHAN,112,Nagaur,557,Ladnu,0,Ladnu
+216,8,RAJASTHAN,112,Nagaur,557,Ladnu,800533,Ladnu (M)
+217,8,RAJASTHAN,112,Nagaur,558,Didwana,0,Didwana
+218,8,RAJASTHAN,112,Nagaur,558,Didwana,800534,Didwana (M + OG)
+219,8,RAJASTHAN,112,Nagaur,558,Didwana,800534,Didwana (M)
+220,8,RAJASTHAN,112,Nagaur,559,Jayal,0,Jayal
+221,8,RAJASTHAN,112,Nagaur,560,Nagaur,0,Nagaur
+222,8,RAJASTHAN,112,Nagaur,560,Nagaur,800535,Nagaur (M + OG)
+223,8,RAJASTHAN,112,Nagaur,560,Nagaur,800535,Nagaur (M)
+224,8,RAJASTHAN,112,Nagaur,560,Nagaur,800536,Mundwa (M)
+225,8,RAJASTHAN,112,Nagaur,560,Nagaur,800537,Kuchera (M)
+226,8,RAJASTHAN,112,Nagaur,561,Kheenvsar,0,Kheenvsar
+227,8,RAJASTHAN,112,Nagaur,562,Merta,0,Merta
+228,8,RAJASTHAN,112,Nagaur,562,Merta,800538,Merta City (M)
+229,8,RAJASTHAN,112,Nagaur,563,Degana,0,Degana
+230,8,RAJASTHAN,112,Nagaur,564,Parbatsar,0,Parbatsar
+231,8,RAJASTHAN,112,Nagaur,0,Nagaur,800540,Makrana (M + OG)
+232,8,RAJASTHAN,112,Nagaur,564,Parbatsar,800540,Makrana (M + OG) (Part)
+233,8,RAJASTHAN,112,Nagaur,564,Parbatsar,800539,Parbatsar (M)
+234,8,RAJASTHAN,112,Nagaur,565,Makrana,0,Makrana
+235,8,RAJASTHAN,112,Nagaur,565,Makrana,800540,Makrana (M + OG) (Part)
+236,8,RAJASTHAN,112,Nagaur,565,Makrana,800540,Makrana (M)
+237,8,RAJASTHAN,112,Nagaur,566,Nawa,0,Nawa
+238,8,RAJASTHAN,112,Nagaur,566,Nawa,800541,Kuchaman City (M)
+239,8,RAJASTHAN,112,Nagaur,566,Nawa,800542,Nawa (M)
+240,8,RAJASTHAN,113,Jodhpur,0,Jodhpur,0,Jodhpur
+241,8,RAJASTHAN,113,Jodhpur,567,Phalodi,0,Phalodi
+242,8,RAJASTHAN,113,Jodhpur,567,Phalodi,800543,Phalodi (M + OG)
+243,8,RAJASTHAN,113,Jodhpur,567,Phalodi,800543,Phalodi (M)
+244,8,RAJASTHAN,113,Jodhpur,568,Osian,0,Osian
+245,8,RAJASTHAN,113,Jodhpur,569,Bhopalgarh,0,Bhopalgarh
+246,8,RAJASTHAN,113,Jodhpur,570,Jodhpur,0,Jodhpur
+247,8,RAJASTHAN,113,Jodhpur,570,Jodhpur,800544,Jodhpur (M Corp. + OG)
+248,8,RAJASTHAN,113,Jodhpur,570,Jodhpur,800544,Jodhpur (M Corp.)
+249,8,RAJASTHAN,113,Jodhpur,571,Shergarh,0,Shergarh
+250,8,RAJASTHAN,113,Jodhpur,572,Luni,0,Luni
+251,8,RAJASTHAN,113,Jodhpur,573,Bilara,0,Bilara
+252,8,RAJASTHAN,113,Jodhpur,573,Bilara,800545,Pipar City (M)
+253,8,RAJASTHAN,113,Jodhpur,573,Bilara,800546,Bilara (M)
+254,8,RAJASTHAN,114,Jaisalmer,0,Jaisalmer,0,Jaisalmer
+255,8,RAJASTHAN,114,Jaisalmer,574,Jaisalmer,0,Jaisalmer
+256,8,RAJASTHAN,114,Jaisalmer,574,Jaisalmer,800547,Jaisalmer (M)
+257,8,RAJASTHAN,114,Jaisalmer,575,Pokaran,0,Pokaran
+258,8,RAJASTHAN,114,Jaisalmer,575,Pokaran,800548,Pokaran (M)
+259,8,RAJASTHAN,114,Jaisalmer,576,Fatehgarh,0,Fatehgarh
+260,8,RAJASTHAN,115,Barmer,0,Barmer,0,Barmer
+261,8,RAJASTHAN,115,Barmer,577,Sheo,0,Sheo
+262,8,RAJASTHAN,115,Barmer,578,Baytoo,0,Baytoo
+263,8,RAJASTHAN,115,Barmer,579,Pachpadra,0,Pachpadra
+264,8,RAJASTHAN,115,Barmer,579,Pachpadra,800549,Balotra (M)
+265,8,RAJASTHAN,115,Barmer,580,Siwana,0,Siwana
+266,8,RAJASTHAN,115,Barmer,581,Gudha Malani,0,Gudha Malani
+267,8,RAJASTHAN,115,Barmer,582,Barmer,0,Barmer
+268,8,RAJASTHAN,115,Barmer,582,Barmer,800550,Barmer (M)
+269,8,RAJASTHAN,115,Barmer,583,Ramsar,0,Ramsar
+270,8,RAJASTHAN,115,Barmer,584,Chohtan,0,Chohtan
+271,8,RAJASTHAN,116,Jalor,0,Jalor,0,Jalor
+272,8,RAJASTHAN,116,Jalor,585,Sayla,0,Sayla
+273,8,RAJASTHAN,116,Jalor,586,Ahore,0,Ahore
+274,8,RAJASTHAN,116,Jalor,587,Jalor,0,Jalor
+275,8,RAJASTHAN,116,Jalor,587,Jalor,800551,Jalor (M)
+276,8,RAJASTHAN,116,Jalor,588,Bhinmal,0,Bhinmal
+277,8,RAJASTHAN,116,Jalor,588,Bhinmal,800552,Bhinmal (M)
+278,8,RAJASTHAN,116,Jalor,589,Bagora,0,Bagora
+279,8,RAJASTHAN,116,Jalor,590,Sanchore,0,Sanchore
+280,8,RAJASTHAN,116,Jalor,590,Sanchore,800553,Sanchore (M)
+281,8,RAJASTHAN,116,Jalor,591,Raniwara,0,Raniwara
+282,8,RAJASTHAN,117,Sirohi,0,Sirohi,0,Sirohi
+283,8,RAJASTHAN,117,Sirohi,592,Sheoganj,0,Sheoganj
+284,8,RAJASTHAN,117,Sirohi,592,Sheoganj,800554,Sheoganj (M + OG)
+285,8,RAJASTHAN,117,Sirohi,592,Sheoganj,800554,Sheoganj (M)
+286,8,RAJASTHAN,117,Sirohi,593,Sirohi,0,Sirohi
+287,8,RAJASTHAN,117,Sirohi,593,Sirohi,800555,Sirohi (M)
+288,8,RAJASTHAN,117,Sirohi,594,Pindwara,0,Pindwara
+289,8,RAJASTHAN,117,Sirohi,594,Pindwara,800556,Pindwara (M)
+290,8,RAJASTHAN,117,Sirohi,595,Abu Road,0,Abu Road
+291,8,RAJASTHAN,117,Sirohi,595,Abu Road,800557,Mount Abu (M)
+292,8,RAJASTHAN,117,Sirohi,595,Abu Road,800558,Abu Road (M + OG)
+293,8,RAJASTHAN,117,Sirohi,595,Abu Road,800558,Abu Road (M)
+294,8,RAJASTHAN,117,Sirohi,596,Reodar,0,Reodar
+295,8,RAJASTHAN,118,Pali,0,Pali,0,Pali
+296,8,RAJASTHAN,118,Pali,597,Jaitaran,0,Jaitaran
+297,8,RAJASTHAN,118,Pali,597,Jaitaran,800559,Jaitaran (M)
+298,8,RAJASTHAN,118,Pali,598,Raipur,0,Raipur
+299,8,RAJASTHAN,118,Pali,599,Sojat,0,Sojat
+300,8,RAJASTHAN,118,Pali,599,Sojat,800560,Sojat (M)
+301,8,RAJASTHAN,118,Pali,600,Rohat,0,Rohat
+302,8,RAJASTHAN,118,Pali,601,Pali,0,Pali
+303,8,RAJASTHAN,118,Pali,601,Pali,800561,Pali (M Cl)
+304,8,RAJASTHAN,118,Pali,602,Marwar Junction,0,Marwar Junction
+305,8,RAJASTHAN,118,Pali,603,Desuri,0,Desuri
+306,8,RAJASTHAN,118,Pali,603,Desuri,800562,Rani (M)
+307,8,RAJASTHAN,118,Pali,603,Desuri,800563,Sadri (M)
+308,8,RAJASTHAN,118,Pali,604,Sumerpur,0,Sumerpur
+309,8,RAJASTHAN,118,Pali,604,Sumerpur,800564,Takhatgarh (M)
+310,8,RAJASTHAN,118,Pali,604,Sumerpur,800565,Sumerpur (M)
+311,8,RAJASTHAN,118,Pali,605,Bali,0,Bali
+312,8,RAJASTHAN,118,Pali,605,Bali,800566,Falna (M)
+313,8,RAJASTHAN,118,Pali,605,Bali,800567,Bali (M)
+314,8,RAJASTHAN,119,Ajmer,0,Ajmer,0,Ajmer
+315,8,RAJASTHAN,119,Ajmer,606,Kishangarh,0,Kishangarh
+316,8,RAJASTHAN,119,Ajmer,606,Kishangarh,800568,Kishangarh (M Cl)
+317,8,RAJASTHAN,119,Ajmer,607,Ajmer,0,Ajmer
+318,8,RAJASTHAN,119,Ajmer,607,Ajmer,800569,Pushkar (M)
+319,8,RAJASTHAN,119,Ajmer,607,Ajmer,800570,Ajmer (M Corp.)
+320,8,RAJASTHAN,119,Ajmer,608,Peesangan,0,Peesangan
+321,8,RAJASTHAN,119,Ajmer,609,Beawar,0,Beawar
+322,8,RAJASTHAN,119,Ajmer,609,Beawar,800571,Beawar (M Cl + OG)
+323,8,RAJASTHAN,119,Ajmer,609,Beawar,800571,Beawar (M Cl)
+324,8,RAJASTHAN,119,Ajmer,610,Masuda,0,Masuda
+325,8,RAJASTHAN,119,Ajmer,610,Masuda,800572,Vijainagar (M)
+326,8,RAJASTHAN,119,Ajmer,611,Nasirabad,0,Nasirabad
+327,8,RAJASTHAN,119,Ajmer,611,Nasirabad,800573,Nasirabad (CB)
+328,8,RAJASTHAN,119,Ajmer,612,Bhinay,0,Bhinay
+329,8,RAJASTHAN,119,Ajmer,613,Sarwar,0,Sarwar
+330,8,RAJASTHAN,119,Ajmer,613,Sarwar,800574,Sarwar (M)
+331,8,RAJASTHAN,119,Ajmer,614,Kekri,0,Kekri
+332,8,RAJASTHAN,119,Ajmer,614,Kekri,800575,Kekri (M)
+333,8,RAJASTHAN,120,Tonk,0,Tonk,0,Tonk
+334,8,RAJASTHAN,120,Tonk,615,Malpura,0,Malpura
+335,8,RAJASTHAN,120,Tonk,615,Malpura,800576,Malpura (M + OG)
+336,8,RAJASTHAN,120,Tonk,615,Malpura,800576,Malpura (M)
+337,8,RAJASTHAN,120,Tonk,616,Peeplu,0,Peeplu
+338,8,RAJASTHAN,120,Tonk,617,Niwai,0,Niwai
+339,8,RAJASTHAN,120,Tonk,617,Niwai,800577,Niwai (M)
+340,8,RAJASTHAN,120,Tonk,618,Tonk,0,Tonk
+341,8,RAJASTHAN,120,Tonk,618,Tonk,800578,Tonk (M Cl)
+342,8,RAJASTHAN,120,Tonk,619,Todaraisingh,0,Todaraisingh
+343,8,RAJASTHAN,120,Tonk,619,Todaraisingh,800579,Todaraisingh (M)
+344,8,RAJASTHAN,120,Tonk,620,Deoli,0,Deoli
+345,8,RAJASTHAN,120,Tonk,620,Deoli,800580,Deoli (M)
+346,8,RAJASTHAN,120,Tonk,621,Uniara,0,Uniara
+347,8,RAJASTHAN,120,Tonk,621,Uniara,800581,Uniara (M)
+348,8,RAJASTHAN,121,Bundi,0,Bundi,0,Bundi
+349,8,RAJASTHAN,121,Bundi,622,Hindoli,0,Hindoli
+350,8,RAJASTHAN,121,Bundi,0,Bundi,800587,Bundi (M + OG)
+351,8,RAJASTHAN,121,Bundi,622,Hindoli,800587,Bundi (M + OG) (Part)
+352,8,RAJASTHAN,121,Bundi,623,Nainwa,0,Nainwa
+353,8,RAJASTHAN,121,Bundi,623,Nainwa,800582,Nainwa (M)
+354,8,RAJASTHAN,121,Bundi,624,Indragarh,0,Indragarh
+355,8,RAJASTHAN,121,Bundi,624,Indragarh,800583,Indragarh (M)
+356,8,RAJASTHAN,121,Bundi,624,Indragarh,800584,Lakheri (M)
+357,8,RAJASTHAN,121,Bundi,625,Keshoraipatan,0,Keshoraipatan
+358,8,RAJASTHAN,121,Bundi,625,Keshoraipatan,800585,Keshoraipatan (M)
+359,8,RAJASTHAN,121,Bundi,625,Keshoraipatan,800586,Kaprain (M)
+360,8,RAJASTHAN,121,Bundi,626,Bundi,0,Bundi
+361,8,RAJASTHAN,121,Bundi,626,Bundi,800587,Bundi (M + OG) (Part)
+362,8,RAJASTHAN,121,Bundi,626,Bundi,800587,Bundi (M)
+363,8,RAJASTHAN,122,Bhilwara,0,Bhilwara,0,Bhilwara
+364,8,RAJASTHAN,122,Bhilwara,627,Asind,0,Asind
+365,8,RAJASTHAN,122,Bhilwara,627,Asind,800588,Asind (M)
+366,8,RAJASTHAN,122,Bhilwara,628,Hurda,0,Hurda
+367,8,RAJASTHAN,122,Bhilwara,628,Hurda,800589,Gulabpura (M)
+368,8,RAJASTHAN,122,Bhilwara,629,Shahpura,0,Shahpura
+369,8,RAJASTHAN,122,Bhilwara,629,Shahpura,800590,Shahpura (M)
+370,8,RAJASTHAN,122,Bhilwara,630,Banera,0,Banera
+371,8,RAJASTHAN,122,Bhilwara,631,Mandal,0,Mandal
+372,8,RAJASTHAN,122,Bhilwara,632,Raipur,0,Raipur
+373,8,RAJASTHAN,122,Bhilwara,633,Sahara,0,Sahara
+374,8,RAJASTHAN,122,Bhilwara,633,Sahara,800591,Gangapur (M)
+375,8,RAJASTHAN,122,Bhilwara,634,Bhilwara,0,Bhilwara
+376,8,RAJASTHAN,122,Bhilwara,634,Bhilwara,800592,Bhilwara (M Cl)
+377,8,RAJASTHAN,122,Bhilwara,635,Kotri,0,Kotri
+378,8,RAJASTHAN,122,Bhilwara,636,Jahazpur,0,Jahazpur
+379,8,RAJASTHAN,122,Bhilwara,636,Jahazpur,800593,Jahazpur (M)
+380,8,RAJASTHAN,122,Bhilwara,637,Mandalgarh,0,Mandalgarh
+381,8,RAJASTHAN,122,Bhilwara,637,Mandalgarh,800594,Mandalgarh (M)
+382,8,RAJASTHAN,122,Bhilwara,638,Beejoliya,0,Beejoliya
+383,8,RAJASTHAN,123,Rajsamand,0,Rajsamand,0,Rajsamand
+384,8,RAJASTHAN,123,Rajsamand,639,Bhim,0,Bhim
+385,8,RAJASTHAN,123,Rajsamand,640,Deogarh,0,Deogarh
+386,8,RAJASTHAN,123,Rajsamand,640,Deogarh,800595,Deogarh (M)
+387,8,RAJASTHAN,123,Rajsamand,641,Amet,0,Amet
+388,8,RAJASTHAN,123,Rajsamand,641,Amet,800596,Amet (M)
+389,8,RAJASTHAN,123,Rajsamand,642,Kumbhalgarh,0,Kumbhalgarh
+390,8,RAJASTHAN,123,Rajsamand,643,Rajsamand,0,Rajsamand
+391,8,RAJASTHAN,123,Rajsamand,643,Rajsamand,800597,Rajsamand (M)
+392,8,RAJASTHAN,123,Rajsamand,644,Railmagra,0,Railmagra
+393,8,RAJASTHAN,123,Rajsamand,645,Nathdwara,0,Nathdwara
+394,8,RAJASTHAN,123,Rajsamand,645,Nathdwara,800598,Nathdwara (M)
+395,8,RAJASTHAN,124,Dungarpur,0,Dungarpur,0,Dungarpur
+396,8,RAJASTHAN,124,Dungarpur,646,Dungarpur,0,Dungarpur
+397,8,RAJASTHAN,124,Dungarpur,646,Dungarpur,800599,Dungarpur (M)
+398,8,RAJASTHAN,124,Dungarpur,647,Aspur,0,Aspur
+399,8,RAJASTHAN,124,Dungarpur,648,Sagwara,0,Sagwara
+400,8,RAJASTHAN,124,Dungarpur,648,Sagwara,800600,Sagwara (M)
+401,8,RAJASTHAN,124,Dungarpur,649,Simalwara,0,Simalwara
+402,8,RAJASTHAN,125,Banswara,0,Banswara,0,Banswara
+403,8,RAJASTHAN,125,Banswara,650,Ghatol,0,Ghatol
+404,8,RAJASTHAN,125,Banswara,651,Garhi,0,Garhi
+405,8,RAJASTHAN,125,Banswara,652,Banswara,0,Banswara
+406,8,RAJASTHAN,125,Banswara,652,Banswara,800601,Banswara (M + OG)
+407,8,RAJASTHAN,125,Banswara,652,Banswara,800601,Banswara (M)
+408,8,RAJASTHAN,125,Banswara,653,Bagidora,0,Bagidora
+409,8,RAJASTHAN,125,Banswara,654,Kushalgarh,0,Kushalgarh
+410,8,RAJASTHAN,125,Banswara,654,Kushalgarh,800602,Kushalgarh (M)
+411,8,RAJASTHAN,126,Chittaurgarh,0,Chittaurgarh,0,Chittaurgarh
+412,8,RAJASTHAN,126,Chittaurgarh,655,Rashmi,0,Rashmi
+413,8,RAJASTHAN,126,Chittaurgarh,656,Gangrar,0,Gangrar
+414,8,RAJASTHAN,126,Chittaurgarh,657,Begun,0,Begun
+415,8,RAJASTHAN,126,Chittaurgarh,657,Begun,800603,Begun (M)
+416,8,RAJASTHAN,126,Chittaurgarh,658,Rawatbhata,0,Rawatbhata
+417,8,RAJASTHAN,126,Chittaurgarh,658,Rawatbhata,800604,Rawatbhata (M)
+418,8,RAJASTHAN,126,Chittaurgarh,659,Chittaurgarh,0,Chittaurgarh
+419,8,RAJASTHAN,126,Chittaurgarh,659,Chittaurgarh,800605,Chittaurgarh (M)
+420,8,RAJASTHAN,126,Chittaurgarh,660,Kapasan,0,Kapasan
+421,8,RAJASTHAN,126,Chittaurgarh,660,Kapasan,800606,Kapasan (M)
+422,8,RAJASTHAN,126,Chittaurgarh,661,Dungla,0,Dungla
+423,8,RAJASTHAN,126,Chittaurgarh,662,Bhadesar,0,Bhadesar
+424,8,RAJASTHAN,126,Chittaurgarh,663,Nimbahera,0,Nimbahera
+425,8,RAJASTHAN,126,Chittaurgarh,663,Nimbahera,800607,Nimbahera (M)
+426,8,RAJASTHAN,126,Chittaurgarh,664,Bari Sadri,0,Bari Sadri
+427,8,RAJASTHAN,126,Chittaurgarh,664,Bari Sadri,800608,Bari Sadri (M)
+428,8,RAJASTHAN,127,Kota,0,Kota,0,Kota
+429,8,RAJASTHAN,127,Kota,665,Pipalda,0,Pipalda
+430,8,RAJASTHAN,127,Kota,666,Digod,0,Digod
+431,8,RAJASTHAN,127,Kota,667,Ladpura,0,Ladpura
+432,8,RAJASTHAN,127,Kota,667,Ladpura,800609,Kota (M Corp.)
+433,8,RAJASTHAN,127,Kota,667,Ladpura,800610,Kaithoon (M)
+434,8,RAJASTHAN,127,Kota,668,Ramganj Mandi,0,Ramganj Mandi
+435,8,RAJASTHAN,127,Kota,668,Ramganj Mandi,800611,Ramganj Mandi (M)
+436,8,RAJASTHAN,127,Kota,669,Sangod,0,Sangod
+437,8,RAJASTHAN,127,Kota,669,Sangod,800612,Sangod (M)
+438,8,RAJASTHAN,128,Baran,0,Baran,0,Baran
+439,8,RAJASTHAN,128,Baran,670,Mangrol,0,Mangrol
+440,8,RAJASTHAN,128,Baran,670,Mangrol,800613,Mangrol (M)
+441,8,RAJASTHAN,128,Baran,671,Antah,0,Antah
+442,8,RAJASTHAN,128,Baran,671,Antah,800614,Antah (M)
+443,8,RAJASTHAN,128,Baran,672,Baran,0,Baran
+444,8,RAJASTHAN,128,Baran,672,Baran,800615,Baran (M)
+445,8,RAJASTHAN,128,Baran,673,Atru,0,Atru
+446,8,RAJASTHAN,128,Baran,674,Kishanganj,0,Kishanganj
+447,8,RAJASTHAN,128,Baran,675,Shahbad,0,Shahbad
+448,8,RAJASTHAN,128,Baran,676,Chhabra,0,Chhabra
+449,8,RAJASTHAN,128,Baran,676,Chhabra,800616,Chhabra (M)
+450,8,RAJASTHAN,128,Baran,677,Chhipabarod,0,Chhipabarod
+451,8,RAJASTHAN,129,Jhalawar,0,Jhalawar,0,Jhalawar
+452,8,RAJASTHAN,129,Jhalawar,678,Khanpur,0,Khanpur
+453,8,RAJASTHAN,129,Jhalawar,679,Jhalrapatan,0,Jhalrapatan
+454,8,RAJASTHAN,129,Jhalawar,679,Jhalrapatan,800617,Jhalawar (M)
+455,8,RAJASTHAN,129,Jhalawar,679,Jhalrapatan,800618,Jhalrapatan (M)
+456,8,RAJASTHAN,129,Jhalawar,680,Aklera,0,Aklera
+457,8,RAJASTHAN,129,Jhalawar,680,Aklera,800619,Aklera (M)
+458,8,RAJASTHAN,129,Jhalawar,681,Manohar Thana,0,Manohar Thana
+459,8,RAJASTHAN,129,Jhalawar,682,Pachpahar,0,Pachpahar
+460,8,RAJASTHAN,129,Jhalawar,682,Pachpahar,800620,Bhawani Mandi (M)
+461,8,RAJASTHAN,129,Jhalawar,683,Pirawa,0,Pirawa
+462,8,RAJASTHAN,129,Jhalawar,683,Pirawa,800621,Pirawa (M)
+463,8,RAJASTHAN,129,Jhalawar,684,Gangdhar,0,Gangdhar
+464,8,RAJASTHAN,130,Udaipur,0,Udaipur,0,Udaipur
+465,8,RAJASTHAN,130,Udaipur,685,Mavli,0,Mavli
+466,8,RAJASTHAN,130,Udaipur,685,Mavli,800622,Fatehnagar (M)
+467,8,RAJASTHAN,130,Udaipur,686,Gogunda,0,Gogunda
+468,8,RAJASTHAN,130,Udaipur,687,Kotra,0,Kotra
+469,8,RAJASTHAN,130,Udaipur,688,Jhadol,0,Jhadol
+470,8,RAJASTHAN,130,Udaipur,689,Girwa,0,Girwa
+471,8,RAJASTHAN,130,Udaipur,689,Girwa,800623,Udaipur (M Cl)
+472,8,RAJASTHAN,130,Udaipur,690,Vallabhnagar,0,Vallabhnagar
+473,8,RAJASTHAN,130,Udaipur,690,Vallabhnagar,800624,Bhinder (M)
+474,8,RAJASTHAN,130,Udaipur,690,Vallabhnagar,800625,Kanor (M)
+475,8,RAJASTHAN,130,Udaipur,691,Lasadiya,0,Lasadiya
+476,8,RAJASTHAN,130,Udaipur,692,Salumbar,0,Salumbar
+477,8,RAJASTHAN,130,Udaipur,692,Salumbar,800626,Salumbar (M)
+478,8,RAJASTHAN,130,Udaipur,693,Sarada,0,Sarada
+479,8,RAJASTHAN,130,Udaipur,694,Rishabhdeo,0,Rishabhdeo
+480,8,RAJASTHAN,130,Udaipur,695,Kherwara,0,Kherwara
+481,8,RAJASTHAN,131,Pratapgarh,0,Pratapgarh,0,Pratapgarh
+482,8,RAJASTHAN,131,Pratapgarh,696,Dhariawad,0,Dhariawad
+483,8,RAJASTHAN,131,Pratapgarh,697,Peepalkhoont,0,Peepalkhoont
+484,8,RAJASTHAN,131,Pratapgarh,698,Chhoti Sadri,0,Chhoti Sadri
+485,8,RAJASTHAN,131,Pratapgarh,698,Chhoti Sadri,800627,Chhoti Sadri (M)
+486,8,RAJASTHAN,131,Pratapgarh,699,Pratapgarh,0,Pratapgarh
+487,8,RAJASTHAN,131,Pratapgarh,699,Pratapgarh,800628,Pratapgarh (M)
+488,8,RAJASTHAN,131,Pratapgarh,700,Arnod,0,Arnod

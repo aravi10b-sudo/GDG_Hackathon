@@ -1,0 +1,188 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,6,HARYANA,0,HARYANA,0,HARYANA,0,HARYANA
+1,6,HARYANA,69,Panchkula,0,Panchkula,0,Panchkula
+2,6,HARYANA,69,Panchkula,356,Kalka,0,Kalka
+3,6,HARYANA,69,Panchkula,356,Kalka,800361,Kalka (MC + OG)
+4,6,HARYANA,69,Panchkula,356,Kalka,800361,Kalka (MC)
+5,6,HARYANA,69,Panchkula,356,Kalka,800362,Pinjore (MC)
+6,6,HARYANA,69,Panchkula,357,Panchkula,0,Panchkula
+7,6,HARYANA,69,Panchkula,357,Panchkula,800363,Panchkula (M Cl)
+8,6,HARYANA,70,Ambala,0,Ambala,0,Ambala
+9,6,HARYANA,70,Ambala,358,Naraingarh,0,Naraingarh
+10,6,HARYANA,70,Ambala,358,Naraingarh,800364,Naraingarh (MC)
+11,6,HARYANA,70,Ambala,359,Ambala,0,Ambala
+12,6,HARYANA,70,Ambala,359,Ambala,800365,Ambala (M Cl)
+13,6,HARYANA,70,Ambala,359,Ambala,800366,Ambala Cantt. (CB)
+14,6,HARYANA,70,Ambala,359,Ambala,800367,Ambala Sadar (M Cl + OG)
+15,6,HARYANA,70,Ambala,359,Ambala,800367,Ambala Sadar (M Cl)
+16,6,HARYANA,70,Ambala,360,Barara,0,Barara
+17,6,HARYANA,71,Yamunanagar,0,Yamunanagar,0,Yamunanagar
+18,6,HARYANA,71,Yamunanagar,361,Jagadhri,0,Jagadhri
+19,6,HARYANA,71,Yamunanagar,361,Jagadhri,800368,Jagadhri (M Cl)
+20,6,HARYANA,71,Yamunanagar,361,Jagadhri,800369,Yamunanagar (M Cl + OG)
+21,6,HARYANA,71,Yamunanagar,361,Jagadhri,800369,Yamunanagar (M Cl)
+22,6,HARYANA,71,Yamunanagar,362,Bilaspur,0,Bilaspur
+23,6,HARYANA,71,Yamunanagar,363,Chhachhrauli,0,Chhachhrauli
+24,6,HARYANA,72,Kurukshetra,0,Kurukshetra,0,Kurukshetra
+25,6,HARYANA,72,Kurukshetra,364,Shahbad,0,Shahbad
+26,6,HARYANA,72,Kurukshetra,364,Shahbad,800370,Shahbad (MC)
+27,6,HARYANA,72,Kurukshetra,365,Pehowa,0,Pehowa
+28,6,HARYANA,72,Kurukshetra,365,Pehowa,800371,Pehowa (MC)
+29,6,HARYANA,72,Kurukshetra,366,Thanesar,0,Thanesar
+30,6,HARYANA,72,Kurukshetra,366,Thanesar,800372,Thanesar (M Cl)
+31,6,HARYANA,72,Kurukshetra,366,Thanesar,800373,Ladwa (MC)
+32,6,HARYANA,73,Kaithal,0,Kaithal,0,Kaithal
+33,6,HARYANA,73,Kaithal,367,Guhla,0,Guhla
+34,6,HARYANA,73,Kaithal,367,Guhla,800374,Cheeka (MC)
+35,6,HARYANA,73,Kaithal,368,Kaithal,0,Kaithal
+36,6,HARYANA,73,Kaithal,368,Kaithal,800375,Kaithal (M Cl)
+37,6,HARYANA,73,Kaithal,368,Kaithal,800376,Kalayat (MC)
+38,6,HARYANA,73,Kaithal,369,Fatehpur Pundri,0,Fatehpur Pundri
+39,6,HARYANA,73,Kaithal,369,Fatehpur Pundri,800377,Pundri (MC + OG)
+40,6,HARYANA,73,Kaithal,369,Fatehpur Pundri,800377,Pundri (MC)
+41,6,HARYANA,74,Karnal,0,Karnal,0,Karnal
+42,6,HARYANA,74,Karnal,370,Nilokheri,0,Nilokheri
+43,6,HARYANA,74,Karnal,370,Nilokheri,800378,Nilokheri (MC)
+44,6,HARYANA,74,Karnal,370,Nilokheri,800379,Taraori (MC)
+45,6,HARYANA,74,Karnal,371,Indri,0,Indri
+46,6,HARYANA,74,Karnal,371,Indri,800380,Indri (MC)
+47,6,HARYANA,74,Karnal,372,Karnal,0,Karnal
+48,6,HARYANA,74,Karnal,372,Karnal,800381,Karnal (M Cl + OG)
+49,6,HARYANA,74,Karnal,372,Karnal,800381,Karnal (M Cl)
+50,6,HARYANA,74,Karnal,372,Karnal,800382,Nissing (MC)
+51,6,HARYANA,74,Karnal,373,Assandh,0,Assandh
+52,6,HARYANA,74,Karnal,373,Assandh,800383,Assandh (MC)
+53,6,HARYANA,74,Karnal,374,Gharaunda,0,Gharaunda
+54,6,HARYANA,74,Karnal,374,Gharaunda,800384,Gharaunda (MC)
+55,6,HARYANA,75,Panipat,0,Panipat,0,Panipat
+56,6,HARYANA,75,Panipat,375,Panipat,0,Panipat
+57,6,HARYANA,75,Panipat,375,Panipat,800385,Panipat (M Cl + OG)
+58,6,HARYANA,75,Panipat,375,Panipat,800385,Panipat (M Cl)
+59,6,HARYANA,75,Panipat,376,Israna,0,Israna
+60,6,HARYANA,75,Panipat,377,Samalkha,0,Samalkha
+61,6,HARYANA,75,Panipat,377,Samalkha,800386,Samalkha (MC + OG)
+62,6,HARYANA,75,Panipat,377,Samalkha,800386,Samalkha (MC)
+63,6,HARYANA,76,Sonipat,0,Sonipat,0,Sonipat
+64,6,HARYANA,76,Sonipat,378,Gohana,0,Gohana
+65,6,HARYANA,76,Sonipat,378,Gohana,800387,Gohana (MC)
+66,6,HARYANA,76,Sonipat,379,Ganaur,0,Ganaur
+67,6,HARYANA,76,Sonipat,379,Ganaur,800388,Ganaur (MC)
+68,6,HARYANA,76,Sonipat,380,Sonipat,0,Sonipat
+69,6,HARYANA,76,Sonipat,380,Sonipat,800389,Sonipat (M Cl + OG)
+70,6,HARYANA,76,Sonipat,380,Sonipat,800389,Sonipat (M Cl)
+71,6,HARYANA,76,Sonipat,381,Kharkhoda,0,Kharkhoda
+72,6,HARYANA,76,Sonipat,381,Kharkhoda,800390,Kharkhoda (MC)
+73,6,HARYANA,77,Jind,0,Jind,0,Jind
+74,6,HARYANA,77,Jind,382,Narwana,0,Narwana
+75,6,HARYANA,77,Jind,382,Narwana,800391,Narwana (M Cl)
+76,6,HARYANA,77,Jind,382,Narwana,800392,Uchana (MC)
+77,6,HARYANA,77,Jind,383,Jind,0,Jind
+78,6,HARYANA,77,Jind,383,Jind,800393,Jind (M Cl)
+79,6,HARYANA,77,Jind,384,Julana,0,Julana
+80,6,HARYANA,77,Jind,384,Julana,800394,Julana (MC)
+81,6,HARYANA,77,Jind,385,Safidon,0,Safidon
+82,6,HARYANA,77,Jind,385,Safidon,800395,Safidon (MC)
+83,6,HARYANA,78,Fatehabad,0,Fatehabad,0,Fatehabad
+84,6,HARYANA,78,Fatehabad,386,Ratia,0,Ratia
+85,6,HARYANA,78,Fatehabad,386,Ratia,800396,Ratia (MC)
+86,6,HARYANA,78,Fatehabad,387,Tohana,0,Tohana
+87,6,HARYANA,78,Fatehabad,387,Tohana,800397,Tohana (M Cl)
+88,6,HARYANA,78,Fatehabad,388,Fatehabad,0,Fatehabad
+89,6,HARYANA,78,Fatehabad,388,Fatehabad,800398,Fatehabad (M Cl)
+90,6,HARYANA,79,Sirsa,0,Sirsa,0,Sirsa
+91,6,HARYANA,79,Sirsa,389,Dabwali,0,Dabwali
+92,6,HARYANA,79,Sirsa,389,Dabwali,800399,Mandi Dabwali (MC)
+93,6,HARYANA,79,Sirsa,390,Sirsa,0,Sirsa
+94,6,HARYANA,79,Sirsa,390,Sirsa,800400,Kalanwali (MC)
+95,6,HARYANA,79,Sirsa,390,Sirsa,800401,Sirsa (M Cl)
+96,6,HARYANA,79,Sirsa,391,Rania,0,Rania
+97,6,HARYANA,79,Sirsa,391,Rania,800402,Rania (MC)
+98,6,HARYANA,79,Sirsa,392,Ellenabad,0,Ellenabad
+99,6,HARYANA,79,Sirsa,392,Ellenabad,800403,Ellenabad (MC)
+100,6,HARYANA,80,Hisar,0,Hisar,0,Hisar
+101,6,HARYANA,80,Hisar,393,Adampur,0,Adampur
+102,6,HARYANA,80,Hisar,394,Hisar,0,Hisar
+103,6,HARYANA,80,Hisar,394,Hisar,800404,Barwala (MC)
+104,6,HARYANA,80,Hisar,394,Hisar,800405,Hisar (M Cl + OG)
+105,6,HARYANA,80,Hisar,394,Hisar,800405,Hisar (M Cl)
+106,6,HARYANA,80,Hisar,395,Narnaund,0,Narnaund
+107,6,HARYANA,80,Hisar,395,Narnaund,800406,Narnaund (MC)
+108,6,HARYANA,80,Hisar,396,Hansi,0,Hansi
+109,6,HARYANA,80,Hisar,396,Hansi,800407,Hansi (M Cl)
+110,6,HARYANA,81,Bhiwani,0,Bhiwani,0,Bhiwani
+111,6,HARYANA,81,Bhiwani,397,Bawani Khera,0,Bawani Khera
+112,6,HARYANA,81,Bhiwani,397,Bawani Khera,800408,Bawani khera (MC)
+113,6,HARYANA,81,Bhiwani,398,Bhiwani,0,Bhiwani
+114,6,HARYANA,81,Bhiwani,398,Bhiwani,800409,Bhiwani (M Cl)
+115,6,HARYANA,81,Bhiwani,399,Tosham,0,Tosham
+116,6,HARYANA,81,Bhiwani,400,Siwani,0,Siwani
+117,6,HARYANA,81,Bhiwani,400,Siwani,800410,Siwani (MC)
+118,6,HARYANA,81,Bhiwani,401,Loharu,0,Loharu
+119,6,HARYANA,81,Bhiwani,401,Loharu,800411,Loharu (MC)
+120,6,HARYANA,81,Bhiwani,402,Dadri,0,Dadri
+121,6,HARYANA,81,Bhiwani,402,Dadri,800412,Charkhi Dadri (MC)
+122,6,HARYANA,81,Bhiwani,403,Badhra,0,Badhra
+123,6,HARYANA,82,Rohtak,0,Rohtak,0,Rohtak
+124,6,HARYANA,82,Rohtak,404,Maham,0,Maham
+125,6,HARYANA,82,Rohtak,404,Maham,800413,Maham (MC)
+126,6,HARYANA,82,Rohtak,405,Rohtak,0,Rohtak
+127,6,HARYANA,82,Rohtak,405,Rohtak,800414,Rohtak (M Cl)
+128,6,HARYANA,82,Rohtak,405,Rohtak,800415,Kalanaur (MC)
+129,6,HARYANA,82,Rohtak,406,Sampla,0,Sampla
+130,6,HARYANA,82,Rohtak,406,Sampla,800416,Sampla (MC)
+131,6,HARYANA,83,Jhajjar,0,Jhajjar,0,Jhajjar
+132,6,HARYANA,83,Jhajjar,407,Beri,0,Beri
+133,6,HARYANA,83,Jhajjar,407,Beri,800417,Beri (MC)
+134,6,HARYANA,83,Jhajjar,408,Bahadurgarh,0,Bahadurgarh
+135,6,HARYANA,83,Jhajjar,408,Bahadurgarh,800418,Bahadurgarh (M Cl)
+136,6,HARYANA,83,Jhajjar,409,Jhajjar,0,Jhajjar
+137,6,HARYANA,83,Jhajjar,409,Jhajjar,800419,Jhajjar (MC)
+138,6,HARYANA,83,Jhajjar,410,Matenhail,0,Matenhail
+139,6,HARYANA,84,Mahendragarh,0,Mahendragarh,0,Mahendragarh
+140,6,HARYANA,84,Mahendragarh,411,Mahendragarh,0,Mahendragarh
+141,6,HARYANA,84,Mahendragarh,411,Mahendragarh,800420,Kanina (MC)
+142,6,HARYANA,84,Mahendragarh,411,Mahendragarh,800421,Mahendragarh (MC)
+143,6,HARYANA,84,Mahendragarh,412,Narnaul,0,Narnaul
+144,6,HARYANA,84,Mahendragarh,412,Narnaul,800422,Ateli (MC)
+145,6,HARYANA,84,Mahendragarh,412,Narnaul,800423,Narnaul (M Cl)
+146,6,HARYANA,85,Rewari,0,Rewari,0,Rewari
+147,6,HARYANA,85,Rewari,413,Kosli,0,Kosli
+148,6,HARYANA,85,Rewari,414,Rewari,0,Rewari
+149,6,HARYANA,85,Rewari,414,Rewari,800424,Dharuhera (MC)
+150,6,HARYANA,85,Rewari,414,Rewari,800425,Rewari (M Cl)
+151,6,HARYANA,85,Rewari,415,Bawal,0,Bawal
+152,6,HARYANA,85,Rewari,415,Bawal,800426,Bawal (MC)
+153,6,HARYANA,86,Gurgaon,0,Gurgaon,0,Gurgaon
+154,6,HARYANA,86,Gurgaon,416,Pataudi,0,Pataudi
+155,6,HARYANA,86,Gurgaon,416,Pataudi,800427,Hailey Mandi (MC)
+156,6,HARYANA,86,Gurgaon,416,Pataudi,800428,Pataudi (MC)
+157,6,HARYANA,86,Gurgaon,417,Gurgaon,0,Gurgaon
+158,6,HARYANA,86,Gurgaon,417,Gurgaon,800429,Gurgaon (M Corp. + OG)
+159,6,HARYANA,86,Gurgaon,417,Gurgaon,800429,Gurgaon (M Corp.)
+160,6,HARYANA,86,Gurgaon,418,Farrukhnagar,0,Farrukhnagar
+161,6,HARYANA,86,Gurgaon,418,Farrukhnagar,800430,Farrukhnagar (MC)
+162,6,HARYANA,86,Gurgaon,419,Manesar,0,Manesar
+163,6,HARYANA,86,Gurgaon,420,Sohna,0,Sohna
+164,6,HARYANA,86,Gurgaon,420,Sohna,800431,Sohna (MC)
+165,6,HARYANA,87,Mewat ,0,Mewat ,0,Mewat 
+166,6,HARYANA,87,Mewat ,421,Taoru,0,Taoru
+167,6,HARYANA,87,Mewat ,421,Taoru,800432,Taoru (MC)
+168,6,HARYANA,87,Mewat ,422,Nuh,0,Nuh
+169,6,HARYANA,87,Mewat ,422,Nuh,800433,Nuh (MC)
+170,6,HARYANA,87,Mewat ,423,Ferozepur Jhirka,0,Ferozepur Jhirka
+171,6,HARYANA,87,Mewat ,423,Ferozepur Jhirka,800434,Ferozepur jhirka (MC)
+172,6,HARYANA,87,Mewat ,424,Punahana,0,Punahana
+173,6,HARYANA,87,Mewat ,424,Punahana,800435,Punahana (MC)
+174,6,HARYANA,88,Faridabad,0,Faridabad,0,Faridabad
+175,6,HARYANA,88,Faridabad,425,Faridabad,0,Faridabad
+176,6,HARYANA,88,Faridabad,425,Faridabad,800436,Faridabad (M Corp.)
+177,6,HARYANA,88,Faridabad,426,Ballabgarh,0,Ballabgarh
+178,6,HARYANA,89,Palwal ,0,Palwal ,0,Palwal 
+179,6,HARYANA,89,Palwal ,427,Palwal,0,Palwal
+180,6,HARYANA,89,Palwal ,427,Palwal,800437,Palwal (M Cl + OG)
+181,6,HARYANA,89,Palwal ,427,Palwal,800437,Palwal (M Cl)
+182,6,HARYANA,89,Palwal ,428,Hathin,0,Hathin
+183,6,HARYANA,89,Palwal ,428,Hathin,800438,Hathin (MC)
+184,6,HARYANA,89,Palwal ,429,Hodal,0,Hodal
+185,6,HARYANA,89,Palwal ,429,Hodal,800439,Hassan Pur (MC)
+186,6,HARYANA,89,Palwal ,429,Hodal,800440,Hodal (MC)

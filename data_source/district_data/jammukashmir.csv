@@ -1,0 +1,202 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,1,JAMMU & KASHMIR,0,JAMMU & KASHMIR,0,JAMMU & KASHMIR,0,JAMMU & KASHMIR
+1,1,JAMMU & KASHMIR,1,Kupwara,0,Kupwara,0,Kupwara
+2,1,JAMMU & KASHMIR,1,Kupwara,1,Kupwara,0,Kupwara
+3,1,JAMMU & KASHMIR,1,Kupwara,1,Kupwara,800001,Kupwara (MC)
+4,1,JAMMU & KASHMIR,1,Kupwara,2,Handwara,0,Handwara
+5,1,JAMMU & KASHMIR,1,Kupwara,2,Handwara,800002,Handwara (MC)
+6,1,JAMMU & KASHMIR,1,Kupwara,3,Karnah,0,Karnah
+7,1,JAMMU & KASHMIR,2,Badgam,0,Badgam,0,Badgam
+8,1,JAMMU & KASHMIR,2,Badgam,4,Khag,0,Khag
+9,1,JAMMU & KASHMIR,2,Badgam,5,Beerwah,0,Beerwah
+10,1,JAMMU & KASHMIR,2,Badgam,5,Beerwah,800016,Magam (MC)
+11,1,JAMMU & KASHMIR,2,Badgam,5,Beerwah,800017,Beerwah (MC)
+12,1,JAMMU & KASHMIR,2,Badgam,6,Khansahib,0,Khansahib
+13,1,JAMMU & KASHMIR,2,Badgam,6,Khansahib,800018,Khansahib (MC)
+14,1,JAMMU & KASHMIR,2,Badgam,7,Budgam,0,Budgam
+15,1,JAMMU & KASHMIR,2,Badgam,7,Budgam,800019,Badgam (MC)
+16,1,JAMMU & KASHMIR,2,Badgam,8,Chadoora,0,Chadoora
+17,1,JAMMU & KASHMIR,2,Badgam,8,Chadoora,800020,Chadura (MC)
+18,1,JAMMU & KASHMIR,2,Badgam,8,Chadoora,800013,Srinagar (M Corp. + OG)
+19,1,JAMMU & KASHMIR,2,Badgam,8,Chadoora,800013,Srinagar (M Corp. + OG) (Part)
+20,1,JAMMU & KASHMIR,2,Badgam,9,Charar- E- Shrief,0,Charar- E- Shrief
+21,1,JAMMU & KASHMIR,2,Badgam,9,Charar- E- Shrief,800021,Charar-i-Sharief (MC)
+22,1,JAMMU & KASHMIR,3,Leh(Ladakh),0,Leh(Ladakh),0,Leh(Ladakh)
+23,1,JAMMU & KASHMIR,3,Leh(Ladakh),10,Leh,0,Leh
+24,1,JAMMU & KASHMIR,3,Leh(Ladakh),10,Leh,800047,Leh Ladakh (MC)
+25,1,JAMMU & KASHMIR,3,Leh(Ladakh),11,Nubra,0,Nubra
+26,1,JAMMU & KASHMIR,3,Leh(Ladakh),12,Khalsi,0,Khalsi
+27,1,JAMMU & KASHMIR,4,Kargil,0,Kargil,0,Kargil
+28,1,JAMMU & KASHMIR,4,Kargil,13,Kargil,0,Kargil
+29,1,JAMMU & KASHMIR,4,Kargil,13,Kargil,800048,Kargil (MC)
+30,1,JAMMU & KASHMIR,4,Kargil,14,Sanku,0,Sanku
+31,1,JAMMU & KASHMIR,4,Kargil,15,Zanskar,0,Zanskar
+32,1,JAMMU & KASHMIR,5,Punch,0,Punch,0,Punch
+33,1,JAMMU & KASHMIR,5,Punch,16,Haveli,0,Haveli
+34,1,JAMMU & KASHMIR,5,Punch,16,Haveli,800062,Punch (M Cl)
+35,1,JAMMU & KASHMIR,5,Punch,17,Mandi,0,Mandi
+36,1,JAMMU & KASHMIR,5,Punch,18,Mendhar,0,Mendhar
+37,1,JAMMU & KASHMIR,5,Punch,19,Surankote,0,Surankote
+38,1,JAMMU & KASHMIR,5,Punch,19,Surankote,800063,Surankote (MC)
+39,1,JAMMU & KASHMIR,6,Rajouri,0,Rajouri,0,Rajouri
+40,1,JAMMU & KASHMIR,6,Rajouri,20,Thanamandi,0,Thanamandi
+41,1,JAMMU & KASHMIR,6,Rajouri,20,Thanamandi,800064,Thanamandi (MC)
+42,1,JAMMU & KASHMIR,6,Rajouri,21,Darhal,0,Darhal
+43,1,JAMMU & KASHMIR,6,Rajouri,22,Rajauri,0,Rajauri
+44,1,JAMMU & KASHMIR,6,Rajouri,22,Rajauri,800065,Rajauri (MC)
+45,1,JAMMU & KASHMIR,6,Rajouri,23,Budhal,0,Budhal
+46,1,JAMMU & KASHMIR,6,Rajouri,24,Kalakote,0,Kalakote
+47,1,JAMMU & KASHMIR,6,Rajouri,25,Nowshehra,0,Nowshehra
+48,1,JAMMU & KASHMIR,6,Rajouri,25,Nowshehra,800066,Nowshehra (MC)
+49,1,JAMMU & KASHMIR,6,Rajouri,26,Sunderbani,0,Sunderbani
+50,1,JAMMU & KASHMIR,6,Rajouri,26,Sunderbani,800067,Sunderbani (MC)
+51,1,JAMMU & KASHMIR,7,Kathua,0,Kathua,0,Kathua
+52,1,JAMMU & KASHMIR,7,Kathua,27,Billawar,0,Billawar
+53,1,JAMMU & KASHMIR,7,Kathua,27,Billawar,800081,Billawar (MC)
+54,1,JAMMU & KASHMIR,7,Kathua,28,Bashohli,0,Bashohli
+55,1,JAMMU & KASHMIR,7,Kathua,28,Bashohli,800082,Bashohli (MC)
+56,1,JAMMU & KASHMIR,7,Kathua,29,Bani,0,Bani
+57,1,JAMMU & KASHMIR,7,Kathua,30,Kathua,0,Kathua
+58,1,JAMMU & KASHMIR,7,Kathua,30,Kathua,800083,Lakhanpur (MC)
+59,1,JAMMU & KASHMIR,7,Kathua,30,Kathua,800084,Kathua (M Cl + OG)
+60,1,JAMMU & KASHMIR,7,Kathua,30,Kathua,800084,Kathua (M Cl)
+61,1,JAMMU & KASHMIR,7,Kathua,30,Kathua,800085,Parole (MC)
+62,1,JAMMU & KASHMIR,7,Kathua,31,Hiranagar,0,Hiranagar
+63,1,JAMMU & KASHMIR,7,Kathua,31,Hiranagar,800086,Hiranagar (MC)
+64,1,JAMMU & KASHMIR,8,Baramula,0,Baramula,0,Baramula
+65,1,JAMMU & KASHMIR,8,Baramula,32,Sopore,0,Sopore
+66,1,JAMMU & KASHMIR,8,Baramula,32,Sopore,800003,Sopore (M Cl + OG)
+67,1,JAMMU & KASHMIR,8,Baramula,32,Sopore,800003,Sopore (M Cl)
+68,1,JAMMU & KASHMIR,8,Baramula,33,Rafiabad,0,Rafiabad
+69,1,JAMMU & KASHMIR,8,Baramula,33,Rafiabad,800004,Watra Gam (MC)
+70,1,JAMMU & KASHMIR,8,Baramula,34,Pattan,0,Pattan
+71,1,JAMMU & KASHMIR,8,Baramula,34,Pattan,800005,Pattan (MC)
+72,1,JAMMU & KASHMIR,8,Baramula,35,Baramulla,0,Baramulla
+73,1,JAMMU & KASHMIR,8,Baramula,35,Baramulla,800006,Baramula (M Cl + OG)
+74,1,JAMMU & KASHMIR,8,Baramula,35,Baramulla,800006,Baramula (M Cl)
+75,1,JAMMU & KASHMIR,8,Baramula,36,Kreeri,0,Kreeri
+76,1,JAMMU & KASHMIR,8,Baramula,37,Uri,0,Uri
+77,1,JAMMU & KASHMIR,8,Baramula,37,Uri,800007,Uri (MC)
+78,1,JAMMU & KASHMIR,8,Baramula,38,Boniyar,0,Boniyar
+79,1,JAMMU & KASHMIR,8,Baramula,39,Tangmarg ,0,Tangmarg 
+80,1,JAMMU & KASHMIR,8,Baramula,39,Tangmarg ,800008,Kunzer (MC)
+81,1,JAMMU & KASHMIR,8,Baramula,39,Tangmarg ,800009,Gulmarg (MC)
+82,1,JAMMU & KASHMIR,9,Bandipore,0,Bandipore,0,Bandipore
+83,1,JAMMU & KASHMIR,9,Bandipore,40,Gurez,0,Gurez
+84,1,JAMMU & KASHMIR,9,Bandipore,41,Bandipora,0,Bandipora
+85,1,JAMMU & KASHMIR,9,Bandipore,41,Bandipora,800010,Bandipore (MC)
+86,1,JAMMU & KASHMIR,9,Bandipore,42,Sonawari,0,Sonawari
+87,1,JAMMU & KASHMIR,9,Bandipore,42,Sonawari,800011,Hajan (MC)
+88,1,JAMMU & KASHMIR,9,Bandipore,42,Sonawari,800012,Sumbal (MC)
+89,1,JAMMU & KASHMIR,10,Srinagar,0,Srinagar,0,Srinagar
+90,1,JAMMU & KASHMIR,10,Srinagar,43,Srinagar (North),0,Srinagar (North)
+91,1,JAMMU & KASHMIR,10,Srinagar,43,Srinagar (North),800013,Srinagar (M Corp. + OG) (Part)
+92,1,JAMMU & KASHMIR,10,Srinagar,43,Srinagar (North),800014,Badami Bagh (CB)
+93,1,JAMMU & KASHMIR,10,Srinagar,44,Srinagar (South),0,Srinagar (South)
+94,1,JAMMU & KASHMIR,10,Srinagar,44,Srinagar (South),800013,Srinagar (M Corp. + OG) (Part)
+95,1,JAMMU & KASHMIR,11,Ganderbal,0,Ganderbal,0,Ganderbal
+96,1,JAMMU & KASHMIR,11,Ganderbal,45,Lar,0,Lar
+97,1,JAMMU & KASHMIR,11,Ganderbal,46,Kangan,0,Kangan
+98,1,JAMMU & KASHMIR,11,Ganderbal,47,Ganderbal,0,Ganderbal
+99,1,JAMMU & KASHMIR,11,Ganderbal,47,Ganderbal,800015,Ganderbal (MC)
+100,1,JAMMU & KASHMIR,12,Pulwama,0,Pulwama,0,Pulwama
+101,1,JAMMU & KASHMIR,12,Pulwama,48,Pampore,0,Pampore
+102,1,JAMMU & KASHMIR,12,Pulwama,48,Pampore,800022,Pampora (MC)
+103,1,JAMMU & KASHMIR,12,Pulwama,48,Pampore,800023,Khrew (MC)
+104,1,JAMMU & KASHMIR,12,Pulwama,49,Awantipora,0,Awantipora
+105,1,JAMMU & KASHMIR,12,Pulwama,49,Awantipora,800024,Awantipora (MC)
+106,1,JAMMU & KASHMIR,12,Pulwama,50,Tral,0,Tral
+107,1,JAMMU & KASHMIR,12,Pulwama,50,Tral,800025,Tral (MC)
+108,1,JAMMU & KASHMIR,12,Pulwama,51,Pulwama,0,Pulwama
+109,1,JAMMU & KASHMIR,12,Pulwama,51,Pulwama,800026,Pulwama (MC)
+110,1,JAMMU & KASHMIR,13,Shupiyan,0,Shupiyan,0,Shupiyan
+111,1,JAMMU & KASHMIR,13,Shupiyan,52,Shopian,0,Shopian
+112,1,JAMMU & KASHMIR,13,Shupiyan,52,Shopian,800027,Shupiyan (MC)
+113,1,JAMMU & KASHMIR,14,Anantnag,0,Anantnag,0,Anantnag
+114,1,JAMMU & KASHMIR,14,Anantnag,53,Pahalgam,0,Pahalgam
+115,1,JAMMU & KASHMIR,14,Anantnag,53,Pahalgam,800028,Pahalgam (MC)
+116,1,JAMMU & KASHMIR,14,Anantnag,53,Pahalgam,800029,Aishmuquam (MC)
+117,1,JAMMU & KASHMIR,14,Anantnag,54,Bijbehara,0,Bijbehara
+118,1,JAMMU & KASHMIR,14,Anantnag,54,Bijbehara,800030,Bijbehara (MC)
+119,1,JAMMU & KASHMIR,14,Anantnag,54,Bijbehara,800031,Arwani (MC)
+120,1,JAMMU & KASHMIR,14,Anantnag,55,Anantnag,0,Anantnag
+121,1,JAMMU & KASHMIR,14,Anantnag,55,Anantnag,800032,Mattan (MC)
+122,1,JAMMU & KASHMIR,14,Anantnag,55,Anantnag,800033,Anantnag (M Cl + OG)
+123,1,JAMMU & KASHMIR,14,Anantnag,55,Anantnag,800033,Anantnag (M Cl + OG) (Part)
+124,1,JAMMU & KASHMIR,14,Anantnag,55,Anantnag,800034,Achhabal (MC)
+125,1,JAMMU & KASHMIR,14,Anantnag,55,Anantnag,800035,Seer Hamdan (MC)
+126,1,JAMMU & KASHMIR,14,Anantnag,56,Shangus,0,Shangus
+127,1,JAMMU & KASHMIR,14,Anantnag,56,Shangus,800036,Shangus (MC)
+128,1,JAMMU & KASHMIR,14,Anantnag,57,Kokernag,0,Kokernag
+129,1,JAMMU & KASHMIR,14,Anantnag,57,Kokernag,800037,Koker Nag (MC)
+130,1,JAMMU & KASHMIR,14,Anantnag,58,Dooru,0,Dooru
+131,1,JAMMU & KASHMIR,14,Anantnag,58,Dooru,800038,Qazi Gund (MC)
+132,1,JAMMU & KASHMIR,14,Anantnag,58,Dooru,800039,Duru Verinag (MC)
+133,1,JAMMU & KASHMIR,15,Kulgam,0,Kulgam,0,Kulgam
+134,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,0,Kulgam
+135,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800033,Anantnag (M Cl + OG) (Part)
+136,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800040,Kulgam (MC)
+137,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800041,Quimoh (MC)
+138,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800042,Frisal (MC)
+139,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800043,Yari Pora (MC)
+140,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800044,Ashmuji Khalsa (MC)
+141,1,JAMMU & KASHMIR,15,Kulgam,59,Kulgam,800045,Mehmood Pora (MC)
+142,1,JAMMU & KASHMIR,15,Kulgam,60, Devsar,0, Devsar
+143,1,JAMMU & KASHMIR,15,Kulgam,60, Devsar,800046,Devsar (MC)
+144,1,JAMMU & KASHMIR,15,Kulgam,61,Damhal Hanjipora,0,Damhal Hanjipora
+145,1,JAMMU & KASHMIR,16,Doda,0,Doda,0,Doda
+146,1,JAMMU & KASHMIR,16,Doda,62,Doda,0,Doda
+147,1,JAMMU & KASHMIR,16,Doda,62,Doda,800049,Doda (MC)
+148,1,JAMMU & KASHMIR,16,Doda,63,Thathri,0,Thathri
+149,1,JAMMU & KASHMIR,16,Doda,64,Gandoh,0,Gandoh
+150,1,JAMMU & KASHMIR,16,Doda,65,Bhaderwah,0,Bhaderwah
+151,1,JAMMU & KASHMIR,16,Doda,65,Bhaderwah,800050,Bhaderwah (MC)
+152,1,JAMMU & KASHMIR,17,Ramban,0,Ramban,0,Ramban
+153,1,JAMMU & KASHMIR,17,Ramban,66,Banihal,0,Banihal
+154,1,JAMMU & KASHMIR,17,Ramban,66,Banihal,800051,Banihal (MC)
+155,1,JAMMU & KASHMIR,17,Ramban,67,Ramban,0,Ramban
+156,1,JAMMU & KASHMIR,17,Ramban,67,Ramban,800052,Ramban (MC)
+157,1,JAMMU & KASHMIR,17,Ramban,67,Ramban,800053,Batote (MC)
+158,1,JAMMU & KASHMIR,18,Kishtwar,0,Kishtwar,0,Kishtwar
+159,1,JAMMU & KASHMIR,18,Kishtwar,68,Kishtwar,0,Kishtwar
+160,1,JAMMU & KASHMIR,18,Kishtwar,68,Kishtwar,800054,Kishtwar (MC)
+161,1,JAMMU & KASHMIR,18,Kishtwar,69,Marwah,0,Marwah
+162,1,JAMMU & KASHMIR,18,Kishtwar,70,Chhatroo,0,Chhatroo
+163,1,JAMMU & KASHMIR,18,Kishtwar,71,Atholi (Paddar),0,Atholi (Paddar)
+164,1,JAMMU & KASHMIR,19,Udhampur,0,Udhampur,0,Udhampur
+165,1,JAMMU & KASHMIR,19,Udhampur,72,Udhampur,0,Udhampur
+166,1,JAMMU & KASHMIR,19,Udhampur,72,Udhampur,800055,Udhampur (M Cl + OG)
+167,1,JAMMU & KASHMIR,19,Udhampur,72,Udhampur,800055,Udhampur (M Cl)
+168,1,JAMMU & KASHMIR,19,Udhampur,73,Chenani,0,Chenani
+169,1,JAMMU & KASHMIR,19,Udhampur,73,Chenani,800056,Kud (MC)
+170,1,JAMMU & KASHMIR,19,Udhampur,73,Chenani,800057,Chenani (MC)
+171,1,JAMMU & KASHMIR,19,Udhampur,74,Ramnagar,0,Ramnagar
+172,1,JAMMU & KASHMIR,19,Udhampur,74,Ramnagar,800058,Ram Nagar (MC)
+173,1,JAMMU & KASHMIR,19,Udhampur,75,Majalta,0,Majalta
+174,1,JAMMU & KASHMIR,20,Reasi,0,Reasi,0,Reasi
+175,1,JAMMU & KASHMIR,20,Reasi,76,Gool-Gulabgarh,0,Gool-Gulabgarh
+176,1,JAMMU & KASHMIR,20,Reasi,77,Reasi,0,Reasi
+177,1,JAMMU & KASHMIR,20,Reasi,77,Reasi,800059,Reasi (MC)
+178,1,JAMMU & KASHMIR,20,Reasi,77,Reasi,800060,Purana Daroorh (MC)
+179,1,JAMMU & KASHMIR,20,Reasi,77,Reasi,800061,Katra (MC)
+180,1,JAMMU & KASHMIR,21,Jammu,0,Jammu,0,Jammu
+181,1,JAMMU & KASHMIR,21,Jammu,78,Akhnoor,0,Akhnoor
+182,1,JAMMU & KASHMIR,21,Jammu,78,Akhnoor,800068,Jourian (MC)
+183,1,JAMMU & KASHMIR,21,Jammu,78,Akhnoor,800069,Akhnoor (MC)
+184,1,JAMMU & KASHMIR,21,Jammu,78,Akhnoor,800070,Khore (MC)
+185,1,JAMMU & KASHMIR,21,Jammu,79,Jammu,0,Jammu
+186,1,JAMMU & KASHMIR,21,Jammu,79,Jammu,800071,Jammu (M Corp. + OG)
+187,1,JAMMU & KASHMIR,21,Jammu,79,Jammu,800071,Jammu (M Corp.)
+188,1,JAMMU & KASHMIR,21,Jammu,79,Jammu,800072,Jammu Cantt. (CB)
+189,1,JAMMU & KASHMIR,21,Jammu,79,Jammu,800073,Ghomanhasan (MC)
+190,1,JAMMU & KASHMIR,21,Jammu,80,Ranbir Singh Pora,0,Ranbir Singh Pora
+191,1,JAMMU & KASHMIR,21,Jammu,80,Ranbir Singh Pora,800074,R.S. Pora (MC)
+192,1,JAMMU & KASHMIR,21,Jammu,81,Bishnah,0,Bishnah
+193,1,JAMMU & KASHMIR,21,Jammu,81,Bishnah,800075,Bishna (MC)
+194,1,JAMMU & KASHMIR,21,Jammu,81,Bishnah,800076,Arnia (MC)
+195,1,JAMMU & KASHMIR,22,Samba,0,Samba,0,Samba
+196,1,JAMMU & KASHMIR,22,Samba,82,Samba,0,Samba
+197,1,JAMMU & KASHMIR,22,Samba,82,Samba,800077,Bari Brahamana (MC)
+198,1,JAMMU & KASHMIR,22,Samba,82,Samba,800078,Vijay Pur (MC)
+199,1,JAMMU & KASHMIR,22,Samba,82,Samba,800079,Samba (MC)
+200,1,JAMMU & KASHMIR,22,Samba,82,Samba,800080,Ramgarh (MC)

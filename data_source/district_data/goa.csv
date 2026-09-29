@@ -1,0 +1,30 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,30,GOA,0,GOA,0,GOA,0,GOA
+1,30,GOA,585,North Goa,0,North Goa,0,North Goa
+2,30,GOA,585,North Goa,5609,Pernem,0,Pernem
+3,30,GOA,585,North Goa,5609,Pernem,803241,Pernem (M Cl)
+4,30,GOA,585,North Goa,5610,Bardez,0,Bardez
+5,30,GOA,585,North Goa,5610,Bardez,803242,Mapusa (M Cl)
+6,30,GOA,585,North Goa,5611,Tiswadi,0,Tiswadi
+7,30,GOA,585,North Goa,5611,Tiswadi,803243,Panaji (M Corp. + OG)
+8,30,GOA,585,North Goa,5611,Tiswadi,803243,Panaji (M Corp.)
+9,30,GOA,585,North Goa,5612,Bicholim,0,Bicholim
+10,30,GOA,585,North Goa,5612,Bicholim,803244,Bicholim (M Cl)
+11,30,GOA,585,North Goa,5612,Bicholim,803245,Sanquelim (M Cl)
+12,30,GOA,585,North Goa,5613,Satari,0,Satari
+13,30,GOA,585,North Goa,5613,Satari,803246,Valpoi (M Cl)
+14,30,GOA,585,North Goa,5614,Ponda,0,Ponda
+15,30,GOA,585,North Goa,5614,Ponda,803247,Ponda (M Cl)
+16,30,GOA,586,South Goa,0,South Goa,0,South Goa
+17,30,GOA,586,South Goa,5615,Mormugao,0,Mormugao
+18,30,GOA,586,South Goa,5615,Mormugao,803248,Mormugao (M Cl)
+19,30,GOA,586,South Goa,5616,Salcete,0,Salcete
+20,30,GOA,586,South Goa,5616,Salcete,803249,Margao (M Cl)
+21,30,GOA,586,South Goa,5616,Salcete,803250,Cuncolim (M Cl)
+22,30,GOA,586,South Goa,5617,Quepem,0,Quepem
+23,30,GOA,586,South Goa,5617,Quepem,803251,Quepem (M Cl)
+24,30,GOA,586,South Goa,5617,Quepem,803252,Curchorem-Cacora (M Cl)
+25,30,GOA,586,South Goa,5618,Sanguem,0,Sanguem
+26,30,GOA,586,South Goa,5618,Sanguem,803253,Sanguem (M Cl)
+27,30,GOA,586,South Goa,5619,Canacona,0,Canacona
+28,30,GOA,586,South Goa,5619,Canacona,803254,Canacona (M Cl)

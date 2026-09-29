@@ -1,0 +1,487 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,24,GUJARAT,0,GUJARAT,0,GUJARAT,0,GUJARAT
+1,24,GUJARAT,468,Kachchh,0,Kachchh,0,Kachchh
+2,24,GUJARAT,468,Kachchh,3722,Lakhpat,0,Lakhpat
+3,24,GUJARAT,468,Kachchh,3723,Rapar,0,Rapar
+4,24,GUJARAT,468,Kachchh,3723,Rapar,802442,Rapar (M)
+5,24,GUJARAT,468,Kachchh,3724,Bhachau,0,Bhachau
+6,24,GUJARAT,468,Kachchh,3724,Bhachau,802443,Bhachau (M)
+7,24,GUJARAT,468,Kachchh,3725,Anjar,0,Anjar
+8,24,GUJARAT,468,Kachchh,3725,Anjar,802444,Anjar (M)
+9,24,GUJARAT,468,Kachchh,3726,Bhuj,0,Bhuj
+10,24,GUJARAT,468,Kachchh,3726,Bhuj,802445,Bhuj (M + OG)
+11,24,GUJARAT,468,Kachchh,3726,Bhuj,802445,Bhuj (M)
+12,24,GUJARAT,468,Kachchh,3727,Nakhatrana,0,Nakhatrana
+13,24,GUJARAT,468,Kachchh,3728,Abdasa,0,Abdasa
+14,24,GUJARAT,468,Kachchh,3729,Mandvi,0,Mandvi
+15,24,GUJARAT,468,Kachchh,3729,Mandvi,802446,Mandvi (M)
+16,24,GUJARAT,468,Kachchh,3730,Mundra,0,Mundra
+17,24,GUJARAT,468,Kachchh,3731,Gandhidham,0,Gandhidham
+18,24,GUJARAT,468,Kachchh,3731,Gandhidham,802447,Gandhidham (M)
+19,24,GUJARAT,469,Banas Kantha,0,Banas Kantha,0,Banas Kantha
+20,24,GUJARAT,469,Banas Kantha,3732,Vav,0,Vav
+21,24,GUJARAT,469,Banas Kantha,3733,Tharad,0,Tharad
+22,24,GUJARAT,469,Banas Kantha,3733,Tharad,802448,Tharad (M)
+23,24,GUJARAT,469,Banas Kantha,3734,Dhanera,0,Dhanera
+24,24,GUJARAT,469,Banas Kantha,3734,Dhanera,802449,Dhanera (M)
+25,24,GUJARAT,469,Banas Kantha,3735,Dantiwada,0,Dantiwada
+26,24,GUJARAT,469,Banas Kantha,3736,Amirgadh,0,Amirgadh
+27,24,GUJARAT,469,Banas Kantha,3737,Danta,0,Danta
+28,24,GUJARAT,469,Banas Kantha,3738,Vadgam,0,Vadgam
+29,24,GUJARAT,469,Banas Kantha,3739,Palanpur,0,Palanpur
+30,24,GUJARAT,469,Banas Kantha,3739,Palanpur,802450,Palanpur (M + OG)
+31,24,GUJARAT,469,Banas Kantha,3739,Palanpur,802450,Palanpur (M)
+32,24,GUJARAT,469,Banas Kantha,3740,Deesa,0,Deesa
+33,24,GUJARAT,469,Banas Kantha,3740,Deesa,802451,Deesa (M)
+34,24,GUJARAT,469,Banas Kantha,3741,Deodar,0,Deodar
+35,24,GUJARAT,469,Banas Kantha,3742,Bhabhar,0,Bhabhar
+36,24,GUJARAT,469,Banas Kantha,3742,Bhabhar,802452,Bhabhar (M)
+37,24,GUJARAT,469,Banas Kantha,3743,Kankrej,0,Kankrej
+38,24,GUJARAT,469,Banas Kantha,3743,Kankrej,802453,Thara (M)
+39,24,GUJARAT,470,Patan  ,0,Patan  ,0,Patan  
+40,24,GUJARAT,470,Patan  ,3744,Santalpur,0,Santalpur
+41,24,GUJARAT,470,Patan  ,3745,Radhanpur,0,Radhanpur
+42,24,GUJARAT,470,Patan  ,3745,Radhanpur,802454,Radhanpur (M)
+43,24,GUJARAT,470,Patan  ,3746,Sidhpur,0,Sidhpur
+44,24,GUJARAT,470,Patan  ,3746,Sidhpur,802455,Sidhpur (M + OG)
+45,24,GUJARAT,470,Patan  ,3746,Sidhpur,802455,Sidhpur (M)
+46,24,GUJARAT,470,Patan  ,3747,Patan,0,Patan
+47,24,GUJARAT,470,Patan  ,3747,Patan,802456,Patan (M + OG)
+48,24,GUJARAT,470,Patan  ,3747,Patan,802456,Patan (M)
+49,24,GUJARAT,470,Patan  ,3748,Harij,0,Harij
+50,24,GUJARAT,470,Patan  ,3748,Harij,802457,Harij (M)
+51,24,GUJARAT,470,Patan  ,3749,Sami,0,Sami
+52,24,GUJARAT,470,Patan  ,3750,Chanasma,0,Chanasma
+53,24,GUJARAT,470,Patan  ,3750,Chanasma,802458,Chanasma (M)
+54,24,GUJARAT,471,Mahesana,0,Mahesana,0,Mahesana
+55,24,GUJARAT,471,Mahesana,3751,Satlasana,0,Satlasana
+56,24,GUJARAT,471,Mahesana,3752,Kheralu,0,Kheralu
+57,24,GUJARAT,471,Mahesana,3752,Kheralu,802459,Kheralu (M)
+58,24,GUJARAT,471,Mahesana,3753,Unjha,0,Unjha
+59,24,GUJARAT,471,Mahesana,3753,Unjha,802460,Unjha (M)
+60,24,GUJARAT,471,Mahesana,3754,Visnagar,0,Visnagar
+61,24,GUJARAT,471,Mahesana,3754,Visnagar,802461,Visnagar (M + OG)
+62,24,GUJARAT,471,Mahesana,3754,Visnagar,802461,Visnagar (M)
+63,24,GUJARAT,471,Mahesana,3755,Vadnagar,0,Vadnagar
+64,24,GUJARAT,471,Mahesana,3755,Vadnagar,802462,Vadnagar (M)
+65,24,GUJARAT,471,Mahesana,3756,Vijapur,0,Vijapur
+66,24,GUJARAT,471,Mahesana,3756,Vijapur,802463,Vijapur (M + OG)
+67,24,GUJARAT,471,Mahesana,3756,Vijapur,802463,Vijapur (M)
+68,24,GUJARAT,471,Mahesana,3757,Mahesana,0,Mahesana
+69,24,GUJARAT,471,Mahesana,3757,Mahesana,802464,Mahesana (M + OG)
+70,24,GUJARAT,471,Mahesana,3757,Mahesana,802464,Mahesana (M)
+71,24,GUJARAT,471,Mahesana,3758,Becharaji,0,Becharaji
+72,24,GUJARAT,471,Mahesana,3759,Kadi,0,Kadi
+73,24,GUJARAT,471,Mahesana,3759,Kadi,802465,Kadi (M + OG)
+74,24,GUJARAT,471,Mahesana,3759,Kadi,802465,Kadi (M)
+75,24,GUJARAT,472,Sabar Kantha,0,Sabar Kantha,0,Sabar Kantha
+76,24,GUJARAT,472,Sabar Kantha,3760,Khedbrahma,0,Khedbrahma
+77,24,GUJARAT,472,Sabar Kantha,3760,Khedbrahma,802466,Khedbrahma (M)
+78,24,GUJARAT,472,Sabar Kantha,3761,Vijaynagar,0,Vijaynagar
+79,24,GUJARAT,472,Sabar Kantha,3762,Vadali,0,Vadali
+80,24,GUJARAT,472,Sabar Kantha,3762,Vadali,802467,Vadali (M)
+81,24,GUJARAT,472,Sabar Kantha,3763,Idar,0,Idar
+82,24,GUJARAT,472,Sabar Kantha,3763,Idar,802468,Idar (M + OG)
+83,24,GUJARAT,472,Sabar Kantha,3763,Idar,802468,Idar (M)
+84,24,GUJARAT,472,Sabar Kantha,3764,Bhiloda,0,Bhiloda
+85,24,GUJARAT,472,Sabar Kantha,3765,Meghraj,0,Meghraj
+86,24,GUJARAT,472,Sabar Kantha,3766,Himatnagar,0,Himatnagar
+87,24,GUJARAT,472,Sabar Kantha,3766,Himatnagar,802469,Himatnagar (M)
+88,24,GUJARAT,472,Sabar Kantha,3767,Prantij,0,Prantij
+89,24,GUJARAT,472,Sabar Kantha,3767,Prantij,802470,Prantij (M)
+90,24,GUJARAT,472,Sabar Kantha,3768,Talod,0,Talod
+91,24,GUJARAT,472,Sabar Kantha,3768,Talod,802471,Talod (M)
+92,24,GUJARAT,472,Sabar Kantha,3769,Modasa,0,Modasa
+93,24,GUJARAT,472,Sabar Kantha,3769,Modasa,802472,Modasa (M)
+94,24,GUJARAT,472,Sabar Kantha,3770,Dhansura,0,Dhansura
+95,24,GUJARAT,472,Sabar Kantha,3771,Malpur,0,Malpur
+96,24,GUJARAT,472,Sabar Kantha,3772,Bayad,0,Bayad
+97,24,GUJARAT,472,Sabar Kantha,3772,Bayad,802473,Bayad (M)
+98,24,GUJARAT,473,Gandhinagar,0,Gandhinagar,0,Gandhinagar
+99,24,GUJARAT,473,Gandhinagar,3773,Kalol,0,Kalol
+100,24,GUJARAT,473,Gandhinagar,3773,Kalol,802474,Chhatral INA (INA)
+101,24,GUJARAT,473,Gandhinagar,3773,Kalol,802475,Kalol (M + OG)
+102,24,GUJARAT,473,Gandhinagar,3773,Kalol,802475,Kalol (M)
+103,24,GUJARAT,473,Gandhinagar,3773,Kalol,802476,Kalol INA (INA)
+104,24,GUJARAT,473,Gandhinagar,3774,Mansa,0,Mansa
+105,24,GUJARAT,473,Gandhinagar,3774,Mansa,802477,Mansa (M)
+106,24,GUJARAT,473,Gandhinagar,3775,Gandhinagar,0,Gandhinagar
+107,24,GUJARAT,473,Gandhinagar,3775,Gandhinagar,802478,Pethapur (M)
+108,24,GUJARAT,473,Gandhinagar,3775,Gandhinagar,802479,Gandhinagar (NA + OG)
+109,24,GUJARAT,473,Gandhinagar,3775,Gandhinagar,802479,Gandhinagar (NA)
+110,24,GUJARAT,473,Gandhinagar,3776,Dehgam,0,Dehgam
+111,24,GUJARAT,473,Gandhinagar,3776,Dehgam,802480,Dehgam (M)
+112,24,GUJARAT,474,Ahmadabad,0,Ahmadabad,0,Ahmadabad
+113,24,GUJARAT,474,Ahmadabad,3777,Mandal,0,Mandal
+114,24,GUJARAT,474,Ahmadabad,3778,Detroj-Rampura,0,Detroj-Rampura
+115,24,GUJARAT,474,Ahmadabad,3779,Viramgam,0,Viramgam
+116,24,GUJARAT,474,Ahmadabad,3779,Viramgam,802481,Viramgam (M)
+117,24,GUJARAT,474,Ahmadabad,3780,Sanand,0,Sanand
+118,24,GUJARAT,474,Ahmadabad,3780,Sanand,802482,Sanand (M + OG)
+119,24,GUJARAT,474,Ahmadabad,3780,Sanand,802482,Sanand (M)
+120,24,GUJARAT,474,Ahmadabad,3781,Ahmadabad City,0,Ahmadabad City
+121,24,GUJARAT,474,Ahmadabad,3781,Ahmadabad City,802483,Ahmadabad Cantonment (CB)
+122,24,GUJARAT,474,Ahmadabad,0,Ahmadabad,802484,Ahmadabad (M Corp. + OG)
+123,24,GUJARAT,474,Ahmadabad,3781,Ahmadabad City,802484,Ahmadabad (M Corp. + OG) (Part)
+124,24,GUJARAT,474,Ahmadabad,3782,Daskroi,0,Daskroi
+125,24,GUJARAT,474,Ahmadabad,3782,Daskroi,802484,Ahmadabad (M Corp. + OG) (Part)
+126,24,GUJARAT,474,Ahmadabad,3782,Daskroi,802485,Bareja (M)
+127,24,GUJARAT,474,Ahmadabad,3783,Dholka,0,Dholka
+128,24,GUJARAT,474,Ahmadabad,3783,Dholka,802486,Dholka (M + OG)
+129,24,GUJARAT,474,Ahmadabad,3783,Dholka,802486,Dholka (M)
+130,24,GUJARAT,474,Ahmadabad,3784,Bavla,0,Bavla
+131,24,GUJARAT,474,Ahmadabad,3784,Bavla,802487,Bavla (M + OG)
+132,24,GUJARAT,474,Ahmadabad,3784,Bavla,802487,Bavla (M)
+133,24,GUJARAT,474,Ahmadabad,3785,Ranpur,0,Ranpur
+134,24,GUJARAT,474,Ahmadabad,3786,Barwala,0,Barwala
+135,24,GUJARAT,474,Ahmadabad,3786,Barwala,802488,Barwala (M)
+136,24,GUJARAT,474,Ahmadabad,3787,Dhandhuka,0,Dhandhuka
+137,24,GUJARAT,474,Ahmadabad,3787,Dhandhuka,802489,Dhandhuka (M)
+138,24,GUJARAT,475,Surendranagar,0,Surendranagar,0,Surendranagar
+139,24,GUJARAT,475,Surendranagar,3788,Halvad,0,Halvad
+140,24,GUJARAT,475,Surendranagar,3788,Halvad,802490,Halvad (M)
+141,24,GUJARAT,475,Surendranagar,3789,Dhrangadhra,0,Dhrangadhra
+142,24,GUJARAT,475,Surendranagar,3789,Dhrangadhra,802491,Dhrangadhra (M)
+143,24,GUJARAT,475,Surendranagar,3790,Dasada,0,Dasada
+144,24,GUJARAT,475,Surendranagar,3790,Dasada,802492,Patdi (M)
+145,24,GUJARAT,475,Surendranagar,3791,Lakhtar,0,Lakhtar
+146,24,GUJARAT,475,Surendranagar,3792,Wadhwan,0,Wadhwan
+147,24,GUJARAT,475,Surendranagar,3792,Wadhwan,802493,Surendranagar Dudhrej (M)
+148,24,GUJARAT,475,Surendranagar,3792,Wadhwan,802494,Wadhwan (M)
+149,24,GUJARAT,475,Surendranagar,3793,Muli,0,Muli
+150,24,GUJARAT,475,Surendranagar,3794,Chotila,0,Chotila
+151,24,GUJARAT,475,Surendranagar,3794,Chotila,802495,Thangadh (M)
+152,24,GUJARAT,475,Surendranagar,3794,Chotila,802496,Chotila (M)
+153,24,GUJARAT,475,Surendranagar,3795,Sayla,0,Sayla
+154,24,GUJARAT,475,Surendranagar,3796,Chuda,0,Chuda
+155,24,GUJARAT,475,Surendranagar,3797,Limbdi,0,Limbdi
+156,24,GUJARAT,475,Surendranagar,3797,Limbdi,802497,Limbdi (M)
+157,24,GUJARAT,476,Rajkot,0,Rajkot,0,Rajkot
+158,24,GUJARAT,476,Rajkot,3798,Maliya,0,Maliya
+159,24,GUJARAT,476,Rajkot,3798,Maliya,802498,Maliya (M)
+160,24,GUJARAT,476,Rajkot,3799,Morvi,0,Morvi
+161,24,GUJARAT,476,Rajkot,3799,Morvi,802499,Morvi (M + OG)
+162,24,GUJARAT,476,Rajkot,3799,Morvi,802499,Morvi (M)
+163,24,GUJARAT,476,Rajkot,3800,Tankara,0,Tankara
+164,24,GUJARAT,476,Rajkot,3801,Wankaner,0,Wankaner
+165,24,GUJARAT,476,Rajkot,3801,Wankaner,802500,Wankaner (M)
+166,24,GUJARAT,476,Rajkot,3802,Paddhari,0,Paddhari
+167,24,GUJARAT,476,Rajkot,3803,Rajkot,0,Rajkot
+168,24,GUJARAT,476,Rajkot,3803,Rajkot,802501,Rajkot (M Corp. + OG)
+169,24,GUJARAT,476,Rajkot,3803,Rajkot,802501,Rajkot (M Corp.)
+170,24,GUJARAT,476,Rajkot,3804,Lodhika,0,Lodhika
+171,24,GUJARAT,476,Rajkot,3804,Lodhika,802502,Lodhika (INA)
+172,24,GUJARAT,476,Rajkot,3805,Kotda Sangani,0,Kotda Sangani
+173,24,GUJARAT,476,Rajkot,3806,Jasdan,0,Jasdan
+174,24,GUJARAT,476,Rajkot,3806,Jasdan,802503,Jasdan (M)
+175,24,GUJARAT,476,Rajkot,3807,Gondal,0,Gondal
+176,24,GUJARAT,476,Rajkot,3807,Gondal,802504,Gondal (M)
+177,24,GUJARAT,476,Rajkot,3808,Jamkandorna,0,Jamkandorna
+178,24,GUJARAT,476,Rajkot,3809,Upleta,0,Upleta
+179,24,GUJARAT,476,Rajkot,3809,Upleta,802505,Bhayavadar (M)
+180,24,GUJARAT,476,Rajkot,3809,Upleta,802506,Upleta (M)
+181,24,GUJARAT,476,Rajkot,3810,Dhoraji,0,Dhoraji
+182,24,GUJARAT,476,Rajkot,3810,Dhoraji,802507,Dhoraji (M)
+183,24,GUJARAT,476,Rajkot,3811,Jetpur,0,Jetpur
+184,24,GUJARAT,476,Rajkot,3811,Jetpur,802508,Jetpur Navagadh (M)
+185,24,GUJARAT,477,Jamnagar,0,Jamnagar,0,Jamnagar
+186,24,GUJARAT,477,Jamnagar,3812,Okhamandal,0,Okhamandal
+187,24,GUJARAT,477,Jamnagar,3812,Okhamandal,802509,Okha (M)
+188,24,GUJARAT,477,Jamnagar,3812,Okhamandal,802510,Dwarka (M)
+189,24,GUJARAT,477,Jamnagar,3813,Khambhalia,0,Khambhalia
+190,24,GUJARAT,477,Jamnagar,3813,Khambhalia,802511,Salaya (M)
+191,24,GUJARAT,477,Jamnagar,3813,Khambhalia,802512,Khambhalia (M)
+192,24,GUJARAT,477,Jamnagar,3814,Jamnagar,0,Jamnagar
+193,24,GUJARAT,477,Jamnagar,3814,Jamnagar,802513,Sikka (M)
+194,24,GUJARAT,477,Jamnagar,3814,Jamnagar,802514,GSFC (Motikhavdi Sikka) (INA)
+195,24,GUJARAT,477,Jamnagar,3814,Jamnagar,802515,Reliance Complex (INA)
+196,24,GUJARAT,477,Jamnagar,3814,Jamnagar,802516,Jamnagar (M Corp. + OG)
+197,24,GUJARAT,477,Jamnagar,3814,Jamnagar,802516,Jamnagar (M Corp.)
+198,24,GUJARAT,477,Jamnagar,3815,Jodiya,0,Jodiya
+199,24,GUJARAT,477,Jamnagar,3816,Dhrol,0,Dhrol
+200,24,GUJARAT,477,Jamnagar,3816,Dhrol,802517,Dhrol (M)
+201,24,GUJARAT,477,Jamnagar,3817,Kalavad,0,Kalavad
+202,24,GUJARAT,477,Jamnagar,3817,Kalavad,802518,Kalavad (M)
+203,24,GUJARAT,477,Jamnagar,3818,Lalpur,0,Lalpur
+204,24,GUJARAT,477,Jamnagar,3819,Kalyanpur,0,Kalyanpur
+205,24,GUJARAT,477,Jamnagar,3819,Kalyanpur,802519,Raval (M)
+206,24,GUJARAT,477,Jamnagar,3820,Bhanvad,0,Bhanvad
+207,24,GUJARAT,477,Jamnagar,3820,Bhanvad,802520,Bhanvad (M)
+208,24,GUJARAT,477,Jamnagar,3821,Jamjodhpur,0,Jamjodhpur
+209,24,GUJARAT,477,Jamnagar,3821,Jamjodhpur,802521,Jamjodhpur (M)
+210,24,GUJARAT,478,Porbandar ,0,Porbandar ,0,Porbandar 
+211,24,GUJARAT,478,Porbandar ,3822,Porbandar,0,Porbandar
+212,24,GUJARAT,478,Porbandar ,3822,Porbandar,802522,Porbandar (M + OG)
+213,24,GUJARAT,478,Porbandar ,3822,Porbandar,802522,Porbandar (M)
+214,24,GUJARAT,478,Porbandar ,3822,Porbandar,802523,Chhaya (M)
+215,24,GUJARAT,478,Porbandar ,3823,Ranavav,0,Ranavav
+216,24,GUJARAT,478,Porbandar ,3823,Ranavav,802524,Ranavav (M)
+217,24,GUJARAT,478,Porbandar ,3824,Kutiyana,0,Kutiyana
+218,24,GUJARAT,478,Porbandar ,3824,Kutiyana,802525,Kutiyana (M)
+219,24,GUJARAT,479,Junagadh,0,Junagadh,0,Junagadh
+220,24,GUJARAT,479,Junagadh,3825,Manavadar,0,Manavadar
+221,24,GUJARAT,479,Junagadh,3825,Manavadar,802526,Bantwa (M)
+222,24,GUJARAT,479,Junagadh,3825,Manavadar,802527,Manavadar (M)
+223,24,GUJARAT,479,Junagadh,3826,Vanthali,0,Vanthali
+224,24,GUJARAT,479,Junagadh,3826,Vanthali,802528,Vanthali (M)
+225,24,GUJARAT,479,Junagadh,3827,Junagadh,0,Junagadh
+226,24,GUJARAT,479,Junagadh,3827,Junagadh,802529,Junagadh (M Corp.)
+227,24,GUJARAT,479,Junagadh,3828,Bhesan,0,Bhesan
+228,24,GUJARAT,479,Junagadh,3829,Visavadar,0,Visavadar
+229,24,GUJARAT,479,Junagadh,3829,Visavadar,802530,Visavadar (M)
+230,24,GUJARAT,479,Junagadh,3830,Mendarda,0,Mendarda
+231,24,GUJARAT,479,Junagadh,3831,Keshod,0,Keshod
+232,24,GUJARAT,479,Junagadh,3831,Keshod,802531,Keshod (M)
+233,24,GUJARAT,479,Junagadh,3832,Mangrol,0,Mangrol
+234,24,GUJARAT,479,Junagadh,3832,Mangrol,802532,Mangrol (M + OG)
+235,24,GUJARAT,479,Junagadh,3832,Mangrol,802532,Mangrol (M)
+236,24,GUJARAT,479,Junagadh,3833,Malia,0,Malia
+237,24,GUJARAT,479,Junagadh,3833,Malia,802533,Chorvad (M)
+238,24,GUJARAT,479,Junagadh,3834,Talala,0,Talala
+239,24,GUJARAT,479,Junagadh,3834,Talala,802534,Talala (M)
+240,24,GUJARAT,479,Junagadh,3835,Patan-Veraval,0,Patan-Veraval
+241,24,GUJARAT,479,Junagadh,3835,Patan-Veraval,802535,Veraval (M + OG)
+242,24,GUJARAT,479,Junagadh,3835,Patan-Veraval,802535,Veraval (M)
+243,24,GUJARAT,479,Junagadh,3836,Sutrapada,0,Sutrapada
+244,24,GUJARAT,479,Junagadh,3836,Sutrapada,802536,Sutrapada (M)
+245,24,GUJARAT,479,Junagadh,3837,Kodinar,0,Kodinar
+246,24,GUJARAT,479,Junagadh,3837,Kodinar,802537,Kodinar (M)
+247,24,GUJARAT,479,Junagadh,3838,Una,0,Una
+248,24,GUJARAT,479,Junagadh,3838,Una,802538,Una (M)
+249,24,GUJARAT,480,Amreli,0,Amreli,0,Amreli
+250,24,GUJARAT,480,Amreli,3839,Kunkavav Vadia,0,Kunkavav Vadia
+251,24,GUJARAT,480,Amreli,3840,Babra,0,Babra
+252,24,GUJARAT,480,Amreli,3840,Babra,802539,Babra (M)
+253,24,GUJARAT,480,Amreli,3841,Lathi,0,Lathi
+254,24,GUJARAT,480,Amreli,3841,Lathi,802540,Lathi (M)
+255,24,GUJARAT,480,Amreli,3841,Lathi,802541,Damnagar (M)
+256,24,GUJARAT,480,Amreli,3842,Lilia,0,Lilia
+257,24,GUJARAT,480,Amreli,3843,Amreli,0,Amreli
+258,24,GUJARAT,480,Amreli,3843,Amreli,802542,Amreli (M + OG)
+259,24,GUJARAT,480,Amreli,3843,Amreli,802542,Amreli (M)
+260,24,GUJARAT,480,Amreli,3844,Bagasara,0,Bagasara
+261,24,GUJARAT,480,Amreli,3844,Bagasara,802543,Bagasara (M)
+262,24,GUJARAT,480,Amreli,3845,Dhari,0,Dhari
+263,24,GUJARAT,480,Amreli,3845,Dhari,802544,Chalala (M)
+264,24,GUJARAT,480,Amreli,3846,Savar Kundla,0,Savar Kundla
+265,24,GUJARAT,480,Amreli,3846,Savar Kundla,802545,Savarkundla (M)
+266,24,GUJARAT,480,Amreli,3847,Khambha,0,Khambha
+267,24,GUJARAT,480,Amreli,3848,Jafrabad,0,Jafrabad
+268,24,GUJARAT,480,Amreli,3848,Jafrabad,802546,Jafrabad (M)
+269,24,GUJARAT,480,Amreli,3849,Rajula,0,Rajula
+270,24,GUJARAT,480,Amreli,3849,Rajula,802547,Rajula (M)
+271,24,GUJARAT,481,Bhavnagar,0,Bhavnagar,0,Bhavnagar
+272,24,GUJARAT,481,Bhavnagar,3850,Botad,0,Botad
+273,24,GUJARAT,481,Bhavnagar,3850,Botad,802548,Botad (M)
+274,24,GUJARAT,481,Bhavnagar,3851,Vallabhipur,0,Vallabhipur
+275,24,GUJARAT,481,Bhavnagar,3851,Vallabhipur,802549,Vallabhipur (M)
+276,24,GUJARAT,481,Bhavnagar,3852,Gadhada,0,Gadhada
+277,24,GUJARAT,481,Bhavnagar,3852,Gadhada,802550,Gadhada (M)
+278,24,GUJARAT,481,Bhavnagar,3853,Umrala,0,Umrala
+279,24,GUJARAT,481,Bhavnagar,3854,Bhavnagar,0,Bhavnagar
+280,24,GUJARAT,481,Bhavnagar,3854,Bhavnagar,802551,Bhavnagar (M Corp. + OG)
+281,24,GUJARAT,481,Bhavnagar,3854,Bhavnagar,802551,Bhavnagar (M Corp.)
+282,24,GUJARAT,481,Bhavnagar,3855,Ghogha,0,Ghogha
+283,24,GUJARAT,481,Bhavnagar,3856,Sihor,0,Sihor
+284,24,GUJARAT,481,Bhavnagar,3856,Sihor,802552,Sihor (M)
+285,24,GUJARAT,481,Bhavnagar,3857,Gariadhar,0,Gariadhar
+286,24,GUJARAT,481,Bhavnagar,3857,Gariadhar,802553,Gariadhar (M)
+287,24,GUJARAT,481,Bhavnagar,3858,Palitana,0,Palitana
+288,24,GUJARAT,481,Bhavnagar,3858,Palitana,802554,Palitana (M)
+289,24,GUJARAT,481,Bhavnagar,3859,Talaja,0,Talaja
+290,24,GUJARAT,481,Bhavnagar,3859,Talaja,802555,Talaja (M)
+291,24,GUJARAT,481,Bhavnagar,3859,Talaja,802556,Alang-Sosiya (INA)
+292,24,GUJARAT,481,Bhavnagar,3860,Mahuva,0,Mahuva
+293,24,GUJARAT,481,Bhavnagar,3860,Mahuva,802557,Mahuva (M + OG)
+294,24,GUJARAT,481,Bhavnagar,3860,Mahuva,802557,Mahuva (M)
+295,24,GUJARAT,482,Anand  ,0,Anand  ,0,Anand  
+296,24,GUJARAT,482,Anand  ,3861,Tarapur,0,Tarapur
+297,24,GUJARAT,482,Anand  ,3862,Sojitra,0,Sojitra
+298,24,GUJARAT,482,Anand  ,3862,Sojitra,802558,Sojitra (M)
+299,24,GUJARAT,482,Anand  ,3863,Umreth,0,Umreth
+300,24,GUJARAT,482,Anand  ,3863,Umreth,802559,Umreth (M)
+301,24,GUJARAT,482,Anand  ,3864,Anand,0,Anand
+302,24,GUJARAT,482,Anand  ,3864,Anand,802560,Boriavi (M)
+303,24,GUJARAT,482,Anand  ,3864,Anand,802561,Ode (M)
+304,24,GUJARAT,482,Anand  ,3864,Anand,802562,Anand (M + OG)
+305,24,GUJARAT,482,Anand  ,3864,Anand,802562,Anand (M)
+306,24,GUJARAT,482,Anand  ,3864,Anand,802563,Vallabh Vidyanagar (M)
+307,24,GUJARAT,482,Anand  ,3864,Anand,802564,Karamsad (M)
+308,24,GUJARAT,482,Anand  ,3864,Anand,802565,Vithal Udyognagar (INA)
+309,24,GUJARAT,482,Anand  ,3865,Petlad,0,Petlad
+310,24,GUJARAT,482,Anand  ,3865,Petlad,802566,Petlad (M)
+311,24,GUJARAT,482,Anand  ,3866,Khambhat,0,Khambhat
+312,24,GUJARAT,482,Anand  ,3866,Khambhat,802567,Khambhat (M + OG)
+313,24,GUJARAT,482,Anand  ,3866,Khambhat,802567,Khambhat (M)
+314,24,GUJARAT,482,Anand  ,3867,Borsad,0,Borsad
+315,24,GUJARAT,482,Anand  ,3867,Borsad,802568,Borsad (M)
+316,24,GUJARAT,482,Anand  ,3867,Borsad,802569,Vasna Borsad (INA)
+317,24,GUJARAT,482,Anand  ,3868,Anklav,0,Anklav
+318,24,GUJARAT,482,Anand  ,3868,Anklav,802570,Anklav (M)
+319,24,GUJARAT,483,Kheda,0,Kheda,0,Kheda
+320,24,GUJARAT,483,Kheda,3869,Kapadvanj,0,Kapadvanj
+321,24,GUJARAT,483,Kheda,3869,Kapadvanj,802571,Kapadvanj (M)
+322,24,GUJARAT,483,Kheda,3870,Virpur,0,Virpur
+323,24,GUJARAT,483,Kheda,3871,Balasinor,0,Balasinor
+324,24,GUJARAT,483,Kheda,3871,Balasinor,802572,Balasinor (M)
+325,24,GUJARAT,483,Kheda,3872,Kathlal,0,Kathlal
+326,24,GUJARAT,483,Kheda,3872,Kathlal,802573,Kathlal (M)
+327,24,GUJARAT,483,Kheda,3873,Mehmedabad,0,Mehmedabad
+328,24,GUJARAT,483,Kheda,3873,Mehmedabad,802574,Mehmedabad (M)
+329,24,GUJARAT,483,Kheda,3874,Kheda,0,Kheda
+330,24,GUJARAT,483,Kheda,3874,Kheda,802575,Kheda (M)
+331,24,GUJARAT,483,Kheda,3875,Matar,0,Matar
+332,24,GUJARAT,483,Kheda,3876,Nadiad,0,Nadiad
+333,24,GUJARAT,483,Kheda,3876,Nadiad,802576,Nadiad (M + OG)
+334,24,GUJARAT,483,Kheda,3876,Nadiad,802576,Nadiad (M)
+335,24,GUJARAT,483,Kheda,3876,Nadiad,802577,Chaklasi (M)
+336,24,GUJARAT,483,Kheda,3876,Nadiad,802578,Kanjari (M)
+337,24,GUJARAT,483,Kheda,3877,Mahudha,0,Mahudha
+338,24,GUJARAT,483,Kheda,3877,Mahudha,802579,Mahudha (M)
+339,24,GUJARAT,483,Kheda,3878,Thasra,0,Thasra
+340,24,GUJARAT,483,Kheda,3878,Thasra,802580,Thasra (M)
+341,24,GUJARAT,483,Kheda,3878,Thasra,802581,Dakor (M + OG)
+342,24,GUJARAT,483,Kheda,3878,Thasra,802581,Dakor (M)
+343,24,GUJARAT,484,Panch Mahals,0,Panch Mahals,0,Panch Mahals
+344,24,GUJARAT,484,Panch Mahals,3879,Khanpur,0,Khanpur
+345,24,GUJARAT,484,Panch Mahals,3880,Kadana,0,Kadana
+346,24,GUJARAT,484,Panch Mahals,3881,Santrampur,0,Santrampur
+347,24,GUJARAT,484,Panch Mahals,3881,Santrampur,802582,Santrampur (M)
+348,24,GUJARAT,484,Panch Mahals,3882,Lunawada,0,Lunawada
+349,24,GUJARAT,484,Panch Mahals,3882,Lunawada,802583,Lunawada (M)
+350,24,GUJARAT,484,Panch Mahals,3883,Shehera,0,Shehera
+351,24,GUJARAT,484,Panch Mahals,3883,Shehera,802584,Shehera (M)
+352,24,GUJARAT,484,Panch Mahals,3884,Morwa (Hadaf),0,Morwa (Hadaf)
+353,24,GUJARAT,484,Panch Mahals,3885,Godhra,0,Godhra
+354,24,GUJARAT,484,Panch Mahals,3885,Godhra,802585,Godhra (M)
+355,24,GUJARAT,484,Panch Mahals,3886,Kalol,0,Kalol
+356,24,GUJARAT,484,Panch Mahals,3886,Kalol,802586,Kalol (M + OG)
+357,24,GUJARAT,484,Panch Mahals,3886,Kalol,802586,Kalol (M)
+358,24,GUJARAT,484,Panch Mahals,3886,Kalol,802587,Kalol (INA)
+359,24,GUJARAT,484,Panch Mahals,3887,Ghoghamba,0,Ghoghamba
+360,24,GUJARAT,484,Panch Mahals,3888,Halol,0,Halol
+361,24,GUJARAT,484,Panch Mahals,3888,Halol,802588,Halol (M + OG)
+362,24,GUJARAT,484,Panch Mahals,3888,Halol,802588,Halol (M)
+363,24,GUJARAT,484,Panch Mahals,3889,Jambughoda,0,Jambughoda
+364,24,GUJARAT,485,Dohad  ,0,Dohad  ,0,Dohad  
+365,24,GUJARAT,485,Dohad  ,3890,Fatepura,0,Fatepura
+366,24,GUJARAT,485,Dohad  ,3891,Jhalod,0,Jhalod
+367,24,GUJARAT,485,Dohad  ,3891,Jhalod,802589,Jhalod (M)
+368,24,GUJARAT,485,Dohad  ,3892,Limkheda,0,Limkheda
+369,24,GUJARAT,485,Dohad  ,3893,Dohad,0,Dohad
+370,24,GUJARAT,485,Dohad  ,3893,Dohad,802590,Dohad (M + OG)
+371,24,GUJARAT,485,Dohad  ,3893,Dohad,802590,Dohad (M)
+372,24,GUJARAT,485,Dohad  ,3894,Garbada,0,Garbada
+373,24,GUJARAT,485,Dohad  ,3895,Devgadbaria,0,Devgadbaria
+374,24,GUJARAT,485,Dohad  ,3895,Devgadbaria,802591,Devgadbaria (M)
+375,24,GUJARAT,485,Dohad  ,3896,Dhanpur,0,Dhanpur
+376,24,GUJARAT,486,Vadodara,0,Vadodara,0,Vadodara
+377,24,GUJARAT,486,Vadodara,3897,Savli,0,Savli
+378,24,GUJARAT,486,Vadodara,3897,Savli,802592,Savli (M)
+379,24,GUJARAT,486,Vadodara,3898,Vadodara,0,Vadodara
+380,24,GUJARAT,486,Vadodara,3898,Vadodara,802593,Nandesari (INA)
+381,24,GUJARAT,486,Vadodara,3898,Vadodara,802594,Petro-Chemical Complex (INA)
+382,24,GUJARAT,486,Vadodara,3898,Vadodara,802595,GSFC Complex (INA)
+383,24,GUJARAT,486,Vadodara,3898,Vadodara,802596,Vadodara (M Corp. + OG)
+384,24,GUJARAT,486,Vadodara,3898,Vadodara,802596,Vadodara (M Corp.)
+385,24,GUJARAT,486,Vadodara,3898,Vadodara,802597,Por-Ramangamdi (INA)
+386,24,GUJARAT,486,Vadodara,3899,Vaghodia,0,Vaghodia
+387,24,GUJARAT,486,Vadodara,3899,Vaghodia,802598,Vaghodia (INA)
+388,24,GUJARAT,486,Vadodara,3900,Jetpur Pavi,0,Jetpur Pavi
+389,24,GUJARAT,486,Vadodara,3901,Chhota Udaipur,0,Chhota Udaipur
+390,24,GUJARAT,486,Vadodara,3901,Chhota Udaipur,802599,Chhota Udaipur (M)
+391,24,GUJARAT,486,Vadodara,3902,Kavant,0,Kavant
+392,24,GUJARAT,486,Vadodara,3903,Nasvadi,0,Nasvadi
+393,24,GUJARAT,486,Vadodara,3904,Sankheda,0,Sankheda
+394,24,GUJARAT,486,Vadodara,3905,Dabhoi,0,Dabhoi
+395,24,GUJARAT,486,Vadodara,3905,Dabhoi,802600,Dabhoi (M)
+396,24,GUJARAT,486,Vadodara,3906,Padra,0,Padra
+397,24,GUJARAT,486,Vadodara,3906,Padra,802601,Padra (M + OG)
+398,24,GUJARAT,486,Vadodara,3906,Padra,802601,Padra (M)
+399,24,GUJARAT,486,Vadodara,3907,Karjan,0,Karjan
+400,24,GUJARAT,486,Vadodara,3907,Karjan,802602,Karjan (M)
+401,24,GUJARAT,486,Vadodara,3908,Sinor,0,Sinor
+402,24,GUJARAT,487,Narmada,0,Narmada,0,Narmada
+403,24,GUJARAT,487,Narmada,3909,Tilakwada,0,Tilakwada
+404,24,GUJARAT,487,Narmada,3910,Nandod,0,Nandod
+405,24,GUJARAT,487,Narmada,3910,Nandod,802603,Rajpipla (M)
+406,24,GUJARAT,487,Narmada,3911,Dediapada,0,Dediapada
+407,24,GUJARAT,487,Narmada,3912,Sagbara,0,Sagbara
+408,24,GUJARAT,488,Bharuch,0,Bharuch,0,Bharuch
+409,24,GUJARAT,488,Bharuch,3913,Jambusar,0,Jambusar
+410,24,GUJARAT,488,Bharuch,3913,Jambusar,802604,Jambusar (M)
+411,24,GUJARAT,488,Bharuch,3914,Amod,0,Amod
+412,24,GUJARAT,488,Bharuch,3914,Amod,802605,Amod (M)
+413,24,GUJARAT,488,Bharuch,3915,Vagra,0,Vagra
+414,24,GUJARAT,488,Bharuch,3916,Bharuch,0,Bharuch
+415,24,GUJARAT,488,Bharuch,3916,Bharuch,802606,Bharuch (INA)
+416,24,GUJARAT,488,Bharuch,3916,Bharuch,802607,Bharuch (M)
+417,24,GUJARAT,488,Bharuch,3917,Jhagadia,0,Jhagadia
+418,24,GUJARAT,488,Bharuch,3918,Anklesvar,0,Anklesvar
+419,24,GUJARAT,488,Bharuch,3918,Anklesvar,802608,Anklesvar (M + OG)
+420,24,GUJARAT,488,Bharuch,3918,Anklesvar,802608,Anklesvar (M)
+421,24,GUJARAT,488,Bharuch,3918,Anklesvar,802609,Anklesvar (INA)
+422,24,GUJARAT,488,Bharuch,3918,Anklesvar,802610,Panoli (INA)
+423,24,GUJARAT,488,Bharuch,3919,Hansot,0,Hansot
+424,24,GUJARAT,488,Bharuch,3920,Valia,0,Valia
+425,24,GUJARAT,488,Bharuch,3920,Valia,802611,Valia - Jhagadia (GNFC Scooter Project Area) (INA)
+426,24,GUJARAT,488,Bharuch,3920,Valia,802612,Valia (Naldhari) (INA)
+427,24,GUJARAT,489,The Dangs,0,The Dangs,0,The Dangs
+428,24,GUJARAT,489,The Dangs,3921,The Dangs,0,The Dangs
+429,24,GUJARAT,489,The Dangs,3921,The Dangs,802613,Saputara (NA)
+430,24,GUJARAT,490,Navsari  ,0,Navsari  ,0,Navsari  
+431,24,GUJARAT,490,Navsari  ,3922,Navsari,0,Navsari
+432,24,GUJARAT,490,Navsari  ,3922,Navsari,802614,Navsari (M + OG)
+433,24,GUJARAT,490,Navsari  ,3922,Navsari,802614,Navsari (M)
+434,24,GUJARAT,490,Navsari  ,3923,Jalalpore,0,Jalalpore
+435,24,GUJARAT,490,Navsari  ,3923,Jalalpore,802615,Vijalpor (M)
+436,24,GUJARAT,490,Navsari  ,3924,Gandevi,0,Gandevi
+437,24,GUJARAT,490,Navsari  ,3924,Gandevi,802616,Gandevi (M)
+438,24,GUJARAT,490,Navsari  ,3924,Gandevi,802617,Bilimora (M)
+439,24,GUJARAT,490,Navsari  ,3925,Chikhli,0,Chikhli
+440,24,GUJARAT,490,Navsari  ,3926,Bansda,0,Bansda
+441,24,GUJARAT,491,Valsad,0,Valsad,0,Valsad
+442,24,GUJARAT,491,Valsad,3927,Valsad,0,Valsad
+443,24,GUJARAT,491,Valsad,3927,Valsad,802618,Valsad (M + OG)
+444,24,GUJARAT,491,Valsad,3927,Valsad,802618,Valsad (M)
+445,24,GUJARAT,491,Valsad,3927,Valsad,802619,Valsad (INA)
+446,24,GUJARAT,491,Valsad,3928,Dharampur,0,Dharampur
+447,24,GUJARAT,491,Valsad,3928,Dharampur,802620,Dharampur (M)
+448,24,GUJARAT,491,Valsad,3929,Pardi,0,Pardi
+449,24,GUJARAT,491,Valsad,3929,Pardi,802621,Pardi (M)
+450,24,GUJARAT,491,Valsad,3929,Pardi,802622,Vapi (M)
+451,24,GUJARAT,491,Valsad,3929,Pardi,802623,Vapi (INA)
+452,24,GUJARAT,491,Valsad,3930,Kaprada,0,Kaprada
+453,24,GUJARAT,491,Valsad,3931,Umbergaon,0,Umbergaon
+454,24,GUJARAT,491,Valsad,3931,Umbergaon,802624,Sarigam (INA)
+455,24,GUJARAT,491,Valsad,3931,Umbergaon,802625,Umbergaon (M)
+456,24,GUJARAT,491,Valsad,3931,Umbergaon,802626,Umbergaon (INA)
+457,24,GUJARAT,492,Surat,0,Surat,0,Surat
+458,24,GUJARAT,492,Surat,3932,Olpad,0,Olpad
+459,24,GUJARAT,492,Surat,3933,Mangrol,0,Mangrol
+460,24,GUJARAT,492,Surat,3933,Mangrol,802627,Tarsadi (M)
+461,24,GUJARAT,492,Surat,3934,Umarpada,0,Umarpada
+462,24,GUJARAT,492,Surat,3935,Mandvi,0,Mandvi
+463,24,GUJARAT,492,Surat,3935,Mandvi,802628,Mandvi (M)
+464,24,GUJARAT,492,Surat,3936,Kamrej,0,Kamrej
+465,24,GUJARAT,492,Surat,3937,Surat City,0,Surat City
+466,24,GUJARAT,492,Surat,0,Surat,802629,Surat (M Corp. + OG)
+467,24,GUJARAT,492,Surat,3937,Surat City,802629,Surat (M Corp. + OG) (Part)
+468,24,GUJARAT,492,Surat,3938,Chorasi,0,Chorasi
+469,24,GUJARAT,492,Surat,3938,Chorasi,802629,Surat (M Corp. + OG) (Part)
+470,24,GUJARAT,492,Surat,3938,Chorasi,802630,Hajira (INA)
+471,24,GUJARAT,492,Surat,3938,Chorasi,802631,Magdalla (INA)
+472,24,GUJARAT,492,Surat,3938,Chorasi,802632,Sachin (INA)
+473,24,GUJARAT,492,Surat,3938,Chorasi,802633,Kansad (M)
+474,24,GUJARAT,492,Surat,3939,Palsana,0,Palsana
+475,24,GUJARAT,492,Surat,3940,Bardoli,0,Bardoli
+476,24,GUJARAT,492,Surat,3940,Bardoli,802634,Bardoli (M)
+477,24,GUJARAT,492,Surat,3941,Mahuva,0,Mahuva
+478,24,GUJARAT,493,Tapi,0,Tapi,0,Tapi
+479,24,GUJARAT,493,Tapi,3942,Nizar,0,Nizar
+480,24,GUJARAT,493,Tapi,3943,Uchchhal,0,Uchchhal
+481,24,GUJARAT,493,Tapi,3944,Songadh,0,Songadh
+482,24,GUJARAT,493,Tapi,3944,Songadh,802635,Songadh (M)
+483,24,GUJARAT,493,Tapi,3945,Vyara,0,Vyara
+484,24,GUJARAT,493,Tapi,3945,Vyara,802636,Vyara (M)
+485,24,GUJARAT,493,Tapi,3946,Valod,0,Valod

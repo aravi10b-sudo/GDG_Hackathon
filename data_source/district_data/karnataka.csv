@@ -1,0 +1,457 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,29,KARNATAKA,0,KARNATAKA,0,KARNATAKA,0,KARNATAKA
+1,29,KARNATAKA,555,Belgaum,0,Belgaum,0,Belgaum
+2,29,KARNATAKA,555,Belgaum,5433,Chikodi,0,Chikodi
+3,29,KARNATAKA,555,Belgaum,5433,Chikodi,803021,Nipani  (CMC)
+4,29,KARNATAKA,555,Belgaum,5433,Chikodi,803022,Sadalgi (TP)
+5,29,KARNATAKA,555,Belgaum,5433,Chikodi,803023,Chikodi (TMC)
+6,29,KARNATAKA,555,Belgaum,5434,Athni,0,Athni
+7,29,KARNATAKA,555,Belgaum,5434,Athni,803024,Athni (TMC + OG)
+8,29,KARNATAKA,555,Belgaum,5434,Athni,803024,Athni (TMC)
+9,29,KARNATAKA,555,Belgaum,5435,Raybag ,0,Raybag 
+10,29,KARNATAKA,555,Belgaum,5435,Raybag ,803025,Kudchi (TP)
+11,29,KARNATAKA,555,Belgaum,5435,Raybag ,803026,Raybag (TP)
+12,29,KARNATAKA,555,Belgaum,5436,Gokak,0,Gokak
+13,29,KARNATAKA,555,Belgaum,5436,Gokak,803027,Mudalgi (TMC)
+14,29,KARNATAKA,555,Belgaum,5436,Gokak,803028,Konnur (TP)
+15,29,KARNATAKA,555,Belgaum,5436,Gokak,803029,Gokak Falls (NAC)
+16,29,KARNATAKA,555,Belgaum,5436,Gokak,803030,Gokak (CMC)
+17,29,KARNATAKA,555,Belgaum,5437,Hukeri,0,Hukeri
+18,29,KARNATAKA,555,Belgaum,5437,Hukeri,803031,Sankeshwar (TMC)
+19,29,KARNATAKA,555,Belgaum,5437,Hukeri,803032,Hukeri (TP)
+20,29,KARNATAKA,555,Belgaum,5438,Belgaum,0,Belgaum
+21,29,KARNATAKA,555,Belgaum,5438,Belgaum,803033,Belgaum (M Corp. + OG)
+22,29,KARNATAKA,555,Belgaum,5438,Belgaum,803033,Belgaum (M Corp.)
+23,29,KARNATAKA,555,Belgaum,5438,Belgaum,803034,Belgaum Cantonment (CB)
+24,29,KARNATAKA,555,Belgaum,5439,Khanapur,0,Khanapur
+25,29,KARNATAKA,555,Belgaum,5439,Khanapur,803035,Khanapur (TP)
+26,29,KARNATAKA,555,Belgaum,5440,Sampgaon,0,Sampgaon
+27,29,KARNATAKA,555,Belgaum,5440,Sampgaon,803036,Bail Hongal (TMC)
+28,29,KARNATAKA,555,Belgaum,5441,Parasgad,0,Parasgad
+29,29,KARNATAKA,555,Belgaum,5441,Parasgad,803037,Saundatti-Yellamma (TMC)
+30,29,KARNATAKA,555,Belgaum,5442,Ramdurg,0,Ramdurg
+31,29,KARNATAKA,555,Belgaum,5442,Ramdurg,803038,Ramdurg (TMC + OG)
+32,29,KARNATAKA,555,Belgaum,5442,Ramdurg,803038,Ramdurg (TMC)
+33,29,KARNATAKA,556,Bagalkot ,0,Bagalkot ,0,Bagalkot 
+34,29,KARNATAKA,556,Bagalkot ,99999,Area not under any Sub-district,803039,Mahalingpur (TMC)
+35,29,KARNATAKA,556,Bagalkot ,5443,Jamkhandi,0,Jamkhandi
+36,29,KARNATAKA,556,Bagalkot ,5443,Jamkhandi,803040,Terdal (TMC)
+37,29,KARNATAKA,556,Bagalkot ,5443,Jamkhandi,803041,Jamkhandi (CMC)
+38,29,KARNATAKA,556,Bagalkot ,5443,Jamkhandi,803042,Rabkavi Banhatti (CMC)
+39,29,KARNATAKA,556,Bagalkot ,5444,Bilgi,0,Bilgi
+40,29,KARNATAKA,556,Bagalkot ,5444,Bilgi,803043,Bilgi (TP)
+41,29,KARNATAKA,556,Bagalkot ,5445,Mudhol,0,Mudhol
+42,29,KARNATAKA,556,Bagalkot ,5445,Mudhol,803044,Mudhol (TMC)
+43,29,KARNATAKA,556,Bagalkot ,5446,Badami,0,Badami
+44,29,KARNATAKA,556,Bagalkot ,5446,Badami,803045,Kerur (TP)
+45,29,KARNATAKA,556,Bagalkot ,5446,Badami,803046,Badami (TMC)
+46,29,KARNATAKA,556,Bagalkot ,5446,Badami,803047,Guledgudda (TMC)
+47,29,KARNATAKA,556,Bagalkot ,5447,Bagalkot,0,Bagalkot
+48,29,KARNATAKA,556,Bagalkot ,5447,Bagalkot,803048,Bagalkot (CMC)
+49,29,KARNATAKA,556,Bagalkot ,5448,Hungund,0,Hungund
+50,29,KARNATAKA,556,Bagalkot ,5448,Hungund,803049,Hungund (TP)
+51,29,KARNATAKA,556,Bagalkot ,5448,Hungund,803050,Ilkal (CMC)
+52,29,KARNATAKA,557,Bijapur,0,Bijapur,0,Bijapur
+53,29,KARNATAKA,557,Bijapur,5449,Bijapur,0,Bijapur
+54,29,KARNATAKA,557,Bijapur,5449,Bijapur,803051,Bijapur (CMC)
+55,29,KARNATAKA,557,Bijapur,5450,Indi,0,Indi
+56,29,KARNATAKA,557,Bijapur,5450,Indi,803052,Indi (TMC)
+57,29,KARNATAKA,557,Bijapur,5451,Sindgi,0,Sindgi
+58,29,KARNATAKA,557,Bijapur,5451,Sindgi,803053,Sindgi (TMC)
+59,29,KARNATAKA,557,Bijapur,5452,Basavana Bagevadi,0,Basavana Bagevadi
+60,29,KARNATAKA,557,Bijapur,5452,Basavana Bagevadi,803054,Basavana Bagevadi (TMC)
+61,29,KARNATAKA,557,Bijapur,5453,Muddebihal,0,Muddebihal
+62,29,KARNATAKA,557,Bijapur,5453,Muddebihal,803055,Muddebihal (TMC)
+63,29,KARNATAKA,557,Bijapur,5453,Muddebihal,803056,Talikota (TMC)
+64,29,KARNATAKA,558,Bidar,0,Bidar,0,Bidar
+65,29,KARNATAKA,558,Bidar,5454,Basavakalyan ,0,Basavakalyan 
+66,29,KARNATAKA,558,Bidar,5454,Basavakalyan ,803057,Basavakalyan (CMC)
+67,29,KARNATAKA,558,Bidar,5455,Bhalki ,0,Bhalki 
+68,29,KARNATAKA,558,Bidar,5455,Bhalki ,803058,Bhalki (TMC)
+69,29,KARNATAKA,558,Bidar,5456,Aurad ,0,Aurad 
+70,29,KARNATAKA,558,Bidar,5456,Aurad ,803059,Aurad (TP)
+71,29,KARNATAKA,558,Bidar,5457,Bidar ,0,Bidar 
+72,29,KARNATAKA,558,Bidar,5457,Bidar ,803060,Bidar (CMC + OG)
+73,29,KARNATAKA,558,Bidar,5457,Bidar ,803060,Bidar (CMC)
+74,29,KARNATAKA,558,Bidar,5458,Homnabad ,0,Homnabad 
+75,29,KARNATAKA,558,Bidar,5458,Homnabad ,803061,Homnabad (TMC)
+76,29,KARNATAKA,558,Bidar,5458,Homnabad ,803062,Chitgoppa (TMC)
+77,29,KARNATAKA,559,Raichur,0,Raichur,0,Raichur
+78,29,KARNATAKA,559,Raichur,5459,Lingsugur ,0,Lingsugur 
+79,29,KARNATAKA,559,Raichur,5459,Lingsugur ,803063,Mudgal (TP)
+80,29,KARNATAKA,559,Raichur,5459,Lingsugur ,803064,Lingsugur (TMC)
+81,29,KARNATAKA,559,Raichur,5459,Lingsugur ,803065,Hatti Gold Mines(NAC)
+82,29,KARNATAKA,559,Raichur,5460,Devadurga ,0,Devadurga 
+83,29,KARNATAKA,559,Raichur,5460,Devadurga ,803066,Devadurga (TMC)
+84,29,KARNATAKA,559,Raichur,5461,Raichur ,0,Raichur 
+85,29,KARNATAKA,559,Raichur,5461,Raichur ,803067,Raichur (CMC)
+86,29,KARNATAKA,559,Raichur,5462,Manvi ,0,Manvi 
+87,29,KARNATAKA,559,Raichur,5462,Manvi ,803068,Manvi (TMC)
+88,29,KARNATAKA,559,Raichur,5463,Sindhnur ,0,Sindhnur 
+89,29,KARNATAKA,559,Raichur,5463,Sindhnur ,803069,Sindhnur (CMC)
+90,29,KARNATAKA,560,Koppal,0,Koppal,0,Koppal
+91,29,KARNATAKA,560,Koppal,5464,Yelbarga ,0,Yelbarga 
+92,29,KARNATAKA,560,Koppal,5464,Yelbarga ,803070,Yelbarga (TP)
+93,29,KARNATAKA,560,Koppal,5465,Kushtagi ,0,Kushtagi 
+94,29,KARNATAKA,560,Koppal,5465,Kushtagi ,803071,Kushtagi (TMC)
+95,29,KARNATAKA,560,Koppal,5466,Gangawati ,0,Gangawati 
+96,29,KARNATAKA,560,Koppal,5466,Gangawati ,803072,Gangawati (CMC + OG)
+97,29,KARNATAKA,560,Koppal,5466,Gangawati ,803072,Gangawati (CMC)
+98,29,KARNATAKA,560,Koppal,5467,Koppal ,0,Koppal 
+99,29,KARNATAKA,560,Koppal,5467,Koppal ,803073,Koppal (CMC)
+100,29,KARNATAKA,561,Gadag,0,Gadag,0,Gadag
+101,29,KARNATAKA,561,Gadag,5468,Nargund ,0,Nargund 
+102,29,KARNATAKA,561,Gadag,5468,Nargund ,803074,Nargund (TMC)
+103,29,KARNATAKA,561,Gadag,5469,Ron ,0,Ron 
+104,29,KARNATAKA,561,Gadag,5469,Ron ,803075,Ron (TMC)
+105,29,KARNATAKA,561,Gadag,5469,Ron ,803076,Gajendragarh (TMC)
+106,29,KARNATAKA,561,Gadag,5469,Ron ,803077,Naregal (TP)
+107,29,KARNATAKA,561,Gadag,5470,Gadag,0,Gadag
+108,29,KARNATAKA,561,Gadag,5470,Gadag,803078,Gadag-Betigeri (CMC)
+109,29,KARNATAKA,561,Gadag,5470,Gadag,803079,Mulgund (TP)
+110,29,KARNATAKA,561,Gadag,5471,Shirhatti ,0,Shirhatti 
+111,29,KARNATAKA,561,Gadag,5471,Shirhatti ,803080,Shirhatti (TP)
+112,29,KARNATAKA,561,Gadag,5471,Shirhatti ,803081,Lakshmeshwar (TMC)
+113,29,KARNATAKA,561,Gadag,5472,Mundargi ,0,Mundargi 
+114,29,KARNATAKA,561,Gadag,5472,Mundargi ,803082,Mundargi (TMC)
+115,29,KARNATAKA,562,Dharwad,0,Dharwad,0,Dharwad
+116,29,KARNATAKA,562,Dharwad,99999,Area not under any Sub-district,803083,Hubli-Dharwad (M Corp.)
+117,29,KARNATAKA,562,Dharwad,5473,Dharwad,0,Dharwad
+118,29,KARNATAKA,562,Dharwad,5473,Dharwad,803084,Alnavar (TP)
+119,29,KARNATAKA,562,Dharwad,5474,Navalgund ,0,Navalgund 
+120,29,KARNATAKA,562,Dharwad,5474,Navalgund ,803085,Navalgund (TMC)
+121,29,KARNATAKA,562,Dharwad,5474,Navalgund ,803086,Annigeri (TMC)
+122,29,KARNATAKA,562,Dharwad,5475,Hubli,0,Hubli
+123,29,KARNATAKA,562,Dharwad,5476,Kalghatgi ,0,Kalghatgi 
+124,29,KARNATAKA,562,Dharwad,5476,Kalghatgi ,803087,Kalghatgi (TP)
+125,29,KARNATAKA,562,Dharwad,5477,Kundgol ,0,Kundgol 
+126,29,KARNATAKA,562,Dharwad,5477,Kundgol ,803088,Kundgol (TP)
+127,29,KARNATAKA,563,Uttara Kannada,0,Uttara Kannada,0,Uttara Kannada
+128,29,KARNATAKA,563,Uttara Kannada,99999,Area not under any Sub-district,803089,Dandeli (CMC)
+129,29,KARNATAKA,563,Uttara Kannada,5478,Karwar ,0,Karwar 
+130,29,KARNATAKA,563,Uttara Kannada,5478,Karwar ,803090,Karwar (CMC + OG)
+131,29,KARNATAKA,563,Uttara Kannada,5478,Karwar ,803090,Karwar (CMC)
+132,29,KARNATAKA,563,Uttara Kannada,5479,Supa,0,Supa
+133,29,KARNATAKA,563,Uttara Kannada,5480,Haliyal ,0,Haliyal 
+134,29,KARNATAKA,563,Uttara Kannada,5480,Haliyal ,803091,Haliyal (TP)
+135,29,KARNATAKA,563,Uttara Kannada,5481,Yellapur ,0,Yellapur 
+136,29,KARNATAKA,563,Uttara Kannada,5481,Yellapur ,803092,Yellapur (TP)
+137,29,KARNATAKA,563,Uttara Kannada,5482,Mundgod ,0,Mundgod 
+138,29,KARNATAKA,563,Uttara Kannada,5482,Mundgod ,803093,Mundgod (TP)
+139,29,KARNATAKA,563,Uttara Kannada,5483,Sirsi ,0,Sirsi 
+140,29,KARNATAKA,563,Uttara Kannada,5483,Sirsi ,803094,Sirsi (CMC)
+141,29,KARNATAKA,563,Uttara Kannada,5484,Ankola ,0,Ankola 
+142,29,KARNATAKA,563,Uttara Kannada,5484,Ankola ,803095,Ankola (TP + OG)
+143,29,KARNATAKA,563,Uttara Kannada,5484,Ankola ,803095,Ankola (TP)
+144,29,KARNATAKA,563,Uttara Kannada,5485,Kumta ,0,Kumta 
+145,29,KARNATAKA,563,Uttara Kannada,5485,Kumta ,803096,Kumta (TMC + OG)
+146,29,KARNATAKA,563,Uttara Kannada,5485,Kumta ,803096,Kumta (TMC)
+147,29,KARNATAKA,563,Uttara Kannada,5486,Siddapur ,0,Siddapur 
+148,29,KARNATAKA,563,Uttara Kannada,5486,Siddapur ,803097,Siddapur (TP)
+149,29,KARNATAKA,563,Uttara Kannada,5487,Honavar ,0,Honavar 
+150,29,KARNATAKA,563,Uttara Kannada,5487,Honavar ,803098,Honavar (TP)
+151,29,KARNATAKA,563,Uttara Kannada,5488,Bhatkal ,0,Bhatkal 
+152,29,KARNATAKA,563,Uttara Kannada,5488,Bhatkal ,803099,Bhatkal (TMC)
+153,29,KARNATAKA,564,Haveri,0,Haveri,0,Haveri
+154,29,KARNATAKA,564,Haveri,5489,Shiggaon ,0,Shiggaon 
+155,29,KARNATAKA,564,Haveri,5489,Shiggaon ,803100,Shiggaon (TMC)
+156,29,KARNATAKA,564,Haveri,5489,Shiggaon ,803101,Bankapura (TMC)
+157,29,KARNATAKA,564,Haveri,5490,Savanur ,0,Savanur 
+158,29,KARNATAKA,564,Haveri,5490,Savanur ,803102,Savanur (TMC)
+159,29,KARNATAKA,564,Haveri,5491,Hangal ,0,Hangal 
+160,29,KARNATAKA,564,Haveri,5491,Hangal ,803103,Hangal (TMC)
+161,29,KARNATAKA,564,Haveri,5492,Haveri ,0,Haveri 
+162,29,KARNATAKA,564,Haveri,5492,Haveri ,803104,Haveri (CMC)
+163,29,KARNATAKA,564,Haveri,5493,Byadgi ,0,Byadgi 
+164,29,KARNATAKA,564,Haveri,5493,Byadgi ,803105,Byadgi (TMC)
+165,29,KARNATAKA,564,Haveri,5494,Hirekerur ,0,Hirekerur 
+166,29,KARNATAKA,564,Haveri,5494,Hirekerur ,803106,Hirekerur (TP)
+167,29,KARNATAKA,564,Haveri,5495,Ranibennur ,0,Ranibennur 
+168,29,KARNATAKA,564,Haveri,5495,Ranibennur ,803107,Ranibennur (CMC)
+169,29,KARNATAKA,565,Bellary,0,Bellary,0,Bellary
+170,29,KARNATAKA,565,Bellary,5496,Hadagalli,0,Hadagalli
+171,29,KARNATAKA,565,Bellary,5496,Hadagalli,803108,Hoovina Hadagalli (TMC)
+172,29,KARNATAKA,565,Bellary,5497,Hagaribommanahalli,0,Hagaribommanahalli
+173,29,KARNATAKA,565,Bellary,5498,Hospet ,0,Hospet 
+174,29,KARNATAKA,565,Bellary,5498,Hospet ,803109,Hospet (CMC)
+175,29,KARNATAKA,565,Bellary,5498,Hospet ,803110,Kamalapuram (TP)
+176,29,KARNATAKA,565,Bellary,5498,Hospet ,803111,Kampli (TMC)
+177,29,KARNATAKA,565,Bellary,5499,Siruguppa ,0,Siruguppa 
+178,29,KARNATAKA,565,Bellary,5499,Siruguppa ,803112,Siruguppa (TMC)
+179,29,KARNATAKA,565,Bellary,5499,Siruguppa ,803113,Tekkalakote (TP)
+180,29,KARNATAKA,565,Bellary,5500,Bellary ,0,Bellary 
+181,29,KARNATAKA,565,Bellary,5500,Bellary ,803114,Bellary (M Corp.)
+182,29,KARNATAKA,565,Bellary,5501,Sandur ,0,Sandur 
+183,29,KARNATAKA,565,Bellary,5501,Sandur ,803115,Sandur (TMC)
+184,29,KARNATAKA,565,Bellary,5502,Kudligi ,0,Kudligi 
+185,29,KARNATAKA,565,Bellary,5502,Kudligi ,803116,Kudligi (TP)
+186,29,KARNATAKA,565,Bellary,5502,Kudligi ,803117,Kotturu (TP)
+187,29,KARNATAKA,566,Chitradurga,0,Chitradurga,0,Chitradurga
+188,29,KARNATAKA,566,Chitradurga,5503,Molakalmuru ,0,Molakalmuru 
+189,29,KARNATAKA,566,Chitradurga,5503,Molakalmuru ,803118,Molakalmuru (TP)
+190,29,KARNATAKA,566,Chitradurga,5504,Challakere ,0,Challakere 
+191,29,KARNATAKA,566,Chitradurga,5504,Challakere ,803119,Challakere (TMC)
+192,29,KARNATAKA,566,Chitradurga,5505,Chitradurga ,0,Chitradurga 
+193,29,KARNATAKA,566,Chitradurga,5505,Chitradurga ,803120,Chitradurga (CMC + OG)
+194,29,KARNATAKA,566,Chitradurga,5505,Chitradurga ,803120,Chitradurga (CMC)
+195,29,KARNATAKA,566,Chitradurga,5506,Holalkere ,0,Holalkere 
+196,29,KARNATAKA,566,Chitradurga,5506,Holalkere ,803121,Holalkere (TP)
+197,29,KARNATAKA,566,Chitradurga,5507,Hosdurga ,0,Hosdurga 
+198,29,KARNATAKA,566,Chitradurga,5507,Hosdurga ,803122,Hosdurga (TMC)
+199,29,KARNATAKA,566,Chitradurga,5508,Hiriyur ,0,Hiriyur 
+200,29,KARNATAKA,566,Chitradurga,5508,Hiriyur ,803123,Hiriyur (TMC)
+201,29,KARNATAKA,567,Davanagere,0,Davanagere,0,Davanagere
+202,29,KARNATAKA,567,Davanagere,5509,Harihar ,0,Harihar 
+203,29,KARNATAKA,567,Davanagere,5509,Harihar ,803124,Harihar (CMC + OG)
+204,29,KARNATAKA,567,Davanagere,5509,Harihar ,803124,Harihar (CMC)
+205,29,KARNATAKA,567,Davanagere,5510,Harapanahalli ,0,Harapanahalli 
+206,29,KARNATAKA,567,Davanagere,5510,Harapanahalli ,803125,Harapanahalli (TMC)
+207,29,KARNATAKA,567,Davanagere,5511,Jagalur ,0,Jagalur 
+208,29,KARNATAKA,567,Davanagere,5511,Jagalur ,803126,Jagalur (TP)
+209,29,KARNATAKA,567,Davanagere,5512,Davanagere ,0,Davanagere 
+210,29,KARNATAKA,567,Davanagere,5512,Davanagere ,803127,Davanagere (M Corp.)
+211,29,KARNATAKA,567,Davanagere,5513,Honnali ,0,Honnali 
+212,29,KARNATAKA,567,Davanagere,5513,Honnali ,803128,Honnali (TP)
+213,29,KARNATAKA,567,Davanagere,5514,Channagiri ,0,Channagiri 
+214,29,KARNATAKA,567,Davanagere,5514,Channagiri ,803129,Channagiri (TP)
+215,29,KARNATAKA,568,Shimoga,0,Shimoga,0,Shimoga
+216,29,KARNATAKA,568,Shimoga,5515,Sagar ,0,Sagar 
+217,29,KARNATAKA,568,Shimoga,5515,Sagar ,803130,Jog Kargal (TP)
+218,29,KARNATAKA,568,Shimoga,5515,Sagar ,803131,Sagar (CMC)
+219,29,KARNATAKA,568,Shimoga,5516,Sorab ,0,Sorab 
+220,29,KARNATAKA,568,Shimoga,5516,Sorab ,803132,Sorab (TP)
+221,29,KARNATAKA,568,Shimoga,5517,Shikarpur,0,Shikarpur
+222,29,KARNATAKA,568,Shimoga,5517,Shikarpur,803133,Siralkoppa (TP)
+223,29,KARNATAKA,568,Shimoga,5517,Shikarpur,803134,Shikarpur (TMC)
+224,29,KARNATAKA,568,Shimoga,5518,Hosanagara ,0,Hosanagara 
+225,29,KARNATAKA,568,Shimoga,5518,Hosanagara ,803135,Hosanagara (TP)
+226,29,KARNATAKA,568,Shimoga,5519,Tirthahalli,0,Tirthahalli
+227,29,KARNATAKA,568,Shimoga,5519,Tirthahalli,803136,Tirthahalli (TP)
+228,29,KARNATAKA,568,Shimoga,5520,Shimoga ,0,Shimoga 
+229,29,KARNATAKA,568,Shimoga,5520,Shimoga ,803137,Shimoga (CMC)
+230,29,KARNATAKA,568,Shimoga,5521,Bhadravati ,0,Bhadravati 
+231,29,KARNATAKA,568,Shimoga,5521,Bhadravati ,803138,Bhadravati (CMC)
+232,29,KARNATAKA,569,Udupi,0,Udupi,0,Udupi
+233,29,KARNATAKA,569,Udupi,5522,Kundapura ,0,Kundapura 
+234,29,KARNATAKA,569,Udupi,5522,Kundapura ,803139,Kundapura (TMC)
+235,29,KARNATAKA,569,Udupi,5523,Udupi,0,Udupi
+236,29,KARNATAKA,569,Udupi,5523,Udupi,803140,Saligram (TP)
+237,29,KARNATAKA,569,Udupi,5523,Udupi,803141,Udupi (CMC + OG)
+238,29,KARNATAKA,569,Udupi,5523,Udupi,803141,Udupi (CMC)
+239,29,KARNATAKA,569,Udupi,5524,Karkal ,0,Karkal 
+240,29,KARNATAKA,569,Udupi,5524,Karkal ,803142,Karkal (TMC)
+241,29,KARNATAKA,570,Chikmagalur,0,Chikmagalur,0,Chikmagalur
+242,29,KARNATAKA,570,Chikmagalur,5525,Sringeri ,0,Sringeri 
+243,29,KARNATAKA,570,Chikmagalur,5525,Sringeri ,803143,Sringeri (TP)
+244,29,KARNATAKA,570,Chikmagalur,5526,Koppa ,0,Koppa 
+245,29,KARNATAKA,570,Chikmagalur,5526,Koppa ,803144,Koppa (TP)
+246,29,KARNATAKA,570,Chikmagalur,5527,Narasimharajapura ,0,Narasimharajapura 
+247,29,KARNATAKA,570,Chikmagalur,5527,Narasimharajapura ,803145,Narasimharajapura (TP)
+248,29,KARNATAKA,570,Chikmagalur,5528,Tarikere ,0,Tarikere 
+249,29,KARNATAKA,570,Chikmagalur,5528,Tarikere ,803146,Tarikere (TMC)
+250,29,KARNATAKA,570,Chikmagalur,5529,Kadur ,0,Kadur 
+251,29,KARNATAKA,570,Chikmagalur,5529,Kadur ,803147,Birur (TMC)
+252,29,KARNATAKA,570,Chikmagalur,5529,Kadur ,803148,Kadur (TMC)
+253,29,KARNATAKA,570,Chikmagalur,5530,Chikmagalur ,0,Chikmagalur 
+254,29,KARNATAKA,570,Chikmagalur,5530,Chikmagalur ,803149,Chikmagalur (CMC)
+255,29,KARNATAKA,570,Chikmagalur,5531,Mudigere ,0,Mudigere 
+256,29,KARNATAKA,570,Chikmagalur,5531,Mudigere ,803150,Mudigere (TP)
+257,29,KARNATAKA,570,Chikmagalur,5531,Mudigere ,803151,Kudremukh (NAC)
+258,29,KARNATAKA,571,Tumkur,0,Tumkur,0,Tumkur
+259,29,KARNATAKA,571,Tumkur,5532,Chiknayakanhalli ,0,Chiknayakanhalli 
+260,29,KARNATAKA,571,Tumkur,5532,Chiknayakanhalli ,803152,Chiknayakanhalli (TMC)
+261,29,KARNATAKA,571,Tumkur,5533,Sira ,0,Sira 
+262,29,KARNATAKA,571,Tumkur,5533,Sira ,803153,Sira (CMC)
+263,29,KARNATAKA,571,Tumkur,5534,Pavagada ,0,Pavagada 
+264,29,KARNATAKA,571,Tumkur,5534,Pavagada ,803154,Pavagada (TMC)
+265,29,KARNATAKA,571,Tumkur,5535,Madhugiri ,0,Madhugiri 
+266,29,KARNATAKA,571,Tumkur,5535,Madhugiri ,803155,Madhugiri (TMC)
+267,29,KARNATAKA,571,Tumkur,5536,Koratagere ,0,Koratagere 
+268,29,KARNATAKA,571,Tumkur,5536,Koratagere ,803156,Koratagere (TP)
+269,29,KARNATAKA,571,Tumkur,5537,Tumkur ,0,Tumkur 
+270,29,KARNATAKA,571,Tumkur,5537,Tumkur ,803157,Tumkur (CMC)
+271,29,KARNATAKA,571,Tumkur,5538,Gubbi ,0,Gubbi 
+272,29,KARNATAKA,571,Tumkur,5538,Gubbi ,803158,Gubbi (TP)
+273,29,KARNATAKA,571,Tumkur,5539,Tiptur ,0,Tiptur 
+274,29,KARNATAKA,571,Tumkur,5539,Tiptur ,803159,Tiptur (CMC)
+275,29,KARNATAKA,571,Tumkur,5540,Turuvekere ,0,Turuvekere 
+276,29,KARNATAKA,571,Tumkur,5540,Turuvekere ,803160,Turuvekere (TP)
+277,29,KARNATAKA,571,Tumkur,5541,Kunigal ,0,Kunigal 
+278,29,KARNATAKA,571,Tumkur,5541,Kunigal ,803161,Kunigal (TMC)
+279,29,KARNATAKA,572,Bangalore,0,Bangalore,0,Bangalore
+280,29,KARNATAKA,572,Bangalore,0,Bangalore,803162,BBMP (M Corp. + OG)
+281,29,KARNATAKA,572,Bangalore,99999,Area not under any Sub-district,803162,BBMP (M Corp. + OG) (Part)
+282,29,KARNATAKA,572,Bangalore,99999,Area not under any Sub-district,803162,BBMP (M Corp.)
+283,29,KARNATAKA,572,Bangalore,5542,Bangalore North,0,Bangalore North
+284,29,KARNATAKA,572,Bangalore,5542,Bangalore North,803162,BBMP (M Corp. + OG) (Part)
+285,29,KARNATAKA,572,Bangalore,5543,Bangalore South,0,Bangalore South
+286,29,KARNATAKA,572,Bangalore,5543,Bangalore South,803162,BBMP (M Corp. + OG) (Part)
+287,29,KARNATAKA,572,Bangalore,5544,Bangalore East,0,Bangalore East
+288,29,KARNATAKA,572,Bangalore,5544,Bangalore East,803162,BBMP (M Corp. + OG) (Part)
+289,29,KARNATAKA,572,Bangalore,5545,Anekal,0,Anekal
+290,29,KARNATAKA,572,Bangalore,5545,Anekal,803163,Anekal (TMC)
+291,29,KARNATAKA,573,Mandya,0,Mandya,0,Mandya
+292,29,KARNATAKA,573,Mandya,5546,Krishnarajpet ,0,Krishnarajpet 
+293,29,KARNATAKA,573,Mandya,5546,Krishnarajpet ,803164,Krishnarajpet (TMC)
+294,29,KARNATAKA,573,Mandya,5547,Nagamangala ,0,Nagamangala 
+295,29,KARNATAKA,573,Mandya,5547,Nagamangala ,803165,Nagamangala (TP)
+296,29,KARNATAKA,573,Mandya,5548,Pandavapura ,0,Pandavapura 
+297,29,KARNATAKA,573,Mandya,5548,Pandavapura ,803166,Pandavapura (TP)
+298,29,KARNATAKA,573,Mandya,5549,Shrirangapattana ,0,Shrirangapattana 
+299,29,KARNATAKA,573,Mandya,5549,Shrirangapattana ,803167,Shrirangapattana (TMC)
+300,29,KARNATAKA,573,Mandya,5550,Mandya ,0,Mandya 
+301,29,KARNATAKA,573,Mandya,5550,Mandya ,803168,Mandya (CMC)
+302,29,KARNATAKA,573,Mandya,5551,Maddur ,0,Maddur 
+303,29,KARNATAKA,573,Mandya,5551,Maddur ,803169,Maddur (TMC)
+304,29,KARNATAKA,573,Mandya,5552,Malavalli ,0,Malavalli 
+305,29,KARNATAKA,573,Mandya,5552,Malavalli ,803170,Malavalli (TMC)
+306,29,KARNATAKA,574,Hassan,0,Hassan,0,Hassan
+307,29,KARNATAKA,574,Hassan,5553,Sakleshpur ,0,Sakleshpur 
+308,29,KARNATAKA,574,Hassan,5553,Sakleshpur ,803171,Sakleshpur (TMC)
+309,29,KARNATAKA,574,Hassan,5554,Belur ,0,Belur 
+310,29,KARNATAKA,574,Hassan,5554,Belur ,803172,Belur (TMC)
+311,29,KARNATAKA,574,Hassan,5555,Arsikere ,0,Arsikere 
+312,29,KARNATAKA,574,Hassan,5555,Arsikere ,803173,Arsikere (TMC + OG)
+313,29,KARNATAKA,574,Hassan,5555,Arsikere ,803173,Arsikere (TMC)
+314,29,KARNATAKA,574,Hassan,5556,Hassan ,0,Hassan 
+315,29,KARNATAKA,574,Hassan,5556,Hassan ,803174,Hassan (CMC + OG)
+316,29,KARNATAKA,574,Hassan,5556,Hassan ,803174,Hassan (CMC)
+317,29,KARNATAKA,574,Hassan,5557,Alur ,0,Alur 
+318,29,KARNATAKA,574,Hassan,5557,Alur ,803175,Alur (TP)
+319,29,KARNATAKA,574,Hassan,5558,Arkalgud ,0,Arkalgud 
+320,29,KARNATAKA,574,Hassan,5558,Arkalgud ,803176,Arkalgud (TP)
+321,29,KARNATAKA,574,Hassan,5559,Hole Narsipur ,0,Hole Narsipur 
+322,29,KARNATAKA,574,Hassan,5559,Hole Narsipur ,803177,Hole Narsipur (TMC)
+323,29,KARNATAKA,574,Hassan,5560,Channarayapatna,0,Channarayapatna
+324,29,KARNATAKA,574,Hassan,5560,Channarayapatna,803178,Channarayapatna (TMC + OG)
+325,29,KARNATAKA,574,Hassan,5560,Channarayapatna,803178,Channarayapatna (TMC)
+326,29,KARNATAKA,575,Dakshina Kannada,0,Dakshina Kannada,0,Dakshina Kannada
+327,29,KARNATAKA,575,Dakshina Kannada,5561,Mangalore,0,Mangalore
+328,29,KARNATAKA,575,Dakshina Kannada,5561,Mangalore,803179,Mulki (TP)
+329,29,KARNATAKA,575,Dakshina Kannada,5561,Mangalore,803180,Mudbidri (TMC)
+330,29,KARNATAKA,575,Dakshina Kannada,5561,Mangalore,803181,Mangalore (M Corp. + OG)
+331,29,KARNATAKA,575,Dakshina Kannada,5561,Mangalore,803181,Mangalore (M Corp.)
+332,29,KARNATAKA,575,Dakshina Kannada,5561,Mangalore,803182,Ullal (TMC)
+333,29,KARNATAKA,575,Dakshina Kannada,5562,Bantval ,0,Bantval 
+334,29,KARNATAKA,575,Dakshina Kannada,5562,Bantval ,803183,Bantval (TMC)
+335,29,KARNATAKA,575,Dakshina Kannada,5563,Beltangadi ,0,Beltangadi 
+336,29,KARNATAKA,575,Dakshina Kannada,5563,Beltangadi ,803184,Beltangadi (TP)
+337,29,KARNATAKA,575,Dakshina Kannada,5564,Puttur,0,Puttur
+338,29,KARNATAKA,575,Dakshina Kannada,5564,Puttur,803185,Puttur (TMC)
+339,29,KARNATAKA,575,Dakshina Kannada,5565,Sulya ,0,Sulya 
+340,29,KARNATAKA,575,Dakshina Kannada,5565,Sulya ,803186,Sulya (TP)
+341,29,KARNATAKA,576,Kodagu,0,Kodagu,0,Kodagu
+342,29,KARNATAKA,576,Kodagu,5566,Madikeri ,0,Madikeri 
+343,29,KARNATAKA,576,Kodagu,5566,Madikeri ,803187,Madikeri (CMC)
+344,29,KARNATAKA,576,Kodagu,5567,Somvarpet ,0,Somvarpet 
+345,29,KARNATAKA,576,Kodagu,5567,Somvarpet ,803188,Somvarpet (TP)
+346,29,KARNATAKA,576,Kodagu,5567,Somvarpet ,803189,Kushalnagar (TP)
+347,29,KARNATAKA,576,Kodagu,5568,Virajpet ,0,Virajpet 
+348,29,KARNATAKA,576,Kodagu,5568,Virajpet ,803190,Virajpet (TP)
+349,29,KARNATAKA,577,Mysore,0,Mysore,0,Mysore
+350,29,KARNATAKA,577,Mysore,5569,Piriyapatna ,0,Piriyapatna 
+351,29,KARNATAKA,577,Mysore,5569,Piriyapatna ,803191,Piriyapatna (TP)
+352,29,KARNATAKA,577,Mysore,5570,Hunsur ,0,Hunsur 
+353,29,KARNATAKA,577,Mysore,5570,Hunsur ,803192,Hunsur (TMC)
+354,29,KARNATAKA,577,Mysore,5571,Krishnarajanagara ,0,Krishnarajanagara 
+355,29,KARNATAKA,577,Mysore,5571,Krishnarajanagara ,803193,Krishnarajanagara (TMC)
+356,29,KARNATAKA,577,Mysore,5572,Mysore ,0,Mysore 
+357,29,KARNATAKA,577,Mysore,5572,Mysore ,803194,Mysore (M Corp. + OG)
+358,29,KARNATAKA,577,Mysore,5572,Mysore ,803194,Mysore (M Corp.)
+359,29,KARNATAKA,577,Mysore,5573,Heggadadevankote ,0,Heggadadevankote 
+360,29,KARNATAKA,577,Mysore,5573,Heggadadevankote ,803195,Heggadadevankote (TP)
+361,29,KARNATAKA,577,Mysore,5573,Heggadadevankote ,803196,Saragur (TP)
+362,29,KARNATAKA,577,Mysore,5574,Nanjangud ,0,Nanjangud 
+363,29,KARNATAKA,577,Mysore,5574,Nanjangud ,803197,Nanjangud (TMC)
+364,29,KARNATAKA,577,Mysore,5575,Tirumakudal - Narsipur ,0,Tirumakudal - Narsipur 
+365,29,KARNATAKA,577,Mysore,5575,Tirumakudal - Narsipur ,803198,Bannur (TMC)
+366,29,KARNATAKA,577,Mysore,5575,Tirumakudal - Narsipur ,803199,Tirumakudal  Narsipur (TP)
+367,29,KARNATAKA,578,Chamarajanagar,0,Chamarajanagar,0,Chamarajanagar
+368,29,KARNATAKA,578,Chamarajanagar,5576,Gundlupet ,0,Gundlupet 
+369,29,KARNATAKA,578,Chamarajanagar,5576,Gundlupet ,803200,Gundlupet (TMC)
+370,29,KARNATAKA,578,Chamarajanagar,5577,Chamarajanagar ,0,Chamarajanagar 
+371,29,KARNATAKA,578,Chamarajanagar,5577,Chamarajanagar ,803201,Chamarajanagar (CMC)
+372,29,KARNATAKA,578,Chamarajanagar,5578,Yelandur ,0,Yelandur 
+373,29,KARNATAKA,578,Chamarajanagar,5578,Yelandur ,803202,Yelandur (TP)
+374,29,KARNATAKA,578,Chamarajanagar,5579,Kollegal ,0,Kollegal 
+375,29,KARNATAKA,578,Chamarajanagar,5579,Kollegal ,803203,Kollegal (CMC)
+376,29,KARNATAKA,578,Chamarajanagar,5579,Kollegal ,803204,Hanur (TP)
+377,29,KARNATAKA,579,Gulbarga,0,Gulbarga,0,Gulbarga
+378,29,KARNATAKA,579,Gulbarga,5580,Aland ,0,Aland 
+379,29,KARNATAKA,579,Gulbarga,5580,Aland ,803205,Aland (TMC)
+380,29,KARNATAKA,579,Gulbarga,5581,Afzalpur ,0,Afzalpur 
+381,29,KARNATAKA,579,Gulbarga,5581,Afzalpur ,803206,Afzalpur (TP)
+382,29,KARNATAKA,579,Gulbarga,5582,Gulbarga ,0,Gulbarga 
+383,29,KARNATAKA,579,Gulbarga,5582,Gulbarga ,803207,Gulbarga (M Corp. + OG)
+384,29,KARNATAKA,579,Gulbarga,5582,Gulbarga ,803207,Gulbarga (M Corp.)
+385,29,KARNATAKA,579,Gulbarga,5583,Chincholi ,0,Chincholi 
+386,29,KARNATAKA,579,Gulbarga,5583,Chincholi ,803208,Chincholi (TP)
+387,29,KARNATAKA,579,Gulbarga,5584,Sedam ,0,Sedam 
+388,29,KARNATAKA,579,Gulbarga,5584,Sedam ,803209,Sedam (TMC)
+389,29,KARNATAKA,579,Gulbarga,5585,Chitapur ,0,Chitapur 
+390,29,KARNATAKA,579,Gulbarga,5585,Chitapur ,803210,Chitapur (TMC)
+391,29,KARNATAKA,579,Gulbarga,5585,Chitapur ,803211,Shahabad ACC (NAC + OG)
+392,29,KARNATAKA,579,Gulbarga,5585,Chitapur ,803211,Shahabad ACC (NAC)
+393,29,KARNATAKA,579,Gulbarga,5585,Chitapur ,803212,Shahabad (CMC)
+394,29,KARNATAKA,579,Gulbarga,5585,Chitapur ,803213,Wadi (TMC)
+395,29,KARNATAKA,579,Gulbarga,5586,Jevargi ,0,Jevargi 
+396,29,KARNATAKA,579,Gulbarga,5586,Jevargi ,803214,Jevargi (TP)
+397,29,KARNATAKA,580,Yadgir,0,Yadgir,0,Yadgir
+398,29,KARNATAKA,580,Yadgir,5587,Shorapur ,0,Shorapur 
+399,29,KARNATAKA,580,Yadgir,5587,Shorapur ,803215,Shorapur (TMC)
+400,29,KARNATAKA,580,Yadgir,5588,Shahpur,0,Shahpur
+401,29,KARNATAKA,580,Yadgir,5588,Shahpur,803216,Bhimarayanagudi (NAC)
+402,29,KARNATAKA,580,Yadgir,5588,Shahpur,803217,Shahpur (TMC)
+403,29,KARNATAKA,580,Yadgir,5589,Yadgir ,0,Yadgir 
+404,29,KARNATAKA,580,Yadgir,5589,Yadgir ,803218,Gurmatkal (TP)
+405,29,KARNATAKA,580,Yadgir,5589,Yadgir ,803219,Yadgir (CMC)
+406,29,KARNATAKA,581,Kolar,0,Kolar,0,Kolar
+407,29,KARNATAKA,581,Kolar,5590,Srinivaspur ,0,Srinivaspur 
+408,29,KARNATAKA,581,Kolar,5590,Srinivaspur ,803220,Srinivaspur (TMC)
+409,29,KARNATAKA,581,Kolar,5591,Kolar ,0,Kolar 
+410,29,KARNATAKA,581,Kolar,5591,Kolar ,803221,Kolar (CMC)
+411,29,KARNATAKA,581,Kolar,5592,Malur ,0,Malur 
+412,29,KARNATAKA,581,Kolar,5592,Malur ,803222,Malur (TMC)
+413,29,KARNATAKA,581,Kolar,5593,Bangarapet ,0,Bangarapet 
+414,29,KARNATAKA,581,Kolar,5593,Bangarapet ,803223,Bangarapet (TMC)
+415,29,KARNATAKA,581,Kolar,5593,Bangarapet ,803224,Robertson Pet (CMC + OG)
+416,29,KARNATAKA,581,Kolar,5593,Bangarapet ,803224,Robertson Pet (CMC)
+417,29,KARNATAKA,581,Kolar,5594,Mulbagal ,0,Mulbagal 
+418,29,KARNATAKA,581,Kolar,5594,Mulbagal ,803225,Mulbagal (TMC)
+419,29,KARNATAKA,582,Chikkaballapura,0,Chikkaballapura,0,Chikkaballapura
+420,29,KARNATAKA,582,Chikkaballapura,5595,Gauribidanur ,0,Gauribidanur 
+421,29,KARNATAKA,582,Chikkaballapura,5595,Gauribidanur ,803226,Gauribidanur (TMC)
+422,29,KARNATAKA,582,Chikkaballapura,5596,Chikkaballapura,0,Chikkaballapura
+423,29,KARNATAKA,582,Chikkaballapura,5596,Chikkaballapura,803227,Chikkaballapura (CMC)
+424,29,KARNATAKA,582,Chikkaballapura,5597,Gudibanda ,0,Gudibanda 
+425,29,KARNATAKA,582,Chikkaballapura,5597,Gudibanda ,803228,Gudibanda (TP)
+426,29,KARNATAKA,582,Chikkaballapura,5598,Bagepalli ,0,Bagepalli 
+427,29,KARNATAKA,582,Chikkaballapura,5598,Bagepalli ,803229,Bagepalli (TMC)
+428,29,KARNATAKA,582,Chikkaballapura,5599,Sidlaghatta ,0,Sidlaghatta 
+429,29,KARNATAKA,582,Chikkaballapura,5599,Sidlaghatta ,803230,Sidlaghatta (TMC)
+430,29,KARNATAKA,582,Chikkaballapura,5600,Chintamani ,0,Chintamani 
+431,29,KARNATAKA,582,Chikkaballapura,5600,Chintamani ,803231,Chintamani (CMC)
+432,29,KARNATAKA,583,Bangalore Rural,0,Bangalore Rural,0,Bangalore Rural
+433,29,KARNATAKA,583,Bangalore Rural,5601,Nelamangala ,0,Nelamangala 
+434,29,KARNATAKA,583,Bangalore Rural,5601,Nelamangala ,803232,Nelamangala (TMC)
+435,29,KARNATAKA,583,Bangalore Rural,5602,Dod Ballapur ,0,Dod Ballapur 
+436,29,KARNATAKA,583,Bangalore Rural,5602,Dod Ballapur ,803233,Dod Ballapur (CMC + OG)
+437,29,KARNATAKA,583,Bangalore Rural,5602,Dod Ballapur ,803233,Dod Ballapur (CMC)
+438,29,KARNATAKA,583,Bangalore Rural,5603,Devanahalli ,0,Devanahalli 
+439,29,KARNATAKA,583,Bangalore Rural,5603,Devanahalli ,803234,Vijayapura (TMC)
+440,29,KARNATAKA,583,Bangalore Rural,5603,Devanahalli ,803235,Devanahalli (TMC)
+441,29,KARNATAKA,583,Bangalore Rural,5604,Hosakote ,0,Hosakote 
+442,29,KARNATAKA,583,Bangalore Rural,5604,Hosakote ,803236,Hosakote (TMC)
+443,29,KARNATAKA,584,Ramanagara,0,Ramanagara,0,Ramanagara
+444,29,KARNATAKA,584,Ramanagara,5605,Magadi ,0,Magadi 
+445,29,KARNATAKA,584,Ramanagara,5605,Magadi ,803237,Magadi (TMC)
+446,29,KARNATAKA,584,Ramanagara,5606,Ramanagara,0,Ramanagara
+447,29,KARNATAKA,584,Ramanagara,5606,Ramanagara,803238,Ramanagara (CMC)
+448,29,KARNATAKA,584,Ramanagara,5607,Channapatna ,0,Channapatna 
+449,29,KARNATAKA,584,Ramanagara,5607,Channapatna ,803239,Channapatna (CMC)
+450,29,KARNATAKA,584,Ramanagara,5608,Kanakapura ,0,Kanakapura 
+451,29,KARNATAKA,584,Ramanagara,5608,Kanakapura ,803240,Kanakapura (TMC)
+452,29,KARNATAKA,556,Bagalkot ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+453,29,KARNATAKA,562,Dharwad,99999,Area not under any Sub-district,0,Area not under any Sub-district
+454,29,KARNATAKA,563,Uttara Kannada,99999,Area not under any Sub-district,0,Area not under any Sub-district
+455,29,KARNATAKA,572,Bangalore,99999,Area not under any Sub-district,0,Area not under any Sub-district

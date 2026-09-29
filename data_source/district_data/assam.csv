@@ -1,0 +1,313 @@
+,Unnamed: 0,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,0,18,ASSAM,0,ASSAM,0,ASSAM,0,ASSAM
+1,1,18,ASSAM,300,Kokrajhar,0,Kokrajhar,0,Kokrajhar
+2,2,18,ASSAM,300,Kokrajhar,2001,Gossaigaon (Pt),0,Gossaigaon (Pt)
+3,3,18,ASSAM,300,Kokrajhar,2001,Gossaigaon (Pt),801546,Gossaigaon (TC)
+4,4,18,ASSAM,300,Kokrajhar,2002,Bhowraguri,0,Bhowraguri
+5,5,18,ASSAM,300,Kokrajhar,2003,Dotoma,0,Dotoma
+6,6,18,ASSAM,300,Kokrajhar,2004,Kokrajhar (Pt),0,Kokrajhar (Pt)
+7,7,18,ASSAM,300,Kokrajhar,2004,Kokrajhar (Pt),801547,Kokrajhar (MB)
+8,8,18,ASSAM,300,Kokrajhar,2007,Golokganj (Pt),0,Golokganj (Pt)
+9,9,18,ASSAM,300,Kokrajhar,2008,Dhubri (Pt),0,Dhubri (Pt)
+10,10,18,ASSAM,300,Kokrajhar,2005,Bagribari (Pt),0,Bagribari (Pt)
+11,11,18,ASSAM,300,Kokrajhar,2009,Bilasipara (Pt),0,Bilasipara (Pt)
+12,12,18,ASSAM,300,Kokrajhar,2010,Chapar (Pt),0,Chapar (Pt)
+13,13,18,ASSAM,301,Dhubri,0,Dhubri,0,Dhubri
+14,14,18,ASSAM,301,Dhubri,2001,Gossaigaon (Pt),0,Gossaigaon (Pt)
+15,15,18,ASSAM,301,Dhubri,2006,Agamoni,0,Agamoni
+16,16,18,ASSAM,301,Dhubri,2007,Golokganj (Pt),0,Golokganj (Pt)
+17,17,18,ASSAM,301,Dhubri,2008,Dhubri (Pt),0,Dhubri (Pt)
+18,18,18,ASSAM,301,Dhubri,2008,Dhubri (Pt),801548,Gauripur (TC)
+19,19,18,ASSAM,301,Dhubri,2008,Dhubri (Pt),801549,Dhubri (MB)
+20,20,18,ASSAM,301,Dhubri,2005,Bagribari (Pt),0,Bagribari (Pt)
+21,21,18,ASSAM,301,Dhubri,2005,Bagribari (Pt),801550,Sapatgram (TC)
+22,22,18,ASSAM,301,Dhubri,2009,Bilasipara (Pt),0,Bilasipara (Pt)
+23,23,18,ASSAM,301,Dhubri,2009,Bilasipara (Pt),801551,Bilasipara (TC)
+24,24,18,ASSAM,301,Dhubri,2010,Chapar (Pt),0,Chapar (Pt)
+25,25,18,ASSAM,301,Dhubri,2010,Chapar (Pt),801552,Chapar (TC)
+26,26,18,ASSAM,301,Dhubri,2011,South Salmara,0,South Salmara
+27,27,18,ASSAM,301,Dhubri,2012,Mankachar,0,Mankachar
+28,28,18,ASSAM,302,Goalpara,0,Goalpara,0,Goalpara
+29,29,18,ASSAM,302,Goalpara,2013,Lakhipur,0,Lakhipur
+30,30,18,ASSAM,302,Goalpara,2013,Lakhipur,801553,Lakhipur (TC)
+31,31,18,ASSAM,302,Goalpara,2014,Balijana,0,Balijana
+32,32,18,ASSAM,302,Goalpara,2014,Balijana,801554,Goalpara (MB)
+33,33,18,ASSAM,302,Goalpara,2015,Matia,0,Matia
+34,34,18,ASSAM,302,Goalpara,2016,Dudhnai,0,Dudhnai
+35,35,18,ASSAM,302,Goalpara,2017,Rangjuli,0,Rangjuli
+36,36,18,ASSAM,303,Barpeta,0,Barpeta,0,Barpeta
+37,37,18,ASSAM,303,Barpeta,2018,Barnagar (Pt),0,Barnagar (Pt)
+38,38,18,ASSAM,303,Barpeta,2018,Barnagar (Pt),801555,Barpeta Road (MB)
+39,39,18,ASSAM,303,Barpeta,2018,Barnagar (Pt),801556,Sarbhog (TC)
+40,40,18,ASSAM,303,Barpeta,2019,Kalgachia,0,Kalgachia
+41,41,18,ASSAM,303,Barpeta,2020,Baghbor,0,Baghbor
+42,42,18,ASSAM,303,Barpeta,2021,Chenga,0,Chenga
+43,43,18,ASSAM,303,Barpeta,2022,Barpeta,0,Barpeta
+44,44,18,ASSAM,303,Barpeta,2022,Barpeta,801557,Barpeta (MB)
+45,45,18,ASSAM,303,Barpeta,2022,Barpeta,801558,Howli (TC)
+46,46,18,ASSAM,303,Barpeta,2023,Sarthebari,0,Sarthebari
+47,47,18,ASSAM,303,Barpeta,2023,Sarthebari,801559,Sarthebari (TC)
+48,48,18,ASSAM,303,Barpeta,2024,Bajali (Pt),0,Bajali (Pt)
+49,49,18,ASSAM,303,Barpeta,2024,Bajali (Pt),801560,Pathsala (TC)
+50,50,18,ASSAM,303,Barpeta,2025,Sarupeta (Pt),0,Sarupeta (Pt)
+51,51,18,ASSAM,303,Barpeta,2140,Jalah (Pt),0,Jalah (Pt)
+52,52,18,ASSAM,304,Morigaon,0,Morigaon,0,Morigaon
+53,53,18,ASSAM,304,Morigaon,2026,Mayong,0,Mayong
+54,54,18,ASSAM,304,Morigaon,2027,Bhuragaon,0,Bhuragaon
+55,55,18,ASSAM,304,Morigaon,2028,Laharighat,0,Laharighat
+56,56,18,ASSAM,304,Morigaon,2029,Marigaon,0,Marigaon
+57,57,18,ASSAM,304,Morigaon,2029,Marigaon,801561,Marigaon (MB)
+58,58,18,ASSAM,304,Morigaon,2030,Mikirbheta,0,Mikirbheta
+59,59,18,ASSAM,305,Nagaon,0,Nagaon,0,Nagaon
+60,60,18,ASSAM,305,Nagaon,2031,Kaliabor,0,Kaliabor
+61,61,18,ASSAM,305,Nagaon,2032,Samaguri,0,Samaguri
+62,62,18,ASSAM,305,Nagaon,2033,Rupahi,0,Rupahi
+63,63,18,ASSAM,305,Nagaon,2034,Dhing,0,Dhing
+64,64,18,ASSAM,305,Nagaon,2034,Dhing,801562,Dhing (TC)
+65,65,18,ASSAM,305,Nagaon,2035,Nagaon,0,Nagaon
+66,66,18,ASSAM,305,Nagaon,2035,Nagaon,801563,Nagaon (MB + OG)
+67,67,18,ASSAM,305,Nagaon,2035,Nagaon,801563,Nagaon (MB)
+68,68,18,ASSAM,305,Nagaon,2036,Raha,0,Raha
+69,69,18,ASSAM,305,Nagaon,2036,Raha,801564,Raha (TC)
+70,70,18,ASSAM,305,Nagaon,2037,Kampur,0,Kampur
+71,71,18,ASSAM,305,Nagaon,2037,Kampur,801565,Kampur Town (TC)
+72,72,18,ASSAM,305,Nagaon,2038,Hojai,0,Hojai
+73,73,18,ASSAM,305,Nagaon,2038,Hojai,801566,Hojai (MB)
+74,74,18,ASSAM,305,Nagaon,2039,Doboka,0,Doboka
+75,75,18,ASSAM,305,Nagaon,2039,Doboka,801567,Doboka (TC)
+76,76,18,ASSAM,305,Nagaon,2040,Lanka,0,Lanka
+77,77,18,ASSAM,305,Nagaon,2040,Lanka,801568,Lumding (MB)
+78,78,18,ASSAM,305,Nagaon,2040,Lanka,801569,Lanka (MB)
+79,79,18,ASSAM,306,Sonitpur,0,Sonitpur,0,Sonitpur
+80,80,18,ASSAM,306,Sonitpur,2041,Dhekiajuli (Pt),0,Dhekiajuli (Pt)
+81,81,18,ASSAM,306,Sonitpur,2041,Dhekiajuli (Pt),801570,Dhekiajuli (MB)
+82,82,18,ASSAM,306,Sonitpur,2042,Chariduar,0,Chariduar
+83,83,18,ASSAM,306,Sonitpur,2042,Chariduar,801571,Rangapara (TC)
+84,84,18,ASSAM,306,Sonitpur,2043,Tezpur,0,Tezpur
+85,85,18,ASSAM,306,Sonitpur,2043,Tezpur,801572,Tezpur (MB + OG)
+86,86,18,ASSAM,306,Sonitpur,2043,Tezpur,801572,Tezpur (MB)
+87,87,18,ASSAM,306,Sonitpur,2044,Na-Duar,0,Na-Duar
+88,88,18,ASSAM,306,Sonitpur,2045,Biswanath,0,Biswanath
+89,89,18,ASSAM,306,Sonitpur,2045,Biswanath,801573,Biswanath Chariali (TC)
+90,90,18,ASSAM,306,Sonitpur,2046,Helem,0,Helem
+91,91,18,ASSAM,306,Sonitpur,0,Sonitpur,801574,Gohpur (TC)
+92,92,18,ASSAM,306,Sonitpur,2046,Helem,801574,Gohpur (TC) (Part)
+93,93,18,ASSAM,306,Sonitpur,2047,Gohpur,0,Gohpur
+94,94,18,ASSAM,306,Sonitpur,2047,Gohpur,801574,Gohpur (TC) (Part)
+95,95,18,ASSAM,307,Lakhimpur,0,Lakhimpur,0,Lakhimpur
+96,96,18,ASSAM,307,Lakhimpur,2048,Narayanpur,0,Narayanpur
+97,97,18,ASSAM,307,Lakhimpur,2048,Narayanpur,801575,Narayanpur (TC)
+98,98,18,ASSAM,307,Lakhimpur,2049,Bihpuria,0,Bihpuria
+99,99,18,ASSAM,307,Lakhimpur,2049,Bihpuria,801576,Bihpuria (TC)
+100,100,18,ASSAM,307,Lakhimpur,2050,Naobaicha,0,Naobaicha
+101,101,18,ASSAM,307,Lakhimpur,2051,Kadam,0,Kadam
+102,102,18,ASSAM,307,Lakhimpur,2052,North Lakhimpur,0,North Lakhimpur
+103,103,18,ASSAM,307,Lakhimpur,2052,North Lakhimpur,801577,North Lakhimpur (MB)
+104,104,18,ASSAM,307,Lakhimpur,2053,Dhakuakhana (Pt),0,Dhakuakhana (Pt)
+105,105,18,ASSAM,307,Lakhimpur,2053,Dhakuakhana (Pt),801578,Dhakuakhana (TC)
+106,106,18,ASSAM,307,Lakhimpur,2054,Subansiri (Pt),0,Subansiri (Pt)
+107,107,18,ASSAM,308,Dhemaji,0,Dhemaji,0,Dhemaji
+108,108,18,ASSAM,308,Dhemaji,2055,Dhemaji,0,Dhemaji
+109,109,18,ASSAM,308,Dhemaji,2055,Dhemaji,801579,Dhemaji (TC)
+110,110,18,ASSAM,308,Dhemaji,2056,Sissibargaon,0,Sissibargaon
+111,111,18,ASSAM,308,Dhemaji,2056,Sissibargaon,801580,Silapathar (TC)
+112,112,18,ASSAM,308,Dhemaji,2057,Jonai,0,Jonai
+113,113,18,ASSAM,308,Dhemaji,2053,Dhakuakhana (Pt),0,Dhakuakhana (Pt)
+114,114,18,ASSAM,308,Dhemaji,2054,Subansiri (Pt),0,Subansiri (Pt)
+115,115,18,ASSAM,308,Dhemaji,2058,Gogamukh,0,Gogamukh
+116,116,18,ASSAM,309,Tinsukia,0,Tinsukia,0,Tinsukia
+117,117,18,ASSAM,309,Tinsukia,2059,Sadiya,0,Sadiya
+118,118,18,ASSAM,309,Tinsukia,2060,Doom Dooma,0,Doom Dooma
+119,119,18,ASSAM,309,Tinsukia,2060,Doom Dooma,801581,Doom Dooma (TC)
+120,120,18,ASSAM,309,Tinsukia,2060,Doom Dooma,801582,Makum (TC)
+121,121,18,ASSAM,309,Tinsukia,2061,Tinsukia,0,Tinsukia
+122,122,18,ASSAM,309,Tinsukia,2061,Tinsukia,801583,Tinsukia (MB + OG)
+123,123,18,ASSAM,309,Tinsukia,2061,Tinsukia,801583,Tinsukia (MB)
+124,124,18,ASSAM,309,Tinsukia,2062,Margherita,0,Margherita
+125,125,18,ASSAM,309,Tinsukia,2062,Margherita,801584,Digboi (TC)
+126,126,18,ASSAM,309,Tinsukia,2062,Margherita,801585,Margherita (TC)
+127,127,18,ASSAM,310,Dibrugarh,0,Dibrugarh,0,Dibrugarh
+128,128,18,ASSAM,310,Dibrugarh,2063,Dibrugarh West,0,Dibrugarh West
+129,129,18,ASSAM,310,Dibrugarh,0,Dibrugarh,801586,Dibrugarh (MB + OG)
+130,130,18,ASSAM,310,Dibrugarh,2063,Dibrugarh West,801586,Dibrugarh (MB + OG) (Part)
+131,131,18,ASSAM,310,Dibrugarh,2064,Dibrugarh East,0,Dibrugarh East
+132,132,18,ASSAM,310,Dibrugarh,2064,Dibrugarh East,801586,Dibrugarh (MB + OG) (Part)
+133,133,18,ASSAM,310,Dibrugarh,2065,Chabua,0,Chabua
+134,134,18,ASSAM,310,Dibrugarh,2065,Chabua,801587,Chabua (TC)
+135,135,18,ASSAM,310,Dibrugarh,2066,Tengakhat,0,Tengakhat
+136,136,18,ASSAM,310,Dibrugarh,2067,Moran,0,Moran
+137,137,18,ASSAM,310,Dibrugarh,2068,Tingkhong,0,Tingkhong
+138,138,18,ASSAM,310,Dibrugarh,2069,Naharkatiya,0,Naharkatiya
+139,139,18,ASSAM,310,Dibrugarh,2069,Naharkatiya,801588,Naharkatiya (TC)
+140,140,18,ASSAM,311,Sivasagar,0,Sivasagar,0,Sivasagar
+141,141,18,ASSAM,311,Sivasagar,2070,Dimow,0,Dimow
+142,142,18,ASSAM,311,Sivasagar,2071,Sivasagar,0,Sivasagar
+143,143,18,ASSAM,311,Sivasagar,2071,Sivasagar,801589,Sivasagar (MB)
+144,144,18,ASSAM,311,Sivasagar,2072,Amguri,0,Amguri
+145,145,18,ASSAM,311,Sivasagar,2072,Amguri,801590,Amguri (MB)
+146,146,18,ASSAM,311,Sivasagar,2073,Nazira,0,Nazira
+147,147,18,ASSAM,311,Sivasagar,2073,Nazira,801591,Nazira (MB)
+148,148,18,ASSAM,311,Sivasagar,2073,Nazira,801592,Simaluguri (TC)
+149,149,18,ASSAM,311,Sivasagar,2074,Sonari,0,Sonari
+150,150,18,ASSAM,311,Sivasagar,2074,Sonari,801593,Sonari (MB)
+151,151,18,ASSAM,311,Sivasagar,2075,Mahmora,0,Mahmora
+152,152,18,ASSAM,311,Sivasagar,2075,Mahmora,801594,Moranhat (TC)
+153,153,18,ASSAM,312,Jorhat,0,Jorhat,0,Jorhat
+154,154,18,ASSAM,312,Jorhat,2076,Majuli,0,Majuli
+155,155,18,ASSAM,312,Jorhat,2077,Jorhat West,0,Jorhat West
+156,156,18,ASSAM,312,Jorhat,0,Jorhat,801595,Jorhat (MB + OG)
+157,157,18,ASSAM,312,Jorhat,2077,Jorhat West,801595,Jorhat (MB + OG) (Part)
+158,158,18,ASSAM,312,Jorhat,2078,Jorhat East,0,Jorhat East
+159,159,18,ASSAM,312,Jorhat,2078,Jorhat East,801595,Jorhat (MB + OG) (Part)
+160,160,18,ASSAM,312,Jorhat,2079,Teok,0,Teok
+161,161,18,ASSAM,312,Jorhat,2079,Teok,801596,Teok (TC) 
+162,162,18,ASSAM,312,Jorhat,2080,Titabor,0,Titabor
+163,163,18,ASSAM,312,Jorhat,2080,Titabor,801597,Titabor Town (TC)
+164,164,18,ASSAM,312,Jorhat,2081,Mariani,0,Mariani
+165,165,18,ASSAM,312,Jorhat,2081,Mariani,801598,Mariani (TC)
+166,166,18,ASSAM,313,Golaghat,0,Golaghat,0,Golaghat
+167,167,18,ASSAM,313,Golaghat,2082,Bokakhat,0,Bokakhat
+168,168,18,ASSAM,313,Golaghat,2082,Bokakhat,801599,Bokakhat (TC)
+169,169,18,ASSAM,313,Golaghat,2083,Khumtai,0,Khumtai
+170,170,18,ASSAM,313,Golaghat,2084,Dergaon,0,Dergaon
+171,171,18,ASSAM,313,Golaghat,2084,Dergaon,801600,Dergaon (MB)
+172,172,18,ASSAM,313,Golaghat,2085,Golaghat,0,Golaghat
+173,173,18,ASSAM,313,Golaghat,2085,Golaghat,801601,Golaghat (MB)
+174,174,18,ASSAM,313,Golaghat,2086,Morangi,0,Morangi
+175,175,18,ASSAM,313,Golaghat,2087,Sarupathar,0,Sarupathar
+176,176,18,ASSAM,313,Golaghat,2087,Sarupathar,801602,Sarupathar (TC)
+177,177,18,ASSAM,313,Golaghat,2087,Sarupathar,801603,Barpathar (TC)
+178,178,18,ASSAM,314,Karbi Anglong,0,Karbi Anglong,0,Karbi Anglong
+179,179,18,ASSAM,314,Karbi Anglong,2088,Donka,0,Donka
+180,180,18,ASSAM,314,Karbi Anglong,2088,Donka,801604,Hamren (TC)
+181,181,18,ASSAM,314,Karbi Anglong,2088,Donka,801605,Donkamokam (TC)
+182,182,18,ASSAM,314,Karbi Anglong,2089,Diphu,0,Diphu
+183,183,18,ASSAM,314,Karbi Anglong,2089,Diphu,801606,Diphu (TC)
+184,184,18,ASSAM,314,Karbi Anglong,2089,Diphu,801607,Bokajan (TC)
+185,185,18,ASSAM,314,Karbi Anglong,2090,Phuloni,0,Phuloni
+186,186,18,ASSAM,314,Karbi Anglong,2090,Phuloni,801608,Howraghat (TC)
+187,187,18,ASSAM,314,Karbi Anglong,2090,Phuloni,801609,Dokmoka (TC)
+188,188,18,ASSAM,314,Karbi Anglong,2091,Silonijan,0,Silonijan
+189,189,18,ASSAM,315,Dima Hasao,0,Dima Hasao,0,Dima Hasao
+190,190,18,ASSAM,315,Dima Hasao,2092,Umrangso,0,Umrangso
+191,191,18,ASSAM,315,Dima Hasao,2092,Umrangso,801610,Umrangso (TC)
+192,192,18,ASSAM,315,Dima Hasao,2093,Haflong,0,Haflong
+193,193,18,ASSAM,315,Dima Hasao,2093,Haflong,801611,Haflong (TC)
+194,194,18,ASSAM,315,Dima Hasao,2094,Mahur,0,Mahur
+195,195,18,ASSAM,315,Dima Hasao,2094,Mahur,801612,Mahur (TC)
+196,196,18,ASSAM,315,Dima Hasao,2095,Maibong,0,Maibong
+197,197,18,ASSAM,315,Dima Hasao,2095,Maibong,801613,Maibong (TC)
+198,198,18,ASSAM,316,Cachar,0,Cachar,0,Cachar
+199,199,18,ASSAM,316,Cachar,2096,Katigora,0,Katigora
+200,200,18,ASSAM,316,Cachar,2097,Silchar,0,Silchar
+201,201,18,ASSAM,316,Cachar,2097,Silchar,801614,Silchar (MB + OG)
+202,202,18,ASSAM,316,Cachar,2097,Silchar,801614,Silchar (MB)
+203,203,18,ASSAM,316,Cachar,2098,Udarbond,0,Udarbond
+204,204,18,ASSAM,316,Cachar,2099,Sonai,0,Sonai
+205,205,18,ASSAM,316,Cachar,2100,Lakhipur,0,Lakhipur
+206,206,18,ASSAM,316,Cachar,2100,Lakhipur,801615,Lakhipur (MB)
+207,207,18,ASSAM,317,Karimganj,0,Karimganj,0,Karimganj
+208,208,18,ASSAM,317,Karimganj,2101,Karimganj,0,Karimganj
+209,209,18,ASSAM,317,Karimganj,2101,Karimganj,801616,Karimganj (MB)
+210,210,18,ASSAM,317,Karimganj,2102,Badarpur,0,Badarpur
+211,211,18,ASSAM,317,Karimganj,2102,Badarpur,801617,Badarpur (TC)
+212,212,18,ASSAM,317,Karimganj,2103,Nilambazar,0,Nilambazar
+213,213,18,ASSAM,317,Karimganj,2104,Patharkandi,0,Patharkandi
+214,214,18,ASSAM,317,Karimganj,2105,Ramkrishna Nagar,0,Ramkrishna Nagar
+215,215,18,ASSAM,318,Hailakandi,0,Hailakandi,0,Hailakandi
+216,216,18,ASSAM,318,Hailakandi,2106,Algapur,0,Algapur
+217,217,18,ASSAM,318,Hailakandi,2107,Hailakandi,0,Hailakandi
+218,218,18,ASSAM,318,Hailakandi,2107,Hailakandi,801618,Hailakandi (MB)
+219,219,18,ASSAM,318,Hailakandi,2108,Lala,0,Lala
+220,220,18,ASSAM,318,Hailakandi,2108,Lala,801619,Lala (TC)
+221,221,18,ASSAM,318,Hailakandi,2109,Katlichara,0,Katlichara
+222,222,18,ASSAM,319,Bongaigaon,0,Bongaigaon,0,Bongaigaon
+223,223,18,ASSAM,319,Bongaigaon,2110,Bongaigaon (Pt),0,Bongaigaon (Pt)
+224,224,18,ASSAM,319,Bongaigaon,2110,Bongaigaon (Pt),801620,Bongaigaon (MB)
+225,225,18,ASSAM,319,Bongaigaon,2111,Boitamari,0,Boitamari
+226,226,18,ASSAM,319,Bongaigaon,2112,Srijangram,0,Srijangram
+227,227,18,ASSAM,319,Bongaigaon,2112,Srijangram,801621,Abhayapuri (TC)
+228,228,18,ASSAM,319,Bongaigaon,2115,Bijni (Pt),0,Bijni (Pt)
+229,229,18,ASSAM,319,Bongaigaon,2114,Sidli (Pt),0,Sidli (Pt)
+230,230,18,ASSAM,320,Chirang,0,Chirang,0,Chirang
+231,231,18,ASSAM,320,Chirang,2004,Kokrajhar (Pt),0,Kokrajhar (Pt)
+232,232,18,ASSAM,320,Chirang,2004,Kokrajhar (Pt),801622,Basugaon (TC)
+233,233,18,ASSAM,320,Chirang,2113,Bengtol,0,Bengtol
+234,234,18,ASSAM,320,Chirang,2114,Sidli (Pt),0,Sidli (Pt)
+235,235,18,ASSAM,320,Chirang,2110,Bongaigaon (Pt),0,Bongaigaon (Pt)
+236,236,18,ASSAM,320,Chirang,2115,Bijni (Pt),0,Bijni (Pt)
+237,237,18,ASSAM,320,Chirang,2115,Bijni (Pt),801623,Bijni (TC)
+238,238,18,ASSAM,320,Chirang,2018,Barnagar (Pt),0,Barnagar (Pt)
+239,239,18,ASSAM,321,Kamrup,0,Kamrup,0,Kamrup
+240,240,18,ASSAM,321,Kamrup,2141,Goreswar (Pt),0,Goreswar (Pt)
+241,241,18,ASSAM,321,Kamrup,2116,Rangia (Pt),0,Rangia (Pt)
+242,242,18,ASSAM,321,Kamrup,2116,Rangia (Pt),801624,Rangia (MB)
+243,243,18,ASSAM,321,Kamrup,2117,Koya,0,Koya
+244,244,18,ASSAM,321,Kamrup,2118,Kamalpur,0,Kamalpur
+245,245,18,ASSAM,321,Kamrup,2119,Hajo,0,Hajo
+246,246,18,ASSAM,321,Kamrup,2120,Chhaygaon,0,Chhaygaon
+247,247,18,ASSAM,321,Kamrup,2121,Goroimari,0,Goroimari
+248,248,18,ASSAM,321,Kamrup,2122,Chamaria,0,Chamaria
+249,249,18,ASSAM,321,Kamrup,2123,Nagarbera,0,Nagarbera
+250,250,18,ASSAM,321,Kamrup,2124,Boko,0,Boko
+251,251,18,ASSAM,321,Kamrup,2125,Palasbari,0,Palasbari
+252,252,18,ASSAM,321,Kamrup,2125,Palasbari,801625,Palasbari (MB)
+253,253,18,ASSAM,321,Kamrup,2126,North Guwahati (Pt),0,North Guwahati (Pt)
+254,254,18,ASSAM,322,Kamrup Metropolitan,0,Kamrup Metropolitan,0,Kamrup Metropolitan
+255,255,18,ASSAM,322,Kamrup Metropolitan,2127,Azara,0,Azara
+256,256,18,ASSAM,322,Kamrup Metropolitan,2126,North Guwahati (Pt),0,North Guwahati (Pt)
+257,257,18,ASSAM,322,Kamrup Metropolitan,2126,North Guwahati (Pt),801626,North Guwahati (TC)
+258,258,18,ASSAM,322,Kamrup Metropolitan,2128,Guwahati,0,Guwahati
+259,259,18,ASSAM,322,Kamrup Metropolitan,0,Kamrup Metropolitan,801627,Guwahati (M Corp. + OG)
+260,260,18,ASSAM,322,Kamrup Metropolitan,2128,Guwahati,801627,Guwahati (M Corp. + OG) (Part)
+261,261,18,ASSAM,322,Kamrup Metropolitan,2129,Dispur,0,Dispur
+262,262,18,ASSAM,322,Kamrup Metropolitan,2129,Dispur,801627,Guwahati (M Corp. + OG) (Part)
+263,263,18,ASSAM,322,Kamrup Metropolitan,2130,Sonapur,0,Sonapur
+264,264,18,ASSAM,322,Kamrup Metropolitan,2131,Chandrapur,0,Chandrapur
+265,265,18,ASSAM,323,Nalbari,0,Nalbari,0,Nalbari
+266,266,18,ASSAM,323,Nalbari,2142,Barama (Pt),0,Barama (Pt)
+267,267,18,ASSAM,323,Nalbari,2132,Tihu (Pt),0,Tihu (Pt)
+268,268,18,ASSAM,323,Nalbari,2132,Tihu (Pt),801628,Tihu (TC)
+269,269,18,ASSAM,323,Nalbari,2133,Pachim Nalbari,0,Pachim Nalbari
+270,270,18,ASSAM,323,Nalbari,2134,Barkhetri,0,Barkhetri
+271,271,18,ASSAM,323,Nalbari,2135,Barbhag,0,Barbhag
+272,272,18,ASSAM,323,Nalbari,2136,Nalbari,0,Nalbari
+273,273,18,ASSAM,323,Nalbari,2136,Nalbari,801629,Nalbari (MB)
+274,274,18,ASSAM,323,Nalbari,2137,Banekuchi,0,Banekuchi
+275,275,18,ASSAM,323,Nalbari,2138,Ghograpar (Pt),0,Ghograpar (Pt)
+276,276,18,ASSAM,323,Nalbari,2139,Baganpara (Pt),0,Baganpara (Pt)
+277,277,18,ASSAM,324,Baksa,0,Baksa,0,Baksa
+278,278,18,ASSAM,324,Baksa,2018,Barnagar (Pt),0,Barnagar (Pt)
+279,279,18,ASSAM,324,Baksa,2024,Bajali (Pt),0,Bajali (Pt)
+280,280,18,ASSAM,324,Baksa,2025,Sarupeta (Pt),0,Sarupeta (Pt)
+281,281,18,ASSAM,324,Baksa,2140,Jalah (Pt),0,Jalah (Pt)
+282,282,18,ASSAM,324,Baksa,2141,Goreswar (Pt),0,Goreswar (Pt)
+283,283,18,ASSAM,324,Baksa,2116,Rangia (Pt),0,Rangia (Pt)
+284,284,18,ASSAM,324,Baksa,2142,Barama (Pt),0,Barama (Pt)
+285,285,18,ASSAM,324,Baksa,2132,Tihu (Pt),0,Tihu (Pt)
+286,286,18,ASSAM,324,Baksa,2138,Ghograpar (Pt),0,Ghograpar (Pt)
+287,287,18,ASSAM,324,Baksa,2143,Baska,0,Baska
+288,288,18,ASSAM,324,Baksa,2139,Baganpara (Pt),0,Baganpara (Pt)
+289,289,18,ASSAM,324,Baksa,2144,Tamulpur,0,Tamulpur
+290,290,18,ASSAM,324,Baksa,2146,Pathorighat (Pt),0,Pathorighat (Pt)
+291,291,18,ASSAM,325,Darrang,0,Darrang,0,Darrang
+292,292,18,ASSAM,325,Darrang,2145,Khoirabari (Pt),0,Khoirabari (Pt)
+293,293,18,ASSAM,325,Darrang,2146,Pathorighat (Pt),0,Pathorighat (Pt)
+294,294,18,ASSAM,325,Darrang,2147,Sipajhar,0,Sipajhar
+295,295,18,ASSAM,325,Darrang,2148,Mangaldoi (Pt),0,Mangaldoi (Pt)
+296,296,18,ASSAM,325,Darrang,2148,Mangaldoi (Pt),801630,Mangaldoi (MB)
+297,297,18,ASSAM,325,Darrang,2150,Kalaigaon (Pt),0,Kalaigaon (Pt)
+298,298,18,ASSAM,325,Darrang,2149,Dalgaon (Pt),0,Dalgaon (Pt)
+299,299,18,ASSAM,325,Darrang,2149,Dalgaon (Pt),801631,Kharupatia (TC)
+300,300,18,ASSAM,326,Udalguri,0,Udalguri,0,Udalguri
+301,301,18,ASSAM,326,Udalguri,2145,Khoirabari (Pt),0,Khoirabari (Pt)
+302,302,18,ASSAM,326,Udalguri,2146,Pathorighat (Pt),0,Pathorighat (Pt)
+303,303,18,ASSAM,326,Udalguri,2148,Mangaldoi (Pt),0,Mangaldoi (Pt)
+304,304,18,ASSAM,326,Udalguri,2150,Kalaigaon (Pt),0,Kalaigaon (Pt)
+305,305,18,ASSAM,326,Udalguri,2149,Dalgaon (Pt),0,Dalgaon (Pt)
+306,306,18,ASSAM,326,Udalguri,2151,Harisinga,0,Harisinga
+307,307,18,ASSAM,326,Udalguri,2151,Harisinga,801632,Tangla (TC)
+308,308,18,ASSAM,326,Udalguri,2152,Udalguri,0,Udalguri
+309,309,18,ASSAM,326,Udalguri,2152,Udalguri,801633,Udalguri (TC)
+310,310,18,ASSAM,326,Udalguri,2153,Mazbat,0,Mazbat
+311,311,18,ASSAM,326,Udalguri,2041,Dhekiajuli (Pt),0,Dhekiajuli (Pt)

@@ -1,0 +1,653 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,27,MAHARASHTRA,0,MAHARASHTRA,0,MAHARASHTRA,0,MAHARASHTRA
+1,27,MAHARASHTRA,497,Nandurbar,0,Nandurbar,0,Nandurbar
+2,27,MAHARASHTRA,497,Nandurbar,3950,Akkalkuwa,0,Akkalkuwa
+3,27,MAHARASHTRA,497,Nandurbar,3951,Akrani,0,Akrani
+4,27,MAHARASHTRA,497,Nandurbar,3952,Talode,0,Talode
+5,27,MAHARASHTRA,497,Nandurbar,3952,Talode,802640,Talode (M Cl)
+6,27,MAHARASHTRA,497,Nandurbar,3953,Shahade,0,Shahade
+7,27,MAHARASHTRA,497,Nandurbar,3953,Shahade,802641,Shahade (M Cl)
+8,27,MAHARASHTRA,497,Nandurbar,3954,Nandurbar,0,Nandurbar
+9,27,MAHARASHTRA,497,Nandurbar,3954,Nandurbar,802642,Nandurbar (M Cl)
+10,27,MAHARASHTRA,497,Nandurbar,3955,Nawapur,0,Nawapur
+11,27,MAHARASHTRA,497,Nandurbar,3955,Nawapur,802643,Nawapur (M Cl)
+12,27,MAHARASHTRA,498,Dhule,0,Dhule,0,Dhule
+13,27,MAHARASHTRA,498,Dhule,3956,Shirpur,0,Shirpur
+14,27,MAHARASHTRA,498,Dhule,3956,Shirpur,802644,Shirpur-Warwade (M Cl) 
+15,27,MAHARASHTRA,498,Dhule,3957,Sindkhede,0,Sindkhede
+16,27,MAHARASHTRA,498,Dhule,3957,Sindkhede,802645,Dondaicha-Warwade(M Cl) 
+17,27,MAHARASHTRA,498,Dhule,3958,Sakri,0,Sakri
+18,27,MAHARASHTRA,498,Dhule,3959,Dhule,0,Dhule
+19,27,MAHARASHTRA,498,Dhule,3959,Dhule,802646,Dhule (M Corp.) 
+20,27,MAHARASHTRA,499,Jalgaon,0,Jalgaon,0,Jalgaon
+21,27,MAHARASHTRA,499,Jalgaon,3960,Chopda,0,Chopda
+22,27,MAHARASHTRA,499,Jalgaon,3960,Chopda,802647,Chopda (M Cl) 
+23,27,MAHARASHTRA,499,Jalgaon,3961,Yawal,0,Yawal
+24,27,MAHARASHTRA,499,Jalgaon,3961,Yawal,802648,Yawal (M Cl) 
+25,27,MAHARASHTRA,499,Jalgaon,3961,Yawal,802649,Faizpur (M Cl)
+26,27,MAHARASHTRA,499,Jalgaon,3962,Raver,0,Raver
+27,27,MAHARASHTRA,499,Jalgaon,3962,Raver,802650,Savda (M Cl) 
+28,27,MAHARASHTRA,499,Jalgaon,3962,Raver,802651,Raver (M Cl) 
+29,27,MAHARASHTRA,499,Jalgaon,3963,Muktainagar,0,Muktainagar
+30,27,MAHARASHTRA,499,Jalgaon,3964,Bodvad,0,Bodvad
+31,27,MAHARASHTRA,499,Jalgaon,3965,Bhusawal,0,Bhusawal
+32,27,MAHARASHTRA,499,Jalgaon,3965,Bhusawal,802652,Bhusawal (M Cl) 
+33,27,MAHARASHTRA,499,Jalgaon,3966,Jalgaon,0,Jalgaon
+34,27,MAHARASHTRA,499,Jalgaon,3966,Jalgaon,802653,Jalgaon (M Corp.)
+35,27,MAHARASHTRA,499,Jalgaon,3967,Erandol,0,Erandol
+36,27,MAHARASHTRA,499,Jalgaon,3967,Erandol,802654,Erandol (M Cl)
+37,27,MAHARASHTRA,499,Jalgaon,3968,Dharangaon,0,Dharangaon
+38,27,MAHARASHTRA,499,Jalgaon,3968,Dharangaon,802655,Dharangaon (M Cl) 
+39,27,MAHARASHTRA,499,Jalgaon,3969,Amalner,0,Amalner
+40,27,MAHARASHTRA,499,Jalgaon,3969,Amalner,802656,Amalner (M Cl) 
+41,27,MAHARASHTRA,499,Jalgaon,3970,Parola,0,Parola
+42,27,MAHARASHTRA,499,Jalgaon,3970,Parola,802657,Parola (M Cl)
+43,27,MAHARASHTRA,499,Jalgaon,3971,Bhadgaon,0,Bhadgaon
+44,27,MAHARASHTRA,499,Jalgaon,3971,Bhadgaon,802658,Bhadgaon (M Cl)
+45,27,MAHARASHTRA,499,Jalgaon,3972,Chalisgaon,0,Chalisgaon
+46,27,MAHARASHTRA,499,Jalgaon,3972,Chalisgaon,802659,Chalisgaon(M Cl)
+47,27,MAHARASHTRA,499,Jalgaon,3973,Pachora,0,Pachora
+48,27,MAHARASHTRA,499,Jalgaon,3973,Pachora,802660,Pachora (M Cl) 
+49,27,MAHARASHTRA,499,Jalgaon,3974,Jamner,0,Jamner
+50,27,MAHARASHTRA,499,Jalgaon,3974,Jamner,802661,Jamner (M Cl) 
+51,27,MAHARASHTRA,500,Buldana,0,Buldana,0,Buldana
+52,27,MAHARASHTRA,500,Buldana,3975,Jalgaon (Jamod),0,Jalgaon (Jamod)
+53,27,MAHARASHTRA,500,Buldana,3975,Jalgaon (Jamod),802662,Jalgaon (Jamod) (M Cl)
+54,27,MAHARASHTRA,500,Buldana,3976,Sangrampur,0,Sangrampur
+55,27,MAHARASHTRA,500,Buldana,3977,Shegaon,0,Shegaon
+56,27,MAHARASHTRA,500,Buldana,3977,Shegaon,802663,Shegaon (M Cl)
+57,27,MAHARASHTRA,500,Buldana,3978,Nandura,0,Nandura
+58,27,MAHARASHTRA,500,Buldana,3978,Nandura,802664,Nandura (M Cl + OG)
+59,27,MAHARASHTRA,500,Buldana,3978,Nandura,802664,Nandura (M Cl)
+60,27,MAHARASHTRA,500,Buldana,3979,Malkapur,0,Malkapur
+61,27,MAHARASHTRA,500,Buldana,3979,Malkapur,802665,Malkapur (M Cl)
+62,27,MAHARASHTRA,500,Buldana,3980,Motala,0,Motala
+63,27,MAHARASHTRA,500,Buldana,3981,Khamgaon,0,Khamgaon
+64,27,MAHARASHTRA,500,Buldana,3981,Khamgaon,802666,Khamgaon (M Cl)
+65,27,MAHARASHTRA,500,Buldana,3982,Mehkar,0,Mehkar
+66,27,MAHARASHTRA,500,Buldana,3982,Mehkar,802667,Mehkar (M Cl)
+67,27,MAHARASHTRA,500,Buldana,3983,Chikhli,0,Chikhli
+68,27,MAHARASHTRA,500,Buldana,3983,Chikhli,802668,Chikhli (M Cl)
+69,27,MAHARASHTRA,500,Buldana,3984,Buldana,0,Buldana
+70,27,MAHARASHTRA,500,Buldana,3984,Buldana,802669,Buldana (M Cl)
+71,27,MAHARASHTRA,500,Buldana,3985,Deolgaon Raja,0,Deolgaon Raja
+72,27,MAHARASHTRA,500,Buldana,3985,Deolgaon Raja,802670,Deulgaon Raja (M Cl)
+73,27,MAHARASHTRA,500,Buldana,3986,Sindkhed Raja,0,Sindkhed Raja
+74,27,MAHARASHTRA,500,Buldana,3986,Sindkhed Raja,802671,Sindkhed Raja (M Cl)
+75,27,MAHARASHTRA,500,Buldana,3987,Lonar,0,Lonar
+76,27,MAHARASHTRA,500,Buldana,3987,Lonar,802672,Lonar (M Cl)
+77,27,MAHARASHTRA,501,Akola,0,Akola,0,Akola
+78,27,MAHARASHTRA,501,Akola,3988,Telhara,0,Telhara
+79,27,MAHARASHTRA,501,Akola,3988,Telhara,802673,Telhara (M Cl)
+80,27,MAHARASHTRA,501,Akola,3989,Akot,0,Akot
+81,27,MAHARASHTRA,501,Akola,3989,Akot,802674,Akot (M Cl)
+82,27,MAHARASHTRA,501,Akola,3990,Balapur,0,Balapur
+83,27,MAHARASHTRA,501,Akola,3990,Balapur,802675,Balapur (M Cl)
+84,27,MAHARASHTRA,501,Akola,3991,Akola,0,Akola
+85,27,MAHARASHTRA,501,Akola,3991,Akola,802676,Akola (M Corp.)
+86,27,MAHARASHTRA,501,Akola,3992,Murtijapur,0,Murtijapur
+87,27,MAHARASHTRA,501,Akola,3992,Murtijapur,802677,Murtijapur (M Cl)
+88,27,MAHARASHTRA,501,Akola,3993,Patur,0,Patur
+89,27,MAHARASHTRA,501,Akola,3993,Patur,802678,Patur (M Cl)
+90,27,MAHARASHTRA,501,Akola,3994,Barshitakli,0,Barshitakli
+91,27,MAHARASHTRA,502,Washim,0,Washim,0,Washim
+92,27,MAHARASHTRA,502,Washim,3995,Malegaon,0,Malegaon
+93,27,MAHARASHTRA,502,Washim,3996,Mangrulpir,0,Mangrulpir
+94,27,MAHARASHTRA,502,Washim,3996,Mangrulpir,802679,Mangrulpir (M Cl)
+95,27,MAHARASHTRA,502,Washim,3997,Karanja,0,Karanja
+96,27,MAHARASHTRA,502,Washim,3997,Karanja,802680,Karanja (M Cl)
+97,27,MAHARASHTRA,502,Washim,3998,Manora,0,Manora
+98,27,MAHARASHTRA,502,Washim,3999,Washim,0,Washim
+99,27,MAHARASHTRA,502,Washim,3999,Washim,802681,Washim (M Cl)
+100,27,MAHARASHTRA,502,Washim,4000,Risod,0,Risod
+101,27,MAHARASHTRA,502,Washim,4000,Risod,802682,Risod (M Cl)
+102,27,MAHARASHTRA,503,Amravati,0,Amravati,0,Amravati
+103,27,MAHARASHTRA,503,Amravati,4001,Dharni,0,Dharni
+104,27,MAHARASHTRA,503,Amravati,4002,Chikhaldara,0,Chikhaldara
+105,27,MAHARASHTRA,503,Amravati,4002,Chikhaldara,802683,Chikhaldara (M Cl) 
+106,27,MAHARASHTRA,503,Amravati,4003,Anjangaon Surji,0,Anjangaon Surji
+107,27,MAHARASHTRA,503,Amravati,4003,Anjangaon Surji,802684,Anjangaon (M Cl)
+108,27,MAHARASHTRA,503,Amravati,4004,Achalpur,0,Achalpur
+109,27,MAHARASHTRA,503,Amravati,4004,Achalpur,802685,Achalpur (M Cl)
+110,27,MAHARASHTRA,503,Amravati,4005,Chandurbazar,0,Chandurbazar
+111,27,MAHARASHTRA,503,Amravati,4005,Chandurbazar,802686,Chandurbazar (M Cl)
+112,27,MAHARASHTRA,503,Amravati,4006,Morshi,0,Morshi
+113,27,MAHARASHTRA,503,Amravati,4006,Morshi,802687,Morshi (M Cl)
+114,27,MAHARASHTRA,503,Amravati,4007,Warud,0,Warud
+115,27,MAHARASHTRA,503,Amravati,4007,Warud,802688,Warud (M Cl)
+116,27,MAHARASHTRA,503,Amravati,4007,Warud,802689,Shendurjana (M Cl)
+117,27,MAHARASHTRA,503,Amravati,4008,Teosa,0,Teosa
+118,27,MAHARASHTRA,503,Amravati,4009,Amravati,0,Amravati
+119,27,MAHARASHTRA,503,Amravati,4009,Amravati,802690,Amravati (M Corp.)
+120,27,MAHARASHTRA,503,Amravati,4010,Bhatkuli,0,Bhatkuli
+121,27,MAHARASHTRA,503,Amravati,4011,Daryapur,0,Daryapur
+122,27,MAHARASHTRA,503,Amravati,4011,Daryapur,802691,Daryapur Banosa (M Cl) 
+123,27,MAHARASHTRA,503,Amravati,4012,Nandgaon-Khandeshwar,0,Nandgaon-Khandeshwar
+124,27,MAHARASHTRA,503,Amravati,4013,Chandur Railway,0,Chandur Railway
+125,27,MAHARASHTRA,503,Amravati,4013,Chandur Railway,802692,Chandur Railway (M Cl)
+126,27,MAHARASHTRA,503,Amravati,4014,Dhamangaon Railway,0,Dhamangaon Railway
+127,27,MAHARASHTRA,503,Amravati,4014,Dhamangaon Railway,802693,Dattapur Dhamangaon (M Cl)
+128,27,MAHARASHTRA,504,Wardha,0,Wardha,0,Wardha
+129,27,MAHARASHTRA,504,Wardha,4015,Ashti,0,Ashti
+130,27,MAHARASHTRA,504,Wardha,4016,Karanja,0,Karanja
+131,27,MAHARASHTRA,504,Wardha,4017,Arvi,0,Arvi
+132,27,MAHARASHTRA,504,Wardha,4017,Arvi,802694,Arvi (M Cl)
+133,27,MAHARASHTRA,504,Wardha,4018,Seloo,0,Seloo
+134,27,MAHARASHTRA,504,Wardha,4018,Seloo,802695,Sindi (M Cl)
+135,27,MAHARASHTRA,504,Wardha,4019,Wardha,0,Wardha
+136,27,MAHARASHTRA,504,Wardha,4019,Wardha,802696,Wardha (M Cl)
+137,27,MAHARASHTRA,504,Wardha,4020,Deoli,0,Deoli
+138,27,MAHARASHTRA,504,Wardha,4020,Deoli,802697,Pulgaon (M Cl)
+139,27,MAHARASHTRA,504,Wardha,4020,Deoli,802698,Deoli (M Cl)
+140,27,MAHARASHTRA,504,Wardha,4021,Hinganghat,0,Hinganghat
+141,27,MAHARASHTRA,504,Wardha,4021,Hinganghat,802699,Hinganghat (M Cl)
+142,27,MAHARASHTRA,504,Wardha,4022,Samudrapur,0,Samudrapur
+143,27,MAHARASHTRA,505,Nagpur,0,Nagpur,0,Nagpur
+144,27,MAHARASHTRA,505,Nagpur,4023,Narkhed,0,Narkhed
+145,27,MAHARASHTRA,505,Nagpur,4023,Narkhed,802700,Mowad (M Cl)
+146,27,MAHARASHTRA,505,Nagpur,4023,Narkhed,802701,Narkhed (M Cl)
+147,27,MAHARASHTRA,505,Nagpur,4024,Katol,0,Katol
+148,27,MAHARASHTRA,505,Nagpur,4024,Katol,802702,Katol (M Cl)
+149,27,MAHARASHTRA,505,Nagpur,4025,Kalameshwar,0,Kalameshwar
+150,27,MAHARASHTRA,505,Nagpur,4025,Kalameshwar,802703,Kalameshwar (M Cl) 
+151,27,MAHARASHTRA,505,Nagpur,4025,Kalameshwar,802704,Mohpa (M Cl)
+152,27,MAHARASHTRA,505,Nagpur,4026,Savner,0,Savner
+153,27,MAHARASHTRA,505,Nagpur,4026,Savner,802705,Savner (M Cl)
+154,27,MAHARASHTRA,505,Nagpur,4026,Savner,802706,Khapa (M Cl)
+155,27,MAHARASHTRA,505,Nagpur,4027,Parseoni,0,Parseoni
+156,27,MAHARASHTRA,505,Nagpur,4028,Ramtek,0,Ramtek
+157,27,MAHARASHTRA,505,Nagpur,4028,Ramtek,802707,Ramtek (M Cl)
+158,27,MAHARASHTRA,505,Nagpur,4029,Mauda,0,Mauda
+159,27,MAHARASHTRA,505,Nagpur,4030,Kamptee,0,Kamptee
+160,27,MAHARASHTRA,505,Nagpur,4030,Kamptee,802708,Kamptee (M Cl)
+161,27,MAHARASHTRA,505,Nagpur,4030,Kamptee,802709,Kamptee (CB)
+162,27,MAHARASHTRA,505,Nagpur,4031,Nagpur (Rural),0,Nagpur (Rural)
+163,27,MAHARASHTRA,505,Nagpur,4032,Nagpur (Urban),0,Nagpur (Urban)
+164,27,MAHARASHTRA,505,Nagpur,4032,Nagpur (Urban),802710,Nagpur (M Corp.)
+165,27,MAHARASHTRA,505,Nagpur,4033,Hingna,0,Hingna
+166,27,MAHARASHTRA,505,Nagpur,4034,Umred,0,Umred
+167,27,MAHARASHTRA,505,Nagpur,4034,Umred,802711,Umred (M Cl)
+168,27,MAHARASHTRA,505,Nagpur,4035,Kuhi,0,Kuhi
+169,27,MAHARASHTRA,505,Nagpur,4036,Bhiwapur,0,Bhiwapur
+170,27,MAHARASHTRA,506,Bhandara,0,Bhandara,0,Bhandara
+171,27,MAHARASHTRA,506,Bhandara,4037,Tumsar,0,Tumsar
+172,27,MAHARASHTRA,506,Bhandara,4037,Tumsar,802712,Tumsar (M Cl)
+173,27,MAHARASHTRA,506,Bhandara,4038,Mohadi,0,Mohadi
+174,27,MAHARASHTRA,506,Bhandara,4039,Bhandara,0,Bhandara
+175,27,MAHARASHTRA,506,Bhandara,4039,Bhandara,802713,Bhandara (M Cl)
+176,27,MAHARASHTRA,506,Bhandara,4040,Sakoli,0,Sakoli
+177,27,MAHARASHTRA,506,Bhandara,4041,Lakhani,0,Lakhani
+178,27,MAHARASHTRA,506,Bhandara,4042,Pauni,0,Pauni
+179,27,MAHARASHTRA,506,Bhandara,4042,Pauni,802714,Pauni (M Cl)
+180,27,MAHARASHTRA,506,Bhandara,4043,Lakhandur,0,Lakhandur
+181,27,MAHARASHTRA,507,Gondiya,0,Gondiya,0,Gondiya
+182,27,MAHARASHTRA,507,Gondiya,4044,Tirora,0,Tirora
+183,27,MAHARASHTRA,507,Gondiya,4044,Tirora,802715,Tirora (M Cl)
+184,27,MAHARASHTRA,507,Gondiya,4045,Goregaon,0,Goregaon
+185,27,MAHARASHTRA,507,Gondiya,4046,Gondiya,0,Gondiya
+186,27,MAHARASHTRA,507,Gondiya,4046,Gondiya,802716,Gondiya (M Cl)
+187,27,MAHARASHTRA,507,Gondiya,4047,Amgaon,0,Amgaon
+188,27,MAHARASHTRA,507,Gondiya,4048,Salekasa,0,Salekasa
+189,27,MAHARASHTRA,507,Gondiya,4049,Sadak-Arjuni,0,Sadak-Arjuni
+190,27,MAHARASHTRA,507,Gondiya,4050,Arjuni Morgaon,0,Arjuni Morgaon
+191,27,MAHARASHTRA,507,Gondiya,4051,Deori,0,Deori
+192,27,MAHARASHTRA,508,Gadchiroli,0,Gadchiroli,0,Gadchiroli
+193,27,MAHARASHTRA,508,Gadchiroli,4052,Desaiganj (Vadasa),0,Desaiganj (Vadasa)
+194,27,MAHARASHTRA,508,Gadchiroli,4052,Desaiganj (Vadasa),802717,Desaiganj (M Cl)
+195,27,MAHARASHTRA,508,Gadchiroli,4053,Armori,0,Armori
+196,27,MAHARASHTRA,508,Gadchiroli,4054,Kurkheda,0,Kurkheda
+197,27,MAHARASHTRA,508,Gadchiroli,4055,Korchi,0,Korchi
+198,27,MAHARASHTRA,508,Gadchiroli,4056,Dhanora,0,Dhanora
+199,27,MAHARASHTRA,508,Gadchiroli,4057,Gadchiroli,0,Gadchiroli
+200,27,MAHARASHTRA,508,Gadchiroli,4057,Gadchiroli,802718,Gadchiroli (M Cl)
+201,27,MAHARASHTRA,508,Gadchiroli,4058,Chamorshi,0,Chamorshi
+202,27,MAHARASHTRA,508,Gadchiroli,4059,Mulchera,0,Mulchera
+203,27,MAHARASHTRA,508,Gadchiroli,4060,Etapalli,0,Etapalli
+204,27,MAHARASHTRA,508,Gadchiroli,4061,Bhamragad,0,Bhamragad
+205,27,MAHARASHTRA,508,Gadchiroli,4062,Aheri,0,Aheri
+206,27,MAHARASHTRA,508,Gadchiroli,4063,Sironcha,0,Sironcha
+207,27,MAHARASHTRA,509,Chandrapur,0,Chandrapur,0,Chandrapur
+208,27,MAHARASHTRA,509,Chandrapur,4064,Warora,0,Warora
+209,27,MAHARASHTRA,509,Chandrapur,4064,Warora,802719,Warora (M Cl)
+210,27,MAHARASHTRA,509,Chandrapur,4065,Chimur,0,Chimur
+211,27,MAHARASHTRA,509,Chandrapur,4066,Nagbhir,0,Nagbhir
+212,27,MAHARASHTRA,509,Chandrapur,4067,Brahmapuri,0,Brahmapuri
+213,27,MAHARASHTRA,509,Chandrapur,4067,Brahmapuri,802720,Brahmapuri (M Cl)
+214,27,MAHARASHTRA,509,Chandrapur,4068,Sawali,0,Sawali
+215,27,MAHARASHTRA,509,Chandrapur,4069,Sindewahi,0,Sindewahi
+216,27,MAHARASHTRA,509,Chandrapur,4070,Bhadravati,0,Bhadravati
+217,27,MAHARASHTRA,509,Chandrapur,4070,Bhadravati,802721,Bhadravati (M Cl)
+218,27,MAHARASHTRA,509,Chandrapur,4071,Chandrapur,0,Chandrapur
+219,27,MAHARASHTRA,509,Chandrapur,4071,Chandrapur,802722,Chandrapur (M Cl)
+220,27,MAHARASHTRA,509,Chandrapur,4072,Mul,0,Mul
+221,27,MAHARASHTRA,509,Chandrapur,4072,Mul,802723,Mul (M Cl)
+222,27,MAHARASHTRA,509,Chandrapur,4073,Pombhurna,0,Pombhurna
+223,27,MAHARASHTRA,509,Chandrapur,4074,Ballarpur,0,Ballarpur
+224,27,MAHARASHTRA,509,Chandrapur,4074,Ballarpur,802724,Ballarpur (M Cl)
+225,27,MAHARASHTRA,509,Chandrapur,4075,Korpana,0,Korpana
+226,27,MAHARASHTRA,509,Chandrapur,4076,Jiwati,0,Jiwati
+227,27,MAHARASHTRA,509,Chandrapur,4077,Rajura,0,Rajura
+228,27,MAHARASHTRA,509,Chandrapur,4077,Rajura,802725,Rajura (M Cl)
+229,27,MAHARASHTRA,509,Chandrapur,4078,Gondpipri,0,Gondpipri
+230,27,MAHARASHTRA,510,Yavatmal,0,Yavatmal,0,Yavatmal
+231,27,MAHARASHTRA,510,Yavatmal,4079,Ner,0,Ner
+232,27,MAHARASHTRA,510,Yavatmal,4079,Ner,802726,Ner (M Cl)
+233,27,MAHARASHTRA,510,Yavatmal,4080,Babulgaon,0,Babulgaon
+234,27,MAHARASHTRA,510,Yavatmal,4081,Kalamb,0,Kalamb
+235,27,MAHARASHTRA,510,Yavatmal,4082,Yavatmal,0,Yavatmal
+236,27,MAHARASHTRA,510,Yavatmal,4082,Yavatmal,802727,Yavatmal (M Cl)
+237,27,MAHARASHTRA,510,Yavatmal,4083,Darwha,0,Darwha
+238,27,MAHARASHTRA,510,Yavatmal,4083,Darwha,802728,Darwha (M Cl)
+239,27,MAHARASHTRA,510,Yavatmal,4084,Digras,0,Digras
+240,27,MAHARASHTRA,510,Yavatmal,4084,Digras,802729,Digras (M Cl)
+241,27,MAHARASHTRA,510,Yavatmal,4085,Pusad,0,Pusad
+242,27,MAHARASHTRA,510,Yavatmal,4085,Pusad,802730,Pusad (M Cl)
+243,27,MAHARASHTRA,510,Yavatmal,4086,Umarkhed,0,Umarkhed
+244,27,MAHARASHTRA,510,Yavatmal,4086,Umarkhed,802731,Umarkhed (M Cl)
+245,27,MAHARASHTRA,510,Yavatmal,4087,Mahagaon,0,Mahagaon
+246,27,MAHARASHTRA,510,Yavatmal,4088,Arni,0,Arni
+247,27,MAHARASHTRA,510,Yavatmal,4089,Ghatanji,0,Ghatanji
+248,27,MAHARASHTRA,510,Yavatmal,4089,Ghatanji,802732,Ghatanji (M Cl)
+249,27,MAHARASHTRA,510,Yavatmal,4090,Kelapur,0,Kelapur
+250,27,MAHARASHTRA,510,Yavatmal,4090,Kelapur,802733,Pandharkaoda (M Cl)
+251,27,MAHARASHTRA,510,Yavatmal,4091,Ralegaon,0,Ralegaon
+252,27,MAHARASHTRA,510,Yavatmal,4092,Maregaon,0,Maregaon
+253,27,MAHARASHTRA,510,Yavatmal,4093,Zari-Jamani,0,Zari-Jamani
+254,27,MAHARASHTRA,510,Yavatmal,4094,Wani,0,Wani
+255,27,MAHARASHTRA,510,Yavatmal,4094,Wani,802734,Wani (M Cl)
+256,27,MAHARASHTRA,511,Nanded,0,Nanded,0,Nanded
+257,27,MAHARASHTRA,511,Nanded,4095,Mahoor,0,Mahoor
+258,27,MAHARASHTRA,511,Nanded,4096,Kinwat,0,Kinwat
+259,27,MAHARASHTRA,511,Nanded,4096,Kinwat,802735,Kinwat (M Cl)
+260,27,MAHARASHTRA,511,Nanded,4097,Himayatnagar,0,Himayatnagar
+261,27,MAHARASHTRA,511,Nanded,4098,Hadgaon,0,Hadgaon
+262,27,MAHARASHTRA,511,Nanded,4098,Hadgaon,802736,Hadgaon (M Cl)
+263,27,MAHARASHTRA,511,Nanded,4099,Ardhapur,0,Ardhapur
+264,27,MAHARASHTRA,511,Nanded,4100,Nanded,0,Nanded
+265,27,MAHARASHTRA,511,Nanded,4100,Nanded,802737,Nanded Waghala (M Corp.)
+266,27,MAHARASHTRA,511,Nanded,4101,Mudkhed,0,Mudkhed
+267,27,MAHARASHTRA,511,Nanded,4101,Mudkhed,802738,Mudkhed (M Cl)
+268,27,MAHARASHTRA,511,Nanded,4102,Bhokar,0,Bhokar
+269,27,MAHARASHTRA,511,Nanded,4102,Bhokar,802739,Bhokar (M Cl)
+270,27,MAHARASHTRA,511,Nanded,4103,Umri,0,Umri
+271,27,MAHARASHTRA,511,Nanded,4103,Umri,802740,Peth Umri (M Cl)
+272,27,MAHARASHTRA,511,Nanded,4104,Dharmabad,0,Dharmabad
+273,27,MAHARASHTRA,511,Nanded,4104,Dharmabad,802741,Dharmabad (M Cl)
+274,27,MAHARASHTRA,511,Nanded,4105,Biloli,0,Biloli
+275,27,MAHARASHTRA,511,Nanded,4105,Biloli,802742,Kundalwadi (M Cl)
+276,27,MAHARASHTRA,511,Nanded,4105,Biloli,802743,Biloli (M Cl)
+277,27,MAHARASHTRA,511,Nanded,4106,Naigaon (Khairgaon),0,Naigaon (Khairgaon)
+278,27,MAHARASHTRA,511,Nanded,4107,Loha,0,Loha
+279,27,MAHARASHTRA,511,Nanded,4107,Loha,802744,Loha (M Cl)
+280,27,MAHARASHTRA,511,Nanded,4108,Kandhar,0,Kandhar
+281,27,MAHARASHTRA,511,Nanded,4108,Kandhar,802745,Kandhar (M Cl)
+282,27,MAHARASHTRA,511,Nanded,4109,Mukhed,0,Mukhed
+283,27,MAHARASHTRA,511,Nanded,4109,Mukhed,802746,Mukhed (M Cl)
+284,27,MAHARASHTRA,511,Nanded,4110,Deglur,0,Deglur
+285,27,MAHARASHTRA,511,Nanded,4110,Deglur,802747,Deglur (M Cl)
+286,27,MAHARASHTRA,512,Hingoli,0,Hingoli,0,Hingoli
+287,27,MAHARASHTRA,512,Hingoli,4111,Sengaon,0,Sengaon
+288,27,MAHARASHTRA,512,Hingoli,4112,Hingoli,0,Hingoli
+289,27,MAHARASHTRA,512,Hingoli,4112,Hingoli,802748,Hingoli (M Cl)
+290,27,MAHARASHTRA,512,Hingoli,4113,Aundha (Nagnath),0,Aundha (Nagnath)
+291,27,MAHARASHTRA,512,Hingoli,4114,Kalamnuri,0,Kalamnuri
+292,27,MAHARASHTRA,512,Hingoli,4114,Kalamnuri,802749,Kalamnuri (M Cl)
+293,27,MAHARASHTRA,512,Hingoli,4115,Basmath,0,Basmath
+294,27,MAHARASHTRA,512,Hingoli,4115,Basmath,802750,Basmath (M Cl)
+295,27,MAHARASHTRA,513,Parbhani,0,Parbhani,0,Parbhani
+296,27,MAHARASHTRA,513,Parbhani,4116,Sailu,0,Sailu
+297,27,MAHARASHTRA,513,Parbhani,4116,Sailu,802751,Sailu (M Cl)
+298,27,MAHARASHTRA,513,Parbhani,4117,Jintur,0,Jintur
+299,27,MAHARASHTRA,513,Parbhani,4117,Jintur,802752,Jintur (M Cl)
+300,27,MAHARASHTRA,513,Parbhani,4118,Parbhani,0,Parbhani
+301,27,MAHARASHTRA,513,Parbhani,4118,Parbhani,802753,Parbhani (M Cl)
+302,27,MAHARASHTRA,513,Parbhani,4119,Manwath,0,Manwath
+303,27,MAHARASHTRA,513,Parbhani,4119,Manwath,802754,Manwath (M Cl)
+304,27,MAHARASHTRA,513,Parbhani,4120,Pathri,0,Pathri
+305,27,MAHARASHTRA,513,Parbhani,4120,Pathri,802755,Pathri (M Cl)
+306,27,MAHARASHTRA,513,Parbhani,4121,Sonpeth,0,Sonpeth
+307,27,MAHARASHTRA,513,Parbhani,4121,Sonpeth,802756,Sonpeth (M Cl)
+308,27,MAHARASHTRA,513,Parbhani,4122,Gangakhed,0,Gangakhed
+309,27,MAHARASHTRA,513,Parbhani,4122,Gangakhed,802757,Gangakhed (M Cl)
+310,27,MAHARASHTRA,513,Parbhani,4123,Palam,0,Palam
+311,27,MAHARASHTRA,513,Parbhani,4124,Purna,0,Purna
+312,27,MAHARASHTRA,513,Parbhani,4124,Purna,802758,Purna (M Cl)
+313,27,MAHARASHTRA,514,Jalna,0,Jalna,0,Jalna
+314,27,MAHARASHTRA,514,Jalna,4125,Bhokardan,0,Bhokardan
+315,27,MAHARASHTRA,514,Jalna,4125,Bhokardan,802759,Bhokardan (M Cl)
+316,27,MAHARASHTRA,514,Jalna,4126,Jafferabad,0,Jafferabad
+317,27,MAHARASHTRA,514,Jalna,4127,Jalna,0,Jalna
+318,27,MAHARASHTRA,514,Jalna,4127,Jalna,802760,Jalna (M Cl)
+319,27,MAHARASHTRA,514,Jalna,4128,Badnapur,0,Badnapur
+320,27,MAHARASHTRA,514,Jalna,4129,Ambad,0,Ambad
+321,27,MAHARASHTRA,514,Jalna,4129,Ambad,802761,Ambad (M Cl)
+322,27,MAHARASHTRA,514,Jalna,4130,Ghansawangi,0,Ghansawangi
+323,27,MAHARASHTRA,514,Jalna,4131,Partur,0,Partur
+324,27,MAHARASHTRA,514,Jalna,4131,Partur,802762,Partur (M Cl)
+325,27,MAHARASHTRA,514,Jalna,4132,Mantha,0,Mantha
+326,27,MAHARASHTRA,515,Aurangabad,0,Aurangabad,0,Aurangabad
+327,27,MAHARASHTRA,515,Aurangabad,4133,Kannad,0,Kannad
+328,27,MAHARASHTRA,515,Aurangabad,4133,Kannad,802763,Kannad (M Cl)
+329,27,MAHARASHTRA,515,Aurangabad,4134,Soegaon,0,Soegaon
+330,27,MAHARASHTRA,515,Aurangabad,4135,Sillod,0,Sillod
+331,27,MAHARASHTRA,515,Aurangabad,4135,Sillod,802764,Sillod (M Cl)
+332,27,MAHARASHTRA,515,Aurangabad,4136,Phulambri,0,Phulambri
+333,27,MAHARASHTRA,515,Aurangabad,4137,Aurangabad,0,Aurangabad
+334,27,MAHARASHTRA,515,Aurangabad,4137,Aurangabad,802765,Aurangabad (M Corp.)
+335,27,MAHARASHTRA,515,Aurangabad,4137,Aurangabad,802766,Aurangabad (CB)
+336,27,MAHARASHTRA,515,Aurangabad,4138,Khuldabad,0,Khuldabad
+337,27,MAHARASHTRA,515,Aurangabad,4138,Khuldabad,802767,Khuldabad (M Cl)
+338,27,MAHARASHTRA,515,Aurangabad,4139,Vaijapur,0,Vaijapur
+339,27,MAHARASHTRA,515,Aurangabad,4139,Vaijapur,802768,Vaijapur (M Cl)
+340,27,MAHARASHTRA,515,Aurangabad,4140,Gangapur,0,Gangapur
+341,27,MAHARASHTRA,515,Aurangabad,4140,Gangapur,802769,Gangapur (M Cl)
+342,27,MAHARASHTRA,515,Aurangabad,4141,Paithan,0,Paithan
+343,27,MAHARASHTRA,515,Aurangabad,4141,Paithan,802770,Paithan (M Cl)
+344,27,MAHARASHTRA,516,Nashik,0,Nashik,0,Nashik
+345,27,MAHARASHTRA,516,Nashik,4142,Surgana,0,Surgana
+346,27,MAHARASHTRA,516,Nashik,4143,Kalwan,0,Kalwan
+347,27,MAHARASHTRA,516,Nashik,4144,Deola,0,Deola
+348,27,MAHARASHTRA,516,Nashik,4145,Baglan,0,Baglan
+349,27,MAHARASHTRA,516,Nashik,4145,Baglan,802771,Satana (M Cl)
+350,27,MAHARASHTRA,516,Nashik,4146,Malegaon,0,Malegaon
+351,27,MAHARASHTRA,516,Nashik,4146,Malegaon,802772,Malegaon (M Corp. + OG)
+352,27,MAHARASHTRA,516,Nashik,4146,Malegaon,802772,Malegaon (M Corp.)
+353,27,MAHARASHTRA,516,Nashik,4147,Nandgaon,0,Nandgaon
+354,27,MAHARASHTRA,516,Nashik,4147,Nandgaon,802773,Nandgaon (M Cl)
+355,27,MAHARASHTRA,516,Nashik,4147,Nandgaon,802774,Manmad (M Cl)
+356,27,MAHARASHTRA,516,Nashik,4148,Chandvad,0,Chandvad
+357,27,MAHARASHTRA,516,Nashik,4149,Dindori,0,Dindori
+358,27,MAHARASHTRA,516,Nashik,4150,Peint,0,Peint
+359,27,MAHARASHTRA,516,Nashik,4151,Trimbakeshwar,0,Trimbakeshwar
+360,27,MAHARASHTRA,516,Nashik,4151,Trimbakeshwar,802775,Trimbak (M Cl)
+361,27,MAHARASHTRA,516,Nashik,4152,Nashik,0,Nashik
+362,27,MAHARASHTRA,516,Nashik,4152,Nashik,802776,Nashik (M Corp.)
+363,27,MAHARASHTRA,516,Nashik,4152,Nashik,802777,Deolali (CB)
+364,27,MAHARASHTRA,516,Nashik,4152,Nashik,802778,Bhagur (M Cl)
+365,27,MAHARASHTRA,516,Nashik,4153,Igatpuri,0,Igatpuri
+366,27,MAHARASHTRA,516,Nashik,4153,Igatpuri,802779,Igatpuri (M Cl)
+367,27,MAHARASHTRA,516,Nashik,4154,Sinnar,0,Sinnar
+368,27,MAHARASHTRA,516,Nashik,4154,Sinnar,802780,Sinnar (M Cl)
+369,27,MAHARASHTRA,516,Nashik,4155,Niphad,0,Niphad
+370,27,MAHARASHTRA,516,Nashik,4156,Yevla,0,Yevla
+371,27,MAHARASHTRA,516,Nashik,4156,Yevla,802781,Yevla (M Cl)
+372,27,MAHARASHTRA,517,Thane,0,Thane,0,Thane
+373,27,MAHARASHTRA,517,Thane,4157,Talasari,0,Talasari
+374,27,MAHARASHTRA,517,Thane,4158,Dahanu,0,Dahanu
+375,27,MAHARASHTRA,517,Thane,4158,Dahanu,802782,Dahanu (M Cl)
+376,27,MAHARASHTRA,517,Thane,4159,Vikramgad,0,Vikramgad
+377,27,MAHARASHTRA,517,Thane,4160,Jawhar,0,Jawhar
+378,27,MAHARASHTRA,517,Thane,4160,Jawhar,802783,Jawhar (M Cl)
+379,27,MAHARASHTRA,517,Thane,4161,Mokhada,0,Mokhada
+380,27,MAHARASHTRA,517,Thane,4162,Vada,0,Vada
+381,27,MAHARASHTRA,517,Thane,4163,Palghar,0,Palghar
+382,27,MAHARASHTRA,517,Thane,4163,Palghar,802784,Palghar (M Cl)
+383,27,MAHARASHTRA,517,Thane,4164,Vasai,0,Vasai
+384,27,MAHARASHTRA,517,Thane,4164,Vasai,802785,Vasai-Virar City (M Corp)
+385,27,MAHARASHTRA,517,Thane,4165,Thane,0,Thane
+386,27,MAHARASHTRA,517,Thane,4165,Thane,802786,Mira-Bhayandar (M Corp.)
+387,27,MAHARASHTRA,517,Thane,4165,Thane,802787,Thane (M Corp.)
+388,27,MAHARASHTRA,517,Thane,4165,Thane,802788,Navi Mumbai (M Corp.)
+389,27,MAHARASHTRA,517,Thane,4166,Bhiwandi,0,Bhiwandi
+390,27,MAHARASHTRA,517,Thane,4166,Bhiwandi,802789,Bhiwandi Nizampur (M Corp.)
+391,27,MAHARASHTRA,517,Thane,4167,Shahapur,0,Shahapur
+392,27,MAHARASHTRA,517,Thane,4168,Kalyan,0,Kalyan
+393,27,MAHARASHTRA,517,Thane,4168,Kalyan,802790,Kalyan-Dombivli (M Corp.)
+394,27,MAHARASHTRA,517,Thane,4169,Ulhasnagar,0,Ulhasnagar
+395,27,MAHARASHTRA,517,Thane,4169,Ulhasnagar,802791,Ulhasnagar (M Corp.)
+396,27,MAHARASHTRA,517,Thane,4170,Ambarnath,0,Ambarnath
+397,27,MAHARASHTRA,517,Thane,4170,Ambarnath,802792,Badlapur (M Cl)
+398,27,MAHARASHTRA,517,Thane,4170,Ambarnath,802793,Ambarnath(M Cl)
+399,27,MAHARASHTRA,517,Thane,4171,Murbad,0,Murbad
+400,27,MAHARASHTRA,518,Mumbai Suburban,0,Mumbai Suburban,0,Mumbai Suburban
+401,27,MAHARASHTRA,518,Mumbai Suburban,99999,Area not under any Sub-district,802794,Greater Mumbai (M Corp.) (Part)
+402,27,MAHARASHTRA,519,Mumbai,0,Mumbai,0,Mumbai
+403,27,MAHARASHTRA,519,Mumbai,99999,Area not under any Sub-district,802794,Greater Mumbai (M Corp.) (Part)
+404,27,MAHARASHTRA,520,Raigarh,0,Raigarh,0,Raigarh
+405,27,MAHARASHTRA,520,Raigarh,4172,Uran,0,Uran
+406,27,MAHARASHTRA,520,Raigarh,4172,Uran,802795,Uran (M Cl)
+407,27,MAHARASHTRA,520,Raigarh,4173,Panvel,0,Panvel
+408,27,MAHARASHTRA,520,Raigarh,4173,Panvel,802796,Panvel (M Cl)
+409,27,MAHARASHTRA,520,Raigarh,4174,Karjat,0,Karjat
+410,27,MAHARASHTRA,520,Raigarh,4174,Karjat,802797,Matheran (M Cl)
+411,27,MAHARASHTRA,520,Raigarh,4174,Karjat,802798,Karjat (M Cl)
+412,27,MAHARASHTRA,520,Raigarh,4175,Khalapur,0,Khalapur
+413,27,MAHARASHTRA,520,Raigarh,4175,Khalapur,802799,Khopoli (M Cl)
+414,27,MAHARASHTRA,520,Raigarh,4176,Pen,0,Pen
+415,27,MAHARASHTRA,520,Raigarh,4176,Pen,802800,Pen (M Cl)
+416,27,MAHARASHTRA,520,Raigarh,4177,Alibag,0,Alibag
+417,27,MAHARASHTRA,520,Raigarh,4177,Alibag,802801,Alibag (M Cl)
+418,27,MAHARASHTRA,520,Raigarh,4178,Murud,0,Murud
+419,27,MAHARASHTRA,520,Raigarh,4178,Murud,802802,Murud Janjira (M Cl)
+420,27,MAHARASHTRA,520,Raigarh,4179,Roha,0,Roha
+421,27,MAHARASHTRA,520,Raigarh,4179,Roha,802803,Roha Ashtami (M Cl)
+422,27,MAHARASHTRA,520,Raigarh,4180,Sudhagad,0,Sudhagad
+423,27,MAHARASHTRA,520,Raigarh,4181,Mangaon,0,Mangaon
+424,27,MAHARASHTRA,520,Raigarh,4182,Tala,0,Tala
+425,27,MAHARASHTRA,520,Raigarh,4183,Shrivardhan,0,Shrivardhan
+426,27,MAHARASHTRA,520,Raigarh,4183,Shrivardhan,802804,Shrivardhan (M Cl)
+427,27,MAHARASHTRA,520,Raigarh,4184,Mhasla,0,Mhasla
+428,27,MAHARASHTRA,520,Raigarh,4185,Mahad,0,Mahad
+429,27,MAHARASHTRA,520,Raigarh,4185,Mahad,802805,Mahad (M Cl)
+430,27,MAHARASHTRA,520,Raigarh,4186,Poladpur,0,Poladpur
+431,27,MAHARASHTRA,521,Pune,0,Pune,0,Pune
+432,27,MAHARASHTRA,521,Pune,4187,Junnar,0,Junnar
+433,27,MAHARASHTRA,521,Pune,4187,Junnar,802806,Junnar (M Cl)
+434,27,MAHARASHTRA,521,Pune,4188,Ambegaon,0,Ambegaon
+435,27,MAHARASHTRA,521,Pune,4189,Shirur,0,Shirur
+436,27,MAHARASHTRA,521,Pune,4189,Shirur,802807,Shirur (M Cl)
+437,27,MAHARASHTRA,521,Pune,4190,Khed,0,Khed
+438,27,MAHARASHTRA,521,Pune,4190,Khed,802808,Alandi (M Cl)
+439,27,MAHARASHTRA,521,Pune,4191,Mawal,0,Mawal
+440,27,MAHARASHTRA,521,Pune,4191,Mawal,802809,Talegaon Dabhade (M Cl)
+441,27,MAHARASHTRA,521,Pune,4191,Mawal,802810,Lonavala (M Cl)
+442,27,MAHARASHTRA,521,Pune,4192,Mulshi,0,Mulshi
+443,27,MAHARASHTRA,521,Pune,4193,Haveli,0,Haveli
+444,27,MAHARASHTRA,521,Pune,4193,Haveli,802811,Pimpri Chinchwad (M Corp.)
+445,27,MAHARASHTRA,521,Pune,4193,Haveli,802812,Dehu Road (CB)
+446,27,MAHARASHTRA,521,Pune,4194,Pune City,0,Pune City
+447,27,MAHARASHTRA,521,Pune,4194,Pune City,802813,Pune (CB)
+448,27,MAHARASHTRA,521,Pune,4194,Pune City,802814,Pune (M Corp.)
+449,27,MAHARASHTRA,521,Pune,4194,Pune City,802815,Kirkee (CB)
+450,27,MAHARASHTRA,521,Pune,4195,Daund,0,Daund
+451,27,MAHARASHTRA,521,Pune,4195,Daund,802816,Daund (M Cl)
+452,27,MAHARASHTRA,521,Pune,4196,Purandhar,0,Purandhar
+453,27,MAHARASHTRA,521,Pune,4196,Purandhar,802817,Sasvad (M Cl)
+454,27,MAHARASHTRA,521,Pune,4196,Purandhar,802818,Jejuri (M Cl)
+455,27,MAHARASHTRA,521,Pune,4197,Velhe,0,Velhe
+456,27,MAHARASHTRA,521,Pune,4198,Bhor,0,Bhor
+457,27,MAHARASHTRA,521,Pune,4198,Bhor,802819,Bhor (M Cl)
+458,27,MAHARASHTRA,521,Pune,4199,Baramati,0,Baramati
+459,27,MAHARASHTRA,521,Pune,4199,Baramati,802820,Baramati (M Cl)
+460,27,MAHARASHTRA,521,Pune,4200,Indapur,0,Indapur
+461,27,MAHARASHTRA,521,Pune,4200,Indapur,802821,Indapur (M Cl)
+462,27,MAHARASHTRA,522,Ahmadnagar,0,Ahmadnagar,0,Ahmadnagar
+463,27,MAHARASHTRA,522,Ahmadnagar,4201,Akola,0,Akola
+464,27,MAHARASHTRA,522,Ahmadnagar,4202,Sangamner,0,Sangamner
+465,27,MAHARASHTRA,522,Ahmadnagar,4202,Sangamner,802822,Sangamner (M Cl)
+466,27,MAHARASHTRA,522,Ahmadnagar,4203,Kopargaon,0,Kopargaon
+467,27,MAHARASHTRA,522,Ahmadnagar,4203,Kopargaon,802823,Kopargaon (M Cl)
+468,27,MAHARASHTRA,522,Ahmadnagar,4204,Rahta,0,Rahta
+469,27,MAHARASHTRA,522,Ahmadnagar,4204,Rahta,802824,Shirdi (NP)
+470,27,MAHARASHTRA,522,Ahmadnagar,4204,Rahta,802825,Rahta Pimplas (M Cl)
+471,27,MAHARASHTRA,522,Ahmadnagar,4205,Shrirampur,0,Shrirampur
+472,27,MAHARASHTRA,522,Ahmadnagar,4205,Shrirampur,802826,Shrirampur (M Cl)
+473,27,MAHARASHTRA,522,Ahmadnagar,4206,Nevasa,0,Nevasa
+474,27,MAHARASHTRA,522,Ahmadnagar,4207,Shevgaon,0,Shevgaon
+475,27,MAHARASHTRA,522,Ahmadnagar,4208,Pathardi,0,Pathardi
+476,27,MAHARASHTRA,522,Ahmadnagar,4208,Pathardi,802827,Pathardi (M Cl)
+477,27,MAHARASHTRA,522,Ahmadnagar,4209,Nagar,0,Nagar
+478,27,MAHARASHTRA,522,Ahmadnagar,4209,Nagar,802828,Ahmadnagar (M Corp.)
+479,27,MAHARASHTRA,522,Ahmadnagar,4209,Nagar,802829,Ahmadnagar (CB)
+480,27,MAHARASHTRA,522,Ahmadnagar,4210,Rahuri,0,Rahuri
+481,27,MAHARASHTRA,522,Ahmadnagar,4210,Rahuri,802830,Rahuri (M Cl)
+482,27,MAHARASHTRA,522,Ahmadnagar,4210,Rahuri,802831,Deolali Pravara (M Cl)
+483,27,MAHARASHTRA,522,Ahmadnagar,4211,Parner,0,Parner
+484,27,MAHARASHTRA,522,Ahmadnagar,4212,Shrigonda,0,Shrigonda
+485,27,MAHARASHTRA,522,Ahmadnagar,4212,Shrigonda,802832,Shrigonda (M Cl)
+486,27,MAHARASHTRA,522,Ahmadnagar,4213,Karjat,0,Karjat
+487,27,MAHARASHTRA,522,Ahmadnagar,4214,Jamkhed,0,Jamkhed
+488,27,MAHARASHTRA,523,Bid,0,Bid,0,Bid
+489,27,MAHARASHTRA,523,Bid,4215,Ashti,0,Ashti
+490,27,MAHARASHTRA,523,Bid,4216,Patoda,0,Patoda
+491,27,MAHARASHTRA,523,Bid,4217,Shirur (Kasar),0,Shirur (Kasar)
+492,27,MAHARASHTRA,523,Bid,4218,Georai,0,Georai
+493,27,MAHARASHTRA,523,Bid,4218,Georai,802833,Georai (M Cl)
+494,27,MAHARASHTRA,523,Bid,4219,Manjlegaon,0,Manjlegaon
+495,27,MAHARASHTRA,523,Bid,4219,Manjlegaon,802834,Manjlegaon (M Cl)
+496,27,MAHARASHTRA,523,Bid,4220,Wadwani,0,Wadwani
+497,27,MAHARASHTRA,523,Bid,4221,Bid,0,Bid
+498,27,MAHARASHTRA,523,Bid,4221,Bid,802835,Bid (M Cl)
+499,27,MAHARASHTRA,523,Bid,4222,Kaij,0,Kaij
+500,27,MAHARASHTRA,523,Bid,4222,Kaij,802836,Kaij (NP)
+501,27,MAHARASHTRA,523,Bid,4223,Dharur,0,Dharur
+502,27,MAHARASHTRA,523,Bid,4223,Dharur,802837,Dharur (M Cl)
+503,27,MAHARASHTRA,523,Bid,4224,Parli,0,Parli
+504,27,MAHARASHTRA,523,Bid,4224,Parli,802838,Parli (M Cl)
+505,27,MAHARASHTRA,523,Bid,4225,Ambejogai,0,Ambejogai
+506,27,MAHARASHTRA,523,Bid,4225,Ambejogai,802839,Ambejogai (M Cl)
+507,27,MAHARASHTRA,524,Latur,0,Latur,0,Latur
+508,27,MAHARASHTRA,524,Latur,4226,Latur,0,Latur
+509,27,MAHARASHTRA,524,Latur,4226,Latur,802840,Latur (M Cl)
+510,27,MAHARASHTRA,524,Latur,4227,Renapur,0,Renapur
+511,27,MAHARASHTRA,524,Latur,4228,Ahmadpur,0,Ahmadpur
+512,27,MAHARASHTRA,524,Latur,4228,Ahmadpur,802841,Ahmadpur (M Cl)
+513,27,MAHARASHTRA,524,Latur,4229,Jalkot,0,Jalkot
+514,27,MAHARASHTRA,524,Latur,4230,Chakur,0,Chakur
+515,27,MAHARASHTRA,524,Latur,4231,Shirur-Anantpal,0,Shirur-Anantpal
+516,27,MAHARASHTRA,524,Latur,4232,Ausa,0,Ausa
+517,27,MAHARASHTRA,524,Latur,4232,Ausa,802842,Ausa (M Cl)
+518,27,MAHARASHTRA,524,Latur,4233,Nilanga,0,Nilanga
+519,27,MAHARASHTRA,524,Latur,4233,Nilanga,802843,Nilanga (M Cl)
+520,27,MAHARASHTRA,524,Latur,4234,Deoni,0,Deoni
+521,27,MAHARASHTRA,524,Latur,4235,Udgir,0,Udgir
+522,27,MAHARASHTRA,524,Latur,4235,Udgir,802844,Udgir (M Cl)
+523,27,MAHARASHTRA,525,Osmanabad,0,Osmanabad,0,Osmanabad
+524,27,MAHARASHTRA,525,Osmanabad,4236,Paranda,0,Paranda
+525,27,MAHARASHTRA,525,Osmanabad,4236,Paranda,802845,Paranda (M Cl)
+526,27,MAHARASHTRA,525,Osmanabad,4237,Bhum,0,Bhum
+527,27,MAHARASHTRA,525,Osmanabad,4237,Bhum,802846,Bhum (M Cl) 
+528,27,MAHARASHTRA,525,Osmanabad,4238,Washi,0,Washi
+529,27,MAHARASHTRA,525,Osmanabad,4239,Kalamb,0,Kalamb
+530,27,MAHARASHTRA,525,Osmanabad,4239,Kalamb,802847,Kalamb (M Cl)
+531,27,MAHARASHTRA,525,Osmanabad,4240,Osmanabad,0,Osmanabad
+532,27,MAHARASHTRA,525,Osmanabad,4240,Osmanabad,802848,Osmanabad (M Cl)
+533,27,MAHARASHTRA,525,Osmanabad,4241,Tuljapur,0,Tuljapur
+534,27,MAHARASHTRA,525,Osmanabad,4241,Tuljapur,802849,Tuljapur (M Cl)
+535,27,MAHARASHTRA,525,Osmanabad,4241,Tuljapur,802850,Naldurg (M Cl)
+536,27,MAHARASHTRA,525,Osmanabad,4242,Lohara,0,Lohara
+537,27,MAHARASHTRA,525,Osmanabad,4243,Umarga,0,Umarga
+538,27,MAHARASHTRA,525,Osmanabad,4243,Umarga,802851,Murum (M Cl)
+539,27,MAHARASHTRA,525,Osmanabad,4243,Umarga,802852,Umarga (M Cl)
+540,27,MAHARASHTRA,526,Solapur,0,Solapur,0,Solapur
+541,27,MAHARASHTRA,526,Solapur,4244,Karmala,0,Karmala
+542,27,MAHARASHTRA,526,Solapur,4244,Karmala,802853,Karmala (M Cl)
+543,27,MAHARASHTRA,526,Solapur,4245,Madha,0,Madha
+544,27,MAHARASHTRA,526,Solapur,4245,Madha,802854,Kurduvadi (M Cl)
+545,27,MAHARASHTRA,526,Solapur,4246,Barshi,0,Barshi
+546,27,MAHARASHTRA,526,Solapur,4246,Barshi,802855,Barshi (M Cl)
+547,27,MAHARASHTRA,526,Solapur,4247,Solapur North,0,Solapur North
+548,27,MAHARASHTRA,526,Solapur,4247,Solapur North,802856,Solapur (M Corp.) 
+549,27,MAHARASHTRA,526,Solapur,4248,Mohol,0,Mohol
+550,27,MAHARASHTRA,526,Solapur,4249,Pandharpur,0,Pandharpur
+551,27,MAHARASHTRA,526,Solapur,4249,Pandharpur,802857,Pandharpur (M Cl)
+552,27,MAHARASHTRA,526,Solapur,4250,Malshiras,0,Malshiras
+553,27,MAHARASHTRA,526,Solapur,4251,Sangole,0,Sangole
+554,27,MAHARASHTRA,526,Solapur,4251,Sangole,802858,Sangole (M Cl)
+555,27,MAHARASHTRA,526,Solapur,4252,Mangalvedhe,0,Mangalvedhe
+556,27,MAHARASHTRA,526,Solapur,4252,Mangalvedhe,802859,Mangalvedhe (M Cl)
+557,27,MAHARASHTRA,526,Solapur,4253,Solapur South,0,Solapur South
+558,27,MAHARASHTRA,526,Solapur,4254,Akkalkot,0,Akkalkot
+559,27,MAHARASHTRA,526,Solapur,4254,Akkalkot,802860,Akkalkot (M Cl)
+560,27,MAHARASHTRA,526,Solapur,4254,Akkalkot,802861,Maindargi (M Cl)
+561,27,MAHARASHTRA,526,Solapur,4254,Akkalkot,802862,Dudhani (M Cl)
+562,27,MAHARASHTRA,527,Satara,0,Satara,0,Satara
+563,27,MAHARASHTRA,527,Satara,4255,Mahabaleshwar,0,Mahabaleshwar
+564,27,MAHARASHTRA,527,Satara,4255,Mahabaleshwar,802863,Mahabaleshwar (M Cl)
+565,27,MAHARASHTRA,527,Satara,4255,Mahabaleshwar,802864,Panchgani (M Cl)
+566,27,MAHARASHTRA,527,Satara,4256,Wai,0,Wai
+567,27,MAHARASHTRA,527,Satara,4256,Wai,802865,Wai (M Cl)
+568,27,MAHARASHTRA,527,Satara,4257,Khandala,0,Khandala
+569,27,MAHARASHTRA,527,Satara,4258,Phaltan,0,Phaltan
+570,27,MAHARASHTRA,527,Satara,4258,Phaltan,802866,Phaltan (M Cl)
+571,27,MAHARASHTRA,527,Satara,4259,Man,0,Man
+572,27,MAHARASHTRA,527,Satara,4259,Man,802867,Mhaswad (M Cl)
+573,27,MAHARASHTRA,527,Satara,4260,Khatav,0,Khatav
+574,27,MAHARASHTRA,527,Satara,4261,Koregaon,0,Koregaon
+575,27,MAHARASHTRA,527,Satara,4261,Koregaon,802868,Rahimatpur (M Cl)
+576,27,MAHARASHTRA,527,Satara,4262,Satara,0,Satara
+577,27,MAHARASHTRA,527,Satara,4262,Satara,802869,Satara (M Cl)
+578,27,MAHARASHTRA,527,Satara,4263,Jaoli,0,Jaoli
+579,27,MAHARASHTRA,527,Satara,4264,Patan,0,Patan
+580,27,MAHARASHTRA,527,Satara,4265,Karad,0,Karad
+581,27,MAHARASHTRA,527,Satara,4265,Karad,802870,Karad (M Cl)
+582,27,MAHARASHTRA,527,Satara,4265,Karad,802871,Malkapur (NP)
+583,27,MAHARASHTRA,528,Ratnagiri,0,Ratnagiri,0,Ratnagiri
+584,27,MAHARASHTRA,528,Ratnagiri,4266,Mandangad,0,Mandangad
+585,27,MAHARASHTRA,528,Ratnagiri,4267,Dapoli,0,Dapoli
+586,27,MAHARASHTRA,528,Ratnagiri,4267,Dapoli,802872,Dapoli Camp (NP) 
+587,27,MAHARASHTRA,528,Ratnagiri,4268,Khed,0,Khed
+588,27,MAHARASHTRA,528,Ratnagiri,4268,Khed,802873,Khed (M Cl)
+589,27,MAHARASHTRA,528,Ratnagiri,4269,Chiplun,0,Chiplun
+590,27,MAHARASHTRA,528,Ratnagiri,4269,Chiplun,802874,Chiplun (M Cl)
+591,27,MAHARASHTRA,528,Ratnagiri,4270,Guhagar,0,Guhagar
+592,27,MAHARASHTRA,528,Ratnagiri,4271,Ratnagiri,0,Ratnagiri
+593,27,MAHARASHTRA,528,Ratnagiri,4271,Ratnagiri,802875,Ratnagiri (M Cl)
+594,27,MAHARASHTRA,528,Ratnagiri,4272,Sangameshwar,0,Sangameshwar
+595,27,MAHARASHTRA,528,Ratnagiri,4273,Lanja,0,Lanja
+596,27,MAHARASHTRA,528,Ratnagiri,4274,Rajapur,0,Rajapur
+597,27,MAHARASHTRA,528,Ratnagiri,4274,Rajapur,802876,Rajapur (M Cl)
+598,27,MAHARASHTRA,529,Sindhudurg,0,Sindhudurg,0,Sindhudurg
+599,27,MAHARASHTRA,529,Sindhudurg,4275,Devgad,0,Devgad
+600,27,MAHARASHTRA,529,Sindhudurg,4276,Vaibhavvadi,0,Vaibhavvadi
+601,27,MAHARASHTRA,529,Sindhudurg,4277,Kankavli,0,Kankavli
+602,27,MAHARASHTRA,529,Sindhudurg,4277,Kankavli,802877,Kankavli (NP)
+603,27,MAHARASHTRA,529,Sindhudurg,4278,Malwan,0,Malwan
+604,27,MAHARASHTRA,529,Sindhudurg,4278,Malwan,802878,Malwan (M Cl)
+605,27,MAHARASHTRA,529,Sindhudurg,4279,Vengurla,0,Vengurla
+606,27,MAHARASHTRA,529,Sindhudurg,4279,Vengurla,802879,Vengurla (M Cl)
+607,27,MAHARASHTRA,529,Sindhudurg,4280,Kudal,0,Kudal
+608,27,MAHARASHTRA,529,Sindhudurg,4281,Sawantwadi,0,Sawantwadi
+609,27,MAHARASHTRA,529,Sindhudurg,4281,Sawantwadi,802880,Sawantwadi (M Cl)
+610,27,MAHARASHTRA,529,Sindhudurg,4282,Dodamarg,0,Dodamarg
+611,27,MAHARASHTRA,530,Kolhapur,0,Kolhapur,0,Kolhapur
+612,27,MAHARASHTRA,530,Kolhapur,4283,Shahuwadi,0,Shahuwadi
+613,27,MAHARASHTRA,530,Kolhapur,4283,Shahuwadi,802881,Malkapur (M Cl)
+614,27,MAHARASHTRA,530,Kolhapur,4284,Panhala,0,Panhala
+615,27,MAHARASHTRA,530,Kolhapur,4284,Panhala,802882,Panhala (M Cl)
+616,27,MAHARASHTRA,530,Kolhapur,4285,Hatkanangle,0,Hatkanangle
+617,27,MAHARASHTRA,530,Kolhapur,4285,Hatkanangle,802883,Vadgaon Kasba (M Cl)
+618,27,MAHARASHTRA,530,Kolhapur,4285,Hatkanangle,802884,Ichalkaranji (M Cl)
+619,27,MAHARASHTRA,530,Kolhapur,4286,Shirol,0,Shirol
+620,27,MAHARASHTRA,530,Kolhapur,4286,Shirol,802885,Jaysingpur (M Cl)
+621,27,MAHARASHTRA,530,Kolhapur,4286,Shirol,802886,Kurundvad (M Cl)
+622,27,MAHARASHTRA,530,Kolhapur,4287,Karvir,0,Karvir
+623,27,MAHARASHTRA,530,Kolhapur,4287,Karvir,802887,Kolhapur (M Corp.)
+624,27,MAHARASHTRA,530,Kolhapur,4288,Bavda,0,Bavda
+625,27,MAHARASHTRA,530,Kolhapur,4289,Radhanagari,0,Radhanagari
+626,27,MAHARASHTRA,530,Kolhapur,4290,Kagal,0,Kagal
+627,27,MAHARASHTRA,530,Kolhapur,4290,Kagal,802888,Kagal (M Cl)
+628,27,MAHARASHTRA,530,Kolhapur,4290,Kagal,802889,Murgud (M Cl)
+629,27,MAHARASHTRA,530,Kolhapur,4291,Bhudargad,0,Bhudargad
+630,27,MAHARASHTRA,530,Kolhapur,4292,Ajra,0,Ajra
+631,27,MAHARASHTRA,530,Kolhapur,4293,Gadhinglaj,0,Gadhinglaj
+632,27,MAHARASHTRA,530,Kolhapur,4293,Gadhinglaj,802890,Gadhinglaj (M Cl)
+633,27,MAHARASHTRA,530,Kolhapur,4294,Chandgad,0,Chandgad
+634,27,MAHARASHTRA,531,Sangli,0,Sangli,0,Sangli
+635,27,MAHARASHTRA,531,Sangli,4295,Shirala,0,Shirala
+636,27,MAHARASHTRA,531,Sangli,4296,Walwa,0,Walwa
+637,27,MAHARASHTRA,531,Sangli,4296,Walwa,802891,Uran Islampur (M Cl)
+638,27,MAHARASHTRA,531,Sangli,4296,Walwa,802892,Ashta (M Cl)
+639,27,MAHARASHTRA,531,Sangli,4297,Palus,0,Palus
+640,27,MAHARASHTRA,531,Sangli,4298,Kadegaon,0,Kadegaon
+641,27,MAHARASHTRA,531,Sangli,4299,Khanapur (Vita),0,Khanapur (Vita)
+642,27,MAHARASHTRA,531,Sangli,4299,Khanapur (Vita),802893,Vita (M Cl)
+643,27,MAHARASHTRA,531,Sangli,4300,Atpadi,0,Atpadi
+644,27,MAHARASHTRA,531,Sangli,4301,Tasgaon,0,Tasgaon
+645,27,MAHARASHTRA,531,Sangli,4301,Tasgaon,802894,Tasgaon (M Cl)
+646,27,MAHARASHTRA,531,Sangli,4302,Miraj,0,Miraj
+647,27,MAHARASHTRA,531,Sangli,4302,Miraj,802895,Sangli Miraj Kupwad (M Corp.)
+648,27,MAHARASHTRA,531,Sangli,4303,Kavathemahankal,0,Kavathemahankal
+649,27,MAHARASHTRA,531,Sangli,4304,Jat,0,Jat
+650,27,MAHARASHTRA,518,Mumbai Suburban,99999,Area not under any Sub-district,0,Area not under any Sub-district
+651,27,MAHARASHTRA,519,Mumbai,99999,Area not under any Sub-district,0,Area not under any Sub-district

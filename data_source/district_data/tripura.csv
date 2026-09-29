@@ -1,0 +1,66 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,16,TRIPURA,0,TRIPURA,0,TRIPURA,0,TRIPURA
+1,16,TRIPURA,289,West Tripura ,0,West Tripura ,0,West Tripura 
+2,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,801520,Khowai (NP)
+3,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,801521,Teliamura (NP)
+4,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,801522,Ranirbazar (NP)
+5,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,801523,Agartala (M Cl)
+6,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,801524,Bishalgarh (NP)
+7,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,801525,Sonamura (NP)
+8,16,TRIPURA,289,West Tripura ,1922,Mohanpur,0,Mohanpur
+9,16,TRIPURA,289,West Tripura ,1923,Hezamara,0,Hezamara
+10,16,TRIPURA,289,West Tripura ,1924,Padmabil,0,Padmabil
+11,16,TRIPURA,289,West Tripura ,1925,Khowai,0,Khowai
+12,16,TRIPURA,289,West Tripura ,1926,Tulashikhar,0,Tulashikhar
+13,16,TRIPURA,289,West Tripura ,1927,Kalyanpur,0,Kalyanpur
+14,16,TRIPURA,289,West Tripura ,1928,Teliamura,0,Teliamura
+15,16,TRIPURA,289,West Tripura ,1929,Mungiakumi ,0,Mungiakumi 
+16,16,TRIPURA,289,West Tripura ,1930,Mandai,0,Mandai
+17,16,TRIPURA,289,West Tripura ,1931,Jirania,0,Jirania
+18,16,TRIPURA,289,West Tripura ,1932,Dukli,0,Dukli
+19,16,TRIPURA,289,West Tripura ,1933,Jampuijala,0,Jampuijala
+20,16,TRIPURA,289,West Tripura ,1934,Bishalgarh,0,Bishalgarh
+21,16,TRIPURA,289,West Tripura ,1935,Boxanagar,0,Boxanagar
+22,16,TRIPURA,289,West Tripura ,1936,Melaghar,0,Melaghar
+23,16,TRIPURA,289,West Tripura ,1937,Kathalia,0,Kathalia
+24,16,TRIPURA,290,South Tripura ,0,South Tripura ,0,South Tripura 
+25,16,TRIPURA,290,South Tripura ,99999,Area not under any Sub-district,801526,Udaipur (NP)
+26,16,TRIPURA,290,South Tripura ,99999,Area not under any Sub-district,801527,Amarpur (NP)
+27,16,TRIPURA,290,South Tripura ,99999,Area not under any Sub-district,801528,Santir Bazar (NP)
+28,16,TRIPURA,290,South Tripura ,99999,Area not under any Sub-district,801529,Belonia (NP)
+29,16,TRIPURA,290,South Tripura ,99999,Area not under any Sub-district,801530,Sabroom (NP)
+30,16,TRIPURA,290,South Tripura ,1938,Killa,0,Killa
+31,16,TRIPURA,290,South Tripura ,1939,Amarpur,0,Amarpur
+32,16,TRIPURA,290,South Tripura ,1940,Ompi,0,Ompi
+33,16,TRIPURA,290,South Tripura ,1941,Matarbari,0,Matarbari
+34,16,TRIPURA,290,South Tripura ,1942,Kakraban,0,Kakraban
+35,16,TRIPURA,290,South Tripura ,1943,Rajnagar,0,Rajnagar
+36,16,TRIPURA,290,South Tripura ,1944,Hrishyamukh,0,Hrishyamukh
+37,16,TRIPURA,290,South Tripura ,1945,Bokafa ,0,Bokafa 
+38,16,TRIPURA,290,South Tripura ,1946,Karbuk,0,Karbuk
+39,16,TRIPURA,290,South Tripura ,1947,Rupaichhari,0,Rupaichhari
+40,16,TRIPURA,290,South Tripura ,1948,Satchand,0,Satchand
+41,16,TRIPURA,291,Dhalai,0,Dhalai,0,Dhalai
+42,16,TRIPURA,291,Dhalai,99999,Area not under any Sub-district,801531,Kamalpur (NP)
+43,16,TRIPURA,291,Dhalai,99999,Area not under any Sub-district,801532,Ambassa (NP)
+44,16,TRIPURA,291,Dhalai,1949,Salema,0,Salema
+45,16,TRIPURA,291,Dhalai,1950,Manu,0,Manu
+46,16,TRIPURA,291,Dhalai,1951,Ambassa,0,Ambassa
+47,16,TRIPURA,291,Dhalai,1952,Chhamanu,0,Chhamanu
+48,16,TRIPURA,291,Dhalai,1953,Dumburnagar,0,Dumburnagar
+49,16,TRIPURA,292,North Tripura,0,North Tripura,0,North Tripura
+50,16,TRIPURA,292,North Tripura,99999,Area not under any Sub-district,801533,Kailasahar (NP)
+51,16,TRIPURA,292,North Tripura,99999,Area not under any Sub-district,801534,Dharmanagar (NP)
+52,16,TRIPURA,292,North Tripura,99999,Area not under any Sub-district,801535,Kumarghat (NP)
+53,16,TRIPURA,292,North Tripura,1954,Gournagar,0,Gournagar
+54,16,TRIPURA,292,North Tripura,1955,Kadamtala,0,Kadamtala
+55,16,TRIPURA,292,North Tripura,1956,Panisagar,0,Panisagar
+56,16,TRIPURA,292,North Tripura,1957,Damchhara,0,Damchhara
+57,16,TRIPURA,292,North Tripura,1958,Pencharthal,0,Pencharthal
+58,16,TRIPURA,292,North Tripura,1959,Kumarghat,0,Kumarghat
+59,16,TRIPURA,292,North Tripura,1960,Dasda,0,Dasda
+60,16,TRIPURA,292,North Tripura,1961,Jampuii hills,0,Jampuii hills
+61,16,TRIPURA,289,West Tripura ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+62,16,TRIPURA,290,South Tripura ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+63,16,TRIPURA,291,Dhalai,99999,Area not under any Sub-district,0,Area not under any Sub-district
+64,16,TRIPURA,292,North Tripura,99999,Area not under any Sub-district,0,Area not under any Sub-district

@@ -1,0 +1,152 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,32,KERALA,0,KERALA,0,KERALA,0,KERALA
+1,32,KERALA,588,Kasaragod,0,Kasaragod,0,Kasaragod
+2,32,KERALA,588,Kasaragod,5630,Kasaragod,0,Kasaragod
+3,32,KERALA,588,Kasaragod,5630,Kasaragod,803255,Kasaragod (M)
+4,32,KERALA,588,Kasaragod,5631,Hosdurg,0,Hosdurg
+5,32,KERALA,588,Kasaragod,5631,Hosdurg,803256,Kanhangad (M + OG)
+6,32,KERALA,588,Kasaragod,5631,Hosdurg,803256,Kanhangad (M)
+7,32,KERALA,589,Kannur,0,Kannur,0,Kannur
+8,32,KERALA,589,Kannur,5632,Taliparamba ,0,Taliparamba 
+9,32,KERALA,589,Kannur,5632,Taliparamba ,803257,Payyannur (M)
+10,32,KERALA,589,Kannur,5632,Taliparamba ,803258,Taliparamba (M)
+11,32,KERALA,589,Kannur,5633,Kannur,0,Kannur
+12,32,KERALA,589,Kannur,5633,Kannur,803259,Kannur (M)
+13,32,KERALA,589,Kannur,5633,Kannur,803260,Kannur Cantonment (CB)
+14,32,KERALA,589,Kannur,5634,Thalassery,0,Thalassery
+15,32,KERALA,589,Kannur,5634,Thalassery,803261,Mattannur (M)
+16,32,KERALA,589,Kannur,5634,Thalassery,803262,Koothuparamba (M)
+17,32,KERALA,589,Kannur,5634,Thalassery,803263,Thalassery (M)
+18,32,KERALA,590,Wayanad,0,Wayanad,0,Wayanad
+19,32,KERALA,590,Wayanad,5635,Mananthavady,0,Mananthavady
+20,32,KERALA,590,Wayanad,5636,Sulthanbathery,0,Sulthanbathery
+21,32,KERALA,590,Wayanad,5637,Vythiri,0,Vythiri
+22,32,KERALA,590,Wayanad,5637,Vythiri,803264,Kalpetta (M)
+23,32,KERALA,591,Kozhikode,0,Kozhikode,0,Kozhikode
+24,32,KERALA,591,Kozhikode,5638,Vadakara,0,Vadakara
+25,32,KERALA,591,Kozhikode,5638,Vadakara,803265,Vadakara (M)
+26,32,KERALA,591,Kozhikode,5639,Quilandy,0,Quilandy
+27,32,KERALA,591,Kozhikode,5639,Quilandy,803266,Quilandy (M)
+28,32,KERALA,591,Kozhikode,5640,Kozhikode,0,Kozhikode
+29,32,KERALA,591,Kozhikode,5640,Kozhikode,803267,Kozhikode (M Corp. + OG)
+30,32,KERALA,591,Kozhikode,5640,Kozhikode,803267,Kozhikode (M Corp.)
+31,32,KERALA,592,Malappuram,0,Malappuram,0,Malappuram
+32,32,KERALA,592,Malappuram,5641,Ernad,0,Ernad
+33,32,KERALA,592,Malappuram,5641,Ernad,803268,Manjeri (M)
+34,32,KERALA,592,Malappuram,5641,Ernad,803269,Malappuram (M + OG)
+35,32,KERALA,592,Malappuram,5641,Ernad,803269,Malappuram (M)
+36,32,KERALA,592,Malappuram,5642,Nilambur,0,Nilambur
+37,32,KERALA,592,Malappuram,5643,Perinthalmanna,0,Perinthalmanna
+38,32,KERALA,592,Malappuram,5643,Perinthalmanna,803270,Perinthalmanna (M)
+39,32,KERALA,592,Malappuram,5644,Tirur,0,Tirur
+40,32,KERALA,592,Malappuram,5644,Tirur,803271,Tirur (M)
+41,32,KERALA,592,Malappuram,5645,Tirurangadi,0,Tirurangadi
+42,32,KERALA,592,Malappuram,5646,Ponnani,0,Ponnani
+43,32,KERALA,592,Malappuram,5646,Ponnani,803272,Ponnani (M)
+44,32,KERALA,593,Palakkad,0,Palakkad,0,Palakkad
+45,32,KERALA,593,Palakkad,5647,Ottappalam,0,Ottappalam
+46,32,KERALA,593,Palakkad,5647,Ottappalam,803273,Shoranur (M)
+47,32,KERALA,593,Palakkad,5647,Ottappalam,803274,Ottappalam (M)
+48,32,KERALA,593,Palakkad,5648,Mannarkad,0,Mannarkad
+49,32,KERALA,593,Palakkad,5649,Palakkad,0,Palakkad
+50,32,KERALA,593,Palakkad,5649,Palakkad,803275,Palakkad (M)
+51,32,KERALA,593,Palakkad,5650,Chittur,0,Chittur
+52,32,KERALA,593,Palakkad,5650,Chittur,803276,Chittur-Thathamangalam (M)
+53,32,KERALA,593,Palakkad,5651,Alathur,0,Alathur
+54,32,KERALA,594,Thrissur,0,Thrissur,0,Thrissur
+55,32,KERALA,594,Thrissur,5652,Talappilly,0,Talappilly
+56,32,KERALA,594,Thrissur,5652,Talappilly,803277,Kunnamkulam (M)
+57,32,KERALA,594,Thrissur,5653,Chavakkad,0,Chavakkad
+58,32,KERALA,594,Thrissur,5653,Chavakkad,803278,Guruvayoor (M)
+59,32,KERALA,594,Thrissur,5653,Chavakkad,803279,Chavakkad (M)
+60,32,KERALA,594,Thrissur,5654,Thrissur,0,Thrissur
+61,32,KERALA,594,Thrissur,5654,Thrissur,803280,Thrissur (M Corp.)
+62,32,KERALA,594,Thrissur,5655,Kodungallur,0,Kodungallur
+63,32,KERALA,594,Thrissur,5655,Kodungallur,803281,Kodungallur (M + OG)
+64,32,KERALA,594,Thrissur,5655,Kodungallur,803281,Kodungallur (M)
+65,32,KERALA,594,Thrissur,5656,Mukundapuram,0,Mukundapuram
+66,32,KERALA,594,Thrissur,5656,Mukundapuram,803282,Irinjalakuda (M)
+67,32,KERALA,594,Thrissur,5656,Mukundapuram,803283,Chalakudy (M)
+68,32,KERALA,595,Ernakulam,0,Ernakulam,0,Ernakulam
+69,32,KERALA,595,Ernakulam,5657,Kunnathunad,0,Kunnathunad
+70,32,KERALA,595,Ernakulam,5657,Kunnathunad,803284,Perumbavoor (M)
+71,32,KERALA,595,Ernakulam,5658,Aluva,0,Aluva
+72,32,KERALA,595,Ernakulam,5658,Aluva,803285,Angamaly (M)
+73,32,KERALA,595,Ernakulam,5658,Aluva,803286,Aluva (M)
+74,32,KERALA,595,Ernakulam,5659,Paravur,0,Paravur
+75,32,KERALA,595,Ernakulam,5659,Paravur,803287,Paravur (M)
+76,32,KERALA,595,Ernakulam,0,Ernakulam,803288,Kochi (M Corp. + OG)
+77,32,KERALA,595,Ernakulam,5659,Paravur,803288,Kochi (M Corp. + OG) (Part)
+78,32,KERALA,595,Ernakulam,5660,Kochi,0,Kochi
+79,32,KERALA,595,Ernakulam,5660,Kochi,803288,Kochi (M Corp. + OG) (Part)
+80,32,KERALA,595,Ernakulam,5660,Kochi,803288,Kochi (M Corp. + OG) (Part)
+81,32,KERALA,595,Ernakulam,5661,Kanayannur,0,Kanayannur
+82,32,KERALA,595,Ernakulam,5661,Kanayannur,803289,Kalamassery (M)
+83,32,KERALA,595,Ernakulam,5661,Kanayannur,803288,Kochi (M Corp. + OG) (Part)
+84,32,KERALA,595,Ernakulam,5661,Kanayannur,803290,Thrippunithura (M)
+85,32,KERALA,595,Ernakulam,5662,Muvattupuzha,0,Muvattupuzha
+86,32,KERALA,595,Ernakulam,5662,Muvattupuzha,803291,Muvattupuzha (M)
+87,32,KERALA,595,Ernakulam,5663,Kothamangalam,0,Kothamangalam
+88,32,KERALA,595,Ernakulam,5663,Kothamangalam,803292,Kothamangalam (M)
+89,32,KERALA,596,Idukki ,0,Idukki ,0,Idukki 
+90,32,KERALA,596,Idukki ,5664,Devikulam,0,Devikulam
+91,32,KERALA,596,Idukki ,5665,Udumbanchola,0,Udumbanchola
+92,32,KERALA,596,Idukki ,5666,Thodupuzha,0,Thodupuzha
+93,32,KERALA,596,Idukki ,5666,Thodupuzha,803293,Thodupuzha (M)
+94,32,KERALA,596,Idukki ,5667,Peerumade,0,Peerumade
+95,32,KERALA,597,Kottayam,0,Kottayam,0,Kottayam
+96,32,KERALA,597,Kottayam,5668,Meenachil,0,Meenachil
+97,32,KERALA,597,Kottayam,5668,Meenachil,803294,Palai (M)
+98,32,KERALA,597,Kottayam,5669,Vaikom,0,Vaikom
+99,32,KERALA,597,Kottayam,5669,Vaikom,803295,Vaikom (M)
+100,32,KERALA,597,Kottayam,5670,Kottayam,0,Kottayam
+101,32,KERALA,597,Kottayam,5670,Kottayam,803296,Kottayam (M)
+102,32,KERALA,597,Kottayam,5671,Changanassery,0,Changanassery
+103,32,KERALA,597,Kottayam,5671,Changanassery,803297,Changanassery (M)
+104,32,KERALA,597,Kottayam,5672,Kanjirappally,0,Kanjirappally
+105,32,KERALA,598,Alappuzha,0,Alappuzha,0,Alappuzha
+106,32,KERALA,598,Alappuzha,5673,Cherthala,0,Cherthala
+107,32,KERALA,598,Alappuzha,5673,Cherthala,803298,Cherthala (M)
+108,32,KERALA,598,Alappuzha,5674,Ambalappuzha,0,Ambalappuzha
+109,32,KERALA,598,Alappuzha,5674,Ambalappuzha,803299,Alappuzha (M + OG)
+110,32,KERALA,598,Alappuzha,5674,Ambalappuzha,803299,Alappuzha (M)
+111,32,KERALA,598,Alappuzha,5675,Kuttanad,0,Kuttanad
+112,32,KERALA,598,Alappuzha,5676,Karthikappally,0,Karthikappally
+113,32,KERALA,598,Alappuzha,5676,Karthikappally,803300,Kayamkulam (M)
+114,32,KERALA,598,Alappuzha,5677,Chengannur,0,Chengannur
+115,32,KERALA,598,Alappuzha,5677,Chengannur,803301,Chengannur (M)
+116,32,KERALA,598,Alappuzha,5678,Mavelikkara,0,Mavelikkara
+117,32,KERALA,598,Alappuzha,5678,Mavelikkara,803302,Mavelikkara (M)
+118,32,KERALA,599,Pathanamthitta,0,Pathanamthitta,0,Pathanamthitta
+119,32,KERALA,599,Pathanamthitta,5679,Thiruvalla,0,Thiruvalla
+120,32,KERALA,599,Pathanamthitta,5679,Thiruvalla,803303,Thiruvalla (M)
+121,32,KERALA,599,Pathanamthitta,5680,Mallappally,0,Mallappally
+122,32,KERALA,599,Pathanamthitta,5681,Ranni,0,Ranni
+123,32,KERALA,599,Pathanamthitta,5682,Kozhenchery,0,Kozhenchery
+124,32,KERALA,599,Pathanamthitta,5682,Kozhenchery,803304,Pathanamthitta (M)
+125,32,KERALA,599,Pathanamthitta,5683,Adoor,0,Adoor
+126,32,KERALA,599,Pathanamthitta,5683,Adoor,803305,Adoor (M)
+127,32,KERALA,600,Kollam,0,Kollam,0,Kollam
+128,32,KERALA,600,Kollam,5684,Karunagappally ,0,Karunagappally 
+129,32,KERALA,600,Kollam,0,Kollam,803306,Kollam (M Corp. + OG)
+130,32,KERALA,600,Kollam,5684,Karunagappally ,803306,Kollam (M Corp. + OG) (Part)
+131,32,KERALA,600,Kollam,5685,Kunnathur,0,Kunnathur
+132,32,KERALA,600,Kollam,5686,Pathanapuram,0,Pathanapuram
+133,32,KERALA,600,Kollam,5686,Pathanapuram,803307,Punalur (M)
+134,32,KERALA,600,Kollam,5687,Kottarakkara,0,Kottarakkara
+135,32,KERALA,600,Kollam,5688,Kollam,0,Kollam
+136,32,KERALA,600,Kollam,5688,Kollam,803306,Kollam (M Corp. + OG) (Part)
+137,32,KERALA,600,Kollam,5688,Kollam,803306,Kollam (M Corp.) (Part)
+138,32,KERALA,600,Kollam,5688,Kollam,803308,Paravoor (M)
+139,32,KERALA,601,Thiruvananthapuram,0,Thiruvananthapuram,0,Thiruvananthapuram
+140,32,KERALA,601,Thiruvananthapuram,5689,Chirayinkeezhu,0,Chirayinkeezhu
+141,32,KERALA,601,Thiruvananthapuram,5689,Chirayinkeezhu,803309,Varkala (M)
+142,32,KERALA,601,Thiruvananthapuram,5689,Chirayinkeezhu,803310,Attingal (M)
+143,32,KERALA,601,Thiruvananthapuram,5690,Nedumangad,0,Nedumangad
+144,32,KERALA,601,Thiruvananthapuram,5690,Nedumangad,803311,Nedumangad (M)
+145,32,KERALA,601,Thiruvananthapuram,5691,Thiruvananthapuram,0,Thiruvananthapuram
+146,32,KERALA,601,Thiruvananthapuram,0,Thiruvananthapuram,803312,Thiruvananthapuram (M Corp. + OG)
+147,32,KERALA,601,Thiruvananthapuram,5691,Thiruvananthapuram,803312,Thiruvananthapuram (M Corp. + OG) (Part)
+148,32,KERALA,601,Thiruvananthapuram,5692,Neyyattinkara,0,Neyyattinkara
+149,32,KERALA,601,Thiruvananthapuram,5692,Neyyattinkara,803312,Thiruvananthapuram (M Corp. + OG) (Part)
+150,32,KERALA,601,Thiruvananthapuram,5692,Neyyattinkara,803313,Neyyattinkara (M)

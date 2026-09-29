@@ -1,0 +1,519 @@
+,ST Code,STATE NAME,DT Code,DISTRICT NAME,SDT Code,SUB-DISTRICT NAME,Town Code,Area Name
+0,19,WEST BENGAL,0,WEST BENGAL,0,WEST BENGAL,0,WEST BENGAL
+1,19,WEST BENGAL,327,Darjiling ,0,Darjiling ,0,Darjiling 
+2,19,WEST BENGAL,327,Darjiling ,99999,Area not under any Sub-district,801634,Darjiling (M)
+3,19,WEST BENGAL,327,Darjiling ,99999,Area not under any Sub-district,801635,Kalimpong (M)
+4,19,WEST BENGAL,327,Darjiling ,99999,Area not under any Sub-district,801636,Mirik (NA)
+5,19,WEST BENGAL,327,Darjiling ,99999,Area not under any Sub-district,801637,Kurseong (M)
+6,19,WEST BENGAL,327,Darjiling ,99999,Area not under any Sub-district,801638,Siliguri (M Corp.) (Part)
+7,19,WEST BENGAL,327,Darjiling ,2154,Darjeeling Pulbazar,0,Darjeeling Pulbazar
+8,19,WEST BENGAL,327,Darjiling ,2155,Rangli Rangliot,0,Rangli Rangliot
+9,19,WEST BENGAL,327,Darjiling ,2156,Kalimpong -I,0,Kalimpong -I
+10,19,WEST BENGAL,327,Darjiling ,2157,Kalimpong - II,0,Kalimpong - II
+11,19,WEST BENGAL,327,Darjiling ,2158,Gorubathan,0,Gorubathan
+12,19,WEST BENGAL,327,Darjiling ,2159,Jorebunglow Sukiapokhri,0,Jorebunglow Sukiapokhri
+13,19,WEST BENGAL,327,Darjiling ,2160,Mirik,0,Mirik
+14,19,WEST BENGAL,327,Darjiling ,2161,Kurseong,0,Kurseong
+15,19,WEST BENGAL,327,Darjiling ,2162,Matigara ,0,Matigara 
+16,19,WEST BENGAL,327,Darjiling ,2163,Naxalbari,0,Naxalbari
+17,19,WEST BENGAL,327,Darjiling ,2164,Phansidewa,0,Phansidewa
+18,19,WEST BENGAL,327,Darjiling ,2165,Kharibari,0,Kharibari
+19,19,WEST BENGAL,328,Jalpaiguri ,0,Jalpaiguri ,0,Jalpaiguri 
+20,19,WEST BENGAL,328,Jalpaiguri ,99999,Area not under any Sub-district,801638,Siliguri (M Corp.) (Part)
+21,19,WEST BENGAL,328,Jalpaiguri ,99999,Area not under any Sub-district,801639,Mal (M)
+22,19,WEST BENGAL,328,Jalpaiguri ,99999,Area not under any Sub-district,801640,Jalpaiguri (M)
+23,19,WEST BENGAL,328,Jalpaiguri ,99999,Area not under any Sub-district,801641,Dhupguri (M)
+24,19,WEST BENGAL,328,Jalpaiguri ,99999,Area not under any Sub-district,801642,Alipurduar (M)
+25,19,WEST BENGAL,328,Jalpaiguri ,2166,Rajganj,0,Rajganj
+26,19,WEST BENGAL,328,Jalpaiguri ,2167,Mal,0,Mal
+27,19,WEST BENGAL,328,Jalpaiguri ,2168,Matiali,0,Matiali
+28,19,WEST BENGAL,328,Jalpaiguri ,2169,Nagrakata,0,Nagrakata
+29,19,WEST BENGAL,328,Jalpaiguri ,2170,Madarihat,0,Madarihat
+30,19,WEST BENGAL,328,Jalpaiguri ,2171,Kalchini,0,Kalchini
+31,19,WEST BENGAL,328,Jalpaiguri ,2172,Kumargram,0,Kumargram
+32,19,WEST BENGAL,328,Jalpaiguri ,2173,Alipurduar - I,0,Alipurduar - I
+33,19,WEST BENGAL,328,Jalpaiguri ,2174,Alipurduar - II,0,Alipurduar - II
+34,19,WEST BENGAL,328,Jalpaiguri ,2175,Falakata,0,Falakata
+35,19,WEST BENGAL,328,Jalpaiguri ,2176,Dhupguri,0,Dhupguri
+36,19,WEST BENGAL,328,Jalpaiguri ,2177,Maynaguri,0,Maynaguri
+37,19,WEST BENGAL,328,Jalpaiguri ,2178,Jalpaiguri,0,Jalpaiguri
+38,19,WEST BENGAL,329,Koch Bihar ,0,Koch Bihar ,0,Koch Bihar 
+39,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,801643,Haldibari (M)
+40,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,801644,Mekliganj (M)
+41,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,801645,Mathabhanga (M)
+42,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,801646,Koch Bihar (M)
+43,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,801647,Tufanganj (M)
+44,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,801648,Dinhata (M)
+45,19,WEST BENGAL,329,Koch Bihar ,2179,Haldibari,0,Haldibari
+46,19,WEST BENGAL,329,Koch Bihar ,2180,Mekliganj,0,Mekliganj
+47,19,WEST BENGAL,329,Koch Bihar ,2181,Mathabhanga - I,0,Mathabhanga - I
+48,19,WEST BENGAL,329,Koch Bihar ,2182,Mathabhanga - II,0,Mathabhanga - II
+49,19,WEST BENGAL,329,Koch Bihar ,2183,Cooch Behar - I,0,Cooch Behar - I
+50,19,WEST BENGAL,329,Koch Bihar ,2184,Cooch Behar - II,0,Cooch Behar - II
+51,19,WEST BENGAL,329,Koch Bihar ,2185,Tufanganj - I,0,Tufanganj - I
+52,19,WEST BENGAL,329,Koch Bihar ,2186,Tufanganj - II,0,Tufanganj - II
+53,19,WEST BENGAL,329,Koch Bihar ,2187,Dinhata - I,0,Dinhata - I
+54,19,WEST BENGAL,329,Koch Bihar ,2188,Dinhata - II,0,Dinhata - II
+55,19,WEST BENGAL,329,Koch Bihar ,2189,Sitai,0,Sitai
+56,19,WEST BENGAL,329,Koch Bihar ,2190,Sitalkuchi,0,Sitalkuchi
+57,19,WEST BENGAL,330,Uttar Dinajpur,0,Uttar Dinajpur,0,Uttar Dinajpur
+58,19,WEST BENGAL,330,Uttar Dinajpur,99999,Area not under any Sub-district,801649,Islampur (M)
+59,19,WEST BENGAL,330,Uttar Dinajpur,99999,Area not under any Sub-district,801650,Dalkhola (M)
+60,19,WEST BENGAL,330,Uttar Dinajpur,99999,Area not under any Sub-district,801651,Raiganj (M)
+61,19,WEST BENGAL,330,Uttar Dinajpur,99999,Area not under any Sub-district,801652,Kaliaganj (M)
+62,19,WEST BENGAL,330,Uttar Dinajpur,2191,Chopra,0,Chopra
+63,19,WEST BENGAL,330,Uttar Dinajpur,2192,Islampur,0,Islampur
+64,19,WEST BENGAL,330,Uttar Dinajpur,2193,Goalpokhar - I,0,Goalpokhar - I
+65,19,WEST BENGAL,330,Uttar Dinajpur,2194,Goalpokhar - II,0,Goalpokhar - II
+66,19,WEST BENGAL,330,Uttar Dinajpur,2195,Karandighi,0,Karandighi
+67,19,WEST BENGAL,330,Uttar Dinajpur,2196,Raiganj,0,Raiganj
+68,19,WEST BENGAL,330,Uttar Dinajpur,2197,Hemtabad,0,Hemtabad
+69,19,WEST BENGAL,330,Uttar Dinajpur,2198,Kaliaganj,0,Kaliaganj
+70,19,WEST BENGAL,330,Uttar Dinajpur,2199,Itahar,0,Itahar
+71,19,WEST BENGAL,331,Dakshin Dinajpur,0,Dakshin Dinajpur,0,Dakshin Dinajpur
+72,19,WEST BENGAL,331,Dakshin Dinajpur,99999,Area not under any Sub-district,801653,Gangarampur (M)
+73,19,WEST BENGAL,331,Dakshin Dinajpur,99999,Area not under any Sub-district,801654,Balurghat (M + OG)
+74,19,WEST BENGAL,331,Dakshin Dinajpur,99999,Area not under any Sub-district,801654,Balurghat (M)
+75,19,WEST BENGAL,331,Dakshin Dinajpur,2200,Kushmundi,0,Kushmundi
+76,19,WEST BENGAL,331,Dakshin Dinajpur,2201,Gangarampur,0,Gangarampur
+77,19,WEST BENGAL,331,Dakshin Dinajpur,2202,Kumarganj,0,Kumarganj
+78,19,WEST BENGAL,331,Dakshin Dinajpur,2203,Hilli,0,Hilli
+79,19,WEST BENGAL,331,Dakshin Dinajpur,2204,Balurghat,0,Balurghat
+80,19,WEST BENGAL,331,Dakshin Dinajpur,2205,Tapan,0,Tapan
+81,19,WEST BENGAL,331,Dakshin Dinajpur,2206,Bansihari,0,Bansihari
+82,19,WEST BENGAL,331,Dakshin Dinajpur,2207,Harirampur,0,Harirampur
+83,19,WEST BENGAL,332,Maldah ,0,Maldah ,0,Maldah 
+84,19,WEST BENGAL,332,Maldah ,99999,Area not under any Sub-district,801655,Old Malda (M)
+85,19,WEST BENGAL,332,Maldah ,99999,Area not under any Sub-district,801656,English Bazar (M)
+86,19,WEST BENGAL,332,Maldah ,2208,Harischandrapur - I,0,Harischandrapur - I
+87,19,WEST BENGAL,332,Maldah ,2209,Harischandrapur - II,0,Harischandrapur - II
+88,19,WEST BENGAL,332,Maldah ,2210,Chanchal - I,0,Chanchal - I
+89,19,WEST BENGAL,332,Maldah ,2211,Chanchal - II,0,Chanchal - II
+90,19,WEST BENGAL,332,Maldah ,2212,Ratua - I,0,Ratua - I
+91,19,WEST BENGAL,332,Maldah ,2213,Ratua - II,0,Ratua - II
+92,19,WEST BENGAL,332,Maldah ,2214,Gazole,0,Gazole
+93,19,WEST BENGAL,332,Maldah ,2215,Bamangola,0,Bamangola
+94,19,WEST BENGAL,332,Maldah ,2216,Habibpur,0,Habibpur
+95,19,WEST BENGAL,332,Maldah ,2217,Maldah (Old),0,Maldah (Old)
+96,19,WEST BENGAL,332,Maldah ,2218,English Bazar,0,English Bazar
+97,19,WEST BENGAL,332,Maldah ,2219,Manikchak,0,Manikchak
+98,19,WEST BENGAL,332,Maldah ,2220,Kaliachak - I,0,Kaliachak - I
+99,19,WEST BENGAL,332,Maldah ,2221,Kaliachak - II,0,Kaliachak - II
+100,19,WEST BENGAL,332,Maldah ,2222,Kaliachak - III,0,Kaliachak - III
+101,19,WEST BENGAL,333,Murshidabad ,0,Murshidabad ,0,Murshidabad 
+102,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801657,Dhulian (M)
+103,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801658,Jangipur (M)
+104,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801659,Jiaganj-Azimganj (M)
+105,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801660,Murshidabad (M)
+106,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801661,Kandi (M)
+107,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801662,Berhampore (M)
+108,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,801663,Beldanga (M)
+109,19,WEST BENGAL,333,Murshidabad ,2223,Farakka,0,Farakka
+110,19,WEST BENGAL,333,Murshidabad ,2224,Samserganj,0,Samserganj
+111,19,WEST BENGAL,333,Murshidabad ,2225,Suti - I,0,Suti - I
+112,19,WEST BENGAL,333,Murshidabad ,2226,Suti - II,0,Suti - II
+113,19,WEST BENGAL,333,Murshidabad ,2227,Raghunathganj - I,0,Raghunathganj - I
+114,19,WEST BENGAL,333,Murshidabad ,2228,Raghunathganj - II,0,Raghunathganj - II
+115,19,WEST BENGAL,333,Murshidabad ,2229,Lalgola,0,Lalgola
+116,19,WEST BENGAL,333,Murshidabad ,2230,Sagardighi,0,Sagardighi
+117,19,WEST BENGAL,333,Murshidabad ,2231,Bhagawangola - I,0,Bhagawangola - I
+118,19,WEST BENGAL,333,Murshidabad ,2232,Bhagawangola - II,0,Bhagawangola - II
+119,19,WEST BENGAL,333,Murshidabad ,2233,Raninagar - II,0,Raninagar - II
+120,19,WEST BENGAL,333,Murshidabad ,2234,Jalangi,0,Jalangi
+121,19,WEST BENGAL,333,Murshidabad ,2235,Domkal,0,Domkal
+122,19,WEST BENGAL,333,Murshidabad ,2236,Raninagar - I,0,Raninagar - I
+123,19,WEST BENGAL,333,Murshidabad ,2237,Murshidabad Jiaganj,0,Murshidabad Jiaganj
+124,19,WEST BENGAL,333,Murshidabad ,2238,Nabagram,0,Nabagram
+125,19,WEST BENGAL,333,Murshidabad ,2239,Khargram,0,Khargram
+126,19,WEST BENGAL,333,Murshidabad ,2240,Kandi,0,Kandi
+127,19,WEST BENGAL,333,Murshidabad ,2241,Berhampore,0,Berhampore
+128,19,WEST BENGAL,333,Murshidabad ,2242,Hariharpara,0,Hariharpara
+129,19,WEST BENGAL,333,Murshidabad ,2243,Nawda,0,Nawda
+130,19,WEST BENGAL,333,Murshidabad ,2244,Beldanga - I,0,Beldanga - I
+131,19,WEST BENGAL,333,Murshidabad ,2245,Beldanga - II,0,Beldanga - II
+132,19,WEST BENGAL,333,Murshidabad ,2246,Bharatpur - II,0,Bharatpur - II
+133,19,WEST BENGAL,333,Murshidabad ,2247,Bharatpur - I,0,Bharatpur - I
+134,19,WEST BENGAL,333,Murshidabad ,2248,Burwan,0,Burwan
+135,19,WEST BENGAL,334,Birbhum,0,Birbhum,0,Birbhum
+136,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,801664,Nalhati (M)
+137,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,801665,Rampurhat (M)
+138,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,801666,Suri (M)
+139,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,801667,Sainthia (M)
+140,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,801668,Dubrajpur (M)
+141,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,801669,Bolpur (M)
+142,19,WEST BENGAL,334,Birbhum,2249,Murarai - I,0,Murarai - I
+143,19,WEST BENGAL,334,Birbhum,2250,Murarai - II,0,Murarai - II
+144,19,WEST BENGAL,334,Birbhum,2251,Nalhati - I,0,Nalhati - I
+145,19,WEST BENGAL,334,Birbhum,2252,Nalhati - II,0,Nalhati - II
+146,19,WEST BENGAL,334,Birbhum,2253,Rampurhat - I,0,Rampurhat - I
+147,19,WEST BENGAL,334,Birbhum,2254,Rampurhat - II,0,Rampurhat - II
+148,19,WEST BENGAL,334,Birbhum,2255,Mayureswar - I,0,Mayureswar - I
+149,19,WEST BENGAL,334,Birbhum,2256,Mayureswar - II,0,Mayureswar - II
+150,19,WEST BENGAL,334,Birbhum,2257,Mohammad Bazar,0,Mohammad Bazar
+151,19,WEST BENGAL,334,Birbhum,2258,Rajnagar,0,Rajnagar
+152,19,WEST BENGAL,334,Birbhum,2259,Suri - I,0,Suri - I
+153,19,WEST BENGAL,334,Birbhum,2260,Suri - II,0,Suri - II
+154,19,WEST BENGAL,334,Birbhum,2261,Sainthia,0,Sainthia
+155,19,WEST BENGAL,334,Birbhum,2262,Labpur,0,Labpur
+156,19,WEST BENGAL,334,Birbhum,2263,Nanoor,0,Nanoor
+157,19,WEST BENGAL,334,Birbhum,2264,Bolpur Sriniketan,0,Bolpur Sriniketan
+158,19,WEST BENGAL,334,Birbhum,2265,Illambazar,0,Illambazar
+159,19,WEST BENGAL,334,Birbhum,2266,Dubrajpur,0,Dubrajpur
+160,19,WEST BENGAL,334,Birbhum,2267,Khoyrasol,0,Khoyrasol
+161,19,WEST BENGAL,335,Barddhaman ,0,Barddhaman ,0,Barddhaman 
+162,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801670,Kulti (M)
+163,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801671,Asansol (M Corp.)
+164,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801672,Jamuria (M + OG)
+165,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801672,Jamuria (M)
+166,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801673,Raniganj (M)
+167,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801674,Durgapur (M Corp.)
+168,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801675,Katwa (M)
+169,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801676,Dainhat (M)
+170,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801677,Guskara (M)
+171,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801678,Barddhaman (M)
+172,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801679,Kalna (M)
+173,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,801680,Memari (M)
+174,19,WEST BENGAL,335,Barddhaman ,2268,Salanpur,0,Salanpur
+175,19,WEST BENGAL,335,Barddhaman ,2269,Barabani,0,Barabani
+176,19,WEST BENGAL,335,Barddhaman ,2270,Jamuria,0,Jamuria
+177,19,WEST BENGAL,335,Barddhaman ,2271,Raniganj,0,Raniganj
+178,19,WEST BENGAL,335,Barddhaman ,2272,Ondal,0,Ondal
+179,19,WEST BENGAL,335,Barddhaman ,2273,Pandabeswar,0,Pandabeswar
+180,19,WEST BENGAL,335,Barddhaman ,2274,Faridpur Durgapur,0,Faridpur Durgapur
+181,19,WEST BENGAL,335,Barddhaman ,2275,Kanksa,0,Kanksa
+182,19,WEST BENGAL,335,Barddhaman ,2276,Ausgram - II,0,Ausgram - II
+183,19,WEST BENGAL,335,Barddhaman ,2277,Ausgram - I,0,Ausgram - I
+184,19,WEST BENGAL,335,Barddhaman ,2278,Mangolkote,0,Mangolkote
+185,19,WEST BENGAL,335,Barddhaman ,2279,Ketugram - I,0,Ketugram - I
+186,19,WEST BENGAL,335,Barddhaman ,2280,Ketugram - II,0,Ketugram - II
+187,19,WEST BENGAL,335,Barddhaman ,2281,Katwa - I,0,Katwa - I
+188,19,WEST BENGAL,335,Barddhaman ,2282,Katwa - II,0,Katwa - II
+189,19,WEST BENGAL,335,Barddhaman ,2283,Purbasthali - I,0,Purbasthali - I
+190,19,WEST BENGAL,335,Barddhaman ,2284,Purbasthali - II,0,Purbasthali - II
+191,19,WEST BENGAL,335,Barddhaman ,2285,Manteswar,0,Manteswar
+192,19,WEST BENGAL,335,Barddhaman ,2286,Bhatar,0,Bhatar
+193,19,WEST BENGAL,335,Barddhaman ,2287,Galsi - I,0,Galsi - I
+194,19,WEST BENGAL,335,Barddhaman ,2288,Galsi - II,0,Galsi - II
+195,19,WEST BENGAL,335,Barddhaman ,2289,Burdwan - I,0,Burdwan - I
+196,19,WEST BENGAL,335,Barddhaman ,2290,Burdwan - II,0,Burdwan - II
+197,19,WEST BENGAL,335,Barddhaman ,2291,Memari - I,0,Memari - I
+198,19,WEST BENGAL,335,Barddhaman ,2292,Memari - II,0,Memari - II
+199,19,WEST BENGAL,335,Barddhaman ,2293,Kalna - I,0,Kalna - I
+200,19,WEST BENGAL,335,Barddhaman ,2294,Kalna - II,0,Kalna - II
+201,19,WEST BENGAL,335,Barddhaman ,2295,Jamalpur,0,Jamalpur
+202,19,WEST BENGAL,335,Barddhaman ,2296,Raina - I,0,Raina - I
+203,19,WEST BENGAL,335,Barddhaman ,2297,Khandaghosh,0,Khandaghosh
+204,19,WEST BENGAL,335,Barddhaman ,2298,Raina - II,0,Raina - II
+205,19,WEST BENGAL,336,Nadia ,0,Nadia ,0,Nadia 
+206,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801681,Nabadwip (M)
+207,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801682,Krishnanagar (M)
+208,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801683,Santipur (M)
+209,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801684,Taherpur (NA + OG)
+210,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801684,Taherpur (NA)
+211,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801685,Birnagar (M)
+212,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801686,Ranaghat (M)
+213,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801687,Cooper's Camp (NA + OG)
+214,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801687,Cooper's Camp (NA)
+215,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801688,Chakdaha (M)
+216,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801689,Kalyani (M)
+217,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,801690,Gayespur (M)
+218,19,WEST BENGAL,336,Nadia ,2299,Karimpur - I,0,Karimpur - I
+219,19,WEST BENGAL,336,Nadia ,2300,Karimpur - II,0,Karimpur - II
+220,19,WEST BENGAL,336,Nadia ,2301,Tehatta - I,0,Tehatta - I
+221,19,WEST BENGAL,336,Nadia ,2302,Tehatta - II,0,Tehatta - II
+222,19,WEST BENGAL,336,Nadia ,2303,Kaliganj,0,Kaliganj
+223,19,WEST BENGAL,336,Nadia ,2304,Nakashipara,0,Nakashipara
+224,19,WEST BENGAL,336,Nadia ,2305,Chapra,0,Chapra
+225,19,WEST BENGAL,336,Nadia ,2306,Krishnagar - II,0,Krishnagar - II
+226,19,WEST BENGAL,336,Nadia ,2307, Nabadwip,0, Nabadwip
+227,19,WEST BENGAL,336,Nadia ,2308,Krishnagar - I,0,Krishnagar - I
+228,19,WEST BENGAL,336,Nadia ,2309,Krishnaganj,0,Krishnaganj
+229,19,WEST BENGAL,336,Nadia ,2310,Hanskhali,0,Hanskhali
+230,19,WEST BENGAL,336,Nadia ,2311,Santipur,0,Santipur
+231,19,WEST BENGAL,336,Nadia ,2312,Ranaghat - I,0,Ranaghat - I
+232,19,WEST BENGAL,336,Nadia ,2313,Ranaghat - II,0,Ranaghat - II
+233,19,WEST BENGAL,336,Nadia ,2314,Chakdah,0,Chakdah
+234,19,WEST BENGAL,336,Nadia ,2315,Haringhata,0,Haringhata
+235,19,WEST BENGAL,337,North Twenty Four Parganas,0,North Twenty Four Parganas,0,North Twenty Four Parganas
+236,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801691,Bongaon (M)
+237,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801692,Halisahar (M)
+238,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801693,Kanchrapara (M + OG)
+239,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801693,Kanchrapara (M)
+240,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801694,Naihati (M)
+241,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801695,Bhatpara (M + OG)
+242,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801695,Bhatpara (M)
+243,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801696,Gobardanga (M)
+244,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801697,Habra (M)
+245,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801698,Ashokenagar Kalyangarh (M)
+246,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801699,Garulia (M)
+247,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801700,North Barrackpore (M)
+248,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801701,Barrackpur Cantonment (CB)
+249,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801702,Barrackpore (M)
+250,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801703,Titagarh (M)
+251,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801704,Khardah (M)
+252,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801705,Panihati (M)
+253,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801706,Baduria (M)
+254,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801707,Barasat (M)
+255,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801708,Madhyamgram (M)
+256,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801709,New Barrackpore (M)
+257,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801710,North DumDum (M)
+258,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801711,Kamarhati (M)
+259,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801712,Baranagar (M)
+260,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801713,Dum Dum (M)
+261,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801714,South DumDum (M)
+262,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801715,Rajarhat Gopalpur (M)
+263,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801716,Bidhannagar (M)
+264,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801717,Nabadiganta Industrial Township (ITS)
+265,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801718,Basirhat (M)
+266,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,801719,Taki (M)
+267,19,WEST BENGAL,337,North Twenty Four Parganas,2316,Bagda,0,Bagda
+268,19,WEST BENGAL,337,North Twenty Four Parganas,2317,Bongaon,0,Bongaon
+269,19,WEST BENGAL,337,North Twenty Four Parganas,2318,Gaighata,0,Gaighata
+270,19,WEST BENGAL,337,North Twenty Four Parganas,2319,Swarupnagar,0,Swarupnagar
+271,19,WEST BENGAL,337,North Twenty Four Parganas,2320,Habra - I,0,Habra - I
+272,19,WEST BENGAL,337,North Twenty Four Parganas,2321,Habra - II,0,Habra - II
+273,19,WEST BENGAL,337,North Twenty Four Parganas,2322,Amdanga,0,Amdanga
+274,19,WEST BENGAL,337,North Twenty Four Parganas,2323,Barrackpur - I,0,Barrackpur - I
+275,19,WEST BENGAL,337,North Twenty Four Parganas,2324,Barrackpur - II,0,Barrackpur - II
+276,19,WEST BENGAL,337,North Twenty Four Parganas,2325,Barasat - I,0,Barasat - I
+277,19,WEST BENGAL,337,North Twenty Four Parganas,2326,Barasat - II,0,Barasat - II
+278,19,WEST BENGAL,337,North Twenty Four Parganas,2327,Deganga,0,Deganga
+279,19,WEST BENGAL,337,North Twenty Four Parganas,2328,Baduria,0,Baduria
+280,19,WEST BENGAL,337,North Twenty Four Parganas,2329,Basirhat - I,0,Basirhat - I
+281,19,WEST BENGAL,337,North Twenty Four Parganas,2330,Basirhat - II,0,Basirhat - II
+282,19,WEST BENGAL,337,North Twenty Four Parganas,2331,Haroa,0,Haroa
+283,19,WEST BENGAL,337,North Twenty Four Parganas,2332,Rajarhat,0,Rajarhat
+284,19,WEST BENGAL,337,North Twenty Four Parganas,2333,Minakhan,0,Minakhan
+285,19,WEST BENGAL,337,North Twenty Four Parganas,2334,Sandeshkhali - I,0,Sandeshkhali - I
+286,19,WEST BENGAL,337,North Twenty Four Parganas,2335,Sandeshkhali - II,0,Sandeshkhali - II
+287,19,WEST BENGAL,337,North Twenty Four Parganas,2336,Hasnabad,0,Hasnabad
+288,19,WEST BENGAL,337,North Twenty Four Parganas,2337,Hingalganj,0,Hingalganj
+289,19,WEST BENGAL,338,Hugli ,0,Hugli ,0,Hugli 
+290,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801720,Bansberia (M)
+291,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801721,Hugli-Chinsurah (M + OG)
+292,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801721,Hugli-Chinsurah (M)
+293,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801722,Chandannagar (M Corp)
+294,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801723,Tarakeswar (M)
+295,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801724,Arambag (M)
+296,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801725,Bhadreswar (M)
+297,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801726,Champdani (M)
+298,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801727,Baidyabati (M)
+299,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801728,Serampore (M)
+300,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801729,Rishra (M)
+301,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801730,Konnagar (M)
+302,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801731,Dankuni (M)
+303,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,801732,Uttarpara Kotrung (M)
+304,19,WEST BENGAL,338,Hugli ,2338,Goghat - I,0,Goghat - I
+305,19,WEST BENGAL,338,Hugli ,2339,Goghat - II,0,Goghat - II
+306,19,WEST BENGAL,338,Hugli ,2340,Arambag,0,Arambag
+307,19,WEST BENGAL,338,Hugli ,2341,Pursura,0,Pursura
+308,19,WEST BENGAL,338,Hugli ,2342,Tarakeswar,0,Tarakeswar
+309,19,WEST BENGAL,338,Hugli ,2343,Dhaniakhali,0,Dhaniakhali
+310,19,WEST BENGAL,338,Hugli ,2344,Pandua,0,Pandua
+311,19,WEST BENGAL,338,Hugli ,2345,Balagarh,0,Balagarh
+312,19,WEST BENGAL,338,Hugli ,2346,Chinsurah - Magra,0,Chinsurah - Magra
+313,19,WEST BENGAL,338,Hugli ,2347,Polba - Dadpur,0,Polba - Dadpur
+314,19,WEST BENGAL,338,Hugli ,2348,Haripal,0,Haripal
+315,19,WEST BENGAL,338,Hugli ,2349,Singur,0,Singur
+316,19,WEST BENGAL,338,Hugli ,2350,Serampur Uttarpara,0,Serampur Uttarpara
+317,19,WEST BENGAL,338,Hugli ,2351,Chanditala - I,0,Chanditala - I
+318,19,WEST BENGAL,338,Hugli ,2352,Chanditala - II,0,Chanditala - II
+319,19,WEST BENGAL,338,Hugli ,2353,Jangipara,0,Jangipara
+320,19,WEST BENGAL,338,Hugli ,2354,Khanakul - I,0,Khanakul - I
+321,19,WEST BENGAL,338,Hugli ,2355,Khanakul - II,0,Khanakul - II
+322,19,WEST BENGAL,339,Bankura ,0,Bankura ,0,Bankura 
+323,19,WEST BENGAL,339,Bankura ,99999,Area not under any Sub-district,801733,Bankura (M)
+324,19,WEST BENGAL,339,Bankura ,99999,Area not under any Sub-district,801734,Sonamukhi (M)
+325,19,WEST BENGAL,339,Bankura ,99999,Area not under any Sub-district,801735,Bishnupur (M)
+326,19,WEST BENGAL,339,Bankura ,2356,Saltora,0,Saltora
+327,19,WEST BENGAL,339,Bankura ,2357,Mejhia,0,Mejhia
+328,19,WEST BENGAL,339,Bankura ,2358,Gangajalghati,0,Gangajalghati
+329,19,WEST BENGAL,339,Bankura ,2359,Chhatna,0,Chhatna
+330,19,WEST BENGAL,339,Bankura ,2360,Indpur,0,Indpur
+331,19,WEST BENGAL,339,Bankura ,2361,Bankura - I,0,Bankura - I
+332,19,WEST BENGAL,339,Bankura ,2362,Bankura - II,0,Bankura - II
+333,19,WEST BENGAL,339,Bankura ,2363,Barjora,0,Barjora
+334,19,WEST BENGAL,339,Bankura ,2364,Sonamukhi,0,Sonamukhi
+335,19,WEST BENGAL,339,Bankura ,2365,Patrasayer,0,Patrasayer
+336,19,WEST BENGAL,339,Bankura ,2366,Indus,0,Indus
+337,19,WEST BENGAL,339,Bankura ,2367,Kotulpur,0,Kotulpur
+338,19,WEST BENGAL,339,Bankura ,2368,Jaypur,0,Jaypur
+339,19,WEST BENGAL,339,Bankura ,2369,Vishnupur,0,Vishnupur
+340,19,WEST BENGAL,339,Bankura ,2370,Onda,0,Onda
+341,19,WEST BENGAL,339,Bankura ,2371,Taldangra,0,Taldangra
+342,19,WEST BENGAL,339,Bankura ,2372,Simlapal,0,Simlapal
+343,19,WEST BENGAL,339,Bankura ,2373,Khatra,0,Khatra
+344,19,WEST BENGAL,339,Bankura ,2374,Hirbandh,0,Hirbandh
+345,19,WEST BENGAL,339,Bankura ,2375,Ranibundh,0,Ranibundh
+346,19,WEST BENGAL,339,Bankura ,2376,Raipur,0,Raipur
+347,19,WEST BENGAL,339,Bankura ,2377,Sarenga,0,Sarenga
+348,19,WEST BENGAL,340,Puruliya,0,Puruliya,0,Puruliya
+349,19,WEST BENGAL,340,Puruliya,99999,Area not under any Sub-district,801736,Jhalda (M)
+350,19,WEST BENGAL,340,Puruliya,99999,Area not under any Sub-district,801737,Raghunathpur (M)
+351,19,WEST BENGAL,340,Puruliya,99999,Area not under any Sub-district,801738,Puruliya (M)
+352,19,WEST BENGAL,340,Puruliya,2378,Jaipur,0,Jaipur
+353,19,WEST BENGAL,340,Puruliya,2379,Purulia - II,0,Purulia - II
+354,19,WEST BENGAL,340,Puruliya,2380,Para,0,Para
+355,19,WEST BENGAL,340,Puruliya,2381,Raghunathpur - II,0,Raghunathpur - II
+356,19,WEST BENGAL,340,Puruliya,2382,Raghunathpur - I,0,Raghunathpur - I
+357,19,WEST BENGAL,340,Puruliya,2383,Neturia,0,Neturia
+358,19,WEST BENGAL,340,Puruliya,2384,Santuri,0,Santuri
+359,19,WEST BENGAL,340,Puruliya,2385,Kashipur,0,Kashipur
+360,19,WEST BENGAL,340,Puruliya,2386,Hura,0,Hura
+361,19,WEST BENGAL,340,Puruliya,2387,Purulia - I,0,Purulia - I
+362,19,WEST BENGAL,340,Puruliya,2388,Puncha,0,Puncha
+363,19,WEST BENGAL,340,Puruliya,2389,Arsha,0,Arsha
+364,19,WEST BENGAL,340,Puruliya,2390,Jhalda - I,0,Jhalda - I
+365,19,WEST BENGAL,340,Puruliya,2391,Jhalda - II,0,Jhalda - II
+366,19,WEST BENGAL,340,Puruliya,2392,Bagmundi,0,Bagmundi
+367,19,WEST BENGAL,340,Puruliya,2393,Balarampur,0,Balarampur
+368,19,WEST BENGAL,340,Puruliya,2394,Barabazar,0,Barabazar
+369,19,WEST BENGAL,340,Puruliya,2395,Manbazar - I,0,Manbazar - I
+370,19,WEST BENGAL,340,Puruliya,2396,Manbazar - II,0,Manbazar - II
+371,19,WEST BENGAL,340,Puruliya,2397,Bundwan,0,Bundwan
+372,19,WEST BENGAL,341,Haora ,0,Haora ,0,Haora 
+373,19,WEST BENGAL,341,Haora ,99999,Area not under any Sub-district,801739,Bally (M)
+374,19,WEST BENGAL,341,Haora ,99999,Area not under any Sub-district,801740,Haora (M Corp.)
+375,19,WEST BENGAL,341,Haora ,99999,Area not under any Sub-district,801741,Uluberia (M + OG)
+376,19,WEST BENGAL,341,Haora ,99999,Area not under any Sub-district,801741,Uluberia (M)
+377,19,WEST BENGAL,341,Haora ,2398,Udaynarayanpur,0,Udaynarayanpur
+378,19,WEST BENGAL,341,Haora ,2399,Amta - II,0,Amta - II
+379,19,WEST BENGAL,341,Haora ,2400,Amta - I,0,Amta - I
+380,19,WEST BENGAL,341,Haora ,2401,Jagatballavpur,0,Jagatballavpur
+381,19,WEST BENGAL,341,Haora ,2402,Domjur,0,Domjur
+382,19,WEST BENGAL,341,Haora ,2403,Bally Jagachha,0,Bally Jagachha
+383,19,WEST BENGAL,341,Haora ,2404,Sankrail,0,Sankrail
+384,19,WEST BENGAL,341,Haora ,2405,Panchla,0,Panchla
+385,19,WEST BENGAL,341,Haora ,2406,Uluberia - II,0,Uluberia - II
+386,19,WEST BENGAL,341,Haora ,2407,Uluberia - I,0,Uluberia - I
+387,19,WEST BENGAL,341,Haora ,2408,Bagnan - I,0,Bagnan - I
+388,19,WEST BENGAL,341,Haora ,2409,Bagnan - II,0,Bagnan - II
+389,19,WEST BENGAL,341,Haora ,2410,Shyampur - I,0,Shyampur - I
+390,19,WEST BENGAL,341,Haora ,2411,Shyampur - II,0,Shyampur - II
+391,19,WEST BENGAL,342,Kolkata,0,Kolkata,0,Kolkata
+392,19,WEST BENGAL,342,Kolkata,99999,Area not under any Sub-district,801742,Kolkata (M Corp.)
+393,19,WEST BENGAL,343,South Twenty Four Parganas,0,South Twenty Four Parganas,0,South Twenty Four Parganas
+394,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801743,Maheshtala (M)
+395,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801744,Budge Budge (M)
+396,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801745,Pujali (M)
+397,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801746,Rajpur Sonarpur (M)
+398,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801747,Baruipur (M)
+399,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801748,Diamond Harbour (M)
+400,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,801749,Jaynagar Mazilpur (M)
+401,19,WEST BENGAL,343,South Twenty Four Parganas,2412,Thakurpukur Mahestola,0,Thakurpukur Mahestola
+402,19,WEST BENGAL,343,South Twenty Four Parganas,2413,Budge Budge - I,0,Budge Budge - I
+403,19,WEST BENGAL,343,South Twenty Four Parganas,2414,Budge Budge - II,0,Budge Budge - II
+404,19,WEST BENGAL,343,South Twenty Four Parganas,2415,Bishnupur - I,0,Bishnupur - I
+405,19,WEST BENGAL,343,South Twenty Four Parganas,2416,Bishnupur - II,0,Bishnupur - II
+406,19,WEST BENGAL,343,South Twenty Four Parganas,2417,Sonarpur,0,Sonarpur
+407,19,WEST BENGAL,343,South Twenty Four Parganas,2418,Bhangar - I,0,Bhangar - I
+408,19,WEST BENGAL,343,South Twenty Four Parganas,2419,Bhangar - II,0,Bhangar - II
+409,19,WEST BENGAL,343,South Twenty Four Parganas,2420,Canning - I,0,Canning - I
+410,19,WEST BENGAL,343,South Twenty Four Parganas,2421,Canning - II,0,Canning - II
+411,19,WEST BENGAL,343,South Twenty Four Parganas,2422,Baruipur,0,Baruipur
+412,19,WEST BENGAL,343,South Twenty Four Parganas,2423,Magrahat - II,0,Magrahat - II
+413,19,WEST BENGAL,343,South Twenty Four Parganas,2424,Magrahat - I,0,Magrahat - I
+414,19,WEST BENGAL,343,South Twenty Four Parganas,2425,Falta,0,Falta
+415,19,WEST BENGAL,343,South Twenty Four Parganas,2426,Diamond Harbour - I,0,Diamond Harbour - I
+416,19,WEST BENGAL,343,South Twenty Four Parganas,2427,Diamond Harbour - II,0,Diamond Harbour - II
+417,19,WEST BENGAL,343,South Twenty Four Parganas,2428,Kulpi,0,Kulpi
+418,19,WEST BENGAL,343,South Twenty Four Parganas,2429,Mandirbazar,0,Mandirbazar
+419,19,WEST BENGAL,343,South Twenty Four Parganas,2430,Mathurapur - I,0,Mathurapur - I
+420,19,WEST BENGAL,343,South Twenty Four Parganas,2431,Jaynagar - I,0,Jaynagar - I
+421,19,WEST BENGAL,343,South Twenty Four Parganas,2432,Jaynagar - II,0,Jaynagar - II
+422,19,WEST BENGAL,343,South Twenty Four Parganas,2433,Kultali,0,Kultali
+423,19,WEST BENGAL,343,South Twenty Four Parganas,2434,Basanti,0,Basanti
+424,19,WEST BENGAL,343,South Twenty Four Parganas,2435,Gosaba,0,Gosaba
+425,19,WEST BENGAL,343,South Twenty Four Parganas,2436,Mathurapur - II,0,Mathurapur - II
+426,19,WEST BENGAL,343,South Twenty Four Parganas,2437,Kakdwip,0,Kakdwip
+427,19,WEST BENGAL,343,South Twenty Four Parganas,2438,Sagar,0,Sagar
+428,19,WEST BENGAL,343,South Twenty Four Parganas,2439,Namkhana,0,Namkhana
+429,19,WEST BENGAL,343,South Twenty Four Parganas,2440,Patharpratima,0,Patharpratima
+430,19,WEST BENGAL,344,Paschim Medinipur,0,Paschim Medinipur,0,Paschim Medinipur
+431,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801750,Ramjibanpur (M)
+432,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801751,Kshirpai (M)
+433,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801752,Chandrakona (M)
+434,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801753,Kharar (M)
+435,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801754,Ghatal (M)
+436,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801755,Medinipur (M)
+437,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801756,Jhargram (M)
+438,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,801757,Kharagpur (M)
+439,19,WEST BENGAL,344,Paschim Medinipur,2441,Binpur - II,0,Binpur - II
+440,19,WEST BENGAL,344,Paschim Medinipur,2442,Binpur - I,0,Binpur - I
+441,19,WEST BENGAL,344,Paschim Medinipur,2443,Garbeta - II,0,Garbeta - II
+442,19,WEST BENGAL,344,Paschim Medinipur,2444,Garbeta - I,0,Garbeta - I
+443,19,WEST BENGAL,344,Paschim Medinipur,2445,Garbeta - III,0,Garbeta - III
+444,19,WEST BENGAL,344,Paschim Medinipur,2446,Chandrakona - I,0,Chandrakona - I
+445,19,WEST BENGAL,344,Paschim Medinipur,2447,Chandrakona - II,0,Chandrakona - II
+446,19,WEST BENGAL,344,Paschim Medinipur,2448,Ghatal,0,Ghatal
+447,19,WEST BENGAL,344,Paschim Medinipur,2449,Daspur - I,0,Daspur - I
+448,19,WEST BENGAL,344,Paschim Medinipur,2450,Daspur - II,0,Daspur - II
+449,19,WEST BENGAL,344,Paschim Medinipur,2451,Keshpur,0,Keshpur
+450,19,WEST BENGAL,344,Paschim Medinipur,2452,Salbani,0,Salbani
+451,19,WEST BENGAL,344,Paschim Medinipur,2453,Midnapore,0,Midnapore
+452,19,WEST BENGAL,344,Paschim Medinipur,2454,Jhargram,0,Jhargram
+453,19,WEST BENGAL,344,Paschim Medinipur,2455,Jamboni,0,Jamboni
+454,19,WEST BENGAL,344,Paschim Medinipur,2456,Gopiballavpur - II,0,Gopiballavpur - II
+455,19,WEST BENGAL,344,Paschim Medinipur,2457,Gopiballavpur - I,0,Gopiballavpur - I
+456,19,WEST BENGAL,344,Paschim Medinipur,2458,Nayagram,0,Nayagram
+457,19,WEST BENGAL,344,Paschim Medinipur,2459,Sankrail,0,Sankrail
+458,19,WEST BENGAL,344,Paschim Medinipur,2460,Kharagpur - I,0,Kharagpur - I
+459,19,WEST BENGAL,344,Paschim Medinipur,2461,Kharagpur - II,0,Kharagpur - II
+460,19,WEST BENGAL,344,Paschim Medinipur,2462,Debra,0,Debra
+461,19,WEST BENGAL,344,Paschim Medinipur,2463,Pingla,0,Pingla
+462,19,WEST BENGAL,344,Paschim Medinipur,2464,Sabang,0,Sabang
+463,19,WEST BENGAL,344,Paschim Medinipur,2465,Narayangarh,0,Narayangarh
+464,19,WEST BENGAL,344,Paschim Medinipur,2466,Keshiary,0,Keshiary
+465,19,WEST BENGAL,344,Paschim Medinipur,2467,Dantan - I,0,Dantan - I
+466,19,WEST BENGAL,344,Paschim Medinipur,2468,Dantan - II,0,Dantan - II
+467,19,WEST BENGAL,344,Paschim Medinipur,2469,Mohanpur,0,Mohanpur
+468,19,WEST BENGAL,345,Purba Medinipur,0,Purba Medinipur,0,Purba Medinipur
+469,19,WEST BENGAL,345,Purba Medinipur,99999,Area not under any Sub-district,801758,Panskura (M)
+470,19,WEST BENGAL,345,Purba Medinipur,99999,Area not under any Sub-district,801759,Tamluk (M)
+471,19,WEST BENGAL,345,Purba Medinipur,99999,Area not under any Sub-district,801760,Haldia (M)
+472,19,WEST BENGAL,345,Purba Medinipur,99999,Area not under any Sub-district,801761,Egra (M)
+473,19,WEST BENGAL,345,Purba Medinipur,99999,Area not under any Sub-district,801762,Contai (M)
+474,19,WEST BENGAL,345,Purba Medinipur,2470,Panskura ,0,Panskura 
+475,19,WEST BENGAL,345,Purba Medinipur,2471,Kolaghat,0,Kolaghat
+476,19,WEST BENGAL,345,Purba Medinipur,2472,Tamluk,0,Tamluk
+477,19,WEST BENGAL,345,Purba Medinipur,2473,Sahid Matangini,0,Sahid Matangini
+478,19,WEST BENGAL,345,Purba Medinipur,2474,Nanda Kumar,0,Nanda Kumar
+479,19,WEST BENGAL,345,Purba Medinipur,2475,Mahisadal,0,Mahisadal
+480,19,WEST BENGAL,345,Purba Medinipur,2476,Moyna,0,Moyna
+481,19,WEST BENGAL,345,Purba Medinipur,2477,Potashpur - I,0,Potashpur - I
+482,19,WEST BENGAL,345,Purba Medinipur,2478,Potashpur - II,0,Potashpur - II
+483,19,WEST BENGAL,345,Purba Medinipur,2479,Bhagawanpur - II,0,Bhagawanpur - II
+484,19,WEST BENGAL,345,Purba Medinipur,2480,Bhagawanpur - I,0,Bhagawanpur - I
+485,19,WEST BENGAL,345,Purba Medinipur,2481,Chandipur,0,Chandipur
+486,19,WEST BENGAL,345,Purba Medinipur,2482,Sutahata,0,Sutahata
+487,19,WEST BENGAL,345,Purba Medinipur,2483,Haldia,0,Haldia
+488,19,WEST BENGAL,345,Purba Medinipur,2484,Nandigram - I,0,Nandigram - I
+489,19,WEST BENGAL,345,Purba Medinipur,2485,Nandigram - II,0,Nandigram - II
+490,19,WEST BENGAL,345,Purba Medinipur,2486,Khejuri - I,0,Khejuri - I
+491,19,WEST BENGAL,345,Purba Medinipur,2487,Khejuri - II,0,Khejuri - II
+492,19,WEST BENGAL,345,Purba Medinipur,2488,Contai - I,0,Contai - I
+493,19,WEST BENGAL,345,Purba Medinipur,2489,Deshopran,0,Deshopran
+494,19,WEST BENGAL,345,Purba Medinipur,2490,Contai - III,0,Contai - III
+495,19,WEST BENGAL,345,Purba Medinipur,2491,Egra - I,0,Egra - I
+496,19,WEST BENGAL,345,Purba Medinipur,2492,Egra - II,0,Egra - II
+497,19,WEST BENGAL,345,Purba Medinipur,2493,Ramnagar - I,0,Ramnagar - I
+498,19,WEST BENGAL,345,Purba Medinipur,2494,Ramnagar - II,0,Ramnagar - II
+499,19,WEST BENGAL,327,Darjiling ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+500,19,WEST BENGAL,328,Jalpaiguri ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+501,19,WEST BENGAL,329,Koch Bihar ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+502,19,WEST BENGAL,330,Uttar Dinajpur,99999,Area not under any Sub-district,0,Area not under any Sub-district
+503,19,WEST BENGAL,331,Dakshin Dinajpur,99999,Area not under any Sub-district,0,Area not under any Sub-district
+504,19,WEST BENGAL,332,Maldah ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+505,19,WEST BENGAL,333,Murshidabad ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+506,19,WEST BENGAL,334,Birbhum,99999,Area not under any Sub-district,0,Area not under any Sub-district
+507,19,WEST BENGAL,335,Barddhaman ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+508,19,WEST BENGAL,336,Nadia ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+509,19,WEST BENGAL,337,North Twenty Four Parganas,99999,Area not under any Sub-district,0,Area not under any Sub-district
+510,19,WEST BENGAL,338,Hugli ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+511,19,WEST BENGAL,339,Bankura ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+512,19,WEST BENGAL,340,Puruliya,99999,Area not under any Sub-district,0,Area not under any Sub-district
+513,19,WEST BENGAL,341,Haora ,99999,Area not under any Sub-district,0,Area not under any Sub-district
+514,19,WEST BENGAL,342,Kolkata,99999,Area not under any Sub-district,0,Area not under any Sub-district
+515,19,WEST BENGAL,343,South Twenty Four Parganas,99999,Area not under any Sub-district,0,Area not under any Sub-district
+516,19,WEST BENGAL,344,Paschim Medinipur,99999,Area not under any Sub-district,0,Area not under any Sub-district
+517,19,WEST BENGAL,345,Purba Medinipur,99999,Area not under any Sub-district,0,Area not under any Sub-district
